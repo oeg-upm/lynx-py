@@ -1,0 +1,52 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/9ddae2b9-4ae1-454b-863e-bfff4d489808",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Soziale Sicherheit - Kündigung (Tunesien)"
+    },
+    "hasAuthority": "BGBl. Nr. 350/1996",
+    "id_local": "10008989",
+    "first_date_entry_in_force": "1996-07-19",
+    "version_date": "1996-07-19",
+    "url_consolidated": "http://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d10008989\u0026FassungVom\u003d1996-07-20",
+    "classifications": [
+      "69/03 Soziale Sicherheit"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/9ddae2b9-4ae1-454b-863e-bfff4d489808/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/9ddae2b9-4ae1-454b-863e-bfff4d489808/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 653,
+  "text": "Sonstige Textteile Der Nationalrat hat beschlossen: Die nachstehende Kündigung wird genehmigt.KÜNDIGUNG Der Bundespräsident erklärt im Namen der Republik Österreich das am 4. Dezember 1989 in Tunis unterzeichnete Abkommen zwischen der Republik Österreich und der Tunesischen Republik über Soziale Sicherheit *) gemäß seinem Artikel 37 Absatz 3 zum 31. Dezember 1996 für gekündigt. Die vom Bundespräsidenten am 27. Juni 1996 unterzeichnete und vom Bundeskanzler gegengezeichnete Kündigungsurkunde wurde am 28. Juni 1996 einem Vertreter der Botschaft der Tunesischen Republik in Wien übergeben. _________________________ *) Kundgemacht in BGBl. Nr. 33/1991",
+  "parts": [
+    {
+      "@id": "9ddae2b9-4ae1-454b-863e-bfff4d489808#offset_94_653",
+      "offset_ini": 94,
+      "offset_end": 653,
+      "title": ""
+    },
+    {
+      "@id": "9ddae2b9-4ae1-454b-863e-bfff4d489808#offset_0_93",
+      "offset_ini": 0,
+      "offset_end": 93
+    }
+  ]
+}

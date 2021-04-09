@@ -1,0 +1,91 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/bed0ea28-9152-42b4-8cf3-cd48ba84d333",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Arbeitsmedizinische Zentren"
+    },
+    "hasAuthority": "BGBl. Nr. 441/1996",
+    "nick": [
+      "AMZ-VO"
+    ],
+    "id_local": "10009020",
+    "first_date_entry_in_force": "1997-01-01",
+    "version_date": "2013-07-31",
+    "url_consolidated": "http://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d10009020\u0026FassungVom\u003d2013-08-01",
+    "classifications": [
+      "60/02 Arbeitnehmerschutz"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/bed0ea28-9152-42b4-8cf3-cd48ba84d333/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/bed0ea28-9152-42b4-8cf3-cd48ba84d333/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 7556,
+  "text": "Präambel/Promulgationsklausel Auf Grund der §§ 80 und 90 Abs. 1 Z 3 des Bundesgesetzes über Sicherheit und Gesundheitsschutz bei der Arbeit (ArbeitnehmerInnenschutzgesetz - ASchG), BGBl. Nr. 450/1994, wird verordnet:Ärztliche Leitung und weitere Arbeitsmediziner/innen § 1. (1) Die ärztliche Leitung des arbeitsmedizinischen Zentrums muß einem Arzt/einer Ärztin mit abgeschlossener arbeitsmedizinischer Ausbildung gemäß § 79 Abs. 2 ASchG übertragen sein, der/die eine arbeitsmedizinische Betreuung hauptberuflich, mindestens aber im Ausmaß von regelmäßig 20 Stunden wöchentlich, ausübt. (2) Im Zentrum müssen weitere Arbeitsmediziner/innen beschäftigt werden, sodaß das Zentrum eine regelmäßige arbeitsmedizinische Betreuung im Ausmaß von mindestens 70 Stunden wöchentlich ausüben kann, wobei auf dieses Ausmaß nur die Einsatzzeit von Ärzten/Ärztinnen anzurechnen ist, die regelmäßig mindestens acht Stunden wöchentlich beschäftigt werden. (3) Zur arbeitsmedizinischen Betreuung im Sinne der Abs. 1 und 2 zählen die Beratung von Arbeitgeber/innen, Arbeitnehmer/innen, Sicherheitsvertrauenspersonen und Belegschaftsorganen auf dem Gebiet des Gesundheitsschutzes, der auf die Arbeitsbedingungen bezogenen Gesundheitsförderung und der menschengerechten Arbeitsgestaltung, die Unterstützung der Arbeitgeber/innen bei der Erfüllung ihrer Pflichten auf diesen Gebieten sowie die für die fachliche Leitung des Zentrums notwendigen Koordinations- und Leitungstätigkeiten.Fachpersonal § 2. (1) Im arbeitsmedizinischen Zentrum muß geeignetes Fachpersonal zur fachlichen Unterstützung der Arbeitsmediziner/innen bei der Erfüllung ihrer Aufgaben gemäß § 81 ASchG im erforderlichen Ausmaß beschäftigt werden. (2) Als geeignetes Fachpersonal gelten 1. Ärzte/Ärztinnen, die ihre arbeitsmedizinische Ausbildung noch nicht abgeschlossen haben, 2. Angehörige der gehobenen medizinisch-technischen Dienste und des medizinisch-technischen Fachdienstes, 3. Angehörige des Krankenpflegefachdienstes, 4. Psychologen/Psychologinnen, 5. Chemiker/innen und 6. Personen mit einer entsprechenden Ausbildung auf den Gebieten der Ergonomie, Epidemiologie, Toxikologie sowie anderen für die Tätigkeit im arbeitsmedizinischen Zentrum einschlägigen Gebieten. (3) Das Fachpersonal nach Abs. 2 Z 2 und 3 muß eine Ausbildung für arbeitsmedizinisches Fachpersonal in der Dauer von mindestens vier Wochen absolviert haben. (4) Fachpersonal ist in dem zur Unterstützung der Arbeitsmediziner/innen notwendigen Ausmaß zu beschäftigen. Als Mindestausmaß für die Beschäftigung des Fachpersonals gilt die Hälfte der Summe der Normalarbeitszeit der Arbeitsmediziner/innen, mindestens aber insgesamt ein Ausmaß von regelmäßig 38 Stunden wöchentlich. (5) Bei der Zusammensetzung des Fachpersonals ist eine Vertretung sowohl des Personenkreises nach Abs. 2 Z 2 und 3 als auch des Personenkreises nach Abs. 2 Z 4 bis 6 anzustreben.Hilfspersonal § 3. (1) Im arbeitsmedizinischen Zentrum muß geeignetes Hilfspersonal im erforderlichen Ausmaß beschäftigt werden. (2) Zum Hilfspersonal zählen Personen, die Sekretariatsarbeiten und Tätigkeiten wie Schriftverkehr, Telefondienst oder Ablage verrichten. (3) Hilfspersonal ist in dem zur Unterstützung der ArbeitsmedizinerInnen und des Fachpersonals notwendigen Ausmaß zu beschäftigen, mindestens aber insgesamt im Ausmaß von regelmäßig 38 Stunden wöchentlich.Räumlichkeiten § 4. (1) Den im arbeitsmedizinischen Zentrum beschäftigten Personen müssen entsprechende Arbeitsräume zur Verfügung stehen. (2) Den Arbeitsmediziner/innen müssen geeignete und entsprechend ausgestattete Räume für Untersuchungen zur Verfügung stehen. (3) Das arbeitsmedizinische Zentrum muß weiters über folgende Räume verfügen: Warteraum, Raum für funktionsanalytische Untersuchungen, Waschraum und Toilette, Umkleideraum oder Umkleidekabine in der Nähe der für Untersuchungen vorgesehenen Räume. Werden die Laboruntersuchungen nicht nachweislich an Speziallabors ausgelagert oder die Verträge gekündigt, ist auch ein Laborraum erforderlich. (4) Die Räumlichkeiten des arbeitsmedizinischen Zentrums sind durch eine entsprechende äußere Bezeichnung kenntlich zu machen und in einem solchen Zustand zu halten, daß sie den hygienischen Anforderungen entsprechen. (5) Durch entsprechende versperrbare Einrichtungen wie ein Archiv oder eine Ablage muß gewährleistet sein, daß betriebsbezogene Unterlagen und arbeitnehmerbezogene Unterlagen, insbesondere Befunde, Unbefugten nicht zugänglich sind. (6) Daten, die zu Zwecken der arbeitsmedizinischen Betreuung verarbeitet werden, müssen vor dem Zugriff Unbefugter in geeigneter Weise geschützt werden.Ausstattung und Mittel § 5. (1) Das arbeitsmedizinische Zentrum muß über die Arbeitnehmerschutzvorschriften sowie über die erforderliche einschlägige periodische und nichtperiodische Fachliteratur verfügen. (2) Das arbeitsmedizinische Zentrum muß über folgende Ausstattung verfügen: Personenwaage, Körpergrößenmeßgerät, Blutdruckmeßgerät, Notfallausrüstung, Nasenspekulum, Dermatoskop, Otoskop, Audiometer, Sehtestgerät und Spirometer. (3) Das arbeitsmedizinische Zentrum muß weiters über die notwendigen Geräte zur Durchführung von Messungen auf dem Gebiet des Arbeitnehmerschutzes verfügen. Zur Mindestausstattung gehören: 1. Geräte oder kombiniertes Gerät zur Messung der Beleuchtungsstärke und der Leuchtdichte, 2. Geräte oder kombiniertes Gerät geeignet für die Messung der Behaglichkeitsbedingungen von Luftfeuchte, Lufttemperatur und Luftgeschwindigkeit, 3. Schallpegelmesser mit Prüfschallquelle geeignet für die Messung des A-bewerteten energieäquivalenten Dauerschallpegels, 4. Prüfröhrchenpumpe mit Prüfröhrchenöffner für Prüfröhrchen zur Kurzzeitmessung, (Anm.: Z 5 aufgehoben durch BGBl. II Nr. 441/1998).Arbeitsmedizinische Zentren für Bürobetriebe § 6. (1) Wenn ein arbeitsmedizinisches Zentrum seine Tätigkeit auf die arbeitsmedizinische Betreuung von Bürobetrieben beschränkt, gelten folgende Abweichungen: 1. Abweichend von § 4 Abs. 3 ist kein Laborraum und kein Raum für funktionsanalytische Untersuchungen erforderlich. 2. Abweichend von § 5 Abs. 2 sind folgende Geräte nicht erforderlich: Nasenspekulum, Otoskop, Audiometer, Spirometer, Zentrifuge, Photometer. (2) Zu den Bürobetrieben im Sinne des Abs. 1 gehören Arbeitsstätten des Geld- und Kreditwesens, des Versicherungswesens, des Realitätenwesens, der Rechts- und Wirtschaftsdienste, weiters sonstige Arbeitsstätten, in denen mindestens 80% der Arbeitnehmer/innen ausschließlich mit Bürotätigkeiten beschäftigt sind. (3) Arbeitsmedizinische Zentren, die eine eingeschränkte arbeitsmedizinische Betreuung von Bürobetrieben ausüben, müssen dies durch eine entsprechende Bezeichnung des Zentrums oder durch einen entsprechenden Zusatz zur Bezeichnung oder in sonst eindeutig erkennbarer Weise zum Ausdruck bringen.Schlußbestimmungen § 7. (1) § 2 Abs. 3 tritt mit 1. Jänner 2000 in Kraft. (2) Die übrigen Bestimmungen dieser Verordnung treten mit 1. Jänner 1997 in Kraft. (3) Arbeitsmedizinische Zentren, die am 1. Jänner 1997 über eine aufrechte Bewilligung gemäß § 80 ASchG oder eine Ermächtigung gemäß § 22c Abs. 2 des Arbeitnehmerschutzgesetzes (ANSchG), BGBl. Nr. 234/1972, verfügen, müssen bis spätestens 31. Dezember 1997 die Anforderungen der §§ 2 bis 6 erfüllen. (4) § 4 Abs. 3 und § 5 Abs. 2 in der Fassung der Verordnung BGBl. II Nr. 441/1998 treten mit 1. Jänner 1999 in Kraft. § 5 Abs. 3 Z 5 tritt mit Ablauf des 31. Dezember 1998 außer Kraft. (5) § 1 Abs. 1 in der Fassung BGBl. II Nr. 210/2013 tritt mit dem der Kundmachung folgenden Monatsersten in Kraft.",
+  "parts": [
+    {
+      "@id": "bed0ea28-9152-42b4-8cf3-cd48ba84d333#offset_216_1462",
+      "offset_ini": 216,
+      "offset_end": 1462,
+      "title": "Ärztliche Leitung und weitere Arbeitsmediziner/innen"
+    },
+    {
+      "@id": "bed0ea28-9152-42b4-8cf3-cd48ba84d333#offset_1463_2881",
+      "offset_ini": 1463,
+      "offset_end": 2881,
+      "title": "Fachpersonal"
+    },
+    {
+      "@id": "bed0ea28-9152-42b4-8cf3-cd48ba84d333#offset_2882_3353",
+      "offset_ini": 2882,
+      "offset_end": 3353,
+      "title": "Hilfspersonal"
+    },
+    {
+      "@id": "bed0ea28-9152-42b4-8cf3-cd48ba84d333#offset_3354_4612",
+      "offset_ini": 3354,
+      "offset_end": 4612,
+      "title": "Räumlichkeiten"
+    },
+    {
+      "@id": "bed0ea28-9152-42b4-8cf3-cd48ba84d333#offset_4613_5730",
+      "offset_ini": 4613,
+      "offset_end": 5730,
+      "title": "Ausstattung und Mittel"
+    },
+    {
+      "@id": "bed0ea28-9152-42b4-8cf3-cd48ba84d333#offset_5731_6800",
+      "offset_ini": 5731,
+      "offset_end": 6800,
+      "title": "Arbeitsmedizinische Zentren für Bürobetriebe"
+    },
+    {
+      "@id": "bed0ea28-9152-42b4-8cf3-cd48ba84d333#offset_6801_7556",
+      "offset_ini": 6801,
+      "offset_end": 7556,
+      "title": "Schlußbestimmungen"
+    },
+    {
+      "@id": "bed0ea28-9152-42b4-8cf3-cd48ba84d333#offset_0_215",
+      "offset_ini": 0,
+      "offset_end": 215
+    }
+  ]
+}

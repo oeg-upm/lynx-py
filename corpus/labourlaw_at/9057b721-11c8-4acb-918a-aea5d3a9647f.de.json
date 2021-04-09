@@ -1,0 +1,82 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/9057b721-11c8-4acb-918a-aea5d3a9647f",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Kriegsbeschädigte im öffentlichen Personenverkehr"
+    },
+    "hasAuthority": "dRGBl. I S 5/1944",
+    "id_local": "10008107",
+    "first_date_entry_in_force": "1944-04-01",
+    "version_date": "1944-04-01",
+    "url_consolidated": "http://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d10008107\u0026FassungVom\u003d1944-04-01",
+    "classifications": [
+      "68/02 Sonstiges Sozialrecht"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/9057b721-11c8-4acb-918a-aea5d3a9647f/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/9057b721-11c8-4acb-918a-aea5d3a9647f/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 1077,
+  "text": "Präambel/Promulgationsklausel (Anm.: gegenstandslos)§ 1 (1) Die Unternehmen für den öffentlichen Personenverkehr sind verpflichtet, Kriegsbeschädigte, die auf Grund einer Minderung der Erwerbsfähigkeit von mindestens 70 vom Hundert Versorgung nach den Vorschriften des Reichsversorgungsgesetzes erhalten oder erhalten würden, wenn sie nicht die Versorgung nach anderen Versorgungsgesetzen gewählt hätten, oder ein Versehrtengeld mindestens der Stufe III ..... (Anm.: gegenstandslos) beziehen, gegen Vorzeigen eines amtlichen Ausweises in folgendem Umfang unentgeltlich zu befördern: a) im Verkehr auf den Straßenbahnen. b) im Ortslinienverkehr mit Kraftomnibussen. (Anm.: lit. c gegenstandslos). (Anm.: Abs. 2 gegenstandslos).§ 2 (Anm.: gegenstandslos)§ 3 Die unentgeltliche Beförderung nach § 1 erstreckt sich bei den Kriegsbeschädigten und Gleichstehenden, die einer ständigen Begleitung bedürfen, auch auf den Begleiter oder den Führhund.§ 4 (Anm.: gegenstandslos).§ 5 (Anm.: gegenstandslos).§ 6 Diese Verordnung tritt am 1. April 1944 in Kraft. ..... (Anm.: gegenstandslos).",
+  "parts": [
+    {
+      "@id": "9057b721-11c8-4acb-918a-aea5d3a9647f#offset_52_725",
+      "offset_ini": 52,
+      "offset_end": 725,
+      "title": "§ 1"
+    },
+    {
+      "@id": "9057b721-11c8-4acb-918a-aea5d3a9647f#offset_726_751",
+      "offset_ini": 726,
+      "offset_end": 751,
+      "title": "§ 2"
+    },
+    {
+      "@id": "9057b721-11c8-4acb-918a-aea5d3a9647f#offset_752_940",
+      "offset_ini": 752,
+      "offset_end": 940,
+      "title": "§ 3"
+    },
+    {
+      "@id": "9057b721-11c8-4acb-918a-aea5d3a9647f#offset_941_967",
+      "offset_ini": 941,
+      "offset_end": 967,
+      "title": "§ 4"
+    },
+    {
+      "@id": "9057b721-11c8-4acb-918a-aea5d3a9647f#offset_968_994",
+      "offset_ini": 968,
+      "offset_end": 994,
+      "title": "§ 5"
+    },
+    {
+      "@id": "9057b721-11c8-4acb-918a-aea5d3a9647f#offset_995_1077",
+      "offset_ini": 995,
+      "offset_end": 1077,
+      "title": "§ 6"
+    },
+    {
+      "@id": "9057b721-11c8-4acb-918a-aea5d3a9647f#offset_0_51",
+      "offset_ini": 0,
+      "offset_end": 51
+    }
+  ]
+}

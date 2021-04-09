@@ -1,0 +1,52 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/4e670796-3823-4ec6-9b79-1ff672550584",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Festsetzung der Höhe des Nachtschwerarbeits-Beitrages"
+    },
+    "hasAuthority": "BKA (Bundeskanzleramt)",
+    "id_local": "20010831",
+    "first_date_entry_in_force": "2019-12-04",
+    "version_date": "2019-12-04",
+    "url_consolidated": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d20010831\u0026FassungVom\u003d2019-12-04",
+    "classifications": [
+      "60/04 Arbeitsrecht allgemein"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/4e670796-3823-4ec6-9b79-1ff672550584/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/4e670796-3823-4ec6-9b79-1ff672550584/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 406,
+  "text": "Präambel/Promulgationsklausel Auf Grund des Art. XI Abs. 5 des Nachtschwerarbeitsgesetzes (NSchG), BGBl. Nr. 354/1981, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 30/2018, wird im Einvernehmen mit dem Bundesminister für Finanzen verordnet:Der Nachtschwerarbeits-Beitrag wird ab Beginn des Beitragszeitraumes Jänner 2020 mit 3,8 % der im Art. XI Abs. 3 NSchG genannten Beitragsgrundlagen festgesetzt.",
+  "parts": [
+    {
+      "@id": "4e670796-3823-4ec6-9b79-1ff672550584#offset_247_406",
+      "offset_ini": 247,
+      "offset_end": 406,
+      "title": ""
+    },
+    {
+      "@id": "4e670796-3823-4ec6-9b79-1ff672550584#offset_0_246",
+      "offset_ini": 0,
+      "offset_end": 246
+    }
+  ]
+}

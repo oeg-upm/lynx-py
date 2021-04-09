@@ -1,0 +1,52 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/dcec8850-1152-499b-ba6d-8bb87fb0f0bf",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Europäische Sozialcharta"
+    },
+    "hasAuthority": "BGBl. Nr. 777/1990",
+    "id_local": "10008723",
+    "first_date_entry_in_force": "1990-12-22",
+    "version_date": "1990-12-22",
+    "url_consolidated": "http://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d10008723\u0026FassungVom\u003d1990-12-22",
+    "classifications": [
+      "69/03 Soziale Sicherheit"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/dcec8850-1152-499b-ba6d-8bb87fb0f0bf/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/dcec8850-1152-499b-ba6d-8bb87fb0f0bf/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 4035,
+  "text": "Präambel/Promulgationsklausel Nach Mitteilungen des Generalsekretärs des Europarates haben folgende weitere Staaten ihre Ratifikations- bzw. Genehmigungsurkunden zur Europäischen Sozialcharta (BGBl. Nr. 460/1969, letzte Kundmachung des Geltungsbereiches BGBl. Nr. 193/1973) hinterlegt:Datum der Hinterlegung Staaten: der Ratifikations- bzw. Genehmigungsurkunde: Belgien 16. Oktober 1990 Griechenland 6. Juni 1984 Island 15. Jänner 1976 Malta 4. Oktober 1988 Niederlande 22. April 1980 Spanien 6. Mai 1980 Türkei 24. November 1989 Anläßlich der Hinterlegung ihrer Ratifikations- bzw. Genehmigungsurkunde haben folgende Staaten Erklärungen abgegeben: Belgien Der Ständige Vertreter erklärte, daß seine Regierung die sich aus der Charta ergebenden Verpflichtungen in ihrer Gesamtheit annimmt. Griechenland Griechenland betrachtet sich an die Artikel 5 und 6 des Teiles II der Charta nicht gebunden (Art. 20 Abs. 1 lit. b). Island Gemäß Art. 20 Abs. 2 betrachtet sich Island an folgende Artikel und Absätze der Charta gebunden: Artikel 1, 3, 4, 5, 6, 11, 12, 13, 14, 15, 16, 17 und 18 sowie auch Artikel 2 Abs. 1, 3 und 5. Malta Die Regierung der Republik Malta verpflichtet sich I. gemäß Art. 20 Abs. 1 lit. a, Teil I dieser Charta als eine Erklärung der Ziele anzusehen, die sie, entsprechend dem einleitenden Absatz dieses Teiles, mit allen geeigneten Mitteln verfolgen wird und II. gemäß Art. 20 Abs. 1 lit. b der Charta, die Artikel 1, 5, 6, 13 und 16 des Teiles II der Charta für sich als bindend anzusehen; und in Übereinstimmung mit Art. 20 Abs. 1 lit. c nachstehende Artikel und Absätze desselben Teiles: Artikel: 3, 4, 7, 9, 11, 14, 15, 17, Absätze: Art. 2 Abs. 1, 2, 3 und 5 Art. 8 Abs. 1, 2 und 4 Art. 10 Abs. 1, 2, 3 und 4 lit. a und d Art. 12 Abs. 1 und 3 und Art. 18 Abs. 4 Niederlande Artikel 20 - Verpflichtungen - in bezug auf das Königreich in Europa betrachten sich die Niederlande gebunden an die Artikel 1, 2, 3, 4 und 5; Art. 6 Abs. 1, 2 und 3; Art. 6 Abs. 4 (außer Staatsbeamte); Art. 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18 und Art. 19, Abs. 1, 2, 3, 4, 5, 6, 7 und 9. - in bezug auf die Niederländischen Antillen betrachten sich die Niederlande gebunden an die Artikel 1 und 5, Art. 6 (außer Staatsbeamte) und Art. 16. Spanien Spanien erklärt, daß es die Artikel 5 und 6 der Europäischen Sozialcharta, gelesen mit Art. 31 und dem Anhang der Charta, dahingehend auslegen und anwenden wird, daß deren Bestimmungen mit den Artikeln 28, 37, 103.3 und 127 der Spanischen Verfassung vereinbar sind. Türkei Gemäß Art. 20 Abs. 2 erklärt die Republik Türkei, daß sie sich an die nachstehenden Artikel und Absätze der Europäischen Sozialcharta gebunden erachtet: a) Gemäß Art. 20 Abs. 1 lit. b: Artikel 1, 12, 13, 16 und 19 b) Gemäß Art. 20 Abs. 1 lit. c: Artikel 9, 10, 11, 14, 17 und 18 mit all ihren Absätzen Artikel 4 Abs. 3 und 5 Artikel 7 Abs. 3, 4, 5, 6, 8 und 9. Weiteren Mitteilungen des Generalsekretärs des Europarates zufolge haben nachstehende Staaten ihre anläßlich der Hinterlegung der Ratifikationsurkunde abgegebenen Erklärungen (BGBl. Nr. 460/1969) dahingehend ergänzt, daß sie sich auch an folgende Artikel und Absätze gebunden betrachten: Dänemark Gemäß Art. 20 Abs. 1 lit. c: Art. 4 Abs.3 Diese Ergänzung ist mit 9. September 1979 wirksam geworden. Schweden Gemäß Art. 20 Abs. 1 lit. c: Art. 4 Abs. 4 Art. 7 Abs. 1 Art. 19 Abs. 7 Diese Ergänzungen sind mit 1. August 1979 wirksam geworden. Zypern Gemäß Art. 20 Abs. 3: Art. 2 Abs.3: bezahlter Jahresurlaub Art. 2 Abs. 5: wöchentliche Ruhezeit Art. 7 Abs. 7 bezahlter Jahresurlaub für Arbeitnehmer unter 18 Jahren Art. 7 Abs. 8: Nachtarbeit für Personen unter 18 Jahren Art. 8 Abs. 2: ungesetzliche Kündigung einer Frau während ihrer Abwesenheit infolge Mutterschaftsurlaubs. Weiters hat der Generalsekretär des Europarates mitgeteilt, daß das Vereinigte Königreich die Annahme folgender Artikel widerrufen hat: Art. 8 Abs. 4 lit. a - mit Wirksamkeit vom 26. Februar 1988 Art. 7 Abs. 8 und Art. 8 Abs. 4 lit. b - mit Wirksamkeit vom 26. Februar 1990.",
+  "parts": [
+    {
+      "@id": "dcec8850-1152-499b-ba6d-8bb87fb0f0bf#offset_285_4035",
+      "offset_ini": 285,
+      "offset_end": 4035,
+      "title": ""
+    },
+    {
+      "@id": "dcec8850-1152-499b-ba6d-8bb87fb0f0bf#offset_0_284",
+      "offset_ini": 0,
+      "offset_end": 284
+    }
+  ]
+}

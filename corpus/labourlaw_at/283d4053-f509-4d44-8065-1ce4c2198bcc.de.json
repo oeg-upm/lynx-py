@@ -1,0 +1,74 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/283d4053-f509-4d44-8065-1ce4c2198bcc",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Wiener Sozialbetreuungsberufegesetz-Verordnung"
+    },
+    "hasAuthority": "LGBl. Nr. 17/2008",
+    "nick": [
+      "WSBBG-VO"
+    ],
+    "id_local": "20000249",
+    "first_date_entry_in_force": "2008-03-22",
+    "version_date": "2008-03-22",
+    "url_consolidated": "http://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dLrW\u0026Gesetzesnummer\u003d20000249\u0026FassungVom\u003d2008-03-22",
+    "classifications": [
+      "60 Gesundheits- und Sozialrecht (S)",
+      "60/10 Angelegenheiten der Sozialhilfe"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/283d4053-f509-4d44-8065-1ce4c2198bcc/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/283d4053-f509-4d44-8065-1ce4c2198bcc/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 7800,
+  "text": "Präambel/Promulgationsklausel Auf Grund der §§ 10, 11 und 12 des Gesetzes über Sozialbetreuungsberufe in Wien – Wiener Sozialbetreuungsberufegesetz – WSBBG, LGBl. für Wien Nr. 4/2008, wird verordnet:Angehörige der Sozialbetreuungsberufe § 1. Angehörige der Sozialbetreuungsberufe sind 1. Heimhelferinnen und Heimhelfer, 2. Fach-Sozialbetreuerinnen und Fach-Sozialbetreuer mit dem Schwerpunkt a) Altenarbeit (Fach-Sozialbetreuerinnen A, Fach-Sozialbetreuer A), b) Behindertenarbeit (Fach-Sozialbetreuerinnen BA, Fach-Sozialbetreuer BA), c) Behindertenbegleitung (Fach-Sozialbetreuerinnen BB, Fach-Sozialbetreuer BB), 3. Diplom-Sozialbetreuerinnen und Diplom-Sozialbetreuer mit dem Schwerpunkt a) Altenarbeit (Diplom-Sozialbetreuerinnen A, Diplom-Sozialbetreuer A), b) Familienarbeit (Diplom-Sozialbetreuerinnen F, Diplom-Sozialbetreuer F), c) Behindertenarbeit (Diplom-Sozialbetreuerinnen BA, Diplom-Sozialbetreuer BA), d) Behindertenbegleitung (Diplom-Sozialbetreuerinnen BB, Diplom-Sozialbetreuer BB).Ausbildung zur Heimhelferin und zum Heimhelfer § 2. (1) Die Ausbildung zur Heimhelferin und zum Heimhelfer erfolgt durch Absolvierung eines Kurses. Sie umfasst eine theoretische Ausbildung im Umfang von 200 Unterrichtseinheiten und ein Praktikum im Umfang von 200 Stunden. (2) Für die theoretische Ausbildung werden nachstehende Module und Unterrichtseinheiten festgelegt: 1. Dokumentation 4 Unterrichtseinheiten (UE) 2. Ethik und Berufskunde 8 UE 3. Erste Hilfe 20 UE 4. Grundzüge der angewandten Hygiene 6 UE 5. Grundpflege und Beobachtung 60 UE 6. Grundzüge der Pharmakologie 20 UE 7. Grundzüge der angewandten Ernährungslehre und Diätkunde 8 UE 8. Grundzüge der Ergonomie und Mobilisation 20 UE 9. Haushaltsführung 12 UE 10. Grundzüge der Gerontologie 10 UE 11. Grundzüge der Kommunikation und Konfliktbewältigung 26 UE 12. Grundzüge der Sozialen Sicherheit 6 UE (3) Die praktische Ausbildung umfasst 200 Stunden, wobei 120 Stunden im ambulanten Bereich und 80 Stunden im (teil-) stationären Bereich zu absolvieren sind. Sie beinhaltet Praktikumsvorbereitung und Praktikumsreflexion. (4) Die Module gemäß Abs. 2 und die praktische Ausbildung gemäß Abs. 3 decken das Ausbildungsmodul „Unterstützung bei der Basisversorgung“ ab.Ausbildung zur Fach-Sozialbetreuerin und zum Fach-Sozialbetreuer § 3. (1) Die Ausbildung zur Fach-Sozialbetreuerin und zum Fach-Sozialbetreuer erfolgt durch Absolvierung eines entsprechenden Ausbildungslehrgangs an einer Schule für Sozialbetreuungsberufe oder durch Absolvierung der einzelnen Module an verschiedenen Schulen für Sozialbetreuungsberufe. Sie umfasst eine theoretische Ausbildung im Umfang von 1200 Unterrichtseinheiten (einschließlich der Heimhilfe-Ausbildung), die auf mindestens zwei Ausbildungsjahre aufzuteilen sind und ein Praktikum von 1200 Stunden. (2) Die Ausbildung zur Pflegehelferin und zum Pflegehelfer nach dem Gesundheits- und Krankenpflegegesetz – GuKG, BGBl. I Nr. 108/1997 in der Fassung des Bundesgesetzes BGBl. I Nr. 90/2006 bildet einen integrativen Bestandteil der Ausbildung zur Fach-Sozialbetreuerin und zum Fach-Sozialbetreuer A und BA. (3) Das Ausbildungsmodul „Unterstützung in der Basisversorgung“ nach der Gesundheits- und Krankenpflege-Basisversorgungs-Ausbildungsverordnung – GuK-BAV, BGBl. II Nr. 281/2006 bildet einen integrativen Bestandteil der Ausbildung zur Fach-Sozialbetreuerin und zum Fach-Sozialbetreuer BB. (4) Für die theoretische Ausbildung werden für alle Ausbildungsschwerpunkte nachstehende Module und Unterrichtseinheiten festgelegt 1. Persönlichkeitsbildung 220 Unterrichtseinheiten (UE) im Schwerpunkt BB: 340 UE Das Modul beinhaltet unter anderem Supervision, musisch-kreative Bildung, Kommunikation, Konfliktbewältigung, Bewegung und Körpererfahrung. Die Inhalte müssen in einem einschlägigen Kontext zur Sozialbetreuung stehen. Das Modul deckt 100 Stunden der Pflegehilfeausbildung gemäß Gesundheits- und Krankenpflegegesetz GuKG, BGBl. I Nr. 108/1997 in der Fassung des Bundesgesetzes BGBl. I Nr. 90/2006 ab. 2. Sozialbetreuung allgemein 200 UE Das Modul umfasst Berufskunde und Berufsethik, Methodik, Rehabilitation und Mobilisation, Gerontologie. Das Modul deckt 170 Stunden der Pflegehilfeausbildung ab. 3. Humanwissenschaftliche Grundbildung 200 UE Das Modul beinhaltet Einführung in Pädagogik, Psychologie und Soziologie. Das Modul deckt 30 Stunden der Pflegehilfeausbildung ab. 4. Politische Bildung und Recht 40 UE im Schwerpunkt BB: 80 UE Das Modul deckt 30 Stunden der Pflegehilfeausbildung ab. 5. Medizin und Pflege 480 UE im Schwerpunkt BB: 120 UE Das Modul beinhaltet alle medizinisch-pflegerischen Gegenstände der Pflegehilfeausbildung; im Ausbildungsschwerpunkt BB werden die Inhalte des Ausbildungsmoduls „Unterstützung bei der Basisversorgung“ abgedeckt. 6. Lebens-, Sterbe- und Trauerbegleitung 20 UE 7. Haushalt, Ernährung, Diät 80 UE Das Modul deckt 25 Stunden der Pflegehilfeausbildung ab. 8. Sozialbetreuung als spezifisches Modul 80 UE im Schwerpunkt BB: 280 UEAusbildung zur Diplom-Sozialbetreuerin und zum Diplom-Sozialbetreuer § 4. (1) Die Ausbildung zur Diplom-Sozialbetreuerin und zum Diplom-Sozialbetreuer erfolgt entweder durch die Absolvierung eines entsprechenden Ausbildungslehrgangs an einer Schule für Sozialbetreuungsberufe oder durch Absolvierung einzelner Module an verschiedenen Schulen für Sozialbetreuungsberufe. Sie umfasst eine theoretische Ausbildung im Umfang von 1800 Unterrichtseinheiten (einschließlich der Ausbildung zur Heimhelferin und zum Heimhelfer sowie zur Fach-Sozialbetreuerin und zum Fach-Sozialbetreuer), die auf mindestens drei Ausbildungsjahre aufzuteilen sind, und ein Praktikum im Umfang von 1800 Stunden. (2) Die Ausbildung zur Pflegehelferin und zum Pflegehelfer nach dem Gesundheits- und Krankenpflegegesetz – GuKG, BGBl. I Nr. 108/1997 in der Fassung des Bundesgesetzes BGBl. I Nr. 90/2006 bildet einen integrativen Bestandteil der Ausbildung zur Diplom-Sozialbetreuerin und zum Diplom-Sozialbetreuer A, F und BA. (3) Das Ausbildungsmodul „Unterstützung in der Basisversorgung“ nach der Gesundheits- und Krankenpflege-Basisversorgungs-Ausbildungsverordnung – GuK-BAV, BGBl. II Nr. 281/2006 bildet einen integrativen Bestandteil der Ausbildung zur Diplom-Sozialbetreuerin und zum Diplom-Sozialbetreuer BB. (4) Für die theoretische Ausbildung werden für alle Ausbildungsschwerpunkte nachstehende Module und Unterrichtseinheiten festgelegt: 1. Persönlichkeitsbildung 340 Unterrichtseinheiten (UE) im Schwerpunkt BB: 460 UE Aufbauend auf den Inhalten der Fachausbildung erfolgt in der Diplomausbildung eine Vertiefung und Erweiterung. 2. Sozialbetreuung 200 UE Dieses Modul wird bereits auf Fachniveau abgeschlossen. 3. Humanwissenschaftliche Grundbildung 200 UE Aufbauend auf den Inhalten der Fachausbildung erfolgt in der Diplomausbildung eine Vertiefung und Erweiterung. 4. Politische Bildung und Recht 80 UE im Schwerpunkt BB: 120 UE Aufbauend auf den Inhalten der Fachausbildung erfolgt in der Diplomausbildung eine Vertiefung und Erweiterung. 5. Medizin und Pflege 480 UE im Schwerpunkt BB: 120 UE Dieses Modul wird bereits auf Fachniveau abgeschlossen. 6. Lebens-, Sterbe- und Trauerbegleitung 20 UE Dieses Modul wird bereits auf Fachniveau abgeschlossen. 7. Haushalt, Ernährung, Diät 80 UE Dieses Modul wird bereits auf Fachniveau abgeschlossen. 8. Management und Organisation 80 UE 9. Sozialbetreuung als spezifisches Modul 320 UE im Schwerpunkt BB: 520 UE (5) Für den Abschluss der Ausbildung ist weiters die erfolgreiche Ablegung einer fünfstündigen schriftlichen Klausurarbeit über ein Thema aus dem Berufsfeld des Prüfungskandidaten einschließlich des fachlichen Umfelds und eine diesbezügliche mündliche Prüfung mit dem Ziel einer Auseinandersetzung auf höherem Niveau an einer Schule für Sozialbetreuungsberufe erforderlich.",
+  "parts": [
+    {
+      "@id": "283d4053-f509-4d44-8065-1ce4c2198bcc#offset_199_1001",
+      "offset_ini": 199,
+      "offset_end": 1001,
+      "title": "Angehörige der Sozialbetreuungsberufe"
+    },
+    {
+      "@id": "283d4053-f509-4d44-8065-1ce4c2198bcc#offset_1002_2231",
+      "offset_ini": 1002,
+      "offset_end": 2231,
+      "title": "Ausbildung zur Heimhelferin und zum Heimhelfer"
+    },
+    {
+      "@id": "283d4053-f509-4d44-8065-1ce4c2198bcc#offset_2232_4982",
+      "offset_ini": 2232,
+      "offset_end": 4982,
+      "title": "Ausbildung zur Fach-Sozialbetreuerin und zum Fach-Sozialbetreuer"
+    },
+    {
+      "@id": "283d4053-f509-4d44-8065-1ce4c2198bcc#offset_4983_7800",
+      "offset_ini": 4983,
+      "offset_end": 7800,
+      "title": "Ausbildung zur Diplom-Sozialbetreuerin und zum Diplom-Sozialbetreuer"
+    },
+    {
+      "@id": "283d4053-f509-4d44-8065-1ce4c2198bcc#offset_0_198",
+      "offset_ini": 0,
+      "offset_end": 198
+    }
+  ]
+}

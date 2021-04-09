@@ -1,0 +1,59 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/e2f77d27-70ed-4dfe-bb19-538992781aab",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Gebietsumfang des als Kurort anerkannten Kurbezirkes mit der Bezeichnung \"Kurzentrum Wien Oberlaa\""
+    },
+    "hasAuthority": "LGBl. Nr. 15/1981",
+    "id_local": "20000304",
+    "first_date_entry_in_force": "1981-01-21",
+    "version_date": "1981-01-21",
+    "url_consolidated": "http://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dLrW\u0026Gesetzesnummer\u003d20000304\u0026FassungVom\u003d1981-01-21",
+    "classifications": [
+      "60/40 Krankenbehandlung",
+      "60 Gesundheits- und Sozialrecht (S)"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/e2f77d27-70ed-4dfe-bb19-538992781aab/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/e2f77d27-70ed-4dfe-bb19-538992781aab/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 1216,
+  "text": "Präambel/Promulgationsklausel Auf Grund des § 17 Abs. 1 des Wiener Heilvorkommen- und Kurortegesetzes, LGBl. für Wien Nr. 7/1961, in der Fassung der Gesetze LGBl. für Wien Nr. 37/1975 und 29/1979 wird verordnet:§ 1. Der mit Beschluß der Wiener Landesregierung vom 20. Jänner 1981, Pr. Z. 31, als Kurort anerkannte Kurbezirk mit der Bezeichnung \"Kurzentrum Wien Oberlaa\" umfaßt das in der Anlage zu dieser Verordnung planlich dargestellte Gebiet, welches wie folgt umschrieben wird: ./. Beginnend bei Punkt 1 der Anlage an der Kreuzung der Donauländebahn mit der Ostseite der Laaer-Berg-Straße verläuft die Grenze entlang der Laaer- Berg-Straße nach Norden bis zur Einmündung der Filmteichstraße bei Punkt 2 der Anlage. Vom Punkt 2 der Anlage der Filmteichstraße nach Osten folgend bis zum Punkt 3 der Anlage und von dort nach Süden in der Ostbegrenzung der WIG 74 bzw. den Punkten 4 bis 14 der Anlage folgend verläuft die Grenze bis zur Donauländebahn. In weiterer Folge verläuft die Grenze entlang dem Nordrand des Bahnkörpers in westlicher Richtung bis zum Ausgangspunkt 1 der Anlage zurück.§ 2. Diese Verordnung tritt mit dem der Kundmachung folgenden Tag in Kraft. Abbildung 1 - Kurbezirk: Kurzentrum Wien-Oberlaa",
+  "parts": [
+    {
+      "@id": "e2f77d27-70ed-4dfe-bb19-538992781aab#offset_211_1092",
+      "offset_ini": 211,
+      "offset_end": 1092,
+      "title": ""
+    },
+    {
+      "@id": "e2f77d27-70ed-4dfe-bb19-538992781aab#offset_1093_1216",
+      "offset_ini": 1093,
+      "offset_end": 1216,
+      "title": ""
+    },
+    {
+      "@id": "e2f77d27-70ed-4dfe-bb19-538992781aab#offset_0_210",
+      "offset_ini": 0,
+      "offset_end": 210
+    }
+  ]
+}

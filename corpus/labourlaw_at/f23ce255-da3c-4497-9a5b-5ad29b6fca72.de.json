@@ -1,0 +1,65 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/f23ce255-da3c-4497-9a5b-5ad29b6fca72",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Höhe der Entschädigung der Mitglieder und Ersatzmitglieder der Schiedskommission nach dem Wiener Krankenanstaltengesetz"
+    },
+    "hasAuthority": "LGBl. Nr. 23/2002",
+    "id_local": "20000295",
+    "first_date_entry_in_force": "2002-06-12",
+    "version_date": "2002-06-12",
+    "url_consolidated": "http://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dLrW\u0026Gesetzesnummer\u003d20000295\u0026FassungVom\u003d2002-06-13",
+    "classifications": [
+      "60/40 Krankenbehandlung",
+      "60 Gesundheits- und Sozialrecht (S)"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/f23ce255-da3c-4497-9a5b-5ad29b6fca72/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/f23ce255-da3c-4497-9a5b-5ad29b6fca72/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 1028,
+  "text": "Präambel/Promulgationsklausel Auf Grund des § 50 Abs. 10 des Wiener Krankenanstaltengesetzes 1987, LGBl. für Wien Nr. 23/1987, in der Fassung des Gesetzes LGBl. für Wien Nr. 48/2001, wird verordnet:§ 1. Die Mitglieder und Ersatzmitglieder, sofern diese an Stelle der Mitglieder an Sitzungen eines Senates der Schiedskommission teilnehmen, erhalten für ihre Tätigkeit eine Entschädigung in Form von Sitzungsgeldern.§ 2. Das Sitzungsgeld beträgt für das als Vorsitzender tätige Mitglied oder Ersatzmitglied 157 Euro die als Beisitzer tätigen Mitglieder oder Ersatzmitglieder 105 Euro für jede Sitzung eines Senates der Schiedskommission, an der sie teilgenommen haben.§ 3. (1) Diese Verordnung tritt mit Ablauf des Tages ihrer Kundmachung in Kraft. (2) Mit dem In-Kraft-Treten dieser Verordnung tritt die Verordnung der Wiener Landesregierung vom 11. Juni 1985, LGBl. für Wien Nr. 36/1985, über die Höhe der Entschädigung der Mitglieder und Ersatzmitglieder der Schiedskommission nach dem Wiener Krankenanstaltengesetz außer Kraft.",
+  "parts": [
+    {
+      "@id": "f23ce255-da3c-4497-9a5b-5ad29b6fca72#offset_198_413",
+      "offset_ini": 198,
+      "offset_end": 413,
+      "title": ""
+    },
+    {
+      "@id": "f23ce255-da3c-4497-9a5b-5ad29b6fca72#offset_414_665",
+      "offset_ini": 414,
+      "offset_end": 665,
+      "title": ""
+    },
+    {
+      "@id": "f23ce255-da3c-4497-9a5b-5ad29b6fca72#offset_666_1028",
+      "offset_ini": 666,
+      "offset_end": 1028,
+      "title": ""
+    },
+    {
+      "@id": "f23ce255-da3c-4497-9a5b-5ad29b6fca72#offset_0_197",
+      "offset_ini": 0,
+      "offset_end": 197
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/1b5a9488-1f4a-4023-90f8-994aec267cf9",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "AETR - Arbeit des Fahrpersonals des internationalen Straßenverkehrs"
+    },
+    "hasAuthority": "BGBl. Nr. 309/1995",
+    "id_local": "10008946",
+    "first_date_entry_in_force": "1995-05-05",
+    "version_date": "1995-05-05",
+    "url_consolidated": "http://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d10008946\u0026FassungVom\u003d1995-05-06",
+    "classifications": [
+      "69/02 Arbeitsrecht"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/1b5a9488-1f4a-4023-90f8-994aec267cf9/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/1b5a9488-1f4a-4023-90f8-994aec267cf9/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 994,
+  "text": "Nach Mitteilungen des Generalsekretärs der Vereinten Nationen haben folgende weitere Staaten ihre Beitrittsurkunden zum Europäischen Übereinkommen über die Arbeit des im internationalen Straßenverkehrsbeschäftigten Fahrpersonals (AETR) (BGBl. Nr. 518/1975 idF BGBl. Nr. 203/1993, letzte Kundmachung des Geltungsbereichs BGBl. Nr. 279/1993) hinterlegt: Staaten: Datum der Hinterlegung der Beitrittsurkunde: Belarus 5. April 1993 Estland 3. Mai 1993 Lettland 14. Jänner 1994 Moldau 26. Mai 1993 Rumänien 8. Dezember 1994 Nachstehende Staaten haben erklärt, sich auch weiterhin an das Übereinkommen gebunden zu erachten: Staaten: mit Wirksamkeit vom Bosnien-Herzegowina 6. März 1992 Slowakei 1. Jänner 1993 Slowenien 25. Juni 1991 Tschechische Republik 1. Jänner 1993 Die Slowakei und die Tschechische Republik haben den von der ehemaligen Tschechoslowakei erklärten Vorbehalt *1) erneuert. --------------------------------------------------------------------- *1) Kundgemacht in BGBl. Nr. 279/1993",
+  "parts": [
+    {
+      "@id": "1b5a9488-1f4a-4023-90f8-994aec267cf9#offset_0_994",
+      "offset_ini": 0,
+      "offset_end": 994,
+      "title": ""
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/283069f8-9dd0-4a53-a2e3-f55d5abbcd55",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Soziale Sicherheit – Durchführung (Dänemark)"
+    },
+    "hasAuthority": "BGBl. Nr. 77/1988",
+    "id_local": "10008661",
+    "first_date_entry_in_force": "1988-03-01",
+    "version_date": "1988-03-01",
+    "url_consolidated": "http://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d10008661\u0026FassungVom\u003d1988-03-01",
+    "classifications": [
+      "69/03 Soziale Sicherheit"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/283069f8-9dd0-4a53-a2e3-f55d5abbcd55/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/283069f8-9dd0-4a53-a2e3-f55d5abbcd55/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 4120,
+  "text": "Ratifikationstext Die Vereinbarung tritt gemäß ihrem Art. 10 mit 1. März 1988 in Kraft. Präambel/Promulgationsklausel Auf Grund des Artikels 28 Absatz 1 des Abkommens zwischen der Republik Österreich und dem Königreich Dänemark über Soziale Sicherheit vom 16. Juni 1987 *) – im folgenden als Abkommen bezeichnet – haben die zuständigen Behörden zur Durchführung des Abkommens folgendes vereinbart: _____________________ *) Kundgemacht in BGBl. Nr. 76/1988ABSCHNITT I ALLGEMEINE BESTIMMUNGEN Artikel 1 Begriffsbestimmungen In dieser Vereinbarung werden die im Artikel 1 des Abkommens festgelegten Ausdrücke in derselben Bedeutung verwendet, die ihnen im genannten Artikel gegeben wird.Artikel 2 Verbindungsstellen Verbindungsstellen nach Artikel 29 des Abkommens sind in Österreich für die Kranken-, Unfall- und Pensionsversicherung: Hauptverband der österreichischen Sozialversicherungsträger, für die Familienbeihilfe: Bundesministerium für Umwelt, Jugend und Familie, in Dänemark für die Arbeitsmarkt-Zusatzpension: Amt für die Arbeitsmarkt-Zusatzpension, für alle anderen Fälle: Staatliche Anstalt für Soziale Sicherheit.Artikel 3 Aufgaben der Verbindungsstellen (1) Den Verbindungsstellen obliegen die in dieser Vereinbarung festgelegten Aufgaben. Bei Durchführung des Abkommens können sie miteinander sowie mit den beteiligten Personen oder deren Beauftragten in Verbindung treten. Sie haben einander bei Durchführung des Abkommens zu unterstützen. (2) Die Verbindungsstellen haben die zur Durchführung dieser Vereinbarung erforderlichen Formblätter festzulegen.ABSCHNITT II ANWENDUNG DER BESTIMMUNGEN ÜBER DIE ANZUWENDENDEN RECHTSVORSCHRIFTEN Artikel 4 Entsendungen In den Fällen des Artikels 7 Absatz 1 des Abkommens ist die Weitergeltung der Rechtsvorschriften des Entsendestaates zu bescheinigen. Die Bescheinigung ist in Österreich vom zuständigen Träger der Krankenversicherung, in Dänemark von der Staatlichen Anstalt für Soziale Sicherheit auszustellen.ABSCHNITT III ANWENDUNG DER BESONDEREN BESTIMMUNGEN AUF DIE EINZELNEN LEISTUNGSARTEN Kapitel 1 Krankheit und Mutterschaft Artikel 5 Zusammenrechnung der Zeiten (1) Für die Anwendung des Artikels 10 des Abkommens durch einen Träger eines Vertragsstaates hat die betreffende Person eine Bescheinigung über die nach den Rechtsvorschriften des anderen Vertragsstaates in Betracht kommenden Zeiten vorzulegen. Die Bescheinigung ist auf Ersuchen der betreffenden Person in Österreich vom Träger der Krankenversicherung, in Dänemark von der letzten Wohnortgemeinde auszustellen. (2) Legt die betreffende Person die Bescheinigung nicht vor, so kann der zuständige Träger den im Absatz 1 bezeichneten Träger des anderen Vertragsstaates um Ausstellung und Übersendung der Bescheinigung ersuchen.Artikel 6 Gewährung von Leistungen an Pensionisten Für die Anwendung des Artikels 11 des Abkommens ist dem nach Artikel 12 des Abkommens in Betracht kommenden Träger zum Nachweis des Pensionsanspruches eine Bescheinigung des zuständigen Trägers vorzulegen.Kapitel 2 Alter, Invalidität und Tod (Pensionen) Artikel 7 Bearbeitung der Leistungsanträge (1) Die zuständigen Träger haben einander unverzüglich über einen Leistungsantrag, auf den Abschnitt III Kapitel 2 in Verbindung mit Artikel 31 Absatz 2 des Abkommens anzuwenden ist, zu unterrichten. (2) Die zuständigen Träger haben in der Folge einander auch die sonstigen für eine Leistungsfeststellung erheblichen Tatsachen, gegebenenfalls unter Beifügung ärztlicher Gutachten, mitzuteilen. (3) Die zuständigen Träger haben einander über die Entscheidungen im Feststellungsverfahren zu unterrichten.Artikel 8 Zahlung von Pensionen Die zuständigen Träger haben Pensionen bei Alter, Invalidität und Tod direkt an die Anspruchsberechtigten zu zahlen.Kapitel 3 Berufskrankheiten Artikel 9 Zahlung von Renten Auf Renten ist Artikel 8 entsprechend anzuwenden.ABSCHNITT IV SCHLUSSBESTIMMUNG Artikel 10 Inkrafttreten Diese Vereinbarung tritt gleichzeitig mit dem Abkommen in Kraft. GESCHEHEN zu Wien, am 16. Juni 1987 in zwei Urschriften in deutscher und dänischer Sprache, wobei beide Texte in gleicher Weise authentisch sind.",
+  "parts": [
+    {
+      "@id": "283069f8-9dd0-4a53-a2e3-f55d5abbcd55#offset_455_683",
+      "offset_ini": 455,
+      "offset_end": 683,
+      "title": "Begriffsbestimmungen"
+    },
+    {
+      "@id": "283069f8-9dd0-4a53-a2e3-f55d5abbcd55#offset_684_1123",
+      "offset_ini": 684,
+      "offset_end": 1123,
+      "title": "Verbindungsstellen"
+    },
+    {
+      "@id": "283069f8-9dd0-4a53-a2e3-f55d5abbcd55#offset_1124_1566",
+      "offset_ini": 1124,
+      "offset_end": 1566,
+      "title": "Aufgaben der Verbindungsstellen"
+    },
+    {
+      "@id": "283069f8-9dd0-4a53-a2e3-f55d5abbcd55#offset_1567_1965",
+      "offset_ini": 1567,
+      "offset_end": 1965,
+      "title": "Entsendungen"
+    },
+    {
+      "@id": "283069f8-9dd0-4a53-a2e3-f55d5abbcd55#offset_1966_2750",
+      "offset_ini": 1966,
+      "offset_end": 2750,
+      "title": "Zusammenrechnung der Zeiten"
+    },
+    {
+      "@id": "283069f8-9dd0-4a53-a2e3-f55d5abbcd55#offset_2751_3006",
+      "offset_ini": 2751,
+      "offset_end": 3006,
+      "title": "Gewährung von Leistungen an Pensionisten"
+    },
+    {
+      "@id": "283069f8-9dd0-4a53-a2e3-f55d5abbcd55#offset_3007_3600",
+      "offset_ini": 3007,
+      "offset_end": 3600,
+      "title": "Bearbeitung der Leistungsanträge"
+    },
+    {
+      "@id": "283069f8-9dd0-4a53-a2e3-f55d5abbcd55#offset_3601_3748",
+      "offset_ini": 3601,
+      "offset_end": 3748,
+      "title": "Zahlung von Pensionen"
+    },
+    {
+      "@id": "283069f8-9dd0-4a53-a2e3-f55d5abbcd55#offset_3749_3854",
+      "offset_ini": 3749,
+      "offset_end": 3854,
+      "title": "Zahlung von Renten"
+    },
+    {
+      "@id": "283069f8-9dd0-4a53-a2e3-f55d5abbcd55#offset_3855_4120",
+      "offset_ini": 3855,
+      "offset_end": 4120,
+      "title": "Inkrafttreten"
+    },
+    {
+      "@id": "283069f8-9dd0-4a53-a2e3-f55d5abbcd55#offset_0_454",
+      "offset_ini": 0,
+      "offset_end": 454
+    }
+  ]
+}

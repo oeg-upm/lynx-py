@@ -1,0 +1,47 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/067a4ed2-dd97-4186-9810-6852281483f5",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Arbeitskräfte (jugoslawische) - Beschäftigung in Österr. - Beendigung"
+    },
+    "hasAuthority": "BGBl. Nr. 121/1994",
+    "id_local": "10008898",
+    "first_date_entry_in_force": "1994-02-23",
+    "version_date": "1994-02-23",
+    "url_consolidated": "http://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d10008898\u0026FassungVom\u003d1994-02-23",
+    "classifications": [
+      "69/04 Ausländerbeschäftigung"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/067a4ed2-dd97-4186-9810-6852281483f5/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/067a4ed2-dd97-4186-9810-6852281483f5/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 478,
+  "text": "Gemäß § 2 Abs. 2 des Bundesgesetzes über das Bundesgesetzblatt 1985, BGBl. Nr. 200, wird kundgemacht, daß die Bundesregierung am 11. Jänner 1994 beschlossen hat, die pragmatische Weiteranwendung des Abkommens zwischen der Republik Österreich und der Sozialistischen Föderativen Republik Jugoslawien über die Regelung der Beschäftigung jugoslawischer Dienstnehmer in Österreich (BGBl. Nr. 42/1966) im Verhältnis zur „Bundesrepublik Jugoslawien\u0027\u0027 mit sofortiger Wirkung zu beenden.",
+  "parts": [
+    {
+      "@id": "067a4ed2-dd97-4186-9810-6852281483f5#offset_0_478",
+      "offset_ini": 0,
+      "offset_end": 478,
+      "title": ""
+    }
+  ]
+}

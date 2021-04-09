@@ -1,0 +1,118 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/820ec3b7-0789-4331-b2a8-1e59cbb1c026",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Soziale Sicherheit (Luxemburg)"
+    },
+    "hasAuthority": "BGBl. III Nr. 156/1999",
+    "id_local": "20000053",
+    "first_date_entry_in_force": "1999-09-30",
+    "version_date": "1999-09-30",
+    "url_consolidated": "http://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d20000053\u0026FassungVom\u003d1999-10-01",
+    "classifications": [
+      "69/03 Soziale Sicherheit"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/820ec3b7-0789-4331-b2a8-1e59cbb1c026/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/820ec3b7-0789-4331-b2a8-1e59cbb1c026/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 7783,
+  "text": "Sonstige Textteile Der Nationalrat hat beschlossen: Der Abschluß des nachstehenden Staatsvertrages wird genehmigt. Ratifikationstext Die vom Bundespräsidenten unterzeichnete und vom Bundeskanzler gegengezeichnete Ratifikationsurkunde wurde am 21. Juli 1999 ausgetauscht; das Abkommen tritt gemäß seinem Art. 11 Abs. 2 mit 1. Oktober 1999 in Kraft. Präambel/Promulgationsklausel Die Republik Österreich und das Großherzogtum Luxemburg in dem Wunsche, unter Bedachtnahme auf Artikel 8 der Verordnung (EWG) Nr. 1408/71 auf dem Gebiet der sozialen Sicherheit zwischen den beiden Staaten über die Verordnungen (EWG) Nr. 1408/71 und 574/72 hinausgehend Personen zu schützen, die nach den Rechtsvorschriften eines oder beider Staaten geschützt sind oder waren, sind übereingekommen, folgendes Abkommen zu schließen, das an die Stelle des Abkommens vom 21. Dezember 1971 zwischen den beiden Staaten über soziale Sicherheit 1) in der Fassung des Ersten Zusatzabkommens vom 16. Mai 1973 1) und des Zweiten Zusatzabkommens vom 9. Oktober 1978 2) tritt: ___________________ 1) Kundgemacht in BGBl. Nr. 73/1974 2) Kundgemacht in BGBl. Nr. 349/1980Abschnitt I Allgemeine Bestimmungen Artikel 1 (1) In diesem Abkommen bedeuten die Ausdrücke 1. „Verordnung“ die Verordnung (EWG) Nr. 1408/71 des Rates über die Anwendung der Systeme der sozialen Sicherheit auf Arbeitnehmer und Selbständige sowie deren Familienangehörige, die innerhalb der Gemeinschaft zu- und abwandern, in der zwischen den beiden Vertragsstaaten jeweils geltenden Fassung; 2. „Durchführungsverordnung“ die Verordnung (EWG) Nr. 574/72 des Rates über die Durchführung der Verordnung (EWG) Nr. 1408/71 über die Anwendung der Systeme der sozialen Sicherheit auf Arbeitnehmer und Selbständige sowie deren Familienangehörige, die innerhalb der Gemeinschaft zu- und abwandern, in der zwischen den beiden Vertragsstaaten jeweils geltenden Fassung. (2) In diesem Abkommen haben andere Ausdrücke die Bedeutung, die ihnen nach der Verordnung und der Durchführungsverordnung oder, soweit diese nichts anderes bestimmen, den innerstaatlichen Rechtsvorschriften zukommt.Artikel 2 Dieses Abkommen gilt für die Rechtsvorschriften, die vom sachlichen Geltungsbereich der Verordnung erfaßt sind.Artikel 3 (1) Dieses Abkommen gilt für Personen, die vom persönlichen Geltungsbereich der Verordnung erfaßt sind. (2) Dieses Abkommen gilt ferner für folgende Personen, die nicht vom persönlichen Geltungsbereich der Verordnung erfaßt sind: a) Personen, für die die Rechtsvorschriften eines oder beider Vertragsstaaten gelten oder galten; b) Personen, die Familienangehörige oder Hinterbliebene der im Buchstaben a genannten Personen sind.Artikel 4 (1) Die Staatsangehörigen eines Vertragsstaates, die außerhalb des Gebietes eines Staates wohnen, für den die Verordnung gilt, stehen bei Anwendung der Rechtsvorschriften des anderen Vertragsstaates den Staatsangehörigen dieses Vertragsstaates gleich. (2) Absatz 1 berührt nicht die österreichischen Rechtsvorschriften betreffend die Versicherung von Personen, die bei einer amtlichen österreichischen Vertretung in einem anderen Staat als einem Staat, für den die Verordnung gilt, oder bei Mitgliedern einer solchen Vertretung beschäftigt sind.Artikel 5 (1) Für die im Artikel 3 Absatz 2 genannten Personen finden im Verhältnis zwischen den beiden Vertragsstaaten die Verordnung, die Durchführungsverordnung und die zu ihrer Durchführung getroffenen Vereinbarungen entsprechend Anwendung, soweit in diesem Abkommen nichts anderes bestimmt ist. (2) Artikel 3 der Verordnung gilt in bezug auf die im Artikel 3 Absatz 2 genannten Personen nur für die Staatsangehörigen der Vertragsstaaten sowie für die Familienangehörigen und Hinterbliebenen dieser Personen.Abschnitt II Besondere Bestimmungen Artikel 6 Für die im Artikel 3 Absatz 2 genannten Personen gelten nicht: a) Titel III Kapitel 6 der Verordnung mit Ausnahme der Artikel 67 und 68; b) Titel III Kapitel 7 und 8 der Verordnung.Artikel 7 Für die im Artikel 3 Absätze 1 und 2 genannten Personen, die außerhalb des Gebietes eines Staates wohnen, für den die Verordnung gilt, und für die im Artikel 3 Absatz 2 genannten Personen, die im Gebiet eines Staates wohnen, für den die Verordnung gilt, findet in bezug auf a) Kinderzuschüsse zu Alters- und Invaliditätsrenten, b) Waisenrenten mit Ausnahme von Waisenrenten aus der Versicherung bei Arbeitsunfällen und Berufskrankheiten Titel III Kapitel 3 der Verordnung entsprechend Anwendung.Abschnitt III Verschiedene Bestimmungen Artikel 8 (1) Die vollstreckbaren Entscheidungen der Gerichte sowie die vollstreckbaren Bescheide und Rückstandsausweise (Urkunden) der Träger oder der Behörden eines Vertragsstaates über Beiträge und sonstige Forderungen aus der sozialen Sicherheit werden im anderen Vertragsstaat anerkannt. (2) Die Anerkennung darf nur versagt werden, wenn sie der öffentlichen Ordnung des Vertragsstaates widerspricht, in dem die Entscheidung oder die Urkunde anerkannt werden soll. (3) Die nach Absatz 1 anerkannten vollstreckbaren Entscheidungen und Urkunden werden im anderen Vertragsstaat vollstreckt. Das Vollstreckungsverfahren richtet sich nach den Rechtsvorschriften, die in dem Vertragsstaat, in dessen Gebiet vollstreckt werden soll, für die Vollstreckung der in diesem Vertragsstaat erlassenen entsprechenden Entscheidungen und Urkunden gelten. Die Ausfertigung der Entscheidung oder der Urkunde muß mit der Bestätigung ihrer Vollstreckbarkeit (Vollstreckungsklausel) versehen sein. (4) Forderungen von Trägern im Gebiet eines Vertragsstaates aus Beitragsrückständen haben bei der Zwangsvollstreckung sowie im Konkurs- und Ausgleichsverfahren im Gebiet des anderen Vertragsstaates die gleichen Vorrechte wie entsprechende Forderungen im Gebiet dieses Vertragsstaates.Artikel 9 Streitigkeiten zwischen den Vertragsstaaten über die Auslegung oder die Anwendung dieses Abkommens sollen, soweit möglich, durch die zuständigen Behörden der Vertragsstaaten beigelegt werden.Abschnitt IV Übergangs- und Schlußbestimmungen Artikel 10 Für die Feststellung und Neufeststellung von Leistungen nach diesem Abkommen gelten die Artikel 94 und 95 der Verordnung sowie die Artikel 118 und 119 der Durchführungsverordnung mit Inkrafttreten dieses Abkommens entsprechend.Artikel 11 (1) Dieses Abkommen ist zu ratifizieren. Die Ratifikationsurkunden sind so bald wie möglich in Wien auszutauschen. (2) Dieses Abkommen tritt am ersten Tag des dritten Monats nach Ablauf des Monats in Kraft, in dem die Ratifikationsurkunden ausgetauscht werden. (3) Dieses Abkommen wird auf unbestimmte Zeit geschlossen. Jeder Vertragsstaat kann es unter Einhaltung einer Frist von drei Monaten schriftlich auf diplomatischem Weg kündigen. (4) Im Falle der Kündigung gelten die Bestimmungen dieses Abkommens für erworbene Ansprüche weiter.Artikel 12 Mit Inkrafttreten dieses Abkommens treten außer Kraft: a) das Abkommen vom 21. Dezember 1971 zwischen der Republik Österreich und dem Großherzogtum Luxemburg über soziale Sicherheit 1) samt Schlußprotokoll in der Fassung des Ersten Zusatzabkommens vom 16. Mai 1973 1) und des Zweiten Zusatzabkommens vom 9. Oktober 1978 2); b) die Vereinbarung vom 4. Mai 1972 3) zur Durchführung des Abkommens zwischen der Republik Österreich und dem Großherzogtum Luxemburg über soziale Sicherheit in der Fassung der Zusatzvereinbarung vom 28. März 1979 4). Zu Urkund dessen haben die Bevollmächtigten beider Vertragsstaaten dieses Abkommen unterzeichnet. Geschehen zu Luxemburg, am 31. Juli 1997 in zwei Urschriften, in deutscher und französischer Sprache, wobei beide Texte in gleicher Weise authentisch sind. ______________________ 1) Kundgemacht in BGBl. Nr. 73/1974 2) Kundgemacht in BGBl. Nr. 349/1980 3) Kundgemacht in BGBl. Nr. 145/1974 4) Kundgemacht in BGBl. Nr. 350/1980",
+  "parts": [
+    {
+      "@id": "820ec3b7-0789-4331-b2a8-1e59cbb1c026#offset_1134_2108",
+      "offset_ini": 1134,
+      "offset_end": 2108,
+      "title": "Artikel 1"
+    },
+    {
+      "@id": "820ec3b7-0789-4331-b2a8-1e59cbb1c026#offset_2109_2229",
+      "offset_ini": 2109,
+      "offset_end": 2229,
+      "title": "Artikel 2"
+    },
+    {
+      "@id": "820ec3b7-0789-4331-b2a8-1e59cbb1c026#offset_2230_2667",
+      "offset_ini": 2230,
+      "offset_end": 2667,
+      "title": "Artikel 3"
+    },
+    {
+      "@id": "820ec3b7-0789-4331-b2a8-1e59cbb1c026#offset_2668_3222",
+      "offset_ini": 2668,
+      "offset_end": 3222,
+      "title": "Artikel 4"
+    },
+    {
+      "@id": "820ec3b7-0789-4331-b2a8-1e59cbb1c026#offset_3223_3734",
+      "offset_ini": 3223,
+      "offset_end": 3734,
+      "title": "Artikel 5"
+    },
+    {
+      "@id": "820ec3b7-0789-4331-b2a8-1e59cbb1c026#offset_3735_3961",
+      "offset_ini": 3735,
+      "offset_end": 3961,
+      "title": "Artikel 6"
+    },
+    {
+      "@id": "820ec3b7-0789-4331-b2a8-1e59cbb1c026#offset_3962_4466",
+      "offset_ini": 3962,
+      "offset_end": 4466,
+      "title": "Artikel 7"
+    },
+    {
+      "@id": "820ec3b7-0789-4331-b2a8-1e59cbb1c026#offset_4467_5771",
+      "offset_ini": 4467,
+      "offset_end": 5771,
+      "title": "Artikel 8"
+    },
+    {
+      "@id": "820ec3b7-0789-4331-b2a8-1e59cbb1c026#offset_5772_5972",
+      "offset_ini": 5772,
+      "offset_end": 5972,
+      "title": "Artikel 9"
+    },
+    {
+      "@id": "820ec3b7-0789-4331-b2a8-1e59cbb1c026#offset_5973_6257",
+      "offset_ini": 5973,
+      "offset_end": 6257,
+      "title": "Artikel 10"
+    },
+    {
+      "@id": "820ec3b7-0789-4331-b2a8-1e59cbb1c026#offset_6258_6806",
+      "offset_ini": 6258,
+      "offset_end": 6806,
+      "title": "Artikel 11"
+    },
+    {
+      "@id": "820ec3b7-0789-4331-b2a8-1e59cbb1c026#offset_6807_7783",
+      "offset_ini": 6807,
+      "offset_end": 7783,
+      "title": "Artikel 12"
+    },
+    {
+      "@id": "820ec3b7-0789-4331-b2a8-1e59cbb1c026#offset_0_1133",
+      "offset_ini": 0,
+      "offset_end": 1133
+    }
+  ]
+}

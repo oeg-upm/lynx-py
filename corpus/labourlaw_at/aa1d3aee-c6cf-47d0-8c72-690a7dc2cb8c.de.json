@@ -1,0 +1,59 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/aa1d3aee-c6cf-47d0-8c72-690a7dc2cb8c",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Ausnahmen von der Wochenend- und Feiertagsruhe"
+    },
+    "hasAuthority": "BKA (Bundeskanzleramt)",
+    "id_local": "10008557",
+    "first_date_entry_in_force": "1984-06-30",
+    "version_date": "1984-06-30",
+    "url_consolidated": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d10008557\u0026FassungVom\u003d1984-07-01",
+    "classifications": [
+      "64/05 Sonstiges Besonderes Dienst- und Besoldungsrecht",
+      "60/02 Arbeitnehmerschutz"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/aa1d3aee-c6cf-47d0-8c72-690a7dc2cb8c/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/aa1d3aee-c6cf-47d0-8c72-690a7dc2cb8c/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 1990,
+  "text": "Präambel/Promulgationsklausel Auf Grund des § 12 Abs. 1 des Arbeitsruhegesetzes, BGBl. Nr. 144/1983, in Verbindung mit Artikel X des Bundesgesetzes vom 14. Dezember 1983, BGBl. Nr. 657, mit dem das Vertragsbedienstetengesetz 1948 (34. Vertragsbedienstetengesetz-Novelle), die Bundesforste-Dienstordnung und das Land- und Forstarbeiter-Dienstrechtsgesetz geändert werden, wird 1. vom Bundesminister für Land- und Forstwirtschaft für die Land- und Forstarbeiter (§ 1 des Land- und Forstarbeiter-Dienstrechtsgesetzes, BGBl. Nr. 280/1980) seines Ressorts und des Wirtschaftskörpers „Österreichische Bundesforste“, 2. vom Bundesminister für Landesverteidigung für die Land- und Forstarbeiter seines Ressorts, 3. vom Bundesminister für Wissenschaft und Forschung für die Land- und Forstarbeiter seines Ressorts jeweils im Einvernehmen mit dem Bundeskanzler und dem Bundesminister für Handel, Gewerbe und Industrie verordnet:§ 1. (1) Die Anlage zur Verordnung des Bundesministers für soziale Verwaltung vom 18. Jänner 1984, BGBl. Nr. 149, betreffend Ausnahmen von der Wochenend- und Feiertagsruhe, gilt sinngemäß auch als Anlage zu dieser Verordnung. Während der Wochenend- und Feiertagsruhe dürfen die Land- und Forstarbeiter daher zu denjenigen von ihnen zu besorgenden Tätigkeiten – gegebenenfalls beschränkt auf in der Anlage angeführte Zeiträume – herangezogen werden, die in der Anlage angeführt sind. (2) Arbeiten, die im unmittelbaren Zusammenhang mit den zugelassenen Arbeiten stehen oder ohne die diese nicht durchführbar wären, sind zugelassen, soweit sie nicht vor oder nach der Wochenend- oder Feiertagsruhe vorgenommen werden können. (3) Versuche in Laboratorien (Prüfständen) und Forschungsvorhaben, die auf Grund ihrer Eigenart während der Wochenend- und Feiertagsruhe nicht unterbrochen werden können, dürfen fortgeführt werden. (4) Die Zahl der beschäftigten Arbeitnehmer ist auf das unbedingt notwendige Ausmaß zu beschränken.§ 2. Diese Verordnung tritt am 1. Juli 1984 in Kraft.",
+  "parts": [
+    {
+      "@id": "aa1d3aee-c6cf-47d0-8c72-690a7dc2cb8c#offset_918_1937",
+      "offset_ini": 918,
+      "offset_end": 1937,
+      "title": ""
+    },
+    {
+      "@id": "aa1d3aee-c6cf-47d0-8c72-690a7dc2cb8c#offset_1938_1990",
+      "offset_ini": 1938,
+      "offset_end": 1990,
+      "title": ""
+    },
+    {
+      "@id": "aa1d3aee-c6cf-47d0-8c72-690a7dc2cb8c#offset_0_917",
+      "offset_ini": 0,
+      "offset_end": 917
+    }
+  ]
+}

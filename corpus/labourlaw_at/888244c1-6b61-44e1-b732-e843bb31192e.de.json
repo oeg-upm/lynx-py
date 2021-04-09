@@ -1,0 +1,64 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/888244c1-6b61-44e1-b732-e843bb31192e",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Satzung des Kollektivvertrages für die Berufsvereinigung von Arbeitgebern für Gesundheits- und Sozialberufe (BAGS)"
+    },
+    "hasAuthority": "BGBl. II Nr. 101/2012",
+    "id_local": "20007757",
+    "first_date_entry_in_force": "2012-02-01",
+    "version_date": "2012-02-01",
+    "url_consolidated": "http://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d20007757\u0026FassungVom\u003d2012-02-01",
+    "classifications": [
+      "60/03 Kollektives Arbeitsrecht"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/888244c1-6b61-44e1-b732-e843bb31192e/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/888244c1-6b61-44e1-b732-e843bb31192e/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 6010,
+  "text": "Präambel/Promulgationsklausel Das Bundeseinigungsamt beim Bundesministerium für Arbeit, Soziales und Konsumentenschutz ist gemäß § 18 Abs. 1 Arbeitsverfassungsgesetz, BGBl. Nr. 22/1974, in der Fassung des Bundesgesetzes BGBl. I Nr. 111/2010 ermächtigt, auf Antrag einer kollektivvertragsfähigen Körperschaft, die Partei eines Kollektivvertrages ist, bei Vorliegen der in Abs. 3 angeführten Voraussetzungen diesem Kollektivvertrag durch Erklärung zur Satzung auch außerhalb seines räumlichen, fachlichen und persönlichen Wirkungsbereiches rechtsverbindliche Wirkung zuzuerkennen. Das Bundeseinigungsamt beim Bundesministerium für Arbeit, Soziales und Konsumentenschutz hat mit Beschluss vom 28. März 2012 nach Durchführung einer Senatsverhandlung nachstehende Satzung erlassen:Satzung des Kollektivvertrages für die Berufsvereinigung von Arbeitgebern für Gesundheits- und Sozialberufe (BAGS) S 2/2012/XXII/96/2 Geltungsbereich der Satzung § 1. a) Fachlich: für Anbieter sozialer oder gesundheitlicher Dienste präventiver, betreuender oder rehabilitativer Art für Personen, die entsprechender Hilfe oder Betreuung bedürfen, mit folgenden Ausnahmen: - öffentlich-rechtliche Einrichtungen - Heilbade-, Kur- und Krankenanstalten - Rettungs- und Sanitätsdienste - Privatkindergärten, -kinderkrippen und -horte (Privatkindertagesheime), - selbst organisierte bzw. elternverwaltete Kindergruppen - Einrichtungen der Kinderbetreuung durch Tagesmütter(-väter) b) Räumlich: für die Republik Österreich, ausgenommen das Bundesland Vorarlberg c) Persönlich: Alle Arbeitgeber/innen im fachlichen Geltungsbereich sowie die von diesen Arbeitgeber/inne/n im räumlichen Geltungsbereich beschäftigten Arbeitnehmer/innen und Lehrlinge, sofern ihre Arbeitsverhältnisse nicht durch einen gültigen Kollektivvertrag (ausgenommen Kollektivverträge gemäß § 18 Abs. 4 ArbVG) erfasst sind. Ausgenommen sind - Arbeitsverhältnisse von Arbeitnehmer/inne/n, die in Maßnahmen nach sozialhilfe- bzw. behindertenrechtlichen Bestimmungen der Länder beschäftigt werden, - Arbeitsverhältnisse, die mit der Zielsetzung der (Re-)Integration von Arbeitnehmer/inne/n in den Arbeitsmarkt begründet werden, soweit diese Maßnahmen von Dritten beauftragt und/oder gefördert werden; dies gilt insbesonders auch für Arbeitsverhältnisse im Rahmen der gemeinnützigen Arbeitskräfteüberlassung; diese Ausnahme gilt jedoch nicht für ab dem 1. Jänner 2007 begründete Arbeitsverhältnisse von Transitmitarbeiter/inne/n zu Arbeitgeber/inne/n, soweit diese Arbeitgeber/innen keinem Kollektivvertrag unterworfen sind, die im Rahmen von Sozialökonomischen Betrieben und/oder Gemeinnützigen Beschäftigungsprojekten mit der Zielsetzung der (Re-)Integration arbeiten, diese Transitmitarbeiter/inne/n verpflichtend psychosozial begleitet und betreut werden und diese Maßnahmen vom Arbeitsmarktservice, den Ländern und/oder dem Bundesamt für Soziales und Behindertenwesen gefördert sind; für solche Arbeitsverhältnisse gilt die gegenständliche Satzungserklärung, soweit sie sich auf die §§ 1, 3, 4 Abs. 1 und 3 bis 6, §§ 6, 7, 9, § 10 Abs. 1 bis 6, §§ 11, 13, 15, 26, 27, 28, 37, 40 und 41 Z 1 des in § 2 angeführten Kollektivvertrags bezieht, - Arbeitsverhältnisse, die auf Basis einer Zuweisung durch einen Kostenträger (Arbeitsmarktservice/AMS, Sozialversicherungsträger/SV, Bundesamt für Soziales und Behindertenwesen, etc.) Qualifizierungsmaßnahmen zum Inhalt haben, - (Ferial-)Praktikant/inn/en sowie Volontäre/Volontärinnen. Volontär/in ist, wer sich kurzfristig ausschließlich zu Ausbildungszwecken in einer Einrichtung aufhält; ein geringes Entgelt steht einem Volontariat nicht entgegen. (Ferial-)Praktikant/in ist, wer im Rahmen einer schulischen oder universitären Ausbildung aufgrund eines Lehrplanes bzw einer Studienordnung verpflichtet ist, praktische Tätigkeiten nachzuweisen. Ausgenommen sind weiters Arbeitnehmer/innen gemäß § 36 Abs. 2 Z 1 oder 3 Arbeitsverfassungsgesetz, § 1 Abs. 1 Z 8 Arbeitszeitgesetz, § 1 Abs. 2 Z 5 Arbeitsruhegesetz und § 10 Abs. 2 Z 2 Arbeiterkammergesetz 1992, soweit sich die Satzungserklärung auf die §§ 4 bis 12, 14, 15 und 19 des in § 2 angeführten Kollektivvertrags bezieht.Inhalt der Satzung § 2. 1. Der zwischen der Berufsvereinigung von Arbeitgebern für Gesundheits- und Sozialberufe und dem Österreichischen Gewerkschaftsbund, Gewerkschaft der Privatangestellten, Druck, Journalismus, Papier und Gewerkschaft VIDA, am 21. Februar 2012 abgeschlossene Kollektivvertrag für Arbeitnehmerinnen, die bei Mitgliedern der Berufsvereinigung von Arbeitgebern für Gesundheits- und Sozialberufe (BAGS) beschäftigt sind (Stand 1. Februar 2012) beim Bundesministerium für Arbeit, Soziales und Konsumentenschutz unter Registerzahl KV 100/2012 hinterlegt und im „Amtsblatt zur Wiener Zeitung“ vom 27. März 2012 kundgemacht, wird zur Satzung erklärt. 2. Von der Satzungserklärung werden nachstehende Bestimmungen des angeführten Kollektivvertrags ausgenommen: - § 2 - § 41 Z 1 vorletzter und letzter Satz - in § 41 Z 2/B dritter Absatz die Sätze: „Die Wirksamkeit der Optierung tritt mit 1.1.2005 in Kraft. In Betrieben, die nach dem 1.7.2004 der BAGS beitreten und somit diesem KV unterliegen, hat jede Arbeitnehmerin das Recht der Optierung innerhalb von sechs Monaten nach Wirksamkeit des KV für diesen Betrieb.“ - § 42 3. Soweit in § 30a Z 1 auf das Inkrafttreten von § 30a Abs. 1 (in der Fassung 1.1.2004) abgestellt wird, tritt an Stelle dieses Datums das des Inkrafttretens der Satzung (§ 3). 4. Soweit in § 41 Z 2/B auf das Inkrafttreten des Kollektivvertrags Bezug genommen wird, tritt an Stelle dieses Datums das Datum „1. Mai 2006“. Für Arbeitsverhältnisse, für die diese Satzung erst nach dem 1. Mai 2006 wirksam wird, gilt eine Optierungsfrist von sechs Monaten ab dem Wirksamwerden der Satzung.Beginn der Wirksamkeit und Geltungsdauer der Satzung § 3. Als Wirksamkeitsbeginn der Satzung wird der 1. Februar 2012 festgesetzt. Die Geltungsdauer der Satzung richtet sich nach der Geltungsdauer des gesatzten Kollektivvertrages.",
+  "parts": [
+    {
+      "@id": "888244c1-6b61-44e1-b732-e843bb31192e#offset_776_4159",
+      "offset_ini": 776,
+      "offset_end": 4159,
+      "title": "Geltungsbereich der Satzung"
+    },
+    {
+      "@id": "888244c1-6b61-44e1-b732-e843bb31192e#offset_4160_5780",
+      "offset_ini": 4160,
+      "offset_end": 5780,
+      "title": "Inhalt der Satzung"
+    },
+    {
+      "@id": "888244c1-6b61-44e1-b732-e843bb31192e#offset_5781_6010",
+      "offset_ini": 5781,
+      "offset_end": 6010,
+      "title": "Beginn der Wirksamkeit und Geltungsdauer der Satzung"
+    },
+    {
+      "@id": "888244c1-6b61-44e1-b732-e843bb31192e#offset_0_775",
+      "offset_ini": 0,
+      "offset_end": 775
+    }
+  ]
+}

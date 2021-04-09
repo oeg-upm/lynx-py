@@ -1,0 +1,106 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/1763b6cd-6531-4e79-bb89-fac586433604",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Soziale Sicherheit – Durchführung (Chile)"
+    },
+    "hasAuthority": "BGBl. III Nr. 224/1999",
+    "id_local": "20000111",
+    "first_date_entry_in_force": "1999-12-01",
+    "version_date": "1999-12-01",
+    "url_consolidated": "http://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d20000111\u0026FassungVom\u003d1999-12-01",
+    "classifications": [
+      "69/03 Soziale Sicherheit"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/1763b6cd-6531-4e79-bb89-fac586433604/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/1763b6cd-6531-4e79-bb89-fac586433604/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 6328,
+  "text": "Ratifikationstext Die Verwaltungsvereinbarung tritt gemäß ihrem Art. 10 mit 1. Dezember 1999 in Kraft. Präambel/Promulgationsklausel Auf Grund des Artikels 15 des Abkommens zwischen der Republik Österreich und der Republik Chile über soziale Sicherheit *) vom 19. Juni 1997 im folgenden als Abkommen bezeichnet haben die zuständigen Behörden zur Durchführung des Abkommens folgende Verwaltungsvereinbarung geschlossen: _____________________ *) Kundgemacht in BGBl. III Nr. 200/1999Artikel 1 Begriffsbestimmungen In dieser Vereinbarung werden die in Artikel 1 des Abkommens festgelegten Ausdrücke in derselben Bedeutung verwendet, die ihnen im genannten Artikel gegeben wird.Artikel 2 Verbindungsstellen (1) Für die Durchführung des Abkommens werden folgende Verbindungsstellen bestimmt: a) in Österreich der Hauptverband der österreichischen Sozialversicherungsträger; b) in Chile die Aufsichtsbehörde für die Pensionsverwaltungen für die Mitglieder des Neuen Pensionssystems, die Aufsichtsbehörde für soziale Sicherheit für die Mitglieder der Systeme, die vom Institut für gesetzliche Fürsorge verwaltet werden. (2) Die Verbindungsstellen haben die zur Durchführung des Abkommens und dieser Verwaltungsvereinbarung erforderlichen Formblätter festzulegen. (3) Die Verbindungsstellen können miteinander sowie mit den beteiligten Personen oder deren Beauftragten in Verbindung treten. Sie haben einander bei der Durchführung des Abkommens zu unterstützen.Artikel 3 Entsendungen, Wahlrecht (1) In den Fällen des Artikels 7 des Abkommens oder in den Fällen einer Wahl nach Artikel 8 Absatz 2 des Abkommens hat der Träger des Vertragsstaates, dessen Rechtsvorschriften anzuwenden sind, über Antrag eine Bescheinigung darüber auszustellen, daß für den Dienstnehmer diese Rechtsvorschriften gelten. (2) Die Bescheinigungen nach Absatz 1 sind auszustellen bei Anwendung der österreichischen Rechtsvorschriften vom zuständigen Träger der Krankenversicherung; bei Anwendung der chilenischen Rechtsvorschriften durch die in Betracht kommende Verbindungsstelle.Artikel 4 Gesundheitsleistungen für Pensionisten (1) In den Fällen des Artikels 14 des Abkommens ist der Bezug einer Pension nach den österreichischen Rechtsvorschriften durch eine Bescheinigung nachzuweisen, die vom zuständigen österreichischen Träger auszustellen ist und die das Datum der Pensionszuerkennung und die Höhe der Pension zum Zeitpunkt der Ausstellung enthalten muß. Diese Bescheinigung ist in Chile bei einer der Verbindungsstellen vorzulegen. (2) Die Verbindungsstelle, der die Bescheinigung vorgelegt wird, hat die Umrechnung des Betrages in die Landeswährung vorzunehmen und diese Daten in ein dafür bestimmtes Formblatt einzutragen, damit der Berechtigte seine Beiträge für das Gesundheitssystem beim zuständigen Träger einzahlen kann.Artikel 5 Bearbeitung der Pensionsanträge (1) Im Sinne dieses Artikels bedeutet „Institution“ in bezug auf Österreich den zuständigen Träger; in bezug auf Chile die in Betracht kommende Verbindungsstelle. (2) Für die Durchführung des Abschnittes III des Abkommens hat der Träger eines Vertragsstaates, bei dem ein Pensionsantrag nach den Rechtsvorschriften des anderen Vertragsstaates gestellt wird, diesen unverzüglich der Verbindungsstelle des anderen Vertragsstaates zu übermitteln. (3) Die Stelle des ersten Vertragsstaates hat der Stelle des anderen Vertragsstaates alle Unterlagen und ärztlichen Befunde zu übermitteln, die für diese für die Feststellung des Leistungsanspruches des Antragstellers erforderlich sein könnten. Diese Unterlagen haben, soweit erforderlich, eine Bescheinigung über die nach den Rechtsvorschriften des ersten Vertragsstaates erworbenen Versicherungszeiten zu enthalten. (4) Im Falle eines Antrages auf Invaliditätspension hat die Stelle des ersten Vertragsstaates in dem nach den von ihr anzuwendenden Rechtsvorschriften zulässigen Ausmaß der Stelle des anderen Vertragsstaates auf Ersuchen die ärztlichen Unterlagen und Berichte betreffend die Erwerbsunfähigkeit des Antragstellers zur Verfügung zu stellen. (5) Die Stellen der beiden Vertragsstaaten haben einander über die Entscheidungen im Feststellungsverfahren zu unterrichten.Artikel 6 Zahlung von Leistungen Die zuständigen Träger der beiden Vertragsstaaten haben die Leistungen direkt an die Anspruchsberechtigten in der im Abkommen festgelegten Form zu zahlen.Artikel 7 Statistiken Die Verbindungsstellen der beiden Vertragsstaaten haben Statistiken über die nach dem Abkommen an die Berechtigten vorgenommenen Zahlungen auszutauschen. Diese Statistiken sind jährlich in einer festzulegenden Form zu übermitteln.Artikel 8 Ärztliche Untersuchungen Für die Durchführung des Artikels 16 Absatz 4 des Abkommens ist der für die Durchführung der ärztlichen Untersuchungen in Chile zuständige Träger die für den Aufenthaltsort der betreffenden Person in Betracht kommende „Kommission für Vorsorgemedizin und Invalidität“ des Gesundheitssystems.Artikel 9 Zuständige Träger Zuständige Träger in den beiden Vertragsstaaten sind: a) in Österreich die nach den österreichischen Rechtsvorschriften in Betracht kommenden Träger; b) in Chile 1. Leistungen: – die Pensionsfondsverwaltungen für die Mitglieder des Neuen Pensionssystems, – das Institut für die Normalisierung der Sozialversicherung für die Mitglieder des alten Sozialversicherungssystems; 2. Feststellung der Invalidität: – die medizinische Kommission der Aufsichtsbehörde für die Pensionsfondsverwaltungen für die Mitglieder des Neuen Pensionssystems, – die in Betracht kommende Kommission für Vorsorgemedizin und Invalidität des Gesundheitssystems für die Mitglieder des Instituts für die Normalisierung der Sozialversicherung, – die Kommission für Vorsorgemedizin und Invalidität des zentralen Gesundheitssystems für die Mitglieder des alten Sozialversicherungssystems oder für Personen, die sich nicht in Chile aufhalten oder die nicht in Chile versichert sind; 3. Gesundheitsleistungen für Pensionisten: – die Einrichtungen für Gesundheitsvorsorge, – der Nationale Gesundheitsfonds.Artikel 10 Schlußbestimmung Diese Verwaltungsvereinbarung tritt gleichzeitig mit dem Abkommen in Kraft und bleibt solange wie das Abkommen in Kraft. GESCHEHEN zu Wien, am 19. Juni 1997 in zwei Urschriften in deutscher und spanischer Sprache, wobei beide Texte in gleicher Weise authentisch sind.",
+  "parts": [
+    {
+      "@id": "1763b6cd-6531-4e79-bb89-fac586433604#offset_481_673",
+      "offset_ini": 481,
+      "offset_end": 673,
+      "title": "Begriffsbestimmungen"
+    },
+    {
+      "@id": "1763b6cd-6531-4e79-bb89-fac586433604#offset_674_1452",
+      "offset_ini": 674,
+      "offset_end": 1452,
+      "title": "Verbindungsstellen"
+    },
+    {
+      "@id": "1763b6cd-6531-4e79-bb89-fac586433604#offset_1453_2048",
+      "offset_ini": 1453,
+      "offset_end": 2048,
+      "title": "Entsendungen, Wahlrecht"
+    },
+    {
+      "@id": "1763b6cd-6531-4e79-bb89-fac586433604#offset_2049_2803",
+      "offset_ini": 2049,
+      "offset_end": 2803,
+      "title": "Gesundheitsleistungen für Pensionisten"
+    },
+    {
+      "@id": "1763b6cd-6531-4e79-bb89-fac586433604#offset_2804_4170",
+      "offset_ini": 2804,
+      "offset_end": 4170,
+      "title": "Bearbeitung der Pensionsanträge"
+    },
+    {
+      "@id": "1763b6cd-6531-4e79-bb89-fac586433604#offset_4171_4357",
+      "offset_ini": 4171,
+      "offset_end": 4357,
+      "title": "Zahlung von Leistungen"
+    },
+    {
+      "@id": "1763b6cd-6531-4e79-bb89-fac586433604#offset_4358_4609",
+      "offset_ini": 4358,
+      "offset_end": 4609,
+      "title": "Statistiken"
+    },
+    {
+      "@id": "1763b6cd-6531-4e79-bb89-fac586433604#offset_4610_4934",
+      "offset_ini": 4610,
+      "offset_end": 4934,
+      "title": "Ärztliche Untersuchungen"
+    },
+    {
+      "@id": "1763b6cd-6531-4e79-bb89-fac586433604#offset_4935_6033",
+      "offset_ini": 4935,
+      "offset_end": 6033,
+      "title": "Zuständige Träger"
+    },
+    {
+      "@id": "1763b6cd-6531-4e79-bb89-fac586433604#offset_6034_6328",
+      "offset_ini": 6034,
+      "offset_end": 6328,
+      "title": "Schlußbestimmung"
+    },
+    {
+      "@id": "1763b6cd-6531-4e79-bb89-fac586433604#offset_0_480",
+      "offset_ini": 0,
+      "offset_end": 480
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/3c6ecb5c-4421-424d-af94-626109e3711f",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Bundeseinigungsamts-Geschäftsordnung"
+    },
+    "hasAuthority": "BGBl. Nr. 415/1987",
+    "nick": [
+      "BEA-Geo."
+    ],
+    "id_local": "10008630",
+    "first_date_entry_in_force": "1987-08-28",
+    "version_date": "2014-01-01",
+    "url_consolidated": "http://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d10008630\u0026FassungVom\u003d2014-01-01",
+    "classifications": [
+      "60/03 Kollektives Arbeitsrecht"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/3c6ecb5c-4421-424d-af94-626109e3711f/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/3c6ecb5c-4421-424d-af94-626109e3711f/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 24229,
+  "text": "Präambel/Promulgationsklausel Auf Grund des § 161 Abs. 1 Z 6 des Arbeitsverfassungsgesetzes (ArbVG), BGBl. Nr. 22/1974, zuletzt geändert durch Artikel IV des Bundesverfassungsgesetzes BGBl. Nr. 321/1987, wird verordnet:Abschnitt 1 Allgemeine Bestimmungen Zuständigkeit § 1. (1) Das Bundeseinigungsamt ist berufen, 1. über die Zuerkennung und Aberkennung der Kollektivvertragsfähigkeit gemäß § 5 ArbVG zu entscheiden; 2. auf Ersuchen eines Gerichtes oder einer Verwaltungsbehörde (einschließlich der Sozialversicherungsträger und des Hauptverbandes der österreichischen Sozialversicherungsträger) ein Gutachten über die Auslegung eines Kollektivvertrages abzugeben; 3. nach Maßgabe der Bestimmungen der §§ 18 bis 25 ArbVG Kollektivverträge zur Satzung zu erklären und Mindestlohntarife festzusetzen sowie diese abzuändern und aufzuheben; 4. nach Maßgabe der Bestimmungen der §§ 26 bis 28 ArbVG Lehrlingsentschädigungen festzusetzen, abzuändern und aufzuheben; 5. bei den Verhandlungen über den Abschluß oder die Änderung von Kollektivverträgen auf Antrag einer der beteiligten Vertragsparteien mitzuwirken (§ 153 ArbVG); 6. bei Streitigkeiten über den Abschluß oder die Änderung von Kollektivverträgen auf Antrag einer der beteiligten Parteien Einigungsverhandlungen einzuleiten, zwischen den Streitteilen zu vermitteln und auf eine Vereinbarung der Streitteile zur Beilegung der Auseinandersetzung hinzuwirken (§ 154 ArbVG); 7. bei Streitigkeiten nach Z 6 unter den Voraussetzungen des § 155 ArbVG einen Schiedsspruch zu fällen; 8. Kataster der von ihm beschlossenen Satzungen, Mindestlohntarife und Lehrlingsentschädigungen zu führen. (2) Das Bundeseinigungsamt ist weiters berufen 1. zur Erledigung der im Zeitpunkt des Inkrafttretens des ASGG (1. Jänner 1987) bei den Einigungsämtern noch anhängigen Verfahren nach den Bestimmungen des Arbeitsverfassungsgesetzes, des Mutterschutzgesetzes 1979 und des Arbeitsplatz-Sicherungsgesetzes, die von den Einigungsämtern bis 31. Dezember 1987 nicht abgeschlossen werden oder die auf Grund von Entscheidungen des Verwaltungsgerichtshofes oder des Verfassungsgerichtshofes nach dem 31. Dezember 1987 neu durchzuführen sind (Art. VIII Abs. 3 Arbeits- und Sozialgerichts-Anpassungsgesetz, BGBl. Nr. 563/1986); 2. zur Besorgung der sonstigen Angelegenheiten der Einigungsämter, die von diesen bis 31. Dezember 1986 nicht erledigt wurden und die gemäß Art. VIII Abs. 5 Arbeits- und Sozialgerichts-Anpassungsgesetz, BGBl. Nr. 563/1986, auf das Bundeseinigungsamt übergegangen sind. (3) Das Bundeseinigungsamt hat weiters die Aufgabe, die Arbeits- und Lieferungsbedingungen für Heimarbeit zu regeln. In Durchführung dieser Aufgabe hat es insbesondere 1. Heimarbeitstarife zu erlassen, 2. auf Ersuchen eines Gerichtes oder einer Verwaltungsbehörde Gutachten über die Auslegung eines Heimarbeitsgesamtvertrages abzugeben, 3. einen Kataster der von ihm erlassenen Heimarbeitstarife zu führen.Senate § 2. (1) Das Bundeseinigungsamt verhandelt und entscheidet in den in § 1 Abs. 1 Z 1 bis 7 und Abs. 3 Z 1 und 2 angeführten Angelegenheiten in Senaten. Dies gilt auch für die in § 1 Abs. 2 angeführten Angelegenheiten, soweit sie nach den bis 31. Dezember 1986 geltenden Vorschriften Senaten der Einigungsämter vorbehalten waren. (2) Den Vorsitz im Senat führt der Vorsitzende (Stellvertreter) des Bundeseinigungsamtes. (3) In einen Senat sind mindestens je vier Mitglieder aus den Gruppen der Arbeitgeber und der Arbeitnehmer zu berufen. In Angelegenheiten des § 1 Abs. 3 gelten auch Auftraggeber als der Gruppe der Arbeitgeber und auch Heimarbeiter als der Gruppe der Arbeitnehmer zugehörig. (4) Ein Senat ist verhandlungs- und beschlußfähig, wenn außer dem Senatsvorsitzenden je zwei Mitglieder aus den Gruppen der Arbeitgeber und der Arbeitnehmer anwesend sind. (5) Sind die Mitglieder einer Gruppe in der Überzahl, so haben in dieser Gruppe die dem Alter nach jüngsten Mitglieder, soweit sie in der Überzahl sind, kein Stimmrecht. (6) Die Beschlüsse werden mit einfacher Mehrheit der Stimmberechtigten gefaßt. Der Senatsvorsitzende hat seine Stimme als letzter abzugeben; er darf sich der Stimme nicht enthalten.Aufgaben des Vorsitzenden des Bundeseinigungsamtes § 3. (1) Dem Vorsitzenden obliegt die Leitung des Bundeseinigungsamtes. Sofern nicht eine Beschlußfassung durch Senate vorgesehen ist (§ 2 Abs. 1), hat er für die Erfüllung der Aufgaben des Bundeseinigungsamtes Sorge zu tragen. Insbesondere obliegt dem Vorsitzenden die Bildung und Zusammensetzung der Senate, die Zuweisung von Verhandlungsgegenständen an die Senate und die Vorsitzführung in den Senaten. Bei der Zusammensetzung der Senate hat der Vorsitzende auf den Verhandlungsgegenstand, die fachliche Qualifikation der Mitglieder und erforderlichenfalls auf regionale Gesichtspunkte Bedacht zu nehmen. (2) Im Falle der Verhinderung des Vorsitzenden sind seine Aufgaben von seinem Stellvertreter wahrzunehmen. Sind mehrere Stellvertreter bestellt und wurde anläßlich der Bestellung nicht anderes bestimmt, so obliegt ihnen die Vertretung des Vorsitzenden in der Reihenfolge ihrer Bestellung. (3) Der Vorsitzende ist berechtigt, allgemein oder fallweise seinen Stellvertretern bestimmte Aufgaben zu übertragen. Die allgemeine Übertragung von Aufgaben kann auch in Form einer festen Geschäftsverteilung erfolgen; diese bedarf der Schriftform.Angelobung der Mitglieder § 4. Der Vorsitzende hat den Mitgliedern vor Antritt ihres Amtes durch Handschlag das Gelöbnis gewissenhafter und unparteiischer Amtsausübung und der Amtsverschwiegenheit abzunehmen. Die Tatsache der Angelobung ist in einer Niederschrift festzuhalten, die Teil einer Niederschrift über eine Verhandlung (§ 6 Abs. 6) sein kann.Bekanntgabe von Enthebungsgründen § 5. Werden dem Vorsitzenden Umstände bekannt, welche die Enthebung eines Mitgliedes rechtfertigen oder erforderlich machen (§ 141 Abs. 6 ArbVG), so hat er dies dem Bundesminister für Arbeit und Soziales unverzüglich bekanntzugeben.Verfahren § 6. (1) Das Verfahren vor dem Bundeseinigungsamt wird auf schriftlichen Antrag einer Partei, das Verfahren auf Aberkennung der Kollektivvertragsfähigkeit (§ 1 Abs. 1 Z 1) wird auch von Amts wegen eingeleitet und durchgeführt. (2) Das Verfahren auf Erstellung eines Gutachtens über die Auslegung eines Kollektivvertrages (§ 1 Abs. 1 Z 2) wird über schriftliches Ersuchen eines Gerichtes oder einer Verwaltungsbehörde eingeleitet und durchgeführt. (3) Das Bundeseinigungsamt hat alle Amtshandlungen möglichst rasch durchzuführen. (4) Die Einberufung des Senates durch den Senatsvorsitzenden hat so zu erfolgen, daß die Senatsmitglieder, die Parteien und sonstigen Beteiligten rechtzeitig von Ort und Zeit der Verhandlung sowie vom Verhandlungsgegenstand Kenntnis erlangen. Der Termin für die Fortsetzung einer nicht zu Ende geführten Verhandlung kann den Verhandlungsteilnehmern während der Verhandlung auch mündlich mitgeteilt werden. (5) Der Senatsvorsitzende hat die Verhandlungsunterlagen vorzubereiten und dafür zu sorgen, daß sie den Senatsmitgliedern und den Parteien rechtzeitig zur Vorbereitung auf die Verhandlung zur Verfügung stehen. (6) Über die Verhandlung und die Beschlüsse des Senates ist eine Niederschrift zu führen, die den wesentlichen Gang der Verhandlung und den Wortlaut der Beschlüsse festhält. Der Senatsvorsitzende hat für die Beiziehung eines Schriftführers Sorge zu tragen. Die Niederschrift ist vom Senatsvorsitzenden und vom Schriftführer zu unterzeichnen. (7) Der Senatsvorsitzende hat für die ordnungsgemäße schriftliche Ausfertigung eines Beschlusses und seiner Begründung zu sorgen. (8) Die Verhandlung ist nicht öffentlich. Der Verhandlung können Sachverständige und Auskunftspersonen beigezogen werden. (9) Gegen einen Bescheid des Bundeseinigungsamtes kann Beschwerde an das Bundesverwaltungsgericht erhoben werden. (10) Auf das Verfahren vor dem Bundeseinigungsamt ist, soweit das ArbVG nicht anderes bestimmt, das Allgemeine Verwaltungsverfahrensgesetz 1991 (AVG) anzuwenden.Register § 7. (1) Alle beim Bundeseinigungsamt einlangenden Geschäftsfälle sind in ein allgemeines Register einzutragen. (2) Neben dem allgemeinen Register ist über die Zuerkennung und Aberkennung der Kollektivvertragsfähigkeit ein Register nach Muster I, über die dem Kataster eingereihten Satzungen ein Register nach Muster II, über die dem Kataster eingereihten Mindestlohntarife ein Register nach Muster III, über die dem Kataster eingereihten Lehrlingsentschädigungen ein Register nach Muster IV und über die dem Kataster eingereihten Heimarbeitstarife ein Register nach Muster V zu führen. Im Bedarfsfalle kann der Vorsitzende des Bundeseinigungsamtes die Führung weiterer Register für bestimmte Gruppen von Geschäftsfällen anordnen. (3) Das allgemeine Register kann auch in Karteiform geführt werden.Kataster § 8. (1) Das Bundeseinigungsamt hat Kataster der von ihm beschlossenen Satzungen, Mindestlohntarife, Lehrlingsentschädigungen und Heimarbeitstarife zu führen. (2) Die Kataster sind entsprechend der von der Bundesanstalt Statistik Austria erstellten Grundsystematik der Wirtschaftstätigkeiten nach Wirtschaftsabteilungen und Wirtschaftsklassen zu gliedern. Innerhalb dieser Gliederung ist jede Satzung, jeder Mindestlohntarif und jede Lehrlingsentschädigung in der Reihenfolge der Erlassung abzulegen und zu verwahren. Der Vorsitzende des Bundeseinigungsamtes kann eine andere zweckentsprechende Katastergliederung veranlassen.Einsichtnahme § 9. Die vom Bundeseinigungsamt beschlossenen und in den Katastern abgelegten Mindestlohntarife, Satzungen, Lehrlingsentschädigungen und Heimarbeitstarife können während der Amtsstunden von jedem eingesehen werden.Besorgung der laufenden Geschäfte und der Kanzleigeschäfte § 10. Mit der Führung der laufenden Geschäfte und der Vorbereitung der Verhandlungen unter Leitung des Vorsitzenden (Stellvertreters) können Bedienstete des Bundesministeriums für Arbeit und Soziales betraut werden. Die Kanzleigeschäfte des Bundeseinigungsamtes sind von Bediensteten aus dem Personalstand des Bundesministeriums für Arbeit und Soziales zu besorgen.Gebührenfreiheit § 11. Die im Verfahren vor dem Bundeseinigungsamt erforderlichen Schriften und Amtshandlungen sind von den Stempelgebühren und den Bundesverwaltungsabgaben befreit. Barauslagen gemäß § 76 Abs. 1 AVG sind von Amts wegen zu tragen.Abschnitt 2 Zuerkennung und Aberkennung der Kollektivvertragsfähigkeit § 12. (1) Das Verfahren auf Zuerkennung der Kollektivvertragsfähigkeit ist auf Antrag der Berufsvereinigung (§ 4 Abs. 2 ArbVG) oder des Vereines (§ 4 Abs. 3 ArbVG), die bzw. der die Kollektivvertragsfähigkeit erlangen will, einzuleiten. Dem Antrag sind eine beglaubigte Abschrift der Statuten der Berufsvereinigung oder des Vereines, eine Bescheinigung der Vereinsbehörde über den aufrechten Bestand der Berufsvereinigung, sofern sie als Verein konstituiert ist, oder des Vereines und die zur Beurteilung der im § 4 Abs. 2 und 3 ArbVG vorgesehenen Voraussetzungen sonst erforderlichen Unterlagen anzuschließen. (2) Der Vorsitzende hat vorerst zu prüfen, ob der Antrag mit den nach Abs. 1 erforderlichen Beilagen versehen ist, und allenfalls die nötigen Ergänzungen durch die antragstellende Partei zu veranlassen. (3) Je eine Ausfertigung des Antrages ist den zuständigen gesetzlichen Interessenvertretungen der Arbeitgeber und der Arbeitnehmer zur Stellungnahme zuzuleiten. Den Interessenvertretungen ist dabei eine angemessene, zumindest jedoch dreiwöchige Frist einzuräumen; sie sind gleichzeitig darauf hinzuweisen, daß ihr Einverständnis mit dem Antrag angenommen wird, wenn innerhalb der gesetzten Frist keine Stellungnahme erfolgt. (4) Nach Einlangen der Stellungnahmen oder nach Ablauf der zur Stellungnahme eingeräumten Frist (Abs. 3) oder nach Durchführung allenfalls erforderlicher weiterer Erhebungen ist ein Senat zur Verhandlung und Beschlußfassung über den Antrag einzuberufen. (5) Wird der Berufsvereinigung oder dem Verein die Kollektivvertragsfähigkeit zuerkannt, so hat das Bundeseinigungsamt die Entscheidung darüber im „Amtsblatt zur Wiener Zeitung“ kundzumachen. Die Kosten der Kundmachung hat die Berufsvereinigung (der Verein) zu tragen. (6) Die Zuerkennung der Kollektivvertragsfähigkeit ist dem Bundesministerium für Arbeit und Soziales, jedem für Arbeits- und Sozialrechtssachen zuständigen Gerichtshof und den zuständigen gesetzlichen Interessenvertretungen der Arbeitgeber und der Arbeitnehmer zur Kenntnis zu bringen. (7) Das Verfahren auf Aberkennung der Kollektivvertragsfähigkeit wird eingeleitet 1. auf Antrag der kollektivvertragsfähigen Berufsvereinigung (des kollektivvertragsfähigen Vereines) selbst, einer anderen kollektivvertragsfähigen Berufsvereinigung oder einer gesetzlichen Interessenvertretung; 2. von Amts wegen, wenn dem Bundeseinigungsamt Umstände bekannt werden, die vermuten lassen, daß die Voraussetzungen des § 4 Abs. 2 oder 3 ArbVG nicht mehr vorliegen. Im übrigen gelten die Abs. 2 bis 6 sinngemäß.Abschnitt 3 Erklärung von Kollektivverträgen zur Satzung § 13. (1) Das Verfahren zur Erklärung eines Kollektivvertrages zur Satzung ist auf Antrag einer kollektivvertragsfähigen Körperschaft, die Partei dieses Kollektivvertrages ist, einzuleiten. Dem Antrag ist eine Ausfertigung dieses Kollektivvertrages anzuschließen. (2) Vor Erklärung eines Kollektivvertrages zur Satzung ist allen von ihr betroffenen kollektivvertragsfähigen Körperschaften der Arbeitgeber und der Arbeitnehmer eine Ausfertigung des Antrags zur Stellungnahme innerhalb einer angemessenen, zumindest jedoch dreiwöchigen Frist zu übermitteln. Dabei ist darauf hinzuweisen, daß Einverständnis mit dem Antrag angenommen wird, wenn innerhalb der gesetzten Frist keine Stellungnahme erfolgt. (3) Nach Einlangen der Stellungnahmen oder nach Ablauf der zur Stellungnahme eingeräumten Frist (Abs. 2) oder nach Durchführung allenfalls erforderlicher weiterer Erhebungen ist ein Senat zur Verhandlung und Beschlußfassung über den Antrag einzuberufen. Die von der Satzungserklärung betroffenen kollektivvertragsfähigen Körperschaften der Arbeitgeber und der Arbeitnehmer sind zur mündlichen Verhandlung, in der sie sich zum Antrag äußern können, zu laden. (4) Die Abs. 1 bis 3 sind auch auf das Verfahren zur Änderung oder Aufhebung einer Satzungserklärung anzuwenden.Kundmachung und Veröffentlichung der Satzung § 14. (1) Das Bundeseinigungsamt hat die Erklärung eines Kollektivvertrages zur Satzung im Bundesgesetzblatt II kundzumachen. (2) Eine Ausfertigung der Satzung ist dem Kataster der Satzungen (§ 8) einzureihen. (3) Das Bundeseinigungsamt hat 1. dem Bundesministerium für Arbeit, Soziales und Konsumentenschutz, 2. jedem für Arbeits- und Sozialrechtssachen zuständigen Gerichtshof, 3. den nach dem Geltungsbereich der Satzung zuständigen gesetzlichen Interessenvertretungen der Arbeitgeber und der Arbeitnehmer, 4. der antragstellenden Partei sowie 5. den anderen Vertragsparteien des Kollektivvertrages, der die Grundlage für die beschlossene Satzung bildet, je eine Ausfertigung der Satzung (Satzungserklärung und Wortlaut der Satzung) unter Angabe der Nummer und des Kundmachungsdatums der Satzungserklärung im Bundesgesetzblatt II und der Zahlen, unter denen die Satzung im Register nach Muster II eingetragen und im Kataster eingereiht ist, zu übermitteln. (4) Die Abs. 1 bis 3 gelten sinngemäß für die Änderung und Aufhebung einer Satzungserklärung.Abschnitt 4 Mindestlohntarif § 15. (1) Das Verfahren zur Festsetzung eines Mindestlohntarifs ist auf Antrag einer kollektivvertragsfähigen Körperschaft der Arbeitnehmer einzuleiten. Der Antrag hat die zur Beurteilung der Notwendigkeit der Festsetzung eines Mindestlohntarifs erforderlichen Angaben sowie einen Vorschlag über die Höhe der festzusetzenden Mindestentgelte und Mindestbeträge für den Ersatz von Auslagen zu enthalten. Der Vorsitzende hat vorerst zu prüfen, ob der Antrag die in den §§ 22 und 25 Abs. 1 und 2 ArbVG geforderten Voraussetzungen erfüllt, und allenfalls notwendige Ergänzungen durch die antragstellende Partei zu veranlassen. (2) Jedem nach dem räumlichen Geltungsbereich des beantragten Mindestlohntarifs zuständigen Landeshauptmann ist eine Ausfertigung des Antrages zur Stellungnahme innerhalb einer angemessenen, zumindest jedoch dreiwöchigen Frist zu übermitteln. Dabei ist darauf hinzuweisen, daß Einverständnis mit dem Antrag angenommen wird, wenn innerhalb der gesetzten Frist keine Stellungnahme erfolgt. (3) Nach Einlangen der Stellungnahmen oder nach Ablauf der zur Stellungnahme eingeräumten Frist (Abs. 2) oder nach Durchführung allenfalls erforderlicher weiterer Erhebungen ist ein Senat zur Verhandlung und Beschlußfassung über den Antrag einzuberufen.Kundmachung des Mindestlohntarifs § 16. (1) Das Bundeseinigungsamt hat den Beschluss auf Festsetzung eines Mindestlohntarifs im Bundesgesetzblatt II kundzumachen. (2) Eine Ausfertigung des Mindestlohntarifs ist dem Kataster der Mindestlohntarife (§ 8) einzureihen. (3) Das Bundeseinigungsamt hat 1. dem Bundesministerium für Arbeit, Soziales und Konsumentenschutz, 2. jedem für Arbeits- und Sozialrechtssachen zuständigen Gerichtshof, 3. jedem nach dem räumlichen Geltungsbereich des Mindestlohntarifs zuständigen Landeshauptmann, 4. den zuständigen gesetzlichen Interessenvertretungen der Arbeitnehmer und 5. der antragstellenden Partei je eine Ausfertigung des beschlossenen Mindestlohntarifs unter Angabe der Nummer und des Kundmachungsdatums im Bundesgesetzblatt II und der Zahlen, unter denen der Mindestlohntarif im Register nach Muster III eingetragen und im Kataster eingereiht ist, zu übermitteln. (4) Die Abs. 1 bis 3 sowie § 15 gelten sinngemäß für das Verfahren zur Abänderung oder Aufhebung eines Mindestlohntarifs.Abschnitt 5 Lehrlingsentschädigung § 17. (1) Das Verfahren zur Festsetzung einer Lehrlingsentschädigung ist auf Antrag einer kollektivvertragsfähigen Körperschaft einzuleiten. Der Antrag hat die zur Beurteilung der Notwendigkeit der Festsetzung erforderlichen Angaben sowie einen Vorschlag über die Höhe der festzusetzenden Lehrlingsentschädigung zu enthalten. Der Vorsitzende hat vorerst zu prüfen, ob der Antrag die in den §§ 26 Abs. 1 und 27 Abs. 1 ArbVG geforderten Voraussetzungen erfüllt, und allenfalls erforderliche Ergänzungen durch die antragstellende Partei zu veranlassen. (2) Vor Festsetzung einer Lehrlingsentschädigung ist den von ihr betroffenen kollektivvertragsfähigen Körperschaften der Arbeitgeber und der Arbeitnehmer eine Ausfertigung des Antrages zur Stellungnahme innerhalb einer angemessenen, zumindest jedoch dreiwöchigen Frist zu übermitteln. Dabei ist darauf hinzuweisen, daß Einverständnis mit dem Antrag angenommen wird, wenn innerhalb der gesetzten Frist keine Stellungnahme erfolgt. (3) Nach Einlangen der Stellungnahmen oder nach Ablauf der zur Stellungnahme eingeräumten Frist oder nach Durchführung allenfalls erforderlicher weiterer Erhebungen ist ein Senat zur Verhandlung und Beschlußfassung über den Antrag einzuberufen. (4) Das Bundeseinigungsamt hat den Beschluss auf Festsetzung einer Lehrlingsentschädigung im Bundesgesetzblatt II kundzumachen. (5) Eine Ausfertigung der Festsetzung der Lehrlingsentschädigung ist dem Kataster der Festsetzungen der Lehrlingsentschädigungen (§ 8) einzureihen. (6) Das Bundeseinigungsamt hat 1. dem Bundesministerium für Arbeit, Soziales und Konsumentenschutz, 2. jedem für Arbeits- und Sozialrechtssachen zuständigen Gerichtshof, 3. den zuständigen gesetzlichen Interessenvertretungen der Arbeitgeber und der Arbeitnehmer sowie 4. der antragstellenden Partei je eine Ausfertigung der Festsetzung der Lehrlingsentschädigung unter Angabe der Nummer und des Kundmachungsdatums im Bundesgesetzblatt II und der Zahlen, unter denen die Lehrlingsentschädigung im Register nach Muster IV eingetragen und im Kataster eingereiht ist, zu übermitteln. (7) Die Abs. 1 bis 6 gelten sinngemäß für die Änderung oder Aufhebung der festgesetzten Lehrlingsentschädigung.Abschnitt 6 Heimarbeitstarif § 17a. (1) Das Verfahren zur Erlassung eines Heimarbeitstarifes ist auf Antrag einer kollektivvertragsfähigen Körperschaft der Arbeitnehmer einzuleiten. Ein Heimarbeitstarif kann nur erlassen werden, wenn für die von dem Heimarbeitstarif zu erfassenden Personen die im Heimarbeitstarif festzulegenden Arbeits- und Lieferungsbedingungen nicht bereits in einem Heimarbeitsgesamtvertrag im Sinne des § 43 des Heimarbeitsgesetzes 1960, BGBl. Nr. 105/1961, in der Fassung des Bundesgesetzes BGBl. I Nr. 74/2009, geregelt sind. (2) Vor Erlassung eines Heimarbeitstarifes ist allen von ihr betroffenen kollektivvertragsfähigen Körperschaften der Arbeitgeber und der Arbeitnehmer eine Ausfertigung des Antrages zur Stellungnahme innerhalb einer angemessenen, zumindest jedoch dreiwöchigen Frist zu übermitteln. Dabei ist darauf hinzuweisen, dass Einverständnis mit dem Antrag angenommen wird, wenn innerhalb der gesetzten Frist keine Stellungnahme erfolgt. (3) Nach Einlangen der Stellungnahmen oder nach Ablauf der zur Stellungnahme eingeräumten Frist (Abs. 2) oder nach Durchführung allenfalls erforderlicher weiterer Erhebungen ist ein Senat zur Verhandlung und Beschlussfassung über den Antrag einzuberufen. (4) Die Abs. 1 bis 3 gelten auch für die Abänderung oder Aufhebung eines Heimarbeitstarifes.Kundmachung des Heimarbeitstarifes § 17b. (1) Das Bundeseinigungsamt hat den Beschluss auf Erlassung eines Heimarbeitstarifes im Bundesgesetzblatt II kundzumachen. (2) Eine Ausfertigung des Heimarbeitstarifes ist dem Kataster der Heimarbeitstarife (§ 8) einzureihen. (3) Das Bundeseinigungsamt hat 1. dem Bundesministerium für Arbeit, Soziales und Konsumentenschutz, 2. den nach dem örtlichen Wirkungsbereich des Heimarbeitstarifes zuständigen Arbeitsinspektoraten und 3. den in Betracht kommenden Interessenvertretungen der Arbeitgeber und der Arbeitnehmer je eine Ausfertigung des Heimarbeitstarifes unter Angabe der Nummer und des Kundmachungsdatums im Bundesgesetzblatt II und der Zahlen, unter denen der Heimarbeitstarif im Register nach Muster V eingetragen und im Kataster eingereiht ist, zu übermitteln. (4) Die Abs. 1 bis 3 gelten auch für die Abänderung oder Aufhebung eines Heimarbeitstarifes.Abschnitt 7 Einigungsverhandlungen bei Kollektivvertragsstreitigkeiten § 18. (1) Stellt bei Streitigkeiten über den Abschluß oder die Änderung eines Kollektivvertrages eine am Streit beteiligte Partei beim Bundeseinigungsamt einen Antrag auf Vermittlung, so hat der Vorsitzende unverzüglich einen Senat zur Durchführung einer Einigungsverhandlung einzuberufen. Zur Verhandlung sind sämtliche am Streit beteiligten Parteien zu laden. (2) In der Einigungsverhandlung ist zwischen den Streitteilen zu vermitteln und auf eine Vereinbarung der Streitteile zur Beilegung der Streitigkeit hinzuwirken. (3) Die Einigungsverhandlung ist abzubrechen, wenn 1. der Antrag zurückgezogen wird; 2. einer der Streitteile trotz zweimaliger ausgewiesener Ladung ohne Angabe von Gründen nicht zur Verhandlung erschienen ist; 3. eine Vereinbarung der Streitteile über die Beilegung des Streites nicht zustande kommt und keine Erklärung im Sinne des Abs. 4 abgegeben worden ist. (4) Liegt von allen am Streit beteiligten Parteien eine schriftliche Erklärung vor, sich einem Schiedsspruch des Bundeseinigungsamtes zu unterwerfen, so ist die Streitigkeit, wenn keine Vereinbarung über die Beilegung des Streites zustande kommt, durch einen Schiedsspruch zu entscheiden. (5) Sowohl eine Vereinbarung nach Abs. 2 als auch ein Schiedsspruch nach Abs. 4 bedürfen der Schriftform.Abschnitt 8 Schlußbestimmungen § 19. Mit dem Inkrafttreten dieser Verordnung treten das 2. Hauptstück und, soweit darin die Geschäftsführung des Obereinigungsamtes geregelt wird, das 4. Hauptstück der Einigungsamts-Geschäftsordnung (EA-Geo), BGBl. Nr. 354/1974, in der Fassung BGBl. Nr. 561/1975, außer Kraft.§ 20. § 1 Abs. 3, § 2 Abs. 1 erster Satz und Abs. 3, § 6 Abs. 10, § 7 Abs. 2 erster Satz, § 8 Abs. 1 und 2, § 9, § 11, § 14, § 16, § 17 Abs. 4 und 6, die Bestimmungen des Abschnittes 6 sowie die Anlagen 1 bis 5 dieser Verordnung in der Fassung der Verordnung BGBl. II Nr. 142/2012 treten mit 1. Mai 2012 in Kraft.§ 21. § 6 Abs. 9 in der Fassung der Verordnung BGBl. II Nr. 242/2013 tritt mit 1. Jänner 2014 in Kraft.",
+  "parts": [
+    {
+      "@id": "3c6ecb5c-4421-424d-af94-626109e3711f#offset_219_2925",
+      "offset_ini": 219,
+      "offset_end": 2925,
+      "title": "Zuständigkeit"
+    },
+    {
+      "@id": "3c6ecb5c-4421-424d-af94-626109e3711f#offset_2926_4147",
+      "offset_ini": 2926,
+      "offset_end": 4147,
+      "title": "Senate"
+    },
+    {
+      "@id": "3c6ecb5c-4421-424d-af94-626109e3711f#offset_4148_5343",
+      "offset_ini": 4148,
+      "offset_end": 5343,
+      "title": "Aufgaben des Vorsitzenden des Bundeseinigungsamtes"
+    },
+    {
+      "@id": "3c6ecb5c-4421-424d-af94-626109e3711f#offset_5344_5695",
+      "offset_ini": 5344,
+      "offset_end": 5695,
+      "title": "Angelobung der Mitglieder"
+    },
+    {
+      "@id": "3c6ecb5c-4421-424d-af94-626109e3711f#offset_5696_5961",
+      "offset_ini": 5696,
+      "offset_end": 5961,
+      "title": "Bekanntgabe von Enthebungsgründen"
+    },
+    {
+      "@id": "3c6ecb5c-4421-424d-af94-626109e3711f#offset_5962_7985",
+      "offset_ini": 5962,
+      "offset_end": 7985,
+      "title": "Verfahren"
+    },
+    {
+      "@id": "3c6ecb5c-4421-424d-af94-626109e3711f#offset_7986_8792",
+      "offset_ini": 7986,
+      "offset_end": 8792,
+      "title": "Register"
+    },
+    {
+      "@id": "3c6ecb5c-4421-424d-af94-626109e3711f#offset_8793_9427",
+      "offset_ini": 8793,
+      "offset_end": 9427,
+      "title": "Kataster"
+    },
+    {
+      "@id": "3c6ecb5c-4421-424d-af94-626109e3711f#offset_9428_9655",
+      "offset_ini": 9428,
+      "offset_end": 9655,
+      "title": "Einsichtnahme"
+    },
+    {
+      "@id": "3c6ecb5c-4421-424d-af94-626109e3711f#offset_9656_10079",
+      "offset_ini": 9656,
+      "offset_end": 10079,
+      "title": "Besorgung der laufenden Geschäfte und der Kanzleigeschäfte"
+    },
+    {
+      "@id": "3c6ecb5c-4421-424d-af94-626109e3711f#offset_10080_10325",
+      "offset_ini": 10080,
+      "offset_end": 10325,
+      "title": "Gebührenfreiheit"
+    },
+    {
+      "@id": "3c6ecb5c-4421-424d-af94-626109e3711f#offset_10326_12950",
+      "offset_ini": 10326,
+      "offset_end": 12950,
+      "title": "Zuerkennung und Aberkennung der Kollektivvertragsfähigkeit"
+    },
+    {
+      "@id": "3c6ecb5c-4421-424d-af94-626109e3711f#offset_12951_14278",
+      "offset_ini": 12951,
+      "offset_end": 14278,
+      "title": "Erklärung von Kollektivverträgen zur Satzung"
+    },
+    {
+      "@id": "3c6ecb5c-4421-424d-af94-626109e3711f#offset_14279_15376",
+      "offset_ini": 14279,
+      "offset_end": 15376,
+      "title": "Kundmachung und Veröffentlichung der Satzung"
+    },
+    {
+      "@id": "3c6ecb5c-4421-424d-af94-626109e3711f#offset_15377_16668",
+      "offset_ini": 15377,
+      "offset_end": 16668,
+      "title": "Mindestlohntarif"
+    },
+    {
+      "@id": "3c6ecb5c-4421-424d-af94-626109e3711f#offset_16669_17696",
+      "offset_ini": 16669,
+      "offset_end": 17696,
+      "title": "Kundmachung des Mindestlohntarifs"
+    },
+    {
+      "@id": "3c6ecb5c-4421-424d-af94-626109e3711f#offset_17697_19923",
+      "offset_ini": 17697,
+      "offset_end": 19923,
+      "title": "Lehrlingsentschädigung"
+    },
+    {
+      "@id": "3c6ecb5c-4421-424d-af94-626109e3711f#offset_19924_21248",
+      "offset_ini": 19924,
+      "offset_end": 21248,
+      "title": "Heimarbeitstarif"
+    },
+    {
+      "@id": "3c6ecb5c-4421-424d-af94-626109e3711f#offset_21249_22152",
+      "offset_ini": 21249,
+      "offset_end": 22152,
+      "title": "Kundmachung des Heimarbeitstarifes"
+    },
+    {
+      "@id": "3c6ecb5c-4421-424d-af94-626109e3711f#offset_22153_23504",
+      "offset_ini": 22153,
+      "offset_end": 23504,
+      "title": "Einigungsverhandlungen bei Kollektivvertragsstreitigkeiten"
+    },
+    {
+      "@id": "3c6ecb5c-4421-424d-af94-626109e3711f#offset_23505_23813",
+      "offset_ini": 23505,
+      "offset_end": 23813,
+      "title": "Schlußbestimmungen"
+    },
+    {
+      "@id": "3c6ecb5c-4421-424d-af94-626109e3711f#offset_23814_24126",
+      "offset_ini": 23814,
+      "offset_end": 24126,
+      "title": ""
+    },
+    {
+      "@id": "3c6ecb5c-4421-424d-af94-626109e3711f#offset_24127_24229",
+      "offset_ini": 24127,
+      "offset_end": 24229,
+      "title": ""
+    },
+    {
+      "@id": "3c6ecb5c-4421-424d-af94-626109e3711f#offset_0_218",
+      "offset_ini": 0,
+      "offset_end": 218
+    }
+  ]
+}

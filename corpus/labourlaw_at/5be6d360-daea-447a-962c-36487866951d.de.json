@@ -1,0 +1,64 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/5be6d360-daea-447a-962c-36487866951d",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Zulassung von Ausnahmen von der Wochenend- und Feiertagsruhe im Zusammenhang mit besonderen Schutzmaßnahmen zur Verhinderung der Verbreitung von COVID-19"
+    },
+    "hasAuthority": "BKA (Bundeskanzleramt)",
+    "id_local": "20011391",
+    "first_date_entry_in_force": "2020-12-12",
+    "version_date": "2020-12-12",
+    "url_consolidated": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d20011391\u0026FassungVom\u003d2020-12-12",
+    "classifications": [
+      "60/02 Arbeitnehmerschutz"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/5be6d360-daea-447a-962c-36487866951d/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/5be6d360-daea-447a-962c-36487866951d/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 956,
+  "text": "Präambel/Promulgationsklausel Auf Grund des § 12 Abs. 1 Z 1 des Arbeitsruhegesetzes, BGBl. Nr. 144/1983, zuletzt geändert durch BGBl. I Nr. 22/2019, wird verordnet:§ 1. Im Zusammenhang mit Schutzmaßnahmen zur Verhinderung der Verbreitung von COVID-19 und zur Entzerrung von Kundenströmen im Handel dürfen Arbeitnehmerinnen und Arbeitnehmer am 12. und am 19. Dezember 2020 in Verkaufsstellen gemäß § 1 Öffnungszeitengesetz, BGBl. I Nr. 43/2003, mit Verkaufstätigkeiten bis 19 Uhr beschäftigt werden.§ 2. (1) Arbeiten, die im unmittelbaren Zusammenhang mit den zugelassenen Arbeiten stehen oder ohne die diese nicht durchführbar wären, sind zugelassen, soweit sie nicht vor oder nach der Wochenend- oder Feiertagsruhe vorgenommen werden können. (2) Die Zahl der beschäftigten Arbeitnehmer/innen ist auf das unbedingt notwendige Ausmaß zu beschränken.§ 3. Übertretungen dieser Verordnung werden gemäß § 27 des Arbeitsruhegesetzes, BGBl. Nr. 144/1983, bestraft.",
+  "parts": [
+    {
+      "@id": "5be6d360-daea-447a-962c-36487866951d#offset_164_497",
+      "offset_ini": 164,
+      "offset_end": 497,
+      "title": ""
+    },
+    {
+      "@id": "5be6d360-daea-447a-962c-36487866951d#offset_498_847",
+      "offset_ini": 498,
+      "offset_end": 847,
+      "title": ""
+    },
+    {
+      "@id": "5be6d360-daea-447a-962c-36487866951d#offset_848_956",
+      "offset_ini": 848,
+      "offset_end": 956,
+      "title": ""
+    },
+    {
+      "@id": "5be6d360-daea-447a-962c-36487866951d#offset_0_163",
+      "offset_ini": 0,
+      "offset_end": 163
+    }
+  ]
+}

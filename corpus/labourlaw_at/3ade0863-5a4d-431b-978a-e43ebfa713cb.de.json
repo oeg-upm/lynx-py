@@ -1,0 +1,64 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/3ade0863-5a4d-431b-978a-e43ebfa713cb",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Erklärung des Generalkollektivvertrages Corona-Tests zur Satzung"
+    },
+    "hasAuthority": "BKA (Bundeskanzleramt)",
+    "id_local": "20011482",
+    "first_date_entry_in_force": "2021-02-25",
+    "version_date": "2021-02-25",
+    "url_consolidated": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d20011482\u0026FassungVom\u003d2021-02-25",
+    "classifications": [
+      "60/03 Kollektives Arbeitsrecht"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/3ade0863-5a4d-431b-978a-e43ebfa713cb/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/3ade0863-5a4d-431b-978a-e43ebfa713cb/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 2199,
+  "text": "Präambel/Promulgationsklausel Das Bundeseinigungsamt beim Bundesministerium für Arbeit ist gemäß § 18 Abs. 1 Arbeitsverfassungsgesetz (ArbVG), BGBl. Nr. 22/1974, in der Fassung des Bundesgesetzes BGBl. I Nr. 23/2020, ermächtigt, auf Antrag einer kollektivvertragsfähigen Körperschaft, die Partei eines Kollektivvertrages ist, bei Vorliegen der in Abs. 3 angeführten Voraussetzungen diesem Kollektivvertrag durch Erklärung zur Satzung auch außerhalb seines räumlichen, fachlichen und persönlichen Wirkungsbereiches rechtsverbindliche Wirkung zuzuerkennen. Das Bundeseinigungsamt beim Bundesministerium für Arbeit hat mit Beschluss vom 23. Februar 2021 nach Durchführung einer Senatsverhandlung nachstehende Satzung erlassen:Satzung des Generalkollektivvertrages Corona-Tests S 3/2021/G-KV/1 Geltungsbereich der Satzung § 1. a) Fachlich: für Betriebe, für die die Wirtschaftskammer Österreich nicht die Kollektivvertragsfähigkeit besitzt. b) Räumlich: für die Republik Österreich c) Persönlich: alle Arbeitgeber und Arbeitgeberinnen im fachlichen Geltungsbereich sowie die von diesen Arbeitgebern und Arbeitgeberinnen im räumlichen Geltungsbereich beschäftigten Arbeitnehmer und Arbeitnehmerinnen einschließlich der Lehrlinge, wenn das Arbeitsverhältnis unter den I. Teil des ArbVG fällt. Ausgenommen sind Arbeitnehmerinnen und Arbeitnehmer, deren Arbeitsverhältnisse – durch einen gültigen Kollektivvertrag (mit Ausnahme von Kollektivverträgen nach § 18 Abs. 4 ArbVG) erfasst sind oder – für deren Arbeitsverhältnis ein Kollektivvertrag mit vergleichbarem Inhalt zur Satzung erklärt wird.Inhalt der Satzung § 2. Der zwischen Wirtschaftskammer Österreich und dem Österreichischen Gewerkschaftsbund am 18. Jänner 2021 abgeschlossene Generalkollektivvertrages Corona-Tests beim Bundesministerium für Arbeit unter Registerzahl KV 40/2021 hinterlegt und im „Amtsblatt zur Wiener Zeitung“ vom 26. Jänner 2021 kundgemacht, wird zur Satzung erklärt.Beginn der Wirksamkeit und Geltungsdauer der Satzung § 3. Die Wirksamkeit dieser Satzung beginnt am Tag nach ihrer Veröffentlichung im Bundesgesetzblatt. Die Geltungsdauer der Satzung richtet sich nach der Geltungsdauer des gesatzten Generalkollektivvertrages.",
+  "parts": [
+    {
+      "@id": "3ade0863-5a4d-431b-978a-e43ebfa713cb#offset_723_1586",
+      "offset_ini": 723,
+      "offset_end": 1586,
+      "title": "Geltungsbereich der Satzung"
+    },
+    {
+      "@id": "3ade0863-5a4d-431b-978a-e43ebfa713cb#offset_1587_1939",
+      "offset_ini": 1587,
+      "offset_end": 1939,
+      "title": "Inhalt der Satzung"
+    },
+    {
+      "@id": "3ade0863-5a4d-431b-978a-e43ebfa713cb#offset_1940_2199",
+      "offset_ini": 1940,
+      "offset_end": 2199,
+      "title": "Beginn der Wirksamkeit und Geltungsdauer der Satzung"
+    },
+    {
+      "@id": "3ade0863-5a4d-431b-978a-e43ebfa713cb#offset_0_722",
+      "offset_ini": 0,
+      "offset_end": 722
+    }
+  ]
+}

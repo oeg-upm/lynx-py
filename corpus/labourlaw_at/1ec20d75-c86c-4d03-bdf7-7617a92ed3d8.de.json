@@ -1,0 +1,64 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/1ec20d75-c86c-4d03-bdf7-7617a92ed3d8",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Erklärung des Kollektivvertrages des Vorarlberger Sozial- und Gesundheitswesens zur Satzung"
+    },
+    "hasAuthority": "BKA (Bundeskanzleramt)",
+    "id_local": "20011176",
+    "first_date_entry_in_force": "2020-03-31",
+    "version_date": "2020-03-31",
+    "url_consolidated": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d20011176\u0026FassungVom\u003d2020-04-01",
+    "classifications": [
+      "60/03 Kollektives Arbeitsrecht"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/1ec20d75-c86c-4d03-bdf7-7617a92ed3d8/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/1ec20d75-c86c-4d03-bdf7-7617a92ed3d8/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 5492,
+  "text": "Präambel/Promulgationsklausel Das Bundeseinigungsamt beim Bundesministerium für Arbeit, Familie und Jugend ist gemäß § 18 Abs. 1 Arbeitsverfassungsgesetz, BGBl. Nr. 22/1974, in der Fassung des Bundesgesetzes BGBl. I Nr. 23/2020 ermächtigt, auf Antrag einer kollektivvertragsfähigen Körperschaft, die Partei eines Kollektivvertrages ist, bei Vorliegen der in Abs. 3 angeführten Voraussetzungen diesem Kollektivvertrag durch Erklärung zur Satzung auch außerhalb seines räumlichen, fachlichen und persönlichen Wirkungsbereiches rechtsverbindliche Wirkung zuzuerkennen. Das Bundeseinigungsamt beim Bundesministerium für Arbeit, Familie und Jugend hat mit Beschluss vom 15. Mai 2020 nach Durchführung einer Senatsverhandlung nachstehende Satzung erlassen:Satzung des Kollektivvertrages des Vorarlberger Sozial- und Gesundheitswesens S 2/2020/XXII/96/1 Geltungsbereich der Satzung § 1. 1. Fachlich: für Anbieterinnen und Anbieter sozialer und/oder gesundheitlicher Dienste präventiver, betreuender oder rehabilitativer Art für Personen, die entsprechender Hilfe oder Betreuung bedürfen, mit folgenden Ausnahmen: a) öffentlich-rechtliche Einrichtungen b) Heilbade-, Kur- und Krankenanstalten c) Rettungs- und Sanitätsdienste d) Private Kindergärten, private Kinderbetreuung, private Spielgruppen e) Einrichtungen der Kinderbetreuung durch Tagesmütter (-väter) 2. Räumlich: für das Bundesland Vorarlberg 3. Persönlich: Alle Arbeitgeberinnen und Arbeitgeber im fachlichen Geltungsbereich sowie die von diesen Arbeitgeberinnen und Arbeitgebern im räumlichen Geltungsbereich beschäftigten Arbeitnehmerinnen und Arbeitnehmer und Lehrlinge, sofern ihre Arbeitsverhältnisse nicht durch einen gültigen Kollektivvertrag (ausgenommen Kollektivverträge gemäß § 18 Abs. 4 ArbVG) erfasst sind. Für Arbeitsverhältnisse von Arbeitnehmerinnen und Arbeitnehmern, die auf Basis einer arbeitsmarktpolitischen und/oder sozialpolitischen Fördermaßnahme mit dem Ziel der (Re-)Integration in den Arbeitsmarkt befristet beschäftigt werden (Transitarbeitskräfte), gilt die Satzungserklärung lediglich in Bezug auf §§ 13 Abs. 4 lit. e und 11a Abs. 1 bis 3 des in § 2 angeführten Kollektivvertrags. Ausgenommen sind – Arbeitsverhältnisse von Arbeitnehmerinnen und Arbeitnehmern, die in Maßnahmen nach sozialhilferechtlichen bzw. behindertenrechtlichen Bestimmungen des Bundes und/oder des Landes beschäftigt werden, – Arbeitsverhältnisse, die auf Basis einer Zuweisung durch einen Kostenträger, z. B. AMS, Qualifizierungsmaßnahmen zum Inhalt haben, – Arbeitsverhältnisse von Klientinnen und Klienten in Betreuung oder Therapie, die einfachen Tätigkeiten nachgehen, unter dauernder Aufsicht stehen und für die eine Organisation öffentliche Fördermittel bezieht. Ein Taschengeld steht dieser Ausnahme nicht entgegen (Jugendwerkstätten, Teestuben und dgl.), – Praktikantinnen und Praktikanten, Volontärinnen und Volontäre sowie Aushilfskräfte. Praktikantin bzw. Praktikant ist, wer im Rahmen einer schulischen oder universitären Ausbildung aufgrund eines Lehrplanes bzw. einer Studienordnung verpflichtet ist, praktische Tätigkeiten nachzuweisen. Volontärin bzw. Volontär ist, wer sich kurzfristig ausschließlich zu Ausbildungszwecken oder zur persönlichen Berufsorientierung in einer Einrichtung aufhält; ein geringes Entgelt steht einem Volontariat nicht entgegen. Aushilfskraft ist, wer gelegentlich reine Anwesenheitsdienste leistet; ein geringes Entgelt bzw. Aufwandersatz steht der Ausnahme vom Geltungsbereich nicht entgegen.Inhalt der Satzung § 2. (1) Der zwischen dem Arbeitgeberverein für Sozial- und Gesundheitsorganisationen in Vorarlberg (AGV) und dem Österreichischen Gewerkschaftsbund, Gewerkschaft der Privatangestellten, Druck, Journalismus, Papier (GPA-DJP), abgeschlossene Kollektivvertrag des Vorarlberger Sozial- und Gesundheitswesens (1. 2. 2020) beim Bundesministerium für Arbeit, Familie und Jugend unter Registerzahl KV 138/2020 hinterlegt und im „Amtsblatt zur Wiener Zeitung“ vom 26. Februar 2020 kundgemacht, wird zur Satzung erklärt. (2) Von der Satzungserklärung werden nachstehende Bestimmungen des angeführten Kollektivvertrags ausgenommen: – § 1 – § 2 – § 21 – § 22 (3) Soweit in § 10 Abs. 10 und § 15 Abs. 4 auf das Wirksamwerden des Kollektivvertrages Bezug genommen wird, tritt an Stelle dieses Datums das Datum „1. Mai 2006“. Für Arbeitsverhältnisse, für die diese Satzung erst nach dem 1. Mai 2006 wirksam wird, gilt die Bestimmung ab dem Wirksamwerden der Satzung. (4) Soweit in § 13 Abs. 2 lit. c sowie Abs. 4 lit. a und b auf das Inkrafttreten des Kollektivvertrags mit 1. 2. 2020 Bezug genommen wird, tritt an Stelle dieser Daten jeweils das des Inkrafttretens der Satzung (§ 3). (5) Soweit in § 13a auf das Inkrafttreten des Kollektivvertrags mit 1.2.2014 Bezug genommen wird, tritt an Stelle dieses Datums das Datum „1. April 2014“. Für Arbeitsverhältnisse, für die diese Satzung erst nach dem 1. April 2014 wirksam wird, gilt die Bestimmung ab dem Wirksamwerden der Satzung. (6) Soweit in § 16 Punkt II auf das Inkrafttreten des Kollektivvertrages Bezug genommen wird, tritt an dessen Stelle das Datum „1. Mai 2006“. Für Arbeitsverhältnisse, für die diese Satzung erst nach dem 1. Mai 2006 wirksam wird, gilt die Bestimmung ab dem Wirksamwerden der Satzung.Beginn der Wirksamkeit und Geltungsdauer der Satzung § 3. Als Wirksamkeitsbeginn der Satzung wird der 1. April 2020 festgesetzt. Die Geltungsdauer der Satzung richtet sich nach der Geltungsdauer des gesatzten Kollektivvertrages.",
+  "parts": [
+    {
+      "@id": "1ec20d75-c86c-4d03-bdf7-7617a92ed3d8#offset_750_3494",
+      "offset_ini": 750,
+      "offset_end": 3494,
+      "title": "Geltungsbereich der Satzung"
+    },
+    {
+      "@id": "1ec20d75-c86c-4d03-bdf7-7617a92ed3d8#offset_3495_5264",
+      "offset_ini": 3495,
+      "offset_end": 5264,
+      "title": "Inhalt der Satzung"
+    },
+    {
+      "@id": "1ec20d75-c86c-4d03-bdf7-7617a92ed3d8#offset_5265_5492",
+      "offset_ini": 5265,
+      "offset_end": 5492,
+      "title": "Beginn der Wirksamkeit und Geltungsdauer der Satzung"
+    },
+    {
+      "@id": "1ec20d75-c86c-4d03-bdf7-7617a92ed3d8#offset_0_749",
+      "offset_ini": 0,
+      "offset_end": 749
+    }
+  ]
+}

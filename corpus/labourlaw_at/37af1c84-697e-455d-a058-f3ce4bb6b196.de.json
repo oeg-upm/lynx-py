@@ -1,0 +1,65 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/37af1c84-697e-455d-a058-f3ce4bb6b196",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Fests. einer Sondergebühr für Inanspruchnahme der Sonderklasse im Institut für Zahn, Mund und Kieferheilkunde im KH Lainz"
+    },
+    "hasAuthority": "LGBl. Nr. 133/2001",
+    "id_local": "20000286",
+    "first_date_entry_in_force": "2002-01-01",
+    "version_date": "2002-01-01",
+    "url_consolidated": "http://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dLrW\u0026Gesetzesnummer\u003d20000286\u0026FassungVom\u003d2002-01-01",
+    "classifications": [
+      "60/40 Krankenbehandlung",
+      "60 Gesundheits- und Sozialrecht (S)"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/37af1c84-697e-455d-a058-f3ce4bb6b196/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/37af1c84-697e-455d-a058-f3ce4bb6b196/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 1305,
+  "text": "Präambel/Promulgationsklausel Die Wiener Landesregierung hat folgenden Beschluß gefaßt:I. (1) Gemäß § 45 Abs. 2 des Wiener Krankenanstaltengesetzes 1987, LGBl. für Wien Nr. 23/1987, zuletzt geändert durch das Landesgesetz LGBl. für Wien Nr. 48/2001, wird für die Inanspruchnahme der Sonderklasse bei postoperativer Betreuung tagesklinischer Patienten im Institut für Zahn-, Mund- und Kieferheilkunde im Krankenhaus Lainz eine Gebühr in Höhe von 55,96 Euro pro Behandlungstag festgesetzt. (2) Die jeweils durch Verordnung der Wiener Landesregierung festgesetzte Anstaltsgebühr für stationäre Sonderklassebehandlungen entfällt, sofern die Gebühr gemäß Abs. 1 zu entrichten ist.II. Die für die Behandlung von tagesklinischen Patienten in der Sonderklasse neben der Gebühr gemäß Punkt I Abs. 1 zu entrichtenden Behandlungsgebühren können in Vereinbarungen mit Trägern der privaten Krankenversicherung pro tagesklinischem Behandlungsfall pauschaliert werden.III. (1) Dieser Beschluss tritt mit 1. Jänner 2002 in Kraft. (2) Mit Ablauf des 31. Dezember 2001 verliert die Kundmachung der Wiener Landesregierung betreffend die Festsetzung einer Sondergebühr für die Inanspruchnahme der Sonderklasse im Institut für Zahn-, Mund- und Kieferheilkunde im Krankenhaus Lainz, LGBl. für Wien Nr. 60/1996, ihre Wirksamkeit.",
+  "parts": [
+    {
+      "@id": "37af1c84-697e-455d-a058-f3ce4bb6b196#offset_87_674",
+      "offset_ini": 87,
+      "offset_end": 674,
+      "title": "I."
+    },
+    {
+      "@id": "37af1c84-697e-455d-a058-f3ce4bb6b196#offset_675_952",
+      "offset_ini": 675,
+      "offset_end": 952,
+      "title": "II."
+    },
+    {
+      "@id": "37af1c84-697e-455d-a058-f3ce4bb6b196#offset_953_1305",
+      "offset_ini": 953,
+      "offset_end": 1305,
+      "title": "III."
+    },
+    {
+      "@id": "37af1c84-697e-455d-a058-f3ce4bb6b196#offset_0_86",
+      "offset_ini": 0,
+      "offset_end": 86
+    }
+  ]
+}

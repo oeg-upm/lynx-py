@@ -1,0 +1,47 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/6bc05277-0052-4deb-b685-d176167cfc34",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Austausch von Gastarbeitern - Erlöschen des Abkommens (Dänemark)"
+    },
+    "hasAuthority": "BGBl. III Nr. 133/1997",
+    "id_local": "10009054",
+    "first_date_entry_in_force": "1997-08-26",
+    "version_date": "1997-08-26",
+    "url_consolidated": "http://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d10009054\u0026FassungVom\u003d1997-08-27",
+    "classifications": [
+      "69/04 Ausländerbeschäftigung"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/6bc05277-0052-4deb-b685-d176167cfc34/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/6bc05277-0052-4deb-b685-d176167cfc34/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 2928,
+  "text": "Österreichische Botschaft Kopenhagen Zl. 1201/95 Verbalnote Die Österreichische Botschaft entbietet dem Königlich Dänischen Ministerium des Äußern ihre Hochachtung und beehrt sich, dem Königlichen Dänischen Ministerium des Äußern den Austausch von Verbalnoten zwischen der Österreichischen Bundesregierung und der Regierung des Königreiches Dänemark über die Feststellung des Erlöschens des Abkommens vom 7. September 1954 vorzuschlagen: Das im Notenwechsel vom 7. September 1954 enthaltene Abkommen zwischen der Österreichischen Bundesregierung und der Regierung des Königreiches Dänemark über den Austausch von Gastarbeitnehmern 1) ist mit dem Zeitpunkt des Inkrafttretens des Beitritts der Republik Österreich zur Europäischen Union erloschen. Falls sich die Regierung des Königreiches Dänemark mit dem Vorschlag der Österreichischen Bundesregierung einverstanden erklärt, werden diese Verbalnote und die das Einverständnis der Regierung des Königreiches Dänemark zum Ausdruck bringende Antwortnote des Königlich Dänischen Ministeriums des Äußeren eine einvernehmliche Feststellung über das Erlöschen des eingangs erwähnten Abkommens vom 7. September 1954 darstellen. Die Österreichische Botschaft benützt diesen Anlaß, dem Königlich Dänischen Ministerium des Äußern die Versicherung ihrer ausgezeichneten Hochachtung zu erneuern. Kopenhagen, am 1. Februar 1996 L.S. An das Königlich Dänische Ministerium des Äußern Kopenhagen UDENRIGSMINISTERIET Az. 96.D.23 Verbalnote Das Ministerium des Äußern beehrt sich, den Empfang der Note der Österreichischen Botschaft vom 1. Februar dieses Jahres zu bestätigen, die folgenden Wortlaut hat: „Das im Notenwechsel vom 7. September 1954 enthaltene Abkommen zwischen der Österreichischen Bundesregierung und der Regierung des Königreiches Dänemark über den Austausch von Gastarbeitnehmern ist mit dem Zeitpunkt des Inkrafttretens des Beitritts der Republik Österreich zur Europäischen Union erloschen. Falls sich die Regierung des Königreiches Dänemark mit dem Vorschlag der Österreichischen Bundesregierung einverstanden erklärt, werden diese Verbalnote und die das Einverständnis der Regierung des Königreiches Dänemark zum Ausdruck bringende Antwortnote des Königlich Dänischen Ministeriums des Äußern eine einvernehmliche Feststellung über das Erlöschen des eingangs erwähnten Abkommens vom 7. September 1954 darstellen.“ In Beantwortung obengenannter Note beehrt sich das Ministerium des Äußern, der Österreichischen Botschaft mitzuteilen, daß die dänische Regierung den in der Note wiedergegebenen Vorschlag annehmen kann, und daß die Regierung sich einverstanden erklärt, die Verbalnote der Botschaft und diese Antwort als ein Übereinkommen zwischen den beiden Regierungen über das Erlöschen des Abkommens vom 7. September 1954 zu betrachten. Kopenhagen, den 20. März 1996 L.S. An die Österreichische Botschaft Kopenhagen ______________________ 1) Kundgemacht in BGBl. Nr. 35/1955",
+  "parts": [
+    {
+      "@id": "6bc05277-0052-4deb-b685-d176167cfc34#offset_0_2928",
+      "offset_ini": 0,
+      "offset_end": 2928,
+      "title": "L.S."
+    }
+  ]
+}

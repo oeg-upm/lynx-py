@@ -1,0 +1,58 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/ca2332b0-6b06-4fe0-8aec-65c0118dd4c3",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Durchführung des Grenzgängerabkommens"
+    },
+    "hasAuthority": "BGBl. III Nr. 30/2006",
+    "id_local": "20004611",
+    "first_date_entry_in_force": "2006-02-17",
+    "version_date": "2006-02-17",
+    "url_consolidated": "http://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d20004611\u0026FassungVom\u003d2006-02-17",
+    "classifications": [
+      "69/02 Arbeitsrecht"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/ca2332b0-6b06-4fe0-8aec-65c0118dd4c3/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/ca2332b0-6b06-4fe0-8aec-65c0118dd4c3/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 753,
+  "text": "Präambel/Promulgationsklausel Gemäß Art. 2 Abs. 2 des Abkommens zwischen der Regierung der Republik Österreich und der Regierung der Tschechischen Republik über die Beschäftigung in Grenzzonen (Grenzgängerabkommen), BGBl. III Nr. 83/2005, wird verordnet:§ 1. Über Anträge und über die Entziehung von Zulassung nach dem Grenzgängerabkommen entscheidet die nach dem Ort der Beschäftigung des Grenzgängers zuständige regionale Geschäftsstelle des Arbeitsmarktservice. Liegt noch keine Beschäftigung vor, ist der Ort der beabsichtigten Beschäftigung maßgeblich.§ 2. Über Berufungen gegen Bescheide der regionalen Geschäftsstellen gemäß Abs. 1 entscheidet die zuständige Landesgeschäftsstelle des Arbeitsmarktservice. Eine weitere Berufung ist nicht zulässig.",
+  "parts": [
+    {
+      "@id": "ca2332b0-6b06-4fe0-8aec-65c0118dd4c3#offset_254_556",
+      "offset_ini": 254,
+      "offset_end": 556,
+      "title": ""
+    },
+    {
+      "@id": "ca2332b0-6b06-4fe0-8aec-65c0118dd4c3#offset_557_753",
+      "offset_ini": 557,
+      "offset_end": 753,
+      "title": ""
+    },
+    {
+      "@id": "ca2332b0-6b06-4fe0-8aec-65c0118dd4c3#offset_0_253",
+      "offset_ini": 0,
+      "offset_end": 253
+    }
+  ]
+}

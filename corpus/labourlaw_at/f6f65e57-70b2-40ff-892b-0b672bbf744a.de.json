@@ -1,0 +1,76 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/f6f65e57-70b2-40ff-892b-0b672bbf744a",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Heimarbeitstarif für die Herstellung oder Bearbeitung von Bürsten und Pinseln aller Art (Gewerbe und Industrie) durch Heimarbeiterinnen und Heimarbeiter"
+    },
+    "hasAuthority": "BKA (Bundeskanzleramt)",
+    "id_local": "20011305",
+    "first_date_entry_in_force": "2020-06-30",
+    "version_date": "2020-06-30",
+    "url_consolidated": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d20011305\u0026FassungVom\u003d2020-07-01",
+    "classifications": [
+      "60/04 Arbeitsrecht allgemein"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/f6f65e57-70b2-40ff-892b-0b672bbf744a/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/f6f65e57-70b2-40ff-892b-0b672bbf744a/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 3873,
+  "text": "Präambel/Promulgationsklausel Das Bundeseinigungsamt beim Bundesministerium für Arbeit, Familie und Jugend ist gemäß § 34 Abs. 1 Heimarbeitsgesetz 1960, BGBl. Nr. 105/1961, in der Fassung des Bundesgesetzes BGBl. I Nr. 61/2018 ermächtigt, auf Antrag einer kollektivvertragsfähigen Körperschaft der Arbeitnehmerinnen und Arbeitnehmer Heimarbeitstarife zu erlassen. Das Bundeseinigungsamt beim Bundesministerium für Arbeit, Familie und Jugend hat mit Beschluss vom 13. Oktober 2020 nach Durchführung einer Senatsverhandlung nachstehenden Heimarbeitstarif erlassen:Heimarbeitstarif für die Herstellung oder Bearbeitung von Bürsten und Pinseln aller Art (Gewerbe und Industrie) durch Heimarbeiterinnen und Heimarbeiter H 5/2020/VIII/38/3 Geltungsbereich § 1. a) Räumlich: für das Bundesgebiet Österreich. b) Fachlich: für die Herstellung oder Bearbeitung von Bürsten und Pinseln aller Art, soweit ihre Herstellung oder Bearbeitung nicht in einen anderen Erzeugungszweig fällt und nicht bereits in einem Heimarbeitsgesamtvertrag oder Heimarbeitstarif geregelt ist. c) Persönlich: für alle Auftraggeberinnen und Auftraggeber, die für die unter b) angeführten Arbeiten Heimarbeiterinnen und Heimarbeiter beschäftigen.Arbeitszeiten § 2. Für das Einziehen von 1 000 Bündeln, ohne Zusammenschneiden des Materials und ohne Wickeln des Drahtes, bei einwandfrei gebohrten Bürstenhölzern (das Durchstoßen der Bohrnadeln gehört nicht zur Arbeitszeit), werden folgende Arbeitszeiten festgesetzt: 1. Glanzbürsten über 3 mm Bohrung sowie Schmier- und Pastabürsten 161 Minuten 2. Pferdebürsten über 3 mm Bohrung und ähnlicher kurz geschnittener Waren 152 Minuten 3. Fass- und Wandelbürsten mit ähnlicher Facon mit doppeltem Bart aus beliebigem Material 246 Minuten 4. Schablonenbündel aus Borsten, Fibris, B-Chineser oder Riffling samt Abschneiden 197 Minuten 5. Schablonenbündel aus C-Chineserborsten samt Abschneiden 213 Minuten 6. Zimmerbürsten ohne Schablone aus Borsten, Fibris, B-Chineser oder Riffling 187 Minuten 7. Zimmerbürsten ohne Schablone aus C-Chineserborsten 206 Minuten 8. Reib-, Wasch-, Kotbürsten und Schrubber mit einfachem Bart aus beliebigem Material 197 Minuten 9. Teppichbartwische, Besen, Teerschrubber sowie schmale Bassinbesen, zwei- und dreireihig aus beliebigem Material samt Abschneiden 222 Minuten 10. Piassavabesen aus Bassin 296 Minuten 11. Besen aus Rosshaar, Fibris oder Kokosfasern 187 Minuten 12. Bartwische aus Rosshaar, Fibris oder Kokosfasern 197 Minuten 13. Klosettbürsten aus beliebigem Material samt Abschneiden 317 Minuten 14. Polierscheiben zwei- bis sechsreihig aus Haar 274 Minuten 15. Malerscheiben, Bäcker- und Mehlwischer sowie Einlassbesen auf den Knöpfen eingezogen 280 Minuten 16. Henkelbürsten 213 Minuten 17. Gläserbürsten 181 Minuten 18. Kleiderbürsten, Pferdebürsten und Putzbürsten sowie Bürsten unter 3 mm Bohrung 145 Minuten 19. Kopfbürsten, auch hochbombierte 157 Minuten 20. Billard- und Möbelbürsten aus Borsten und Haar 180 Minuten 21. Billard- oder Möbelbürsten aus Kokosfasern oder Fibris 169 MinutenEntgelte § 3. (1) Sämtliche Stückentgelte (auch für die nicht im § 2 angeführten Arbeitsstücke) der in Heimarbeit im Rahmen von Gewerbebetrieben Beschäftigten sind mit einem Stundenlohn von 8,75 € zu berechnen. (2) Für Betriebe, die dem Fachverband der Holz verarbeitenden Industrie angehören, ist der Kollektivvertrag für die Holz verarbeitende Industrie, gemäß Lohngruppe V mit einem Stundenlohn von 11,03 € zu berechnen.Heimarbeitszuschlag § 4. Auf die so errechneten Stückentgelte erhalten die in Heimarbeit Beschäftigten einen gesondert auszuweisenden Heimarbeitszuschlag von 10%, bei Beistellung von eigenem Werkzeug einen gesondert auszuweisenden Heimarbeitszuschlag von 20%.Wirksamkeitsbeginn § 5. Der Wirksamkeitsbeginn dieses Heimarbeitstarifes wird für das Gewerbe und für die Industrie mit 1. Juli 2020 festgesetzt.",
+  "parts": [
+    {
+      "@id": "f6f65e57-70b2-40ff-892b-0b672bbf744a#offset_562_1209",
+      "offset_ini": 562,
+      "offset_end": 1209,
+      "title": "Geltungsbereich"
+    },
+    {
+      "@id": "f6f65e57-70b2-40ff-892b-0b672bbf744a#offset_1210_3046",
+      "offset_ini": 1210,
+      "offset_end": 3046,
+      "title": "Arbeitszeiten"
+    },
+    {
+      "@id": "f6f65e57-70b2-40ff-892b-0b672bbf744a#offset_3047_3469",
+      "offset_ini": 3047,
+      "offset_end": 3469,
+      "title": "Entgelte"
+    },
+    {
+      "@id": "f6f65e57-70b2-40ff-892b-0b672bbf744a#offset_3470_3728",
+      "offset_ini": 3470,
+      "offset_end": 3728,
+      "title": "Heimarbeitszuschlag"
+    },
+    {
+      "@id": "f6f65e57-70b2-40ff-892b-0b672bbf744a#offset_3729_3873",
+      "offset_ini": 3729,
+      "offset_end": 3873,
+      "title": "Wirksamkeitsbeginn"
+    },
+    {
+      "@id": "f6f65e57-70b2-40ff-892b-0b672bbf744a#offset_0_561",
+      "offset_ini": 0,
+      "offset_end": 561
+    }
+  ]
+}

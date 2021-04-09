@@ -1,0 +1,59 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/63bce6b1-117a-47b2-a07f-b380a3723cbf",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Festsetzung der Ambulatoriumsbeiträge für die Wiener städtischen Krankenanstalten"
+    },
+    "hasAuthority": "Landesregierung Wien",
+    "id_local": "20000627",
+    "first_date_entry_in_force": "2021-01-01",
+    "version_date": "2021-01-01",
+    "url_consolidated": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dLrW\u0026Gesetzesnummer\u003d20000627\u0026FassungVom\u003d2021-01-01",
+    "classifications": [
+      "60/40 Krankenbehandlung",
+      "60 Gesundheits- und Sozialrecht (S)"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/63bce6b1-117a-47b2-a07f-b380a3723cbf/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/63bce6b1-117a-47b2-a07f-b380a3723cbf/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 1631,
+  "text": "Bundesland Wien Präambel/Promulgationsklausel Gemäß § 46 Abs. 1 Wiener Krankenanstaltengesetz 1987 – Wr. KAG, LGBl. für Wien Nr. 23, zuletzt geändert durch das Landesgesetz LGBl. für Wien Nr. 19/2020, wird verordnet: Im RIS seit 23.02.2021Artikel I (1) Die Ambulatoriumsbeiträge für die Wiener städtischen Krankenanstalten finden bei Verrechnung ambulanter Untersuchungen und Behandlungen von Personen Anwendung, für die eine Abrechnung dieser Leistungen nicht aus Mitteln der Landesgesundheitsfonds erfolgt. Die Rechnungen werden im Einklang mit den bezughabenden Bestimmungen nach dem Umsatzsteuergesetz 1994 (UStG 1994), BGBl. Nr. 663/1994, in der Fassung BGBl. I Nr. 3/2021, und dem Gesundheits- und Sozialbereich-Beihilfengesetz (GSBG), BGBl. Nr. 746/1996, in der Fassung BGBl. I Nr. 104/2019, fakturiert. (2) Es ist zulässig, dass im Falle ambulanter Zuweisungen stationär aufgenommener Patientinnen und Patienten die leistungserbringenden Krankenanstalten mit den zuweisenden Krankenanstalten dafür zur Verrechnung zwischen den Krankenanstalten gelangende Entgelte vereinbaren. Derartige Vereinbarungen sind ohne Einfluss auf die gesetzliche Gebührenschuld. (3) Die Ambulatoriumsbeiträge für die Wiener städtischen Krankenanstalten werden gemäß der Anlage festgesetzt. Die Anlage bildet einen Bestandteil dieser Verordnung.Artikel II Schlussbestimmungen (1) Diese Verordnung tritt mit 1. Jänner 2021 in Kraft. (2) Mit Ablauf des 31. Dezember 2020 tritt die Verordnung der Wiener Landesregierung über die Festsetzung der Ambulatoriumsbeiträge für die Wiener städtischen Krankenanstalten, LGBl. für Wien Nr. 6/2020 außer Kraft.",
+  "parts": [
+    {
+      "@id": "63bce6b1-117a-47b2-a07f-b380a3723cbf#offset_239_1329",
+      "offset_ini": 239,
+      "offset_end": 1329,
+      "title": ""
+    },
+    {
+      "@id": "63bce6b1-117a-47b2-a07f-b380a3723cbf#offset_1330_1631",
+      "offset_ini": 1330,
+      "offset_end": 1631,
+      "title": "Schlussbestimmungen"
+    },
+    {
+      "@id": "63bce6b1-117a-47b2-a07f-b380a3723cbf#offset_0_238",
+      "offset_ini": 0,
+      "offset_end": 238
+    }
+  ]
+}

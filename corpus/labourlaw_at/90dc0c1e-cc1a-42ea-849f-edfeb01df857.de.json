@@ -1,0 +1,76 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/90dc0c1e-cc1a-42ea-849f-edfeb01df857",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Heimarbeitstarif für die qualifizierte bzw. nicht qualifizierte Herstellung oder Bearbeitung von kunstgewerblichen Artikeln aller Art durch Heimarbeiterinnen und Heimarbeiter"
+    },
+    "hasAuthority": "BKA (Bundeskanzleramt)",
+    "id_local": "20011302",
+    "first_date_entry_in_force": "2020-06-30",
+    "version_date": "2020-06-30",
+    "url_consolidated": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d20011302\u0026FassungVom\u003d2020-07-01",
+    "classifications": [
+      "60/04 Arbeitsrecht allgemein"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/90dc0c1e-cc1a-42ea-849f-edfeb01df857/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/90dc0c1e-cc1a-42ea-849f-edfeb01df857/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 2121,
+  "text": "Präambel/Promulgationsklausel Das Bundeseinigungsamt beim Bundesministerium für Arbeit, Familie und Jugend ist gemäß § 34 Abs. 1 Heimarbeitsgesetz 1960, BGBl. Nr. 105/1961, in der Fassung des Bundesgesetzes BGBl. I Nr. 61/2018 ermächtigt, auf Antrag einer kollektivvertragsfähigen Körperschaft der Arbeitnehmerinnen und Arbeitnehmer Heimarbeitstarife zu erlassen. Das Bundeseinigungsamt beim Bundesministerium für Arbeit, Familie und Jugend hat mit Beschluss vom 13. Oktober 2020 nach Durchführung einer Senatsverhandlung nachstehenden Heimarbeitstarif erlassen:Heimarbeitstarif für die qualifizierte bzw. nicht qualifizierte Herstellung oder Bearbeitung von kunstgewerblichen Artikeln aller Art durch Heimarbeiterinnen und Heimarbeiter H 10/2020/VIII/38/8 Geltungsbereich § 1. a) Räumlich: für das Bundesgebiet Österreich. b) Fachlich: für die Herstellung oder Bearbeitung von kunstgewerblichen Artikeln 1. qualifizierter Art, d.s. insbesondere Hinterglasmalerei, Ikonenmalerei bzw. -schreiberei, Federzeichnungen auf verschiedenen Materialien, freies Modellieren von verschiedenen Figuren aus Knetmassen, Emailmalerei, 2. nicht qualifizierter Art, soweit ihre Herstellung oder Bearbeitung nicht in einen anderen Erzeugungszweig fällt und nicht bereits in einem Heimarbeitsgesamtvertrag oder Heimarbeitstarif geregelt ist. c) Persönlich: Für alle Auftraggeberinnen und Auftraggeber, die für die unter b) angeführten Arbeiten Heimarbeiterinnen und Heimarbeiter beschäftigen.Entgelte § 2. (1) Die Stückentgelte für die unter b) 1) in Heimarbeit Beschäftigten sind mit einem Stundenlohn von 8,92 € zu berechnen. (2) Die Stückentgelte für die unter b) 2) in Heimarbeit Beschäftigten sind mit einem Stundenlohn von 7,63 € zu berechnen.Heimarbeitszuschlag § 3. Auf die so errechneten Stückentgelte erhalten die in Heimarbeit Beschäftigten einen gesondert auszuweisenden Heimarbeitszuschlag von 10%.Sonstige Ansprüche § 4. Der Urlaubszuschuss und die Weihnachtsremuneration betragen jeweils vier Wochenlöhne, das sind 8%.Wirksamkeitsbeginn § 5. Der Wirksamkeitsbeginn dieses Heimarbeitstarifes wird mit 1. Juli 2020 festgesetzt.",
+  "parts": [
+    {
+      "@id": "90dc0c1e-cc1a-42ea-849f-edfeb01df857#offset_562_1473",
+      "offset_ini": 562,
+      "offset_end": 1473,
+      "title": "Geltungsbereich"
+    },
+    {
+      "@id": "90dc0c1e-cc1a-42ea-849f-edfeb01df857#offset_1474_1730",
+      "offset_ini": 1474,
+      "offset_end": 1730,
+      "title": "Entgelte"
+    },
+    {
+      "@id": "90dc0c1e-cc1a-42ea-849f-edfeb01df857#offset_1731_1892",
+      "offset_ini": 1731,
+      "offset_end": 1892,
+      "title": "Heimarbeitszuschlag"
+    },
+    {
+      "@id": "90dc0c1e-cc1a-42ea-849f-edfeb01df857#offset_1893_2014",
+      "offset_ini": 1893,
+      "offset_end": 2014,
+      "title": "Sonstige Ansprüche"
+    },
+    {
+      "@id": "90dc0c1e-cc1a-42ea-849f-edfeb01df857#offset_2015_2121",
+      "offset_ini": 2015,
+      "offset_end": 2121,
+      "title": "Wirksamkeitsbeginn"
+    },
+    {
+      "@id": "90dc0c1e-cc1a-42ea-849f-edfeb01df857#offset_0_561",
+      "offset_ini": 0,
+      "offset_end": 561
+    }
+  ]
+}

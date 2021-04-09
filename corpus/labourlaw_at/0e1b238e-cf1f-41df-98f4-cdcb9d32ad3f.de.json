@@ -1,0 +1,39 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/0e1b238e-cf1f-41df-98f4-cdcb9d32ad3f",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Hilfeleistung – Hilfsbedürftige zu repatriierende Personen (Slowenien)"
+    },
+    "hasAuthority": "BKA (Bundeskanzleramt)",
+    "id_local": "10008202",
+    "first_date_entry_in_force": "1964-08-01",
+    "version_date": "1993-11-01",
+    "url_consolidated": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d10008202\u0026FassungVom\u003d1993-11-01",
+    "classifications": [
+      "69/05 Fürsorgewesen"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/0e1b238e-cf1f-41df-98f4-cdcb9d32ad3f/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/0e1b238e-cf1f-41df-98f4-cdcb9d32ad3f/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 744,
+  "text": "Beachte Die Bezeichnungen „Republik Slowenien“ bzw. „slowenisch“ treten an die Stelle der Bezeichnungen „Föderative Volksrepublik Jugoslawien“, „FVRJ“, „Sozialistische Föderative Republik Jugoslawien“ oder „SFRJ“ bzw. „jugoslawisch“. Aus dokumentalistischen Gründen wurde für die in einem Notenwechsel (BGBl. Nr. 715/1993) beschlossene Weiteranwendung eine Kopie des Vertrages (einschließlich etwaiger Änderungen) erstellt. Aus Zweckmäßigkeitsgründen wurde auf die generelle Einarbeitung verzichtet. Ein „Beachte“ befindet sich in jedem Dokument, unabhängig davon, ob es betroffen ist. Änderung BGBl. Nr. 715/1993 Sprachen Deutsch, Serbokroatisch Ratifikationstext Das in diesem Notenwechsel enthaltene Abkommen tritt am 1. August 1964 in Kraft."
+}

@@ -1,0 +1,142 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/0f28c66f-bbe1-425f-afa7-0be7444306fa",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Übereinkommen über das Alter für die Zulassung von Kindern zu nichtgewerblichen Arbeiten"
+    },
+    "hasAuthority": "BGBl. Nr. 280/1936 zuletzt geändert durch BGBl. Nr. 224/1949 ",
+    "id_local": "10008098",
+    "first_date_entry_in_force": "1949-03-31",
+    "version_date": "1962-02-05",
+    "url_consolidated": "http://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d10008098\u0026FassungVom\u003d1949-03-31",
+    "classifications": [
+      "69/02 Arbeitsrecht"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/0f28c66f-bbe1-425f-afa7-0be7444306fa/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/0f28c66f-bbe1-425f-afa7-0be7444306fa/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 14507,
+  "text": "Sonstige Textteile Der Bundespräsident von Österreich erklärt den von der XVI. Internationalen Arbeitskonferenz in Genf im Jahre 1932 angenommenen Entwurf eines Übereinkommens über das Alter für die Zulassung von Kindern zu nichtgewerblichen Arbeiten, welcher also lautet: ... für ratifiziert und verspricht im Namen des Bundesstaates Österreich dessen gewissenhafte Erfüllung. Zu Urkund dessen ist die vorliegende Ratifikation vom Bundespräsidenten unterfertigt, vom Bundeskanzler und von den Bundesministern für die auswärtigen Angelegenheiten, für Unterricht, für soziale Verwaltung und für Land- und Forstwirtschaft gegengezeichnet und mit dem Staatssiegel des Bundesstaates Österreich versehen worden. Geschehen zu Wien, den 20. Jänner 1936 Ratifikationstext Die vorliegende Ratifikationsurkunde ist am 26. Februar 1936 im Internationalen Arbeitsamt des Völkerbundes hinterlegt worden. Folgende Staaten haben bisher das Übereinkommen ratifiziert: Belgien (ohne Belgisch-Kongo und ohne die belgischen Mandatsgebiete), Kuba, Spanien, die Niederlande und Uruguay. Dieses Übereinkommen wird gemäß seinem Artikel 11 für Österreich am 26. Februar 1937 in Kraft treten. Gegenwärtig (Kundmachung des Bundeskanzleramtes vom 12. Oktober 1950, BGBl. Nr. 219/1950) nicht mehr Mitglied der Internationalen Arbeitsorganisation: Spanien Präambel/Promulgationsklausel Die Allgemeine Konferenz der Internationalen Arbeitsorganisation des Völkerbundes, die vom Verwaltungsrate des Internationalen Arbeitsamtes nach Genf einberufen wurde und am 12. April 1932 zu ihrer sechzehnten Tagung zusammengetreten ist, hat beschlossen, verschiedene Anträge anzunehmen, betreffend das Alter für die Zulassung von Kindern zu Arbeit in nichtgewerblichen Berufen, eine Frage, die den dritten Gegenstand ihrer Tagesordnung bildet, und dabei bestimmt, daß diese Anträge die Form eines Entwurfes eines internationalen Übereinkommens erhalten sollen. Die Konferenz nimmt heute, am 30. April 1932, den folgenden Entwurf eines Übereinkommens an, zwecks Ratifikation durch die Mitglieder der Internationalen Arbeitsorganisation, gemäß den Bestimmungen des Teiles XIII des Vertrages von Versailles und der entsprechenden Teile der anderen Friedensverträge:Artikel 1. 1. Dieses Übereinkommen findet Anwendung auf jede Arbeit, die nicht den Gegenstand der Regelung durch die folgenden von der Internationalen Arbeitskonferenz auf ihrer ersten, zweiten und dritten Tagung angenommenen Übereinkommen bildet: Übereinkommen über das Mindestalter für die Zulassung von Kindern zur gewerblichen Arbeit (Washington, 1919); Übereinkommen über das Mindestalter für die Zulassung von Kindern zur Arbeit auf See (Genua, 1920); Übereinkommen über das Alter für die Zulassung von Kindern zur Arbeit in der Landwirtschaft (Genf, 1921). In jedem Staate bestimmt die zuständige Behörde nach Anhörung der wichtigsten beteiligten Berufsverbände der Arbeitgeber und der Arbeitnehmer die Grenze zwischen dem Geltungsbereiche dieses Übereinkommens und dem der vorstehend bezeichneten drei Übereinkommen. 2. Dieses Übereinkommen findet keine Anwendung: a) auf die Seefischerei; b) auf die Arbeit in Fach- und Berufschulen, sofern sie im wesentlichen erzieherischer Art ist, nicht geschäftlichen Gewinn anstrebt und sofern sie durch die Behörde begrenzt, genehmigt und beaufsichtigt wird. 3. In jedem Staat ist die zuständige Behörde befugt, von der Anwendung dieses Übereinkommens auszunehmen: a) Beschäftigung in Betrieben, in denen nur Mitglieder der Familie des Arbeitgebers beschäftigt werden, sofern es sich nicht um eine schädliche, nachteilige oder gefährliche Beschäftigung im Sinne der Artikel 3 und 5 dieses Übereinkommens handelt; b) hauswirtschaftliche Arbeit in der Familie, die von Mitgliedern dieser Familie verrichtet wird.Artikel 2. Soweit im folgenden nichts anderes bestimmt ist, dürfen Kinder unter vierzehn Jahren sowie solche, die das vierzehnte Lebensjahr zwar überschritten haben, aber noch der gesetzlichen Grund(Primar)schulpflicht unterstehen, bei den durch dieses Übereinkommen erfaßten Arbeiten nicht beschäftigt werden.Artikel 3. 1. Kinder, die das zwölfte Lebensjahr vollendet haben, können außerhalb der für den Schulbesuch vorgesehenen Stunden bei leichten Arbeiten beschäftigt werden, sofern diese Arbeiten: a) für die Gesundheit oder die normale Entwicklung der Kinder nicht schädlich sind; b) nicht durch ihre Art den Besuch der Schule oder die Möglichkeit, dem Schulunterricht mit Nutzen zu folgen, beeinträchtigen; c) sowohl an Schultagen wie an schulfreien Tagen zwei Stunden täglich nicht überschreiten, wobei die Gesamtzahl der dem Schulunterricht und den leichten Arbeiten gewidmeten Stunden täglich keinesfalls mehr als sieben betragen darf. 2. Leichte Arbeiten sind verboten: a) an Sonntagen und gesetzlichen Feiertagen; b) während der Nacht, das heißt während eines Zeitraumes von mindestens zwölf aufeinander folgenden Stunden, welcher die Zeit zwischen acht Uhr abends und acht Uhr morgens in sich schließt. 3. Die Gesetzgebung wird nach Anhörung der wichtigsten beteiligten Berufsverbände der Arbeitgeber und der Arbeitnehmer a) bestimmen, welche Arten von Arbeit als leichte Arbeiten im Sinne dieses Artikels angesehen werden können; b) vorschreiben, welche Sicherungen gegeben sein müssen, bevor Kinder mit leichten Arbeiten beschäftigt werden dürfen. 4. Vorbehaltlich der Bestimmungen des Absatzes 1a dieses Artikels a) kann die Gesetzgebung bestimmen, welche Arbeiten während der Ferien von den über vierzehn Jahre alten Kindern im Sinne des Artikels 2 geleistet werden dürfen und welches die tägliche Höchstdauer dieser Arbeiten ist; b) darf in Staaten, in denen Bestimmungen über eine gesetzliche Schulpflicht nicht bestehen, die Dauer der Beschäftigung mit leichten Arbeiten viereinhalb Stunden täglich nicht überschreiten.Artikel 4. Die Gesetzgebung kann im Interesse der Kunst, der Wissenschaft oder des Unterrichtes Ausnahmen von Bestimmungen der Artikel 2 und 3 dieses Übereinkommens im Wege der Einzelermächtigung zulassen, um das Auftreten von Kindern bei öffentlichen Aufführungen jeder Art oder ihre Teilnahme als Schauspieler oder Statisten bei Filmaufnahmen zu ermöglichen. Jedoch gelten folgende Einschränkungen: a) solche Ausnahmen dürfen nicht zugelassen werden, wenn es sich um eine Beschäftigung handelt, die gefährlich im Sinne des Artikels 5 dieses Übereinkommens ist, insbesondere um Darbietungen in Zirkus, Varieté oder Kabarett; b) es sind strenge Sicherungen zu treffen, um Gesundheit, körperliche Entwicklung und Sittlichkeit der Kinder zu schützen und ihnen gute Behandlung, angemessene Ruhezeit und Fortsetzung des Unterrichtes zu gewährleisten; c) Kinder, deren Arbeit unter den in diesem Artikel vorgesehenen Voraussetzungen zugelassen ist, dürfen nicht nach Mitternacht beschäftigt werden.Artikel 5. Die Gesetzgebung schreibt eine höhere Altersgrenze oder höhere Altersgrenzen als in Artikel 2 dieses Übereinkommens vor für die Zulassung von jungen Leuten und Jugendlichen zu Arbeiten, die wegen ihrer Beschaffenheit oder der Verhältnisse, unter denen sie ausgeführt werden, für Leben, Gesundheit oder Sittlichkeit der dabei beschäftigten Personen gefährlich sind.Artikel 6. Die Gesetzgebung schreibt eine höhere Altersgrenze oder höhere Altersgrenzen als in Artikel 2 dieses Übereinkommens vor für die Zulassung von jungen Leuten und Jugendlichen zur Beschäftigung beim Handel im Umherziehen auf Straßen oder an allgemein zugänglichen Orten, zu ständiger Beschäftigung bei Auslagen außerhalb der Läden und zur Beschäftigung in Wanderberufen, sofern diese Tätigkeiten unter Verhältnissen ausgeübt werden, welche die Festsetzung einer höheren Altersgrenze rechtfertigen.Artikel 7. Um die wirksame Durchführung der Bestimmungen dieses Übereinkommens zu gewährleisten, wird die Gesetzgebung vorsehen: a) ein geeignetes Verfahren amtlicher Aufsicht und Überwachung; b) geeignete Maßnahmen, um die Feststellung und Überwachung der Personen unter einem bestimmten Alter zu erleichtern, welche bei den in Artikel 6 bezeichneten Beschäftigungen und Berufen verwendet werden; c) Strafen für die Verletzung der gesetzlichen Vorschriften, welche der Durchführung der Bestimmungen dieses Übereinkommens dienen.Artikel 8. Die Jahresberichte gemäß Artikel 408 des Vertrages von Versailles und den entsprechenden Artikeln der anderen Friedensverträge sollen vollständige Mitteilungen enthalten über die Maßnahmen der Gesetzgebung zur Durchführung dieses Übereinkommens. Diese Mitteilungen sollen insbesondere einschließen: a) ein Verzeichnis der Arten von Arbeit, welche die Gesetzgebung als leicht im Sinne des Artikels 3 bestimmt; b) ein Verzeichnis der Arten von Arbeit, für welche die Gesetzgebung gemäß Artikel 5 und 6 höhere Altersgrenzen als in Artikel 2 vorschreibt; c) vollständige Angaben über die Voraussetzungen, unter denen auf Grund des Artikels 4 Ausnahmen von den Bestimmungen der Artikel 2 und 3 gewährt werden.Artikel 9. Die Bestimmungen der Artikel 2, 3, 4, 5, 6 und 7 dieses Übereinkommens finden keine Anwendung auf Indien. Statt dessen gilt für Indien folgendes: 1. Die Beschäftigung von Kindern unter zehn Jahren wird untersagt. Doch kann die Gesetzgebung im Interesse der Kunst, der Wissenschaft oder des Unterrichtes im Wege der Einzelermächtigung Ausnahmen von der vorstehenden Bestimmung zulassen, um das Auftreten von Kindern bei öffentlichen Aufführungen jeder Art oder ihre Teilnahme als Schauspieler oder Statisten bei Filmaufnahmen zu ermöglichen. Ferner hat, falls die Gesetzgebung für die Zulassung der Kinder zu Betrieben ohne Kraftantrieb, die nicht dem indischen Fabrikgesetz unterstehen, eine höhere Altersgrenze als zehn Jahre vorschreiben sollte, für die Durchführung dieser Ziffer die so festgesetzte Grenze für die Zulassung zur Arbeit in jenen Betrieben an Stelle der Grenze von zehn Jahren zu treten. 2. Personen unter vierzehn Jahren dürfen nicht beschäftigt werden bei nichtgewerblichen Arbeiten, welche die zuständige Behörde nach Anhörung der wichtigsten beteiligten Berufsverbände der Arbeitgeber und der Arbeitnehmer als gefährlich für Leben, Gesundheit oder Sittlichkeit erklärt. 3. Die Gesetzgebung wird eine höhere Altersgrenze als zehn Jahre vorschreiben für die Zulassung von jungen Leuten und Jugendlichen zur Beschäftigung beim Handel im Umherziehen auf Straßen oder an allgemein zugänglichen Orten, zuständiger Beschäftigung bei Auslagen außerhalb der Läden und zur Beschäftigung in Wanderberufen, sofern diese Tätigkeiten unter Verhältnissen ausgeübt werden, welche die Festsetzung einer höheren Altersgrenze rechtfertigen. 4. Die Gesetzgebung wird Maßnahmen zur Durchführung der Bestimmungen dieses Artikels treffen und insbesondere Strafen für die Verletzung der gesetzlichen Vorschriften festsetzen, die der Durchführung der Bestimmungen dieses Artikels dienen. 5. Die zuständige Behörde wird fünf Jahre nach Erlaß der Gesetze, die der Durchführung der Bestimmungen dieses Übereinkommens dienen, die gesamten Verhältnisse im Hinblick auf eine Erhöhung der in diesem Übereinkommen vorgesehenen Altersgrenzen nachprüfen; diese Nachprüfung hat sich auf alle Bestimmungen dieses Artikels zu erstrecken. Sollte in Indien die Pflicht zum Schulbesuche bis zum Alter von vierzehn Jahren durch die Gesetzgebung eingeführt werden, so würde dieser Artikel außer Kraft treten und die Artikel 2, 3, 4, 5, 6 und 7 würden dann auf Indien Anwendung finden.Artikel 10. Die förmlichen Ratifikationen dieses Übereinkommens sind nach den Bestimmungen des Teiles XIII des Vertrages von Versailles und der entsprechenden Teile der anderen Friedensverträge dem Generaldirektor des Internationalen Arbeitsamtes zur Eintragung mitzuteilen.Artikel 11. Dieses Übereinkommen bindet nur diejenigen Mitglieder der Internationalen Arbeitsorganisation, deren Ratifikation beim Internationalen Arbeitsamt eingetragen ist. Es tritt in Kraft ein Jahr, nachdem die Ratifikationen zweier Mitglieder durch den Generaldirektor eingetragen worden sind. In der Folge tritt dieses Übereinkommen für jedes andere Mitglied ein Jahr nach der Eintragung seiner Ratifikation in Kraft.Artikel 12. Sobald die Ratifikationen zweier Mitglieder der Internationalen Arbeitsorganisation beim Internationalen Arbeitsamt eingetragen sind, teilt der Generaldirektor des Internationalen Arbeitsamtes dies sämtlichen Mitgliedern der Internationalen Arbeitsorganisation mit. Auch gibt er ihnen Kenntnis von der Eintragung der Ratifikationen, die ihm später von anderen Mitgliedern der Organisation mitgeteilt werden.Artikel 13. Jedes Mitglied, das dieses Übereinkommen ratifiziert hat, kann es nach Ablauf von zehn Jahren, gerechnet von dem Tag, an dem es zum erstenmal in Kraft getreten ist, durch Anzeige an den Generaldirektor des Internationalen Arbeitsamtes kündigen. Die Kündigung wird von diesem eingetragen. Ihre Wirkung tritt erst ein Jahr nach der Eintragung beim Internationales Arbeitsamt ein. Jedes Mitglied, das dieses Übereinkommen ratifiziert hat und innerhalb eines Jahres nach Ablauf des im vorigen Absatze genannten Zeitraumes von zehn Jahren von den in diesem Artikel vorgesehenen Kündigungsrechte keinen Gebrauch macht, bleibt für einen weiteren Zeitraum von fünf Jahren gebunden. In der Folge kann es dieses Übereinkommen jeweils nach Ablauf eines Zeitraumes von fünf Jahren nach Maßgabe dieses Artikels kündigen.Artikel 14. Der Verwaltungsrat des Internationalen Arbeitsamtes hat, sooft er es für nötig erachtet, der Allgemeinen Konferenz einen Bericht über die Durchführung dieses Übereinkommens zu erstatten und zu prüfen, ob die Frage seiner gänzlichen oder teilweisen Abänderung auf die Tagesordnung der Konferenz gesetzt werden soll.Artikel 15. Nimmt die Allgemeine Konferenz ein Übereinkommen an, welches das vorliegende Übereinkommen gänzlich oder teilweise abändert, so schließt die Ratifikation des neugefaßten Übereinkommens durch ein Mitglied ohne weiteres die Kündigung des vorliegenden Übereinkommens in sich, ohne Rücksicht auf die in Artikel 13 vorgesehene Frist. Voraussetzung ist dabei, daß das neugefaßte Übereinkommen in Kraft getreten ist. Vom Inkrafttreten des neugefaßten Übereinkommens an kann das vorliegende Übereinkommen von den Mitgliedern nicht mehr ratifiziert werden. Indessen bleibt das vorliegende Übereinkommen nach Form und Inhalt in Kraft für die Mitglieder, die dieses, aber nicht das neugefaßte Übereinkommen ratifiziert haben.Artikel 16. Der französische und der englische Wortlaut dieses Übereinkommens sind in gleicher Weise maßgebend.",
+  "parts": [
+    {
+      "@id": "0f28c66f-bbe1-425f-afa7-0be7444306fa#offset_2221_3779",
+      "offset_ini": 2221,
+      "offset_end": 3779,
+      "title": ""
+    },
+    {
+      "@id": "0f28c66f-bbe1-425f-afa7-0be7444306fa#offset_3780_4089",
+      "offset_ini": 3780,
+      "offset_end": 4089,
+      "title": ""
+    },
+    {
+      "@id": "0f28c66f-bbe1-425f-afa7-0be7444306fa#offset_4090_5818",
+      "offset_ini": 4090,
+      "offset_end": 5818,
+      "title": ""
+    },
+    {
+      "@id": "0f28c66f-bbe1-425f-afa7-0be7444306fa#offset_5819_6811",
+      "offset_ini": 5819,
+      "offset_end": 6811,
+      "title": ""
+    },
+    {
+      "@id": "0f28c66f-bbe1-425f-afa7-0be7444306fa#offset_6812_7186",
+      "offset_ini": 6812,
+      "offset_end": 7186,
+      "title": ""
+    },
+    {
+      "@id": "0f28c66f-bbe1-425f-afa7-0be7444306fa#offset_7187_7691",
+      "offset_ini": 7187,
+      "offset_end": 7691,
+      "title": ""
+    },
+    {
+      "@id": "0f28c66f-bbe1-425f-afa7-0be7444306fa#offset_7692_8220",
+      "offset_ini": 7692,
+      "offset_end": 8220,
+      "title": ""
+    },
+    {
+      "@id": "0f28c66f-bbe1-425f-afa7-0be7444306fa#offset_8221_8935",
+      "offset_ini": 8221,
+      "offset_end": 8935,
+      "title": ""
+    },
+    {
+      "@id": "0f28c66f-bbe1-425f-afa7-0be7444306fa#offset_8936_11409",
+      "offset_ini": 8936,
+      "offset_end": 11409,
+      "title": ""
+    },
+    {
+      "@id": "0f28c66f-bbe1-425f-afa7-0be7444306fa#offset_11410_11683",
+      "offset_ini": 11410,
+      "offset_end": 11683,
+      "title": ""
+    },
+    {
+      "@id": "0f28c66f-bbe1-425f-afa7-0be7444306fa#offset_11684_12106",
+      "offset_ini": 11684,
+      "offset_end": 12106,
+      "title": ""
+    },
+    {
+      "@id": "0f28c66f-bbe1-425f-afa7-0be7444306fa#offset_12107_12525",
+      "offset_ini": 12107,
+      "offset_end": 12525,
+      "title": ""
+    },
+    {
+      "@id": "0f28c66f-bbe1-425f-afa7-0be7444306fa#offset_12526_13344",
+      "offset_ini": 12526,
+      "offset_end": 13344,
+      "title": ""
+    },
+    {
+      "@id": "0f28c66f-bbe1-425f-afa7-0be7444306fa#offset_13345_13670",
+      "offset_ini": 13345,
+      "offset_end": 13670,
+      "title": ""
+    },
+    {
+      "@id": "0f28c66f-bbe1-425f-afa7-0be7444306fa#offset_13671_14396",
+      "offset_ini": 13671,
+      "offset_end": 14396,
+      "title": ""
+    },
+    {
+      "@id": "0f28c66f-bbe1-425f-afa7-0be7444306fa#offset_14397_14507",
+      "offset_ini": 14397,
+      "offset_end": 14507,
+      "title": ""
+    },
+    {
+      "@id": "0f28c66f-bbe1-425f-afa7-0be7444306fa#offset_0_2220",
+      "offset_ini": 0,
+      "offset_end": 2220
+    }
+  ]
+}

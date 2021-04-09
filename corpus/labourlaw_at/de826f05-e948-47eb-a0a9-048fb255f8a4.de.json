@@ -1,0 +1,304 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/de826f05-e948-47eb-a0a9-048fb255f8a4",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Gutsangestelltengesetz"
+    },
+    "hasAuthority": "BKA (Bundeskanzleramt)",
+    "id_local": "10008073",
+    "first_date_entry_in_force": "1923-11-01",
+    "version_date": "2019-08-31",
+    "url_consolidated": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d10008073\u0026FassungVom\u003d1923-11-01",
+    "classifications": [
+      "60/01 Arbeitsvertragsrecht"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/de826f05-e948-47eb-a0a9-048fb255f8a4/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/de826f05-e948-47eb-a0a9-048fb255f8a4/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 42512,
+  "text": "Änderung BGBl. Nr. 229/1937 (StR: 124/Gu. BT: 168/Ge S. 42.) dRGBl. I S 1999/1938 BGBl. Nr. 174/1946 (NR: GP V RV 155 AB 205 S. 29. BR: S. 11.) BGBl. Nr. 159/1947 (NR: GP V RV 422 AB 432 S. 58. BR: S. 22.) BGBl. Nr. 183/1947 (NR: GP V RV 403 AB 434 S. 59. BR: S. 22.) BGBl. Nr. 108/1958 (NR: GP VIII RV 441 AB 447 S. 58. BR: S. 134.) BGBl. Nr. 253/1959 (NR: GP IX RV 51 AB 81 S. 11. BR: S. 150.) BGBl. Nr. 117/1960 (NR: GP IX IA 22/A AB 214 S. 34. BR: S. 161.) BGBl. Nr. 293/1971 (NR: GP XII RV 135 AB 521 S. 49. BR: S. 303.) BGBl. Nr. 317/1971 (NR: GP XII IA 36/A u. RV 250 AB 540 S. 51. BR: S. 303.) BGBl. Nr. 418/1975 (NR: GP XIII IA 33/A AB 1636 S. 150. BR: 1390 AB 1421 S. 345.) BGBl. Nr. 390/1976 (NR: GP XIV RV 150 AB 276 S. 30. BR: AB 1567 S. 354.) BGBl. Nr. 107/1979 (NR: GP XIV IA 109/A und 136/A AB 1215 S. 120. BR: AB 1990 S. 384.) BGBl. Nr. 544/1983 (NR: GP XVI RV 46 AB 88 S. 16. BR: AB 2755 S. 438.) BGBl. Nr. 651/1989 (NR: GP XVII IA 298/A und 309/A AB 1166 S. 124. BR: AB 3781 S. 523.) BGBl. Nr. 299/1990 idF BGBl. Nr. 558/1990 (DFB), BGBl. I Nr. 27/2019 (VFB) (NR: GP XVII RV 1282 AB 1325 S. 143. BR: AB 3871 S. 530.) BGBl. Nr. 408/1990 (NR: GP XVII IA 428/A AB 1410 S. 148. BR: 3922 AB 3926 S. 532.) BGBl. Nr. 157/1991 (NR: GP XVIII IA 99/A AB 85 S. 19. BR: AB 4028 S. 539.) BGBl. Nr. 833/1992 (NR: GP XVIII RV 735 AB 838 S. 90. BR: 4382 AB 4385 S. 562.) BGBl. Nr. 335/1993 (NR: GP XVIII RV 932 AB 968 S. 114.) BGBl. Nr. 459/1993 (NR: GP XVIII RV 1077 AB 1117 S. 126. BR: AB 4548 S. 572.) [CELEX-Nr.: 377L0187, 389L0391, 375L0129] BGBl. Nr. 502/1993 (NR: GP XVIII RV 1194 AB 1222 S. 130. BR: AB 4617 S. 573.) BGBl. Nr. 917/1993 (K über Idat) BGBl. I Nr. 44/2000 (NR: GP XXI RV 91 AB 189 S. 30. BR: AB 6153 S. 666.) BGBl. I Nr. 100/2002 (NR: GP XXI RV 1131 AB 1176 S. 106. BR: 6665 AB 6678 S. 689.) BGBl. I Nr. 64/2004 (NR: GP XXII RV 399 AB 483 S. 61. BR: AB 7056 S. 710.) BGBl. I Nr. 143/2004 (NR: GP XXII AB 695 S. 87. BR: AB 7155 S. 716.) BGBl. I Nr. 116/2009 (NR: GP XXIV RV 340 AB 362 S. 41. BR: AB 8191 S. 777.) BGBl. I Nr. 58/2010 (NR: GP XXIV RV 771 AB 840 S. 74. BR: 8354 AB 8380 S. 787.) BGBl. I Nr. 152/2015 (NR: GP XXV RV 903 AB 948 S. 109. BR: AB 9513 S. 849.) BGBl. I Nr. 153/2017 (NR: GP XXV IA 2306/A S. 199. BR: 9897 AB 9905 S. 873.) BGBl. I Nr. 100/2018 (NR: GP XXVI RV 329 AB 413 S. 57. BR: 10079 AB 10082 S. 888.) BGBl. I Nr. 74/2019 (NR: GP XXVI IA 274/A S. 84. BR: 10196 AB 10214 S. 896.) Anmerkung Erfassungsstichtag: 1.1.1994§ 1. (1) Dieses Bundesgesetz gilt für das Dienstverhältnis von Personen, die in land- und forstwirtschaftlichen Betrieben oder deren Nebengewerben vorwiegend zur Leistung höherer oder kaufmännischer Dienste oder zu Kanzleiarbeiten angestellt sind. Den land- und forstwirtschaftlichen Betrieben im Sinne dieses Gesetzes sind Jagd und Fischerei sowie der nicht gewerbliche Gartenbau gleichzuhalten. (2) Das Gesetz findet keine Anwendung auf die durch das Angestelltengesetz geregelten Dienstverhältnisse. (3) Dienstnehmer im Sinne des Absatzes 1, die in einem kaufmännischen Betriebe zu kaufmännischen Diensten verwendet werden, sind als Handlungsgehilfen nur dann anzusehen, wenn ihre Verwendung in dieser Eigenschaft eine ständige ist. (4) Für das Dienstverhältnis in Nebengewerben der Land- und Forstwirtschaft gelten die Vorschriften dieses Gesetzes auch dann, wenn das Nebengewerbe nach § 3 des Handelsgesetzbuches eingetragen ist.§ 2. (1) Für die in einem land- oder forstwirtschaftlichen Betriebe (§ 1) eines öffentlichen Fonds, eines Landes, Bezirkes oder einer Gemeinde verwendeten Personen gelten die Bestimmungen dieses Gesetzes, wenn ihr Dienstverhältnis auf einem privatrechtlichen Vertrage beruht. (2) Das Dienstverhältnis der in einem land- oder forstwirtschaftlichen Betriebe des Bundes, einer Bundesanstalt oder eines vom Bunde verwalteten Fonds angestellten Personen wird durch die Bestimmungen dieses Gesetzes nicht berührt. (3) Im Regelungsbereich des Kollektivvertrages gemäß § 13 Abs. 6 des Bundesforstegesetzes, BGBl. Nr. 793/1996, sind die Bestimmungen dieses Bundesgesetzes nicht anzuwenden.Abschluß und Inhalt des Dienstvertrages. § 3. Im Dienstvertrage muß der Tag des Dienstantrittes nach dem Kalender bestimmt sein; der Vertrag ist aber auch ohne diese Bestimmung wirksam, wenn die Tätigkeit des Dienstnehmers im beiderseitigen Einvernehmen begonnen hat.§ 4. Die Rechte des Dienstnehmers, die sich aus den Bestimmungen dieses Gesetzes ergeben, können, soweit das Gesetz keinen Vorbehalt macht, durch den Dienstvertrag weder aufgehoben noch beschränkt werden.§ 5. (1) Art und Umfang der Dienstleistungen sowie das dafür gebührende Entgelt werden durch Vereinbarung bestimmt. In Ermanglung einer solchen sind die nach dem Ortsgebrauch und den Umständen angemessenen Dienste und ein ebensolches Entgelt zu leisten. (2) Unter Entgelt sind sowohl die Geldbezüge als die Naturalbezüge einschließlich der Naturalwohnung und der Landnutzung zu verstehen.Schriftliche Aufzeichnung des Dienstvertrages. § 7. Dem Dienstnehmer ist bei Abschluß des Dienstvertrages vom Dienstgeber eine schriftliche Aufzeichnung über die wesentlichen Rechte und Pflichten aus dem Dienstvertrag auszuhändigen, auf die die Vorschriften des § 2 des Arbeitsvertragsrechts-Anpassungsgesetzes (AVRAG), BGBl. Nr. 459/1993, in der jeweils geltenden Fassung anzuwenden sind.Anspruch bei Dienstverhinderung. § 8. (1) Ist ein Dienstnehmer nach Antritt des Dienstverhältnisses durch Krankheit oder Unglücksfall an der Leistung seiner Dienste verhindert, ohne dass er die Verhinderung vorsätzlich oder durch grobe Fahrlässigkeit herbeigeführt hat, so behält er seinen Anspruch auf das Entgelt bis zur Dauer von sechs Wochen. Der Anspruch auf das Entgelt beträgt, wenn das Dienstverhältnis ein Jahr gedauert hat, jedenfalls acht Wochen; es erhöht sich auf die Dauer von zehn Wochen, wenn es fünfzehn Jahre, und auf zwölf Wochen, wenn es fünfundzwanzig Jahre ununterbrochen gedauert hat. Durch je weitere vier Wochen behält der Angestellte den Anspruch auf das halbe Entgelt. (2) Bei wiederholter Dienstverhinderung durch Krankheit (Unglücksfall) innerhalb eines Arbeitsjahres besteht ein Anspruch auf Fortzahlung des Entgelts nur insoweit, als die Dauer des Anspruches gemäß Abs. 1 noch nicht erschöpft ist. (2a) Wird ein Dienstnehmer durch Arbeitsunfall oder Berufskrankheit im Sinne der Vorschriften über die gesetzliche Unfallversicherung an der Leistung seiner Arbeit verhindert, ohne dass er die Verhinderung vorsätzlich oder durch grobe Fahrlässigkeit herbeigeführt hat, so behält er seinen Anspruch auf das Entgelt ohne Rücksicht auf andere Zeiten einer Dienstverhinderung bis zur Dauer von acht Wochen. Der Anspruch auf das Entgelt erhöht sich auf die Dauer von zehn Wochen, wenn das Dienstverhältnis 15 Jahre ununterbrochen gedauert hat. Bei wiederholten Dienstverhinderungen, die im unmittelbaren ursächlichen Zusammenhang mit einem Arbeitsunfall oder einer Berufskrankheit stehen, besteht ein Anspruch auf Fortzahlung des Entgelts innerhalb eines Arbeitsjahres nur insoweit, als die Dauer des Anspruches nach dem ersten oder zweiten Satz noch nicht erschöpft ist. Ist ein Dienstnehmer gleichzeitig bei mehreren Dienstgebern beschäftigt, so entsteht ein Anspruch nach diesem Absatz nur gegenüber jenem Dienstgeber, bei dem die Dienstverhinderung im Sinne dieses Absatzes eingetreten ist; gegenüber den anderen Dienstgebern entstehen Ansprüche nach Abs. 1. (3) Soweit das Entgelt in der Beistellung der Naturalwohnung, Verköstigung, Beleuchtung oder Beheizung oder in der Gewährung von Landnutzung besteht, ist es auch für die Zeiträume, während welcher der Dienstnehmer nur Anspruch auf Fortbezug eines Teiles des Entgeltes hat, ungeschmälert zu leisten. Der Dienstnehmer ist jedoch auf Verlangen des Dienstgebers verpflichtet, einen Teil der Wohnung zur Unterbringung des Stellvertreters zu räumen, falls ihm dies unter Bedachtnahme auf die Wohnungsverhältnisse billigerweise zugemutet werden kann. (4) Der Dienstnehmer behält ferner den Anspruch auf das Entgelt, wenn er durch andere wichtige, seine Person betreffende Gründe ohne sein Verschulden während einer verhältnismäßig kurzen Zeit an der Leistung seiner Dienst verhindert wird. (4a) Ist der Dienstnehmer nach Antritt des Dienstverhältnisses wegen eines Einsatzes als freiwilliges Mitglied einer Katastrophenhilfsorganisation, eines Rettungsdienstes oder einer freiwilligen Feuerwehr bei einem Großschadensereignis nach § 3 Z 2 lit. b des Katastrophenfondsgesetzes, BGBl. Nr. 201/1996 oder als Mitglied eines Bergrettungsdienstes an der Dienstleistung verhindert, so hat er unbeschadet seiner Ansprüche nach Abs. 4 einen Anspruch auf Fortzahlung des Entgelts, wenn das Ausmaß und die Lage der Dienstfreistellung mit dem Dienstgeber vereinbart wird. (5) Beträge, die der Dienstnehmer für die Zeit der Verhinderung auf Grund einer öffentlich-rechtlichen Versicherung bezieht, dürfen auf die Geldbezüge nicht angerechnet werden. (6) Der Dienstnehmer ist verpflichtet, ohne Verzug die Dienstverhinderung dem Dienstgeber anzuzeigen und auf Verlangen des Dienstgebers, das nach angemessener Zeit wiederholt werden kann, eine Bestätigung der zuständigen Krankenkasse oder eines Amts- oder Gemeindearztes über Ursache und Dauer der Arbeitsunfähigkeit vorzulegen. Kommt der Dienstnehmer diesen Verpflichtungen nicht nach, so verliert er für die Dauer der Säumnis den Anspruch auf das Entgelt. (7) Durch Kollektivvertrag oder durch Betriebsvereinbarung im Sinne des § 97 Abs. 1 Z 21 Arbeitsverfassungsgesetz (ArbVG) kann vereinbart werden, dass sich der Anspruch auf Entgeltfortzahlung nicht nach dem Arbeitsjahr, sondern nach dem Kalenderjahr richtet. Solche Vereinbarungen können vorsehen, dass a) Dienstnehmer, die während des Kalenderjahres eintreten, Anspruch auf Entgeltfortzahlung nur bis zur Hälfte der in Abs. 1 und 2a genannten Dauer haben, sofern die Dauer des Arbeitsverhältnisses im Kalenderjahr des Eintritts weniger als sechs Monate beträgt; b) der jeweils höhere Anspruch nach Abs. 1 zweiter Satz und Abs. 2a zweiter Satz erstmals in jenem Kalenderjahr gebührt, in das der überwiegende Teil des Arbeitsjahres fällt; c) die Ansprüche der im Zeitpunkt der Umstellung im Betrieb beschäftigten Dienstnehmer für den Umstellungszeitraum (Beginn des Arbeitsjahres bis Ende des folgenden Kalenderjahres) gesondert berechnet werden. Jedenfalls muss für den Umstellungszeitraum dem Dienstnehmer ein voller Anspruch und ein zusätzlicher aliquoter Anspruch entsprechend der Dauer des Arbeitsjahres im Kalenderjahr vor der Umstellung abzüglich jener Zeiten, für die bereits Entgeltfortzahlung wegen Arbeitsverhinderung wegen Krankheit (Unglücksfall) gewährt wurde, zustehen.§ 9. (1) Wird der Dienstnehmer während einer Dienstverhinderung gemäß § 8 Abs. 1 bis 2a gekündigt, ohne wichtigen Grund vorzeitig entlassen oder trifft den Dienstgeber ein Verschulden an dem vorzeitigen Austritt des Angestellten, so bleibt der Anspruch auf Fortzahlung des Entgelts für die nach diesem Bundesgesetz vorgesehene Dauer bestehen, wenngleich das Dienstverhältnis früher endet. Der Anspruch auf Entgeltfortzahlung bleibt auch bestehen, wenn das Dienstverhältnis während einer Dienstverhinderung gemäß § 8 Abs. 1 bis 2a oder im Hinblick auf eine Dienstverhinderung gemäß § 8 Abs. 1 bis 2a einvernehmlich beendet wird. (2) Die Ansprüche des Dienstnehmers auf Fortbezug des Entgeltes (§ 8) erlöschen mit der Beendigung des Dienstverhältnisses, wenn dieses infolge Ablaufes der Zeit, für die es eingegangen wurde, oder infolge einer früheren Kündigung aufgelöst wird. Das gleiche gilt, wenn der Dienstnehmer aus einem anderen Grunde als wegen der durch Erkrankung oder Unglücksfall verursachten Dienstverhinderung entlassen wird.Verpflichtungen des Dienstnehmers § 10. Der Dienstnehmer ist verpflichtet, die übernommenen Dienste nach bestem Wissen und Können persönlich zu leisten und die den Dienst betreffenden Anordnungen des Dienstgebers, dessen Bevollmächtigten oder der berufenen Vorgesetzten zu befolgen.Fürsorgepflicht des Dienstgebers. § 11. (1) Der Dienstgeber ist verpflichtet, auf seine Kosten alle Einrichtungen bezüglich der Arbeitsräume und Gerätschaften herzustellen und zu erhalten, die mit Rücksicht auf die Beschaffenheit der Dienstleistung zum Schutze des Lebens und der Gesundheit des Dienstnehmers erforderlich sind. (2) Der Dienstgeber hat dafür zu sorgen, daß, soweit es die Art der Beschäftigung zuläßt, die Arbeitsräume während der Arbeitszeit licht, rein, staubfrei und im Winter geheizt sind. (3) Werden dem Dienstnehmer als Teil des Entgeltes Wohnräume überlassen, so dürfen sie nicht gesundheitsschädlich und müssen für Dienstnehmer mit eigenem Haushalt unter Berücksichtigung der Kinderzahl ausreichend, für Dienstnehmer ohne eigenem Haushalt auch mit der üblichen notwendigen Wohnungseinrichtung versehen sein.Leistung des Entgelts. § 12. (1) Insoweit nichts anderes vereinbart oder ortsüblich ist, hat die Zahlung der dem Dienstnehmer gebührenden fortlaufenden Geldbezüge, wenn das Entgelt nach Monaten oder kürzeren Zeitabschnitten bemessen ist, spätestens am Schlusse des einzelnen Zeitabschnittes, wenn es nach längeren Zeitabschnitten bemessen ist, spätestens am Schlusse jedes Kalendermonats zu erfolgen. Naturalbezüge sind mangels anderweitiger Vereinbarung in den ortsüblichen und der Sachlage entsprechenden Zeiträumen in der Regel im vorhinein zu entrichten. (2) Die als Teil des Entgeltes zu leistenden Naturalien (Deputate) sind in Waren guter Beschaffenheit zu liefern und nach metrischem Maß oder Gewicht zu bemessen. Werden sie im Einverständnis mit dem Dienstnehmer in Geld abgelöst, so hat, sofern nicht etwas anderes vereinbart ist, der für Waren solcher Art an der nächstgelegenen Fruchtbörse amtlich festgestellte Preis als Unterlage für die Abrechnung zu gelten. (3) Die vereinbarte Kost muß gesund und hinreichend sein.Remuneration. § 13. Falls der Dienstnehmer Anspruch auf eine regelmäßig wiederkehrende Remuneration oder auf eine andre besondere Entlohnung hat, gebührt sie ihm, wenngleich das Dienstverhältnis vor Fälligkeit des Anspruches gelöst wird, in dem Betrage, der dem Verhältnisse zwischen der Dienstperiode, für die die Entlohnung gewährt wird, und der zurückgelegten Dienstzeit entspricht.Landnutzung. § 14. (1) Waren dem Dienstnehmer Deputatgrundstücke zugewiesen und endet das Dienstverhältnis vor der Ernte, so gebührt ihm der Teil des Ernteertrages, der dem Verhältnisse der Dienstperiode, für welche die Landnutzung gewährt wird, und der zurückgelegten Dienstzeit, entspricht. Die zur Erzielung der Ernte aufgewendeten Kosten für die Aussaat und Bearbeitung, ferner die Kosten für die etwaige Versicherung sind vom Dienstgeber und vom Dienstnehmer nach dem Verhältnisse ihrer Anteile an dem gesamten Ernteertrag zu tragen; der dieses Verhältnis etwa überschreitende Aufwand ist dem andern Teil zu ersetzen. (2) Der Anspruch des Dienstnehmers auf den verhältnismäßigen Anteil des Ernteertrages wird binnen vierzehn Tagen nach Einbringung der Ernte fällig. (3) Es kann vereinbart werden, daß dem Dienstnehmer an Stelle des ihm gebührenden Ernteanteiles eine entsprechende Vergütung in Geld zu leisten ist.Urlaub § 15. Dem Dienstnehmer gebührt in jedem Dienstjahr ein ununterbrochener Urlaub, auf den die Vorschriften des Art. I Abschnitt I des Bundesgesetzes vom 7. Juli 1976 betreffend die Vereinheitlichung des Urlaubsrechtes und die Einführung einer Pflegefreistellung, BGBl. Nr. 390, anzuwenden sind.Endigung des Dienstverhältnisses durch Ablauf der Zeit. § 16. (1) Das Dienstverhältnis endet mit dem Ablaufe der Zeit, für die es eingegangen wurde. (2) Ein Dienstverhältnis auf Probe kann nur für die Höchstdauer eines Monats vereinbart und während dieser Zeit von jedem Vertragsteil jederzeit gelöst werden.Kündigung. § 17. (1) Ist das Dienstverhältnis ohne Zeitbestimmung eingegangen oder fortgesetzt worden, so kann es durch Kündigung nach folgenden Bestimmungen gelöst werden. (2) Mangels einer für den Dienstnehmer günstigeren Vereinbarung kann der Dienstgeber das Dienstverhältnis mit Ablauf eines jeden Kalendervierteljahres durch vorgängige Kündigung lösen. Die Kündigungsfrist beträgt sechs Wochen und erhöht sich nach dem vollendeten zweiten Dienstjahr auf zwei Monate, nach dem vollendeten fünften Dienstjahr auf drei, nach dem vollendeten fünfzehnten Dienstjahr auf vier, nach dem vollendeten fünfundzwanzigsten Dienstjahr auf fünf Monate. (3) Die Kündigungsfrist kann durch Vereinbarung nicht unter die in Abs. 2 bestimmte Dauer herabgesetzt werden; jedoch kann vereinbart werden, daß die Kündigungsfrist am Fünfzehnten oder am Letzten eines Kalendermonats endigt. (4) Mangels einer für ihn günstigeren Vereinbarung kann der Dienstnehmer das Dienstverhältnis mit dem letzten Tage eines Kalendermonats unter Einhaltung einer einmonatigen Kündigungsfrist lösen. Diese Kündigungsfrist kann durch Vereinbarung bis zu einem halben Jahr ausgedehnt werden; doch darf die vom Dienstgeber einzuhaltende Frist nicht kürzer sein als die mit dem Dienstnehmer vereinbarte Kündigungsfrist. (5) Ist das Dienstverhältnis nur für die Zeit eines vorübergehenden Bedarfes vereinbart, so kann es während des ersten Monats von beiden Teilen jederzeit unter Einhaltung einer einwöchigen Kündigungsfrist gelöst werden.§ 18. Ein für die Lebenszeit einer Person oder für länger als fünf Jahre vereinbartes Dienstverhältnis kann von dem Dienstnehmer nach Ablauf von fünf Jahren unter Einhaltung einer Kündigungsfrist von sechs Monaten gekündigt werden.§ 19. Kündigungen müssen bei sonstiger Unwirksamkeit schriftlich erklärt werden.Freizeit während der Kündigungsfrist § 20. (1) Bei Kündigung durch den Dienstgeber ist dem Dienstnehmer während der Kündigungsfrist auf sein Verlangen wöchentlich mindestens ein Fünftel der regelmäßigen wöchentlichen Arbeitszeit ohne Schmälerung des Entgelts freizugeben. (2) Ansprüche nach Abs. 1 bestehen nicht, wenn der Dienstnehmer einen Anspruch auf eine Pension aus der gesetzlichen Pensionsversicherung hat, sofern eine Bescheinigung über die vorläufige Krankenversicherung vom Pensionsversicherungsträger ausgestellt wurde. (3) Durch Kollektivvertrag können abweichende Regelungen getroffen werden.§ 21. (1) Im Falle der Kündigung muß dem Dienstnehmer bis zum Ablauf der Kündigungsfrist ein genügender Teil der Dienstwohnung belassen, auf Verlangen des Dienstgebers jedoch schon angemessene Zeit vorher ein Teil zur Unterbringung des Nachfolgers geräumt werden, soweit dies dem Dienstnehmer unter Berücksichtigung der Wohnungsverhältnisse billigerweise zugemutet werden kann. (2) Kranke und Wöchnerinnen dürfen zur gänzlichen Räumung der Wohnung nicht verhalten werden, solange sie die Wohnung ohne Gefährdung ihrer Gesundheit nicht verlassen können.Abfertigung. § 22. (1) Hat das Dienstverhältnis ununterbrochen drei Jahre gedauert, so gebührt dem Dienstnehmer bei Auflösung des Dienstverhältnisses eine Abfertigung. Diese beträgt das Zweifache des dem Dienstnehmer für den letzten Monat des Dienstverhältnisses gebührenden Entgeltes und erhöht sich nach fünf Dienstjahren auf das Dreifache, nach zehn Dienstjahren auf das Vierfache, nach fünfzehn Dienstjahren auf das Sechsfache, nach zwanzig Dienstjahren auf das Neunfache und nach fünfundzwanzig Dienstjahren auf das Zwölffache des monatlichen Entgeltes. Alle Zeiten, die der Dienstnehmer in unmittelbar vorausgegangenen Dienstverhältnissen als Arbeiter oder Lehrling zum selben Dienstgeber zurückgelegt hat, sind für die Abfertigung zu berücksichtigen; Zeiten eines Lehrverhältnisses jedoch nur dann, wenn das Dienstverhältnis einschließlich der Lehrzeit mindestens sieben Jahre ununterbrochen gedauert hat. Zeiten eines Lehrverhältnisses allein begründen keinen Abfertigungsanspruch. (1a) Bei der Berechnung der Abfertigung ist eine geringfügige Beschäftigung nach § 7b Abs. 1 Väter-Karenzgesetz (VKG), BGBl. Nr. 651/1989, § 105e iVm § 26h Abs. 1 des Landarbeitsgesetzes 1984, BGBl. Nr. 287 (LAG), oder gleichartigen österreichischen Rechtsvorschriften nicht zu berücksichtigen. (2) Im Falle der Auflösung eines land- oder forstwirtschaftlichen Betriebes entfällt die Verpflichtung zur Gewährung einer Abfertigung ganz oder teilweise dann, wenn sich die persönliche Wirtschaftslage des Dienstgebers derart verschlechtert hat, daß ihm die Erfüllung dieser Verpflichtung zum Teil oder zur Gänze billigerweise nicht zugemutet werden kann. (3) Wird ein land- oder forstwirtschaftlicher Betrieb an einen anderen übertragen, so besteht ein Anspruch auf Abfertigung nicht, wenn der Dienstnehmer die Fortsetzung des Dienstverhältnisses ablehnt, obwohl ihm der Erwerber die Fortsetzung des Dienstverhältnisses unter den bisherigen Bedingungen angeboten und sich verpflichtet hat, die bei seinem Vorgänger geleistete Dienstzeit als bei ihm selbst verbracht zu betrachten. (4) Die Abfertigung wird, soweit sie den Betrag des Zweifachen des Monatsentgeltes nicht übersteigt, mit der Auflösung des Dienstverhältnisses fällig; der Rest kann vom dritten Monat an in monatlichen im voraus zahlbaren Teilbeträgen abgestattet werden. (5) Beträge, die der Dienstnehmer auf Grund einer öffentlichrechtlichen Versicherung bezieht, dürfen in die Abfertigung nur insoweit eingerechnet werden, als die die gesetzlichen Mindestleistungen übersteigen. (6) Wird das Dienstverhältnis durch den Tod des Dienstnehmers aufgelöst, so beträgt die Abfertigung nur die Hälfte des im Absatz 1 bezeichneten Betrages und gebührt nur den gesetzlichen Erben, zu deren Erhaltung der Erblasser gesetzlich verpflichtet war. (7) Der Anspruch auf Abfertigung besteht, vorbehaltlich des § 22a, nicht, wenn der Dienstnehmer kündigt, wenn er ohne wichtigen Grund vorzeitig austritt oder wenn ihn ein Verschulden an der vorzeitigen Entlassung trifft. (8) Wird das Dienstverhältnis während einer Teilzeitbeschäftigung wegen der Geburt eines Kindes nach VKG oder LAG infolge Kündigung durch den Arbeitgeber, unverschuldeter Entlassung, begründetem vorzeitigen Austritt oder einvernehmlich beendet, so ist bei Ermittlung des Entgelts (Abs. 1) die frühere Normalarbeitszeit des Dienstnehmers zugrunde zu legen.§ 22a. (1) Der Anspruch auf Abfertigung besteht auch dann, wenn das Dienstverhältnis 1. mindestens zehn Jahre ununterbrochen gedauert hat und a) bei Männern nach Vollendung des 65. Lebensjahres, bei Frauen nach Vollendung des 60. Lebensjahres oder b) wegen Inanspruchnahme der vorzeitigen Alterspension bei langer Versicherungsdauer aus einer gesetzlichen Pensionsversicherung oder c) wegen Inanspruchnahme einer Alterspension aus der gesetzlichen Pensionsversicherung nach § 4 Abs. 2 Allgemeines Pensionsgesetz (APG), BGBl. I Nr. 143/2004, oder d) wegen Inanspruchnahme einer Alterspension nach § 4 Abs. 3 APG oder 2. wegen Inanspruchnahme einer Pension aus einem Versicherungsfall der geminderten Arbeitsfähigkeit aus einer gesetzlichen Pensionsversicherung oder 3. wegen Feststellung einer voraussichtlich mindestens sechs Monate andauernden Berufsunfähigkeit oder Invalidität durch den Versicherungsträger gemäß § 367 Abs. 4 ASVG 4. im Fall der Arbeitsverhinderung gemäß § 8 Abs. 1, 2 und 2a oder § 2 EFZG nach Ende des Anspruchs auf Entgeltfortzahlung und nach Beendigung des Krankengeldanspruches gemäß § 138 ASVG während eines anhängigen Leistungsstreitverfahrens gemäß § 354 ASVG über Berufsunfähigkeit (§ 273 ASVG) oder Invalidität (§ 255 ASVG) durch Kündigung seitens des Dienstnehmers endet. (Anm.: Abs. 1a aufgehoben durch Art. 47 Z 4, BGBl. I Nr. 100/2018) (2) Eine nach Abs. 1 gebührende Abfertigung kann in gleichen monatlichen Teilbeträgen gezahlt werden. Die Zahlung beginnt mit dem auf das Ende des Dienstverhältnisses folgenden Monatsersten. Eine Rate darf die Hälfte des der Bemessung der Abfertigung zugrundeliegenden Monatsentgeltes nicht unterschreiten. (3) Dienstnehmerinnen gebührt - sofern das Dienstverhältnis ununterbrochen fünf Jahre gedauert hat - die Hälfte der nach § 22 Abs. 1 zustehenden Abfertigung, höchstens jedoch das Dreifache des monatlichen Entgelts, wenn sie 1. nach der Geburt eines lebenden Kindes innerhalb der Schutzfrist (§ 99 Abs. 1 des Landarbeitsgesetzes 1984, BGBl. Nr. 287), 2. nach der Annahme eines Kindes, welches das zweite Lebensjahr noch nicht vollendet hat, an Kindes Statt (§ 105c Abs. 1 Z 1 LAG) oder nach Übernahme eines solchen Kindes in unentgeltliche Pflege (§ 105c Abs. 1 Z 2 LAG) innerhalb von acht Wochen ihren vorzeitigen Austritt aus dem Arbeitsverhältnis erklären. Bei Inanspruchnahme einer Karenz wegen der Geburt eines Kindes nach LAG ist der Austritt spätestens drei Monate vor Ende der Karenz zu erklären; bei Inanspruchnahme einer Karenz von weniger als drei Monaten ist der Austritt spätestens zwei Monate vor Ende der Karenz zu erklären. Zeiten geringfügiger Beschäftigungen nach § 7b Abs. 1 VKG oder § 105e iVm § 26h Abs. 1 LAG bleiben für den Abfertigungsanspruch außer Betracht. (4) Abs. 3 gilt auch für männliche Dienstnehmer, sofern sie eine Karenz im Sinne des VKG oder gleichartiger österreichischer Rechtsvorschriften in Anspruch nehmen und ihren vorzeitigen Austritt aus dem Dienstverhältnis spätestens drei Monate vor Ende der Karenz erklären. Wird jedoch eine Karenz von weniger als drei Monaten in Anspruch genommen, ist der Austritt spätestens zwei Monate vor Ende der Karenz zu erklären. (4a) Eine Abfertigung nach Abs. 3 und 4 gebührt auch dann, wenn das Dienstverhältnis während einer Teilzeitbeschäftigung wegen der Geburt eines Kindes gemäß LAG oder VKG durch Kündigung seitens des Dienstnehmers endet. Bei Berechnung des für die Höhe der Abfertigung maßgeblichen Entgelts ist vom Durchschnitt der in den letzten fünf Jahren geleisteten Arbeitszeit unter Außerachtlassung der Zeiten einer Karenz wegen der Geburt eines Kindes gemäß LAG oder VKG auszugehen. (5) Ein Abfertigungsanspruch gebührt nicht, wenn der männliche Dienstnehmer seinen Austritt im Sinne des Abs. 4 erklärt, nachdem der gemeinsame Haushalt mit dem Kind aufgehoben oder die überwiegende Betreuung des Kindes beendet wurde. (6) Im Sinne des § 22 zulässige Vereinbarungen, die eine Anrechnung der Versorgungsleistungen auf Abfertigungsansprüche oder bei Zahlung einer Versorgungsleistung den gänzlichen oder teilweisen Wegfall der Abfertigung vorsehen, gelten auch für Abfertigungsansprüche nach den Abs. 1, 3 und 4. Bei Anwendung des Abs. 2 ruhen jedoch solche Versorgungsleistungen nur für die Monate, für die die Abfertigung gebührt. (7) Im übrigen gilt der § 22 sinngemäß.Tod des Dienstnehmers § 23. (1) Stirbt ein Dienstnehmer, dem vom Dienstgeber auf Grund des Dienstvertrages Wohnräume überlassen wurden, so ist die Wohnung, wenn der Dienstnehmer einen eigenen Haushalt führte, binnen einem Monat, sonst binnen 14 Tagen nach dessen Tode zu räumen. (2) Sind die Angehörigen des verstorbenen Dienstnehmers, die mit ihm im gemeinsamen Haushalte gelebt haben, durch die Räumung binnen der Frist des Absatzes 1 der Gefahr der Obdachlosigkeit ausgesetzt, so kann das Bezirksgericht, in dessen Sprengel die Wohnung liegt, auf Antrag eine Verlängerung der Räumungsfrist um höchstens zwei Monate bewilligen. Nur unter besonders berücksichtigungswerten Umständen darf eine weitere Verlängerung um höchstens einen Monat bewilligt werden. (3) Der Dienstgeber kann jedoch die sofortige Räumung eines zur Unterbringung des Nachfolgers und seiner Einrichtung erforderlichen Teiles der Wohnung verlangen, soweit dies dem Dienstnehmer unter Berücksichtigung der Wohnungsverhältnisse billigerweise zugemutet werden kann. (4) Die Bestimmung des § 21, Absatz 2, findet Anwendung. (5) Den gesetzlichen Erben, zu deren Erhaltung der verstorbene Dienstnehmer gesetzlich verpflichtet war, gebührt, unbeschadet des Anspruches gemäß § 22, Absatz 6, das Entgelt des Dienstnehmers noch durch einen Monat vom Todestage des Dienstnehmers.Vorzeitige Auflösung. § 24. Das Dienstverhältnis kann, wenn es für bestimmte Zeit eingegangen wurde, vor Ablauf dieser Zeit, sonst aber ohne Einhaltung einer Kündigungsfrist von jedem Teil aus wichtigen Gründen gelöst werden.§ 25. Als ein wichtiger Grund, der den Dienstnehmer zum vorzeitigen Austritte berechtigt, ist insbesondere anzusehen: 1. Wenn der Dienstnehmer zur Fortsetzung seiner Dienstleistung unfähig wird oder diese ohne Schaden für seine Gesundheit oder Sittlichkeit nicht fortsetzen kann; 2. wenn der Dienstgeber das dem Dienstnehmer zukommende Entgelt ungebührlich schmälert oder vorenthält, ihn bei Naturalbezügen durch Gewährung ungesunder oder unzureichender Kost oder ungesunder Wohnung benachteiligt oder andere wesentliche Vertragsbestimmungen verletzt; 3. wenn der Dienstgeber den ihm zum Schutze des Lebens, der Gesundheit oder der Sittlichkeit des Dienstnehmers gesetzlich obliegenden Verpflichtungen nachzukommen verweigert; 4. wenn der Dienstgeber sich Tätlichkeiten, Verletzungen der Sittlichkeit oder erhebliche Ehrverletzungen gegen den Dienstnehmer oder dessen Angehörige zuschulde kommen läßt oder es verweigert, den Dienstnehmer gegen solche Handlungen eines Mitbediensteten oder eines Angehörigen des Dienstgebers zu schützen.§ 26. Als ein wichtiger Grund, der den Dienstgeber zur vorzeitigen Entlassung berechtigt, ist insbesondere anzusehen: 1. Wenn der Dienstnehmer im Dienst untreu ist, sich in seiner Tätigkeit ohne Wissen oder Willen des Dienstgebers von dritten Personen unberechtigte Vorteile zuwenden läßt oder wenn er sich einer Handlung schuldig macht, die ihn des Vertrauens des Dienstgebers unwürdig erscheinen läßt; 2. wenn der Dienstnehmer unfähig ist, die versprochene oder die den Umständen nach angemessenen Dienste (§ 5, Absatz 1) zu leisten; 3. wenn der Dienstnehmer ohne einen rechtmäßigen Hinderungsgrund während einer den Umständen nach erheblichen Zeit die Dienstleistung unterläßt oder sich beharrlich weigert, seine Dienste zu leisten oder sich den durch den Gegenstand der Dienstleistung gerechtfertigten Anordnungen des Dienstgebers zu fügen oder wenn er andere Bedienstete zum Ungehorsam gegen den Dienstgeber zu verleiten sucht; 4. wenn der Dienstnehmer durch eine längere Freiheitsstrafe oder durch Abwesenheit während einer den Umständen nach erheblichen Zeit, ausgenommen wegen Krankheit oder Unglücksfall, an der Verrichtung seiner Dienste gehindert ist; 5. wenn der Dienstnehmer sich Kontrollmaßregeln nicht unterwirft oder sich weigert, Rechnung zu legen, oder ihm anvertraute Vermögensbestandteile, Belege, Schriftstücke u. s. w. auszufolgen; 6. wenn der Dienstnehmer sich Tätlichkeiten, Verletzungen der Sittlichkeit oder erhebliche Ehrverletzungen gegen den Dienstgeber, dessen Stellvertreter, deren Angehörige oder gegen Mitbedienstete zuschulden kommen läßt; 7. wenn der Dienstnehmer oder seine im gleichen Hause lebenden Angehörigen einen unsittlichen Lebenswandel führen.§ 27. Bei vorzeitiger Auflösung des Dienstverhältnisses hat der Dienstnehmer die Dienstwohnung, wenn er keinen eigenen Haushalt führt, binnen drei Tagen, sonst binnen vierzehn Tagen zu räumen. Die Bestimmungen des § 21, Absatz 2, und des § 23, Absatz 3, finden Anwendung.§ 28. (1) Wenn der Dienstnehmer ohne wichtigen Grund vorzeitig austritt oder wenn ihn ein Verschulden an der vorzeitigen Entlassung trifft, steht dem Dienstgeber der Anspruch auf Ersatz des ihm verursachten Schadens zu. (2) Für die schon bewirkten Leistungen, deren Entgelt noch nicht fällig ist, steht dem Dienstnehmer ein Anspruch auf den entsprechenden Teil des Entgeltes nur insoweit zu, als sie nicht durch die vorzeitige Auflösung des Dienstverhältnisses für den Dienstgeber ihren Wert ganz oder zum größten Teil eingebüßt haben.§ 29. (1) Wenn der Dienstgeber den Dienstnehmer ohne wichtigen Grund vorzeitig entläßt oder wenn ihn ein Verschulden an dem vorzeitigen Austritte des Dienstnehmers trifft, behält dieser, unbeschadet weitergehenden Schadenersatzes, seine vertragsmäßigen Ansprüche auf das Entgelt für den Zeitraum, der bis zur Beendigung des Dienstverhältnisses durch Ablauf der bestimmten Vertragszeit oder durch ordnungsmäßige Kündigung durch den Dienstgeber hätte verstreichen müssen. Soweit das Entgelt Naturalbezüge umfaßt, ist deren Wert in Geld zu vergüten. Der Dienstnehmer muß sich auf das Entgelt einrechnen lassen, was er infolge des Unterbleibens der Dienstleistung erspart oder durch anderweitige Verwendung erworben oder zu erwerben absichtlich versäumt hat. (2) Soweit der im Abs. 1 genannte Zeitraum drei Monate nicht übersteigt, kann der Dienstnehmer das ganze für diese Zeit gebührende Entgelt ohne Abzug sofort, den Rest zur vereinbarten oder gesetzlichen Zeit fordern. Der Anspruch auf die dem Dienstnehmer gebührende Abfertigung (§§ 22 und 22a) bleibt unberührt.§ 30. (1) Ist der Dienstnehmer unter der ausdrücklichen Bedingung des Dienstantrittes an einem bestimmten Tag oder nur für die Zeit eines vorübergehenden Bedarfes aufgenommen worden, so kann der Dienstgeber vom Vertrage zurücktreten, wenn der Dienstnehmer aus welchem Grunde immer den Dienst an dem bestimmten Tage nicht antritt. (2) Außer diesem Falle kann der Dienstgeber vor Antritt des Dienstes vom Vertrage zurücktreten, wenn der Dienstnehmer, ohne durch ein unabwendbares Hindernis gehindert zu sein, den Dienst zur vereinbarten Zeit nicht antritt oder wenn sich infolge eines unabwendbaren Hindernisses der Dienstantritt um mehr als 14 Tage verzögert. Das gleiche gilt, wenn ein Grund vorliegt, der den Dienstgeber zur vorzeitigen Entlassung des Dienstnehmers berechtigt. (3) Der Dienstnehmer kann vor Antritt des Dienstes vom Vertrage zurücktreten, wenn ein Grund vorliegt, der ihn zum vorzeitigen Austritt aus dem Dienstverhältnisse berechtigt. Das gleiche gilt, wenn sich der Dienstantritt infolge Verschuldens des Dienstgebers oder infolge eines diesen treffenden Zufalles um mehr als 14 Tage verzögert. Tritt der Dienstnehmer im letzteren Falle ungeachtet der Verzögerung den Dienst an, so gebührt ihm das Entgelt von dem Tage, an dem der Dienst hätte angetreten werden sollen. (4) Wird vor Antritt des Dienstes über das Vermögen des Dienstgebers das Insolvenzverfahren eröffnet, so kann sowohl der Masseverwalter, im Sanierungsverfahren mit Eigenverwaltung der Dienstgeber mit Zustimmung des Sanierungsverwalters, als auch der Dienstnehmer vom Vertrag zurücktreten.§ 31. (1) Ist der Dienstgeber ohne wichtigen Grund vom Vertrage zurückgetreten oder hat er durch sein schuldbares Verhalten dem Dienstnehmer zum Rücktritte begründeten Anlaß gegeben, so hat er dem Dienstnehmer das Entgelt zu ersetzen, das diesem für den Zeitraum gebührt, der bei ordnungsmäßiger Kündigung durch den Dienstgeber vom Tage des Dienstantrittes bis zur Beendigung des Dienstverhältnisses hätte verstreichen müssen. Wenn das Dienstverhältnis auf bestimmte Zeit eingegangen wurde, hat der Dienstgeber dem Dienstnehmer, falls die vereinbarte Dienstdauer drei Monate nicht übersteigt, das für die ganze Dauer entfallende Entgelt, falls die vereinbarte Dienstdauer dagegen drei Monate übersteigt, den für drei Monate entfallenden Teilbetrag des Entgeltes zu ersetzen. Soweit das Entgelt Naturalbezüge umfaßt, ist deren Wert in Geld zu vergüten. Allfällige, weitere Schadenersatzansprüche werden durch die vorstehenden Bestimmungen nicht berührt. (2) Die gleichen Ansprüche stehen dem Dienstnehmer zu, wenn der Masseverwalter oder der Dienstgeber mit Zustimmung des Sanierungsverwalters vom Vertrag zurückgetreten ist. (3) Ist der Dienstnehmer ohne wichtigen Grund vom Vertrage zurückgetreten oder hat er durch sein schuldbares Verhalten dem Dienstgeber zum Rücktritte begründeten Anlaß gegeben, so kann der Dienstgeber Schadenersatz verlangen.§ 32. Trifft beide Teile ein Verschulden an dem Rücktritt oder der vorzeitigen Lösung des Dienstverhältnisses, so hat der Richter nach freiem Ermessen zu entscheiden, ob und in welcher Höhe ein Ersatz gebührt.Rangordnung der Ansprüche im Konkurs und Ausgleichsverfahren. § 33. (Anm.: aufgehoben durch BGBl. Nr. 253/1959)Frist zur Geltendmachung der Ansprüche. § 34. Ersatzansprüche wegen vorzeitigen Austrittes oder vorzeitiger Entlassung im Sinne der §§ 28 und 29, ferner Ersatzansprüche wegen Rücktrittes vom Vertrag im Sinne des § 31 müssen bei sonstigem Ausschlusse binnen sechs Monaten nach Ablauf des Tages, an dem sie erhoben werden konnten, gerichtlich geltend gemacht werden.Rechnungslegung. § 35. (1) Der austretende Dienstnehmer hat ohne unnötigen Aufschub die ihm obliegende Rechnungslegung zu erstatten sowie die ihm anvertrauten Vermögensbestandteile und in seinen Händen befindliche Belege, Schriftstücke u. s. w. zu übergeben. (2) Der Dienstgeber kann auch während der Dauer des Dienstverhältnisses jederzeit Rechnungslegung verlangen oder die dem Dienstnehmer anvertrauten Sachen prüfen oder prüfen lassen. (3) Zum Zwecke der Rechnungslegung ist dem Dienstnehmer, soweit erforderlich, die Einsicht in die seinen Wirkungskreis betreffenden Bücher und Belege zu gestatten.Kaution. (Anm.: § 36 aufgehoben durch BGBl. Nr. 229/1957)§ 37. (Anm.: Abs. 1 aufgehoben durch BGBl. Nr. 229/1937) (2) Eine Kaution, die für die sachgemäße Ausführung einer bestimmten Arbeit bestellt wurde, kann mangels anderer Vereinbarung erst nach Vollendung und Genehmigung der Arbeit zurückgefordert werden; die Genehmigung oder Bemängelung hat ohne unnötigen Aufschub zu erfolgen.Konventionalstrafen. § 38. Konventionalstrafen unterliegen dem richterlichen Mäßigungsrechte.Zeugnis. § 39. (1) Der Dienstgeber ist verpflichtet, bei Beendigung des Dienstverhältnisses dem Dienstnehmer auf Verlangen ein schriftliches Zeugnis über die Dauer und die Art der Dienstleistung auszustellen. Eintragungen und Anmerkungen im Zeugnisse, durch die dem Dienstnehmer die Erlangung einer neuen Stelle erschwert wird, sind unzulässig. (2) Verlangt der Dienstnehmer während der Dauer des Dienstverhältnisses ein Zeugnis, so ist ihm ein solches auf seine Kosten auszustellen. (3) Zeugnisse des Dienstnehmers, die sich in der Verwahrung des Dienstgebers befinden, sind ihm auf Verlangen jederzeit auszufolgen.Streitigkeiten. § 40. (1) Für Streitigkeiten aus den in diesem Gesetze geregelten Dienstverhältnissen sind die ordentlichen Gerichte zuständig. (2) Zur Ermöglichung der Schlichtung von Streitigkeiten aus den in diesem Gesetze geregelten Dienstverhältnissen durch außergerichtlichen Vergleich können nach Anhörung der beteiligten Berufsvereinigungen durch Verordnung Schlichtungsstellen errichtet und Vorschriften über deren Zusammensetzung sowie das von ihnen einzuhaltende Verfahren und die gerichtliche Vollstreckbarkeit der vor den Schlichtungsstellen abgeschlossenen Vergleiche erlassen werden.Verhältnis zu anderen Gesetzen § 41. (1) Insoweit dieses Gesetz nichts anderes bestimmt, finden die Vorschriften des allgemeinen bürgerlichen Rechtes über den Dienstvertrag auf die in diesem Gesetze geregelten Dienstverhältnisse Anwendung. (2) Die §§ 22 und 22a sind auf Dienstverhältnisse, deren vertraglich vereinbarter Beginn nach dem 31. Dezember 2002 liegt, nicht mehr anzuwenden, soweit nicht durch Verordnung gemäß § 46 Abs. 1 letzter Satz des Betrieblichen Mitarbeitervorsorgegesetzes (BMVG), BGBl. I Nr. 100/2002, etwas anderes angeordnet wird. Sie sind jedoch weiterhin auf Dienstverhältnisse anzuwenden, deren vertraglich vereinbarter Beginn vor dem 1. Jänner 2003 oder dem durch Verordnung festgelegten Zeitpunkt liegt. Soweit eine Vereinbarung gemäß § 47 Abs. 1 und 3 BMVG erfolgt, sind diese Bestimmungen bis zum In-Kraft-Treten dieser Vereinbarung anzuwenden. § 16 Abs. 2 in der Fassung dieses Bundesgesetzes ist auf Dienstverhältnisse anzuwenden, die nach dem 30. Juni 2002 abgeschlossen werden.Wirksamkeit des Gesetzes § 42. (1) Dieses Gesetz tritt am 1. November 1923 in Kraft. An diesem Tag erlischt die Wirksamkeit des Gesetzes vom 13. Jänner 1914, RGBl. Nr. 9, über den Dienstvertrag der in land- und forstwirtschaftlichen Betrieben zu Diensten höherer Art angestellten Personen (Güterbeamtengesetz). (2) Die Bestimmungen dieses Gesetzes finden auf die am Tage seines Wirksamkeitsbeginnes bestehenden Dienstverhältnisse auch dann Anwendung, wenn die Kündigung nach dem 31. Dezember 1922 erklärt wurde. (3) § 1 Abs. 1 und § 17 Abs. 1 dieses Bundesgesetzes in der Fassung des Bundesgesetzes BGBl. Nr. 833/1992 treten mit 1. Jänner 1993 in Kraft. (4) § 13 und § 22a Abs. 1, 1a und 2 in der Fassung des Bundesgesetzes BGBl. Nr. 335/1993 treten mit 1. Juli 1993 in Kraft. (5) § 7 dieses Bundesgesetzes in der Fassung des Bundesgesetzes BGBl. Nr. 459/1993 tritt gleichzeitig mit dem Abkommen über den Europäischen Wirtschaftsraum in Kraft. (6) § 20 dieses Bundesgesetzes in der Fassung des Bundesgesetzes BGBl. Nr. 502/1993, tritt mit 1. August 1993 in Kraft. (7) § 20 in der Fassung des Bundesgesetzes BGBl. I Nr. 44/2000 tritt mit 1. Jänner 2001 in Kraft. (8) § 2 Abs. 3, § 16 Abs. 2 und § 41 in der Fassung des Bundesgesetzes BGBl. I Nr. 100/2002 treten mit 1. Juli 2002 in Kraft. (9) § 22 Abs. 1a und 8 und § 22a Abs. 3, 4 und 4a in der Fassung des Bundesgesetzes BGBl. I Nr. 64/2004 treten mit 1. Juli 2004 in Kraft. (10) § 22a Abs. 1 in der Fassung des Bundesgesetzes BGBl. I Nr. 143/2004 tritt mit 1. Jänner 2005 in Kraft. (11) Die §§ 30 Abs. 4 und 31 Abs. 2 in der Fassung des Bundesgesetzes BGBl. I Nr. 58/2010 treten mit 1. August 2010 in Kraft. (12) § 22a Abs. 1 Z 3 und 4 in der Fassung des Bundesgesetzes BGBl. I Nr. 152/2015 tritt mit 1. Jänner 2016 in Kraft. (13) § 8 Abs. 1 bis 2a und 7 in der Fassung des Bundesgesetzes BGBl. I Nr. 153/2017, treten mit 1. Juli 2018 in Kraft und sind auf Dienstverhinderungen anzuwenden, die in nach dem 30. Juni 2018 begonnenen Arbeitsjahren eingetreten sind. Für zu diesem Zeitpunkt laufende Dienstverhinderungen gilt § 8 Abs. 1 bis 2a in der Fassung des Bundesgesetzes BGBl. I Nr. 153/2017 ab Beginn dieses Arbeitsjahres. (14) § 9 Abs. 1 in der Fassung des Bundesgesetzes, BGBl. I Nr. 153/2017, tritt mit 1. Juli 2018 in Kraft und ist auf einvernehmliche Beendigungen von Dienstverhältnissen während einer Dienstverhinderung gemäß § 8 Abs. 1 bis 2a oder im Hinblick auf eine Dienstverhinderung gemäß § 8 Abs. 1 bis 2a anzuwenden, die eine Auflösung des Dienstverhältnisses nach dem 30. Juni 2018 bewirken. (15) § 17 Abs. 1 in der Fassung des Bundesgesetzes, BGBl. I Nr. 153/2017, tritt mit 1. Jänner 2018 in Kraft und ist auf Beendigungen anzuwenden, die nach dem 31. Dezember 2017 ausgesprochen werden. (16) § 8 Abs. 4a in der Fassung des Bundesgesetzes BGBl. I Nr. 74/2019 tritt mit 1. September 2019 in Kraft.Vollziehung § 43. Mit der Vollziehung dieses Bundesgesetzes ist der Bundesminister für Wirtschaft und Arbeit betraut.",
+  "parts": [
+    {
+      "@id": "de826f05-e948-47eb-a0a9-048fb255f8a4#offset_2468_3401",
+      "offset_ini": 2468,
+      "offset_end": 3401,
+      "title": ""
+    },
+    {
+      "@id": "de826f05-e948-47eb-a0a9-048fb255f8a4#offset_3402_4081",
+      "offset_ini": 3402,
+      "offset_end": 4081,
+      "title": ""
+    },
+    {
+      "@id": "de826f05-e948-47eb-a0a9-048fb255f8a4#offset_4082_4348",
+      "offset_ini": 4082,
+      "offset_end": 4348,
+      "title": "Abschluß und Inhalt des Dienstvertrages."
+    },
+    {
+      "@id": "de826f05-e948-47eb-a0a9-048fb255f8a4#offset_4349_4552",
+      "offset_ini": 4349,
+      "offset_end": 4552,
+      "title": ""
+    },
+    {
+      "@id": "de826f05-e948-47eb-a0a9-048fb255f8a4#offset_4553_4940",
+      "offset_ini": 4553,
+      "offset_end": 4940,
+      "title": ""
+    },
+    {
+      "@id": "de826f05-e948-47eb-a0a9-048fb255f8a4#offset_4941_5329",
+      "offset_ini": 4941,
+      "offset_end": 5329,
+      "title": "Schriftliche Aufzeichnung des Dienstvertrages."
+    },
+    {
+      "@id": "de826f05-e948-47eb-a0a9-048fb255f8a4#offset_5330_10687",
+      "offset_ini": 5330,
+      "offset_end": 10687,
+      "title": "Anspruch bei Dienstverhinderung."
+    },
+    {
+      "@id": "de826f05-e948-47eb-a0a9-048fb255f8a4#offset_10688_11723",
+      "offset_ini": 10688,
+      "offset_end": 11723,
+      "title": ""
+    },
+    {
+      "@id": "de826f05-e948-47eb-a0a9-048fb255f8a4#offset_11724_12005",
+      "offset_ini": 11724,
+      "offset_end": 12005,
+      "title": "Verpflichtungen des Dienstnehmers"
+    },
+    {
+      "@id": "de826f05-e948-47eb-a0a9-048fb255f8a4#offset_12006_12836",
+      "offset_ini": 12006,
+      "offset_end": 12836,
+      "title": "Fürsorgepflicht des Dienstgebers."
+    },
+    {
+      "@id": "de826f05-e948-47eb-a0a9-048fb255f8a4#offset_12837_13867",
+      "offset_ini": 12837,
+      "offset_end": 13867,
+      "title": "Leistung des Entgelts."
+    },
+    {
+      "@id": "de826f05-e948-47eb-a0a9-048fb255f8a4#offset_13868_14252",
+      "offset_ini": 13868,
+      "offset_end": 14252,
+      "title": "Remuneration."
+    },
+    {
+      "@id": "de826f05-e948-47eb-a0a9-048fb255f8a4#offset_14253_15171",
+      "offset_ini": 14253,
+      "offset_end": 15171,
+      "title": "Landnutzung."
+    },
+    {
+      "@id": "de826f05-e948-47eb-a0a9-048fb255f8a4#offset_15172_15470",
+      "offset_ini": 15172,
+      "offset_end": 15470,
+      "title": "Urlaub"
+    },
+    {
+      "@id": "de826f05-e948-47eb-a0a9-048fb255f8a4#offset_15471_15778",
+      "offset_ini": 15471,
+      "offset_end": 15778,
+      "title": "Endigung des Dienstverhältnisses durch Ablauf der Zeit."
+    },
+    {
+      "@id": "de826f05-e948-47eb-a0a9-048fb255f8a4#offset_15779_17278",
+      "offset_ini": 15779,
+      "offset_end": 17278,
+      "title": "Kündigung."
+    },
+    {
+      "@id": "de826f05-e948-47eb-a0a9-048fb255f8a4#offset_17279_17509",
+      "offset_ini": 17279,
+      "offset_end": 17509,
+      "title": ""
+    },
+    {
+      "@id": "de826f05-e948-47eb-a0a9-048fb255f8a4#offset_17510_17589",
+      "offset_ini": 17510,
+      "offset_end": 17589,
+      "title": ""
+    },
+    {
+      "@id": "de826f05-e948-47eb-a0a9-048fb255f8a4#offset_17590_18195",
+      "offset_ini": 17590,
+      "offset_end": 18195,
+      "title": "Freizeit während der Kündigungsfrist"
+    },
+    {
+      "@id": "de826f05-e948-47eb-a0a9-048fb255f8a4#offset_18196_18747",
+      "offset_ini": 18196,
+      "offset_end": 18747,
+      "title": ""
+    },
+    {
+      "@id": "de826f05-e948-47eb-a0a9-048fb255f8a4#offset_18748_22110",
+      "offset_ini": 18748,
+      "offset_end": 22110,
+      "title": "Abfertigung."
+    },
+    {
+      "@id": "de826f05-e948-47eb-a0a9-048fb255f8a4#offset_22111_26449",
+      "offset_ini": 22111,
+      "offset_end": 26449,
+      "title": ""
+    },
+    {
+      "@id": "de826f05-e948-47eb-a0a9-048fb255f8a4#offset_26450_27788",
+      "offset_ini": 26450,
+      "offset_end": 27788,
+      "title": "Tod des Dienstnehmers"
+    },
+    {
+      "@id": "de826f05-e948-47eb-a0a9-048fb255f8a4#offset_27789_28013",
+      "offset_ini": 27789,
+      "offset_end": 28013,
+      "title": "Vorzeitige Auflösung."
+    },
+    {
+      "@id": "de826f05-e948-47eb-a0a9-048fb255f8a4#offset_28014_29049",
+      "offset_ini": 28014,
+      "offset_end": 29049,
+      "title": ""
+    },
+    {
+      "@id": "de826f05-e948-47eb-a0a9-048fb255f8a4#offset_29050_30737",
+      "offset_ini": 29050,
+      "offset_end": 30737,
+      "title": ""
+    },
+    {
+      "@id": "de826f05-e948-47eb-a0a9-048fb255f8a4#offset_30738_31008",
+      "offset_ini": 30738,
+      "offset_end": 31008,
+      "title": ""
+    },
+    {
+      "@id": "de826f05-e948-47eb-a0a9-048fb255f8a4#offset_31009_31543",
+      "offset_ini": 31009,
+      "offset_end": 31543,
+      "title": ""
+    },
+    {
+      "@id": "de826f05-e948-47eb-a0a9-048fb255f8a4#offset_31544_32608",
+      "offset_ini": 31544,
+      "offset_end": 32608,
+      "title": ""
+    },
+    {
+      "@id": "de826f05-e948-47eb-a0a9-048fb255f8a4#offset_32609_34186",
+      "offset_ini": 32609,
+      "offset_end": 34186,
+      "title": ""
+    },
+    {
+      "@id": "de826f05-e948-47eb-a0a9-048fb255f8a4#offset_34187_35536",
+      "offset_ini": 34187,
+      "offset_end": 35536,
+      "title": ""
+    },
+    {
+      "@id": "de826f05-e948-47eb-a0a9-048fb255f8a4#offset_35537_35745",
+      "offset_ini": 35537,
+      "offset_end": 35745,
+      "title": ""
+    },
+    {
+      "@id": "de826f05-e948-47eb-a0a9-048fb255f8a4#offset_35746_35856",
+      "offset_ini": 35746,
+      "offset_end": 35856,
+      "title": ""
+    },
+    {
+      "@id": "de826f05-e948-47eb-a0a9-048fb255f8a4#offset_35857_36220",
+      "offset_ini": 35857,
+      "offset_end": 36220,
+      "title": "Frist zur Geltendmachung der Ansprüche."
+    },
+    {
+      "@id": "de826f05-e948-47eb-a0a9-048fb255f8a4#offset_36221_36823",
+      "offset_ini": 36221,
+      "offset_end": 36823,
+      "title": "Rechnungslegung."
+    },
+    {
+      "@id": "de826f05-e948-47eb-a0a9-048fb255f8a4#offset_36824_36880",
+      "offset_ini": 36824,
+      "offset_end": 36880,
+      "title": "Kaution."
+    },
+    {
+      "@id": "de826f05-e948-47eb-a0a9-048fb255f8a4#offset_36881_37208",
+      "offset_ini": 36881,
+      "offset_end": 37208,
+      "title": ""
+    },
+    {
+      "@id": "de826f05-e948-47eb-a0a9-048fb255f8a4#offset_37209_37301",
+      "offset_ini": 37209,
+      "offset_end": 37301,
+      "title": "Konventionalstrafen."
+    },
+    {
+      "@id": "de826f05-e948-47eb-a0a9-048fb255f8a4#offset_37302_37917",
+      "offset_ini": 37302,
+      "offset_end": 37917,
+      "title": "Zeugnis."
+    },
+    {
+      "@id": "de826f05-e948-47eb-a0a9-048fb255f8a4#offset_37918_38515",
+      "offset_ini": 37918,
+      "offset_end": 38515,
+      "title": "Streitigkeiten."
+    },
+    {
+      "@id": "de826f05-e948-47eb-a0a9-048fb255f8a4#offset_38516_39526",
+      "offset_ini": 38516,
+      "offset_end": 39526,
+      "title": "Verhältnis zu anderen Gesetzen"
+    },
+    {
+      "@id": "de826f05-e948-47eb-a0a9-048fb255f8a4#offset_39527_42395",
+      "offset_ini": 39527,
+      "offset_end": 42395,
+      "title": "Wirksamkeit des Gesetzes"
+    },
+    {
+      "@id": "de826f05-e948-47eb-a0a9-048fb255f8a4#offset_42396_42512",
+      "offset_ini": 42396,
+      "offset_end": 42512,
+      "title": "Vollziehung"
+    },
+    {
+      "@id": "de826f05-e948-47eb-a0a9-048fb255f8a4#offset_0_2467",
+      "offset_ini": 0,
+      "offset_end": 2467
+    }
+  ]
+}

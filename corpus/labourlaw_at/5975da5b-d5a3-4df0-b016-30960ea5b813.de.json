@@ -1,0 +1,94 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/5975da5b-d5a3-4df0-b016-30960ea5b813",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Festsetzung des Mindestlohntarifs für Au-Pair-Kräfte"
+    },
+    "hasAuthority": "BKA (Bundeskanzleramt)",
+    "id_local": "20011434",
+    "first_date_entry_in_force": "2021-01-01",
+    "version_date": "2021-01-01",
+    "url_consolidated": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d20011434\u0026FassungVom\u003d2021-01-01",
+    "classifications": [
+      "60/03 Kollektives Arbeitsrecht"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/5975da5b-d5a3-4df0-b016-30960ea5b813/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/5975da5b-d5a3-4df0-b016-30960ea5b813/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 3899,
+  "text": "Präambel/Promulgationsklausel Das Bundeseinigungsamt beim Bundesministerium für Arbeit, Familie und Jugend ist gemäß § 22 Abs. 1 Arbeitsverfassungsgesetz, BGBl. Nr. 22/1974, in der Fassung des Bundesgesetzes BGBl. I Nr. 23/2020 ermächtigt, auf Antrag einer kollektivvertragsfähigen Körperschaft den Mindestlohntarif festzusetzen, wenn für den betreffenden Wirtschaftszweig kein Kollektivvertrag wirksam ist. Das Bundeseinigungsamt beim Bundesministerium für Arbeit, Familie und Jugend hat mit Beschluss vom 2. Dezember 2020 nach Durchführung einer Senatsverhandlung nachstehenden Mindestlohntarif festgesetzt:Mindestlohntarif für Au-Pair-Kräfte M 25/2020/XXV/99/1 Geltungsbereich § 1. Dieser Mindestlohntarif gilt: 1. Räumlich: für das Bundesgebiet Österreich. 2. Fachlich und persönlich: für Arbeitnehmerinnen und Arbeitnehmer, die als Au-Pair-Kräfte gem. § 49 Abs. 8 ASVG beschäftigt werden.Entgelt § 2. Der Au-Pair-Kraft mit Wohnung und Verpflegung bei Arbeitgeberin bzw. Arbeitgeber (Gastfamilie) gebührt für die Tätigkeit als Au-Pair-Kraft (Kinderbetreuung und leichte Mithilfe im Haushalt) für eine Arbeitszeit von 18 Stunden inklusive Arbeitsbereitschaft ein monatlicher Mindestbruttobarlohn von 475,86 €.Naturalbezüge § 3. Ist die Au-Pair-Kraft zur Inanspruchnahme einer vereinbarten Wohnung und Verpflegung nicht in der Lage (z. B. Dienstverhinderung durch Krankheit, Verzicht auf Dienstleistung während der Kündigungsfrist, bei begründetem vorzeitigen Austritt und bei unbegründeter fristloser Entlassung, Urlaub), so sind ihr bzw. ihm diese Sachbezüge in Geld zu vergüten und zwar pro Kalendertag in Höhe eines 30stels des für die Bewertung von Sachleistungen für die Sozialversicherung festgelegten Bewertungssatzes.Arbeitskleidung und Sprachkurs § 4. (1) Arbeitskleidung ist der Au-Pair-Kraft auf Kosten der Arbeitgeberin bzw. des Arbeitgebers bei Dienstantritt in ordentlichem Zustand beizustellen. Die Reinigung ist von der Arbeitgeberin bzw. dem Arbeitgeber zu veranlassen oder sind die dafür anfallenden Kosten von ihm zu bezahlen. (2) Um dem Auftrag nach Vertiefung der deutschen Sprachkenntnisse einer Au-Pair-Kraft nachzukommen, hat die Arbeitgeberin bzw. der Arbeitgeber mindestens die Hälfte der Kosten eines Deutschkurses oder eines vergleichbaren Bildungsangebotes zu bezahlen. (3) Die Kosten eines von der Arbeitgeberin bzw. vom Arbeitgeber angeordneten Kurses zur pädagogischen Qualifizierung sind von der Arbeitgeberin bzw. dem Arbeitgeber zu tragen.Weihnachtsremuneration § 5. Der Au-Pair-Kraft gebührt in jedem Kalenderjahr eine jeweils am 1. Dezember fällig werdende Weihnachtsremuneration in der Höhe eines Bruttomonatsbarbezuges. Hat das Arbeitsverhältnis am Fälligkeitstag noch kein Jahr gedauert oder wurde es vor dem Fälligkeitstag aufgelöst, so gebührt der aliquote Teil der Remuneration.Urlaubszuschuss § 6. Der Au-Pair-Kraft gebührt ein Urlaubszuschuss, der gemäß § 9 HGHAngG zu berechnen und fällig ist.Abrechnungsnachweis § 7. Die Arbeitgeberin bzw. der Arbeitgeber ist verpflichtet, der Au-Pair-Kraft eine genaue mit Datum versehene Abrechnung über die geleisteten Arbeitsstunden, das Entgelt und die Abzüge bei der Entgeltauszahlung zu übergeben. Bei Arbeitsverhältnissen, die dem Betrieblichen Mitarbeiter- und Selbständigenvorsorgegesetz, BGBl. I Nr. 100/2002, in der jeweils geltenden Fassung, unterliegen, hat der Abrechnungsnachweis auch den Beitrag an die Betriebliche Vorsorgekasse sowie dessen Bemessungsgrundlage zu enthalten.Wirksamkeitsbeginn § 8. (1) Dieser Mindestlohntarif tritt mit 1. Jänner 2021 in Kraft und gilt nur für Beschäftigungsverhältnisse von Au-Pair-Kräften, die nach dem 31. Dezember 2020 abgeschlossen werden. (2) Für Beschäftigungsverhältnisse von Au-Pair-Kräften, die vor dem 1. Jänner 2021 abgeschlossen worden sind, ist weiterhin der Mindestlohntarif für Au-Pair-Kräfte, M 22/2019/XXV/99/1, BGBl. II Nr. 381/2019, anzuwenden.",
+  "parts": [
+    {
+      "@id": "5975da5b-d5a3-4df0-b016-30960ea5b813#offset_609_892",
+      "offset_ini": 609,
+      "offset_end": 892,
+      "title": "Geltungsbereich"
+    },
+    {
+      "@id": "5975da5b-d5a3-4df0-b016-30960ea5b813#offset_893_1211",
+      "offset_ini": 893,
+      "offset_end": 1211,
+      "title": "Entgelt"
+    },
+    {
+      "@id": "5975da5b-d5a3-4df0-b016-30960ea5b813#offset_1212_1727",
+      "offset_ini": 1212,
+      "offset_end": 1727,
+      "title": "Naturalbezüge"
+    },
+    {
+      "@id": "5975da5b-d5a3-4df0-b016-30960ea5b813#offset_1728_2476",
+      "offset_ini": 1728,
+      "offset_end": 2476,
+      "title": "Arbeitskleidung und Sprachkurs"
+    },
+    {
+      "@id": "5975da5b-d5a3-4df0-b016-30960ea5b813#offset_2477_2823",
+      "offset_ini": 2477,
+      "offset_end": 2823,
+      "title": "Weihnachtsremuneration"
+    },
+    {
+      "@id": "5975da5b-d5a3-4df0-b016-30960ea5b813#offset_2824_2941",
+      "offset_ini": 2824,
+      "offset_end": 2941,
+      "title": "Urlaubszuschuss"
+    },
+    {
+      "@id": "5975da5b-d5a3-4df0-b016-30960ea5b813#offset_2942_3476",
+      "offset_ini": 2942,
+      "offset_end": 3476,
+      "title": "Abrechnungsnachweis"
+    },
+    {
+      "@id": "5975da5b-d5a3-4df0-b016-30960ea5b813#offset_3477_3899",
+      "offset_ini": 3477,
+      "offset_end": 3899,
+      "title": "Wirksamkeitsbeginn"
+    },
+    {
+      "@id": "5975da5b-d5a3-4df0-b016-30960ea5b813#offset_0_608",
+      "offset_ini": 0,
+      "offset_end": 608
+    }
+  ]
+}

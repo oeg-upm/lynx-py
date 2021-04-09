@@ -1,0 +1,27 @@
+{
+      
+      "query": {
+        "bool": {
+          "filter": {
+          	"bool" : {
+              "must" :  [    		
+                {"term": {"metadata.jurisdiction": "es"} }
+              ]
+            }
+          },
+          "must": [{
+            "multi_match": {
+              "query": "QUESTION", 
+              "fields": [
+               "metadata.title.es"
+               ,
+               "text_es"
+              ]
+              
+            }
+          }   
+          
+          ]
+        }
+      }
+}

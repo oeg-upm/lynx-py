@@ -1,0 +1,88 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/bbf15036-b540-4774-8dfe-6b5d3f636499",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Arbeitslosenversicherung – Durchführung (Schweiz)"
+    },
+    "hasAuthority": "BGBl. Nr. 516/1979",
+    "id_local": "10008452",
+    "first_date_entry_in_force": "1980-01-01",
+    "version_date": "1980-01-01",
+    "url_consolidated": "http://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d10008452\u0026FassungVom\u003d1980-01-01",
+    "classifications": [
+      "69/03 Soziale Sicherheit"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/bbf15036-b540-4774-8dfe-6b5d3f636499/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/bbf15036-b540-4774-8dfe-6b5d3f636499/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 3214,
+  "text": "Ratifikationstext Die Vereinbarung tritt gemäß ihrem Art. 7 am 1. Jänner 1980 in Kraft. Präambel/Promulgationsklausel Auf Grund des Artikels 13 des Abkommens zwischen der Republik Österreich und der Schweizerischen Eidgenossenschaft über Arbeitslosenversicherung vom 14. Dezember 1978 – im folgenden als Abkommen bezeichnet – haben die zuständigen Behörden, und zwar (Anm.: es folgen die Namen der Bevollmächtigten.) zur Durchführung des Abkommens folgendes vereinbart: _________________ *) Kundgemacht in BGBl. Nr. 515/1979Artikel 1 In dieser Vereinbarung werden die im Abkommen angeführten Ausdrücke in der dort festgelegten Bedeutung verwendet.Artikel 2 Den Nachweis, daß der Anspruch auf Arbeitslosenentschädigung erschöpft ist, hat der Arbeitslose durch eine Bescheinigung der schweizerischen Arbeitslosenkasse, bei der er zuletzt Arbeitslosenentschädigung bezogen hat, zu erbringen.Artikel 3 Beitragsüberweisungen im Sinne von Artikel 7 Absatz 2 des Abkommens sind zu richten in Österreich an das Bundesministerium für soziale Verwaltung in Wien, in der Schweiz an die Ausgleichsstelle der Arbeitslosenversicherung (Bundesamt für Industrie, Gewerbe und Arbeit) in Bern.Artikel 4 1. Der Pauschalbetrag nach Artikel 7 Absatz 2 des Abkommens wird jährlich wie folgt überwiesen: a) Eine Abschlagszahlung in der Höhe von 50 Prozent des Vorjahresbetrages wird bis Ende September des laufenden Jahres geleistet. b) Die Schlußabrechnung erfolgt bis Ende September des folgenden Jahres. Innerhalb derselben Frist wird auch der Saldo überwiesen. 2. Die Pauschalbeträge für die Jahre 1977 und 1978 werden binnen zwei Monaten nach dem Inkrafttreten des Abkommens überwiesen, ebenso die Abschlagszahlung nach Absatz 1 Buchstabe a für das Jahr 1979.Artikel 5 1. Beitragsüberweisungen im Sinne von Artikel 7 Absatz 2 des Abkommens erfolgen in der Währung des Empfängerstaates. Maßgebend ist der Wechselkurs am Tage der Zahlung. 2. Jede Vertragspartei trägt allfällige bei ihr entstehende Überweisungsspesen.Artikel 6 1. Bei der Beurteilung der Anwartschaft und der Bezugsdauer von Arbeitslosengeld, bzw. Arbeitslosenentschädigung wird die vom Arbeitgeber des andern Vertragsstaates ausgestellte Bescheinigung anerkannt, gleichgültig, ob hiefür das Formular des einen oder andern Vertragsstaates verwendet wurde. 2. Ergeben sich Zweifel über die Richtigkeit der Bescheinigung oder sind weitere Abklärungen erforderlich, so hat sich das Arbeitsamt bzw. die Arbeitslosenkasse an die zuständige Arbeitslosenkasse bzw. an das zuständige Arbeitsamt im andern Vertragsstaat oder, sofern diese nicht bekannt sind, an die Verbindungsstelle im Sinne von Artikel 13 Absatz 2 des Abkommens im andern Vertragsstaat zu wenden. 3. Darüber hinaus liefern sich die Verbindungsstellen gegenseitig auf Verlangen die für die Beurteilung der Anspruchsberechtigung eines Versicherten im andern Vertragsstaat erforderlichen Auskünfte und Bescheinigungen, soweit sie dazu in der Lage sind. 4. Den Verbindungsstellen können weitere Aufgaben im Zusammenhang mit der Durchführung des Abkommens übertragen werden.Artikel 7 Diese Vereinbarung tritt gleichzeitig mit dem Abkommen in Kraft. Geschehen zu St. Gallen, am 5. Oktober 1979 in zwei Urschriften.",
+  "parts": [
+    {
+      "@id": "bbf15036-b540-4774-8dfe-6b5d3f636499#offset_524_646",
+      "offset_ini": 524,
+      "offset_end": 646,
+      "title": "Artikel 1"
+    },
+    {
+      "@id": "bbf15036-b540-4774-8dfe-6b5d3f636499#offset_647_887",
+      "offset_ini": 647,
+      "offset_end": 887,
+      "title": "Artikel 2"
+    },
+    {
+      "@id": "bbf15036-b540-4774-8dfe-6b5d3f636499#offset_888_1174",
+      "offset_ini": 888,
+      "offset_end": 1174,
+      "title": "Artikel 3"
+    },
+    {
+      "@id": "bbf15036-b540-4774-8dfe-6b5d3f636499#offset_1175_1740",
+      "offset_ini": 1175,
+      "offset_end": 1740,
+      "title": "Artikel 4"
+    },
+    {
+      "@id": "bbf15036-b540-4774-8dfe-6b5d3f636499#offset_1741_1997",
+      "offset_ini": 1741,
+      "offset_end": 1997,
+      "title": "Artikel 5"
+    },
+    {
+      "@id": "bbf15036-b540-4774-8dfe-6b5d3f636499#offset_1998_3075",
+      "offset_ini": 1998,
+      "offset_end": 3075,
+      "title": "Artikel 6"
+    },
+    {
+      "@id": "bbf15036-b540-4774-8dfe-6b5d3f636499#offset_3076_3214",
+      "offset_ini": 3076,
+      "offset_end": 3214,
+      "title": "Artikel 7"
+    },
+    {
+      "@id": "bbf15036-b540-4774-8dfe-6b5d3f636499#offset_0_523",
+      "offset_ini": 0,
+      "offset_end": 523
+    }
+  ]
+}

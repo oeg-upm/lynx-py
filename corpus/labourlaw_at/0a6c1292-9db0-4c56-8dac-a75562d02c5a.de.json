@@ -1,0 +1,146 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/0a6c1292-9db0-4c56-8dac-a75562d02c5a",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Durchführungsverordnung zum Wiener Wohn- und Pflegeheimgesetz – WWPG"
+    },
+    "hasAuthority": "LGBl. Nr. 31/2005",
+    "nick": [
+      "WWPG"
+    ],
+    "id_local": "20000278",
+    "first_date_entry_in_force": "2012-12-22",
+    "version_date": "2012-12-22",
+    "url_consolidated": "http://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dLrW\u0026Gesetzesnummer\u003d20000278\u0026FassungVom\u003d2012-12-22",
+    "classifications": [
+      "60/40 Krankenbehandlung",
+      "60 Gesundheits- und Sozialrecht (S)"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/0a6c1292-9db0-4c56-8dac-a75562d02c5a/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/0a6c1292-9db0-4c56-8dac-a75562d02c5a/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 7985,
+  "text": "Präambel/Promulgationsklausel Gemäß § 30 Wiener Wohn- und Pflegeheimgesetz – WWPG, LGBl. für Wien Nr. 15/2005, wird verordnet:1. ABSCHNITT Inhalt und Anwendungsbereich § 1. Mit dieser Verordnung werden personelle und baulich-technische Mindeststandards für folgende Einrichtungen nach dem Wiener Wohn- und Pflegeheimgesetz – WWPG, LGBl. für Wien Nr. 15/2005, festgelegt: 1. Pflegeheime für Menschen mit Betreuungs- und Pflegebedarf, 2. Wohnheimen angeschlossene Pflegestationen.2. ABSCHNITT Personelle Mindeststandards Betreuungs- und Pflegepersonal § 2. (1) Grundlage des Angebotes an Betreuungs- und Pflegeleistungen bildet die Pflegegeldeinstufung der Bewohner. (2) Im Rahmen der Betreuungs- und Pflegeleistungen sind jedenfalls zu berücksichtigen: 1. somatische Bedürfnisse, 2. psychosoziale Bedürfnisse, 3. die Möglichkeit der Erhaltung von sozialen Kontakten, 4. Leistungen, die nach ärztlicher Anordnung durchzuführen sind.§ 3. (1) Der Heimträger hat die Betreuung und Pflege der Bewohner durch Betreuungs- und Pflegepersonal sicherzustellen. (2) Zur Pflege der Bewohner dürfen nur Angehörige des gehobenen Dienstes für Gesundheits- und Krankenpflege und Pflegehelfer eingesetzt werden. (3) Zur Betreuung der Bewohner dürfen Betreuungspersonen (wie Heimhelfer) und Angehörige von Hilfsdiensten (wie Abteilungshelfer) eingesetzt werden. (4) Angehörige anderer als der in Abs. 2 und 3 genannten Berufsgruppen dürfen für Tätigkeiten nach Abs. 2 und 3 herangezogen werden, soweit diese von ihrem jeweiligen Berufsbild umfasst sind.§ 4. (1) Das Verhältnis der Bewohnerinnen und Bewohner nach deren Betreuungs- und Pflegebedarf zur Anzahl des Betreuungs- und Pflegepersonals darf folgenden Stand nicht unterschreiten: Pflegegeldstufe Vollzeitbeschäftigte Betreuungs- und Pflegeperson Bewohner 0 1 20 1 1 20 2 1 7 3 1 2 4 1 1,75 5 1 1,5 6 1 1,25 7 1 1 (2) Der in Abs. 1 festgelegte Personalschlüssel kann aus Gründen der Arbeitsmarkt- und Ausbildungssituation oder aus besonders berücksichtigungswürdigen Gründen im Zusammenhang mit dem Personalkonzept eines Heimes bis zu 10 Prozent unterschritten werden, sofern der Schutzzweck dieser Verordnung dadurch nicht beeinträchtigt wird.§ 5. Für Leistungen bei Bewohnern mit besonderem Betreuungs- bzw. Pflegebedarf ist über die in § 4 festgelegte Mindestpersonalausstattung hinaus eine diesen besonderen Betreuungs- und Pflegebedarf abdeckende Personalausstattung sicherzustellen.§ 6. (1) Der Anteil der Angehörigen des gehobenen Dienstes für Gesundheits- und Krankenpflege darf 30% der Mindestpersonalausstattung (§ 4) nicht unterschreiten. (2) Der Anteil der Betreuungs- und Hilfspersonen darf 20% der Mindestpersonalausstattung (§ 4) nicht übersteigen.Medizinisches Personal § 7. Der Heimträger hat in Abhängigkeit vom Betreuungsbedarf der Bewohner die medizinische Betreuung durch Ärzte (und allenfalls erforderliches Hilfspersonal) sicherzustellen. Die Betreuung kann durch im Heim tätige Ärzte oder durch rasche Erreichbarkeit von niedergelassenen Ärzten erfolgen.Therapeutisches Personal § 8. Der Heimträger hat in Abhängigkeit vom Betreuungsbedarf der Bewohner die therapeutische Betreuung durch Physiotherapeuten, Ergotherapeuten und Logopäden sicherzustellen. Die Betreuung kann durch im Heim tätige Therapeuten oder durch Vermittlung von niedergelassenen Therapeuten erfolgen.Psychologische und psychotherapeutische Betreuung § 9. Der Heimträger hat in Abhängigkeit vom Betreuungsbedarf der Bewohner die psychologische und psychotherapeutische Betreuung sicherzustellen. Die Betreuung kann durch im Heim tätige Psychologen und Psychotherapeuten oder durch Vermittlung von niedergelassenen Psychologen und Psychotherapeuten erfolgen.3. ABSCHNITT Baulich-technische Mindeststandards Größe und Infrastruktur der Pflegeheime und Pflegestationen § 10. (1) Neu zu errichtende Pflegeheime dürfen nicht mehr als 350 Heimplätze aufweisen. (2) Pflegeheime sind in baulich überschaubare Einheiten mit nicht mehr als 28 Heimplätzen zu gliedern. Eine Gliederung kann, sofern dies den in § 3 WWPG genannten Zielen entspricht, unter besonderen Voraussetzungen auch durch organisatorische Maßnahmen erfolgen. Auf Grund des pflegerischen Konzepts und der räumlichen Gegebenheiten kann die Anzahl der Heimplätze pro Einheit bis auf 36 erhöht werden. (3) Pflegestationen dürfen nicht mehr als 28 Heimplätze aufweisen. Auf Grund des pflegerischen Konzepts und der räumlichen Gegebenheiten kann die Anzahl der Heimplätze pro Pflegestation bis auf 36 erhöht werden.§ 11. (1) Neben den Räumen für die Bewohner (Wohneinheiten) sowie Funktions- und Nebenräumen müssen in ausreichender Anzahl und Eignung zumindest folgende Räume vorhanden sein: 1. Therapieraum, 2. Raum für Rehabilitationsangebote, 3. Sozialraum, 4. Aufenthaltsraum, 5. Raum für Dienstleistungen. In Einrichtungen, die bereits am 29. Juni 2005 bestanden haben, können Therapien, Rehabilitationsangebote und Dienstleistungen auch in dafür geeigneten Wohneinheiten erfolgen. (2) Eine geeignete Notrufanlage oder ein geeignetes Notfallsystem muss vorhanden sein.Größe und Ausstattung der Wohneinheiten § 12. Die Mindestgröße der Wohneinheiten ohne Nasseinheit (Waschbecken, Dusche, WC) hat zu betragen: 1. bei Wohneinheiten für eine Person 14 m2, 2. bei Wohneinheiten für zwei Personen 20 m2, 3. bei Wohneinheiten für drei Personen 26 m2, 4. bei Wohneinheiten für vier Personen 32 m2.§ 13. (1) Die Ausstattung der Wohneinheiten muss den angemessenen hygienischen, pflegerischen, technischen und sicherheitstechnischen Anforderungen entsprechen. (2) Die Wohneinheiten müssen barrierefrei beschaffen sein. (3) In den Wohneinheiten müssen vorhanden sein: 1. Wohn- und Schlafbereich, 2. Platz für persönliche Gegenstände, 3. in Wohneinheiten für mobile und orientierte Personen eine Nasseinheit mit Waschbecken, Dusche und Toilette, 4. in Wohneinheiten für Personen, die auf Grund ihrer körperlichen oder psychischen Verfassung weder Dusche noch Toilette benutzen können, jedenfalls ein Waschbecken. (4) Die Wohneinheiten müssen über eine ausreichende Belichtung verfügen und gut entlüftbar sein. Die Türen müssen so breit sein, dass ein sicheres und gefahrloses Befahren mit Rollstühlen und Betten möglich ist.Verkehrswege § 14. (1) Ein- und Ausgänge sowie Verkehrswege müssen barrierefrei beschaffen sein und ein sicheres und gefahrloses Begehen und Befahren mit Rollstühlen und Betten ermöglichen. Verkehrswege müssen so ausgestattet sein, dass eine leichte Orientierung möglich ist. (2) Fluchtwege müssen derart beschaffen und gekennzeichnet sein, dass im Brandfall oder in einem sonstigen Notfall ein rasches Verlassen des Heimes durch die Bewohner und sonstige im Heim befindliche Personen möglich ist. (3) Pflegestationen in Wohnheimen, die nach dem 29. Juni 2005 errichtet werden, müssen über einen barrierefrei zugänglichen Personenaufzug erreichbar sein, der eine sichere und gefahrlose Beförderung von Betten ermöglicht. In Pflegeheimen, die nach dem 29. Juni 2005 errichtet werden, muss mindestens ein Personenaufzug diesen Anforderungen entsprechen.Brandschutz § 15. (1) Der Heimträger hat sicherzustellen, dass alle Vorkehrungen getroffen werden, dass das Heim bei Brandgefahr in kürzester Zeit geräumt werden kann. Es ist eine Brandschutzordnung mit einem zweckmäßigen Räumungsplan aufzustellen. Das in einem Pflegeheim oder einer Pflegestation beschäftigte Personal sowie die Heimbewohner sind mit der Brandschutzordnung und insbesondere mit dem Räumungsplan vertraut zu machen. Die Räumung ist jährlich mehrmals probeweise durchzuführen. (2) In jedem Gebäudegeschoß ist eine entsprechende Anzahl von geeigneten Feuerlöschgeräten anzubringen und in stets gebrauchsfähigem Zustand zu erhalten. (3) Elektrische Anlagen und Betriebsmittel müssen so beschaffen sein, dass sie weder das Leben oder die Gesundheit von Menschen gefährden noch eine Brandgefahr darstellen.4. ABSCHNITT In-Kraft-Treten § 16. Diese Verordnung tritt mit dem der Kundmachung folgenden Monatsersten in Kraft.",
+  "parts": [
+    {
+      "@id": "0a6c1292-9db0-4c56-8dac-a75562d02c5a#offset_126_477",
+      "offset_ini": 126,
+      "offset_end": 477,
+      "title": "Inhalt und Anwendungsbereich"
+    },
+    {
+      "@id": "0a6c1292-9db0-4c56-8dac-a75562d02c5a#offset_478_929",
+      "offset_ini": 478,
+      "offset_end": 929,
+      "title": "Betreuungs- und Pflegepersonal"
+    },
+    {
+      "@id": "0a6c1292-9db0-4c56-8dac-a75562d02c5a#offset_930_1533",
+      "offset_ini": 930,
+      "offset_end": 1533,
+      "title": ""
+    },
+    {
+      "@id": "0a6c1292-9db0-4c56-8dac-a75562d02c5a#offset_1534_2181",
+      "offset_ini": 1534,
+      "offset_end": 2181,
+      "title": ""
+    },
+    {
+      "@id": "0a6c1292-9db0-4c56-8dac-a75562d02c5a#offset_2182_2425",
+      "offset_ini": 2182,
+      "offset_end": 2425,
+      "title": ""
+    },
+    {
+      "@id": "0a6c1292-9db0-4c56-8dac-a75562d02c5a#offset_2426_2700",
+      "offset_ini": 2426,
+      "offset_end": 2700,
+      "title": ""
+    },
+    {
+      "@id": "0a6c1292-9db0-4c56-8dac-a75562d02c5a#offset_2701_3015",
+      "offset_ini": 2701,
+      "offset_end": 3015,
+      "title": "Medizinisches Personal"
+    },
+    {
+      "@id": "0a6c1292-9db0-4c56-8dac-a75562d02c5a#offset_3016_3332",
+      "offset_ini": 3016,
+      "offset_end": 3332,
+      "title": "Therapeutisches Personal"
+    },
+    {
+      "@id": "0a6c1292-9db0-4c56-8dac-a75562d02c5a#offset_3333_3688",
+      "offset_ini": 3333,
+      "offset_end": 3688,
+      "title": "Psychologische und psychotherapeutische Betreuung"
+    },
+    {
+      "@id": "0a6c1292-9db0-4c56-8dac-a75562d02c5a#offset_3689_4499",
+      "offset_ini": 3689,
+      "offset_end": 4499,
+      "title": "Größe und Infrastruktur der Pflegeheime und Pflegestationen"
+    },
+    {
+      "@id": "0a6c1292-9db0-4c56-8dac-a75562d02c5a#offset_4500_5057",
+      "offset_ini": 4500,
+      "offset_end": 5057,
+      "title": ""
+    },
+    {
+      "@id": "0a6c1292-9db0-4c56-8dac-a75562d02c5a#offset_5058_5379",
+      "offset_ini": 5058,
+      "offset_end": 5379,
+      "title": "Größe und Ausstattung der Wohneinheiten"
+    },
+    {
+      "@id": "0a6c1292-9db0-4c56-8dac-a75562d02c5a#offset_5380_6202",
+      "offset_ini": 5380,
+      "offset_end": 6202,
+      "title": ""
+    },
+    {
+      "@id": "0a6c1292-9db0-4c56-8dac-a75562d02c5a#offset_6203_7053",
+      "offset_ini": 6203,
+      "offset_end": 7053,
+      "title": "Verkehrswege"
+    },
+    {
+      "@id": "0a6c1292-9db0-4c56-8dac-a75562d02c5a#offset_7054_7871",
+      "offset_ini": 7054,
+      "offset_end": 7871,
+      "title": "Brandschutz"
+    },
+    {
+      "@id": "0a6c1292-9db0-4c56-8dac-a75562d02c5a#offset_7872_7985",
+      "offset_ini": 7872,
+      "offset_end": 7985,
+      "title": "In-Kraft-Treten"
+    },
+    {
+      "@id": "0a6c1292-9db0-4c56-8dac-a75562d02c5a#offset_0_125",
+      "offset_ini": 0,
+      "offset_end": 125
+    }
+  ]
+}

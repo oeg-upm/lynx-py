@@ -1,0 +1,82 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/feef7042-bbb9-421c-9d8f-f146533c5185",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Einschätzungsverordnung"
+    },
+    "hasAuthority": "BGBl. II Nr. 261/2010",
+    "id_local": "20006879",
+    "first_date_entry_in_force": "2010-08-31",
+    "version_date": "2012-07-13",
+    "url_consolidated": "http://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d20006879\u0026FassungVom\u003d2012-07-14",
+    "classifications": [
+      "68/01 Behinderteneinstellung"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/feef7042-bbb9-421c-9d8f-f146533c5185/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/feef7042-bbb9-421c-9d8f-f146533c5185/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 3998,
+  "text": "Präambel/Promulgationsklausel Gemäß § 14 Abs. 3 des Behinderteneinstellungsgesetzes, BGBl. Nr. 22/1970, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 81/2010, wird verordnet:Behinderung § 1. Unter Behinderung im Sinne dieser Verordnung ist die Auswirkung einer nicht nur vorübergehenden körperlichen, geistigen oder psychischen Funktionsbeeinträchtigung oder Beeinträchtigung der Sinnesfunktionen zu verstehen, die geeignet ist, die Teilhabe am Leben in der Gesellschaft, insbesondere am allgemeinen Erwerbsleben, zu erschweren. Als nicht nur vorübergehend gilt ein Zeitraum von mehr als voraussichtlich sechs Monaten.Grad der Behinderung § 2. (1) Die Auswirkungen der Funktionsbeeinträchtigungen sind als Grad der Behinderung zu beurteilen. Der Grad der Behinderung wird nach Art und Schwere der Funktionsbeeinträchtigung in festen Sätzen oder Rahmensätzen in der Anlage dieser Verordnung festgelegt. Die Anlage bildet einen Bestandteil dieser Verordnung. (2) Bei Auswirkungen von Funktionsbeeinträchtigungen, die nicht in der Anlage angeführt sind, ist der Grad der Behinderung in Analogie zu vergleichbaren Funktionsbeeinträchtigungen festzulegen. (3) Der Grad der Behinderung ist nach durch zehn teilbaren Hundertsätzen festzustellen. Ein um fünf geringerer Grad der Behinderung wird von ihnen mit umfasst. Das Ergebnis der Einschätzung innerhalb eines Rahmensatzes ist zu begründen.Gesamtgrad der Behinderung § 3. (1) Eine Einschätzung des Gesamtgrades der Behinderung ist dann vorzunehmen, wenn mehrere Funktionsbeeinträchtigungen vorliegen. Bei der Ermittlung des Gesamtgrades der Behinderung sind die einzelnen Werte der Funktionsbeeinträchtigungen nicht zu addieren. Maßgebend sind die Auswirkungen der einzelnen Funktionsbeeinträchtigungen in ihrer Gesamtheit unter Berücksichtigung ihrer wechselseitigen Beziehungen zueinander. (2) Bei der Ermittlung des Gesamtgrades der Behinderung ist zunächst von jener Funktionsbeeinträchtigung auszugehen, für die der höchste Wert festgestellt wurde. In der Folge ist zu prüfen, ob und inwieweit dieser durch die weiteren Funktionsbeeinträchtigungen erhöht wird. Gesundheitsschädigungen mit einem Ausmaß von weniger als 20 vH sind außer Betracht zu lassen, sofern eine solche Gesundheitsschädigung im Zusammenwirken mit einer anderen Gesundheitsschädigung keine wesentliche Funktionsbeeinträchtigung verursacht. Bei Überschneidungen von Funktionsbeeinträchtigungen ist grundsätzlich vom höheren Grad der Behinderung auszugehen. (3) Eine wechselseitige Beeinflussung der Funktionsbeeinträchtigungen, die geeignet ist, eine Erhöhung des Grades der Behinderung zu bewirken, liegt vor, wenn - sich eine Funktionsbeeinträchtigung auf eine andere besonders nachteilig auswirkt, - zwei oder mehrere Funktionsbeeinträchtigungen vorliegen, die gemeinsam zu einer wesentlichen Funktionsbeeinträchtigung führen. (4) Eine wesentliche Funktionsbeeinträchtigung ist dann gegeben, wenn das Gesamtbild der Behinderung eine andere Beurteilung gerechtfertigt erscheinen lässt, als die einzelnen Funktionsbeeinträchtigungen alleine.Grundlage der Einschätzung § 4. (1) Die Grundlage für die Einschätzung des Grades der Behinderung bildet die Beurteilung der Funktionsbeeinträchtigungen im körperlichen, geistigen, psychischen Bereich oder in der Sinneswahrnehmung in Form eines ärztlichen Sachverständigengutachtens. Erforderlichenfalls sind Experten aus anderen Fachbereichen - beispielsweise Psychologen - zur ganzheitlichen Beurteilung heran zu ziehen. (2) Das Gutachten hat neben den persönlichen Daten die Anamnese, den Untersuchungsbefund, die Diagnosen, die Einschätzung des Grades der Behinderung, eine Begründung für die Einschätzung des Grades der Behinderung innerhalb eines Rahmensatzes sowie die Erstellung des Gesamtgrades der Behinderung und dessen Begründung zu enthalten.Inkrafttreten Die Verordnung tritt mit dem auf die Kundmachung folgenden Tag in Kraft.Anlage zur Einschätzungsverordnung (Anm.: Anlage samt Änderung ist als PDF dokumentiert.)",
+  "parts": [
+    {
+      "@id": "feef7042-bbb9-421c-9d8f-f146533c5185#offset_180_623",
+      "offset_ini": 180,
+      "offset_end": 623,
+      "title": "Behinderung"
+    },
+    {
+      "@id": "feef7042-bbb9-421c-9d8f-f146533c5185#offset_624_1392",
+      "offset_ini": 624,
+      "offset_end": 1392,
+      "title": "Grad der Behinderung"
+    },
+    {
+      "@id": "feef7042-bbb9-421c-9d8f-f146533c5185#offset_1393_3068",
+      "offset_ini": 1393,
+      "offset_end": 3068,
+      "title": "Gesamtgrad der Behinderung"
+    },
+    {
+      "@id": "feef7042-bbb9-421c-9d8f-f146533c5185#offset_3069_3823",
+      "offset_ini": 3069,
+      "offset_end": 3823,
+      "title": "Grundlage der Einschätzung"
+    },
+    {
+      "@id": "feef7042-bbb9-421c-9d8f-f146533c5185#offset_3824_3909",
+      "offset_ini": 3824,
+      "offset_end": 3909,
+      "title": "Inkrafttreten"
+    },
+    {
+      "@id": "feef7042-bbb9-421c-9d8f-f146533c5185#offset_3910_3998",
+      "offset_ini": 3910,
+      "offset_end": 3998,
+      "title": ""
+    },
+    {
+      "@id": "feef7042-bbb9-421c-9d8f-f146533c5185#offset_0_179",
+      "offset_ini": 0,
+      "offset_end": 179
+    }
+  ]
+}

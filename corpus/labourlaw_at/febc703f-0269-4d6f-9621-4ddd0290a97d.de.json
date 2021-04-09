@@ -1,0 +1,130 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/febc703f-0269-4d6f-9621-4ddd0290a97d",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Soziale Sicherheit – Durchführung (Israel)"
+    },
+    "hasAuthority": "BGBl. Nr. 7/1975",
+    "id_local": "10008340",
+    "first_date_entry_in_force": "1975-01-01",
+    "version_date": "1975-01-01",
+    "url_consolidated": "http://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d10008340\u0026FassungVom\u003d1975-01-01",
+    "classifications": [
+      "69/03 Soziale Sicherheit"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/febc703f-0269-4d6f-9621-4ddd0290a97d/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/febc703f-0269-4d6f-9621-4ddd0290a97d/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 4838,
+  "text": "Ratifikationstext Die vorstehende Vereinbarung tritt gemäß ihrem Art. 14 am 1. Jänner 1975 in Kraft. Präambel/Promulgationsklausel Auf Grund des Artikels 23 Absatz 1 des Abkommens zwischen der Republik Österreich und dem Staat Israel über Soziale Sicherheit vom 28. November 1973 – im folgenden als Abkommen bezeichnet – haben die zuständigen Behörden der beiden Vertragsstaaten zur Durchführung des Abkommens folgendes vereinbart:ABSCHNITT I ALLGEMEINE BESTIMMUNGEN Artikel 1 (1) In dieser Vereinbarung werden die im Artikel 1 des Abkommens angeführten Ausdrücke in der dort festgelegten Bedeutung verwendet. (2) In dieser Verordnung werden die im Artikel 16 des Abkommens genannten Träger als „aushelfender Träger“ bezeichnet.Artikel 2 (1) Verbindungsstellen im Sinne des Artikels 24 des Abkommens sind in Österreich für die Unfall- und Pensionsversicherung der Hauptverband der österreichischen Sozialversicherungsträger in Wien, für die Familienbeihilfe das Bundesministerium für Finanzen in Wien, für die Arbeitslosenversicherung das Landesarbeitsamt Wien, in Israel die Nationalversicherungsanstalt. (2) Den Verbindungsstellen obliegen zur Erleichterung der Durchführung des Abkommens außer den in dieser Vereinbarung festgelegten Aufgaben alle sonstigen Verwaltungsmaßnahmen, insbesondere die Leistung und die Vermittlung von Verwaltungshilfe sowie die Festlegung von Formblättern.Artikel 3 In den Fällen des Artikels 7 Absatz 1 des Abkommens ist die Weitergeltung der Rechtsvorschriften des Entsendestaates zu bescheinigen. Die Bescheinigung ist auszustellen in Österreich vom Träger der Krankenversicherung, in Israel von der Nationalversicherungsanstalt.ABSCHNITT II BESONDERE BESTIMMUNGEN Kapitel 1 – Mutterschaft Artikel 4 In den Fällen des Artikels 10 des Abkommens hat der in Betracht kommende Träger auf Verlangen eine Bescheinigung über die Versicherungszeiten auszustellen, die nach den für ihn geltenden Rechtsvorschriften zurückgelegt wurden.Kapitel 2 – Invalidität, Alter und Tod Artikel 5 (1) Die zuständigen Träger haben einander unverzüglich über Leistungsanträge, auf die Abschnitt III Kapitel 2 des Abkommens anzuwenden ist, zu unterrichten. (2) Die zuständigen Träger haben in der Folge einander auch die sonstigen für eine Leistungsfeststellung erheblichen Tatsachen, gegebenenfalls unter Beifügung ärztlicher Gutachten, mitzuteilen. (3) Die zuständigen Träger haben einander über die Entscheidungen im Feststellungsverfahren und über die Zustellung der Entscheidungen zu unterrichten.Artikel 6 Die zuständigen Träger haben einander unverzüglich von jeder Änderung der Höhe einer Leistung, soweit die Änderung nicht Folge einer laufenden allgemeinen Anpassung ist, zu unterrichten.Artikel 7 Die zuständigen Träger haben die Leistungen direkt an die Anspruchsberechtigten zu zahlen. Für die Zahlung gelten jene Fälligkeitsfristen, die der zuständige Träger auf Grund der für ihn geltenden Rechtsvorschriften anzuwenden hat.Artikel 8 Die zuständigen Träger haben der für sie in Betracht kommenden Verbindungsstelle eine jährlich zu erstellende Statistik über die in den anderen Vertragsstaat vorgenommenen Zahlungen zu übermitteln. Die Statistiken sind von den Verbindungsstellen auszutauschen.Kapitel 3 – Arbeitsunfälle und Berufskrankheiten Artikel 9 Für die Zahlung von Leistungen ist Kapitel 2 entsprechend anzuwenden.Artikel 10 (1) Für die Anwendung des Artikels 16 Absatz 1 des Abkommens hat der zuständige Träger auf Verlangen eine Bescheinigung über den Anspruch auszustellen. (2) Der aushelfende Träger hat die Krankenkontrolle so durchzuführen, als handle es sich um einen eigenen Versicherten, und hat den zuständigen Träger vom Ergebnis der Kontrolle zu unterrichten.Artikel 11 In Durchführung des Artikels 16 Absatz 5 des Abkommens ist der Anspruch auf Erstattung nach Abschluß des Leistungsfalles oder für jedes Kalenderjahr geltend zu machen und binnen zwei Monaten nach Eingang der Forderung zu erfüllen.Kapitel 4 – Arbeitslosigkeit Artikel 12 In den Fällen des Artikels 18 des Abkommens hat der in Betracht kommende Träger auf Verlangen eine Bescheinigung über die Versicherungszeiten auszustellen, die nach den Rechtsvorschriften des Herkunftsstaates zurückgelegt wurden.Kapitel 5 – Familienbeihilfe Artikel 13 Die für die Anwendung der Artikel 19 und 20 des Abkommens für den zuständigen Träger des einen Vertragsstaates erforderlichen Bescheinigungen sind auf Verlangen von den Stellen im Gebiet des anderen Vertragsstaates auszustellen, die nach dessen Rechtsvorschriften für die Ausstellung solcher Bescheinigungen zuständig sind.ABSCHNITT III SCHLUSSBESTIMMUNGEN Artikel 14 Diese Vereinbarung tritt gleichzeitig mit dem Abkommen in Kraft. GESCHEHEN zu Wien, am 28. November 1973, in zwei Urschriften in deutscher und hebräischer Sprache, wobei beide Texte in gleicher Weise authentisch sind.",
+  "parts": [
+    {
+      "@id": "febc703f-0269-4d6f-9621-4ddd0290a97d#offset_431_727",
+      "offset_ini": 431,
+      "offset_end": 727,
+      "title": "Artikel 1"
+    },
+    {
+      "@id": "febc703f-0269-4d6f-9621-4ddd0290a97d#offset_728_1387",
+      "offset_ini": 728,
+      "offset_end": 1387,
+      "title": "Artikel 2"
+    },
+    {
+      "@id": "febc703f-0269-4d6f-9621-4ddd0290a97d#offset_1388_1663",
+      "offset_ini": 1388,
+      "offset_end": 1663,
+      "title": "Artikel 3"
+    },
+    {
+      "@id": "febc703f-0269-4d6f-9621-4ddd0290a97d#offset_1664_1960",
+      "offset_ini": 1664,
+      "offset_end": 1960,
+      "title": "Artikel 4"
+    },
+    {
+      "@id": "febc703f-0269-4d6f-9621-4ddd0290a97d#offset_1961_2511",
+      "offset_ini": 1961,
+      "offset_end": 2511,
+      "title": "Artikel 5"
+    },
+    {
+      "@id": "febc703f-0269-4d6f-9621-4ddd0290a97d#offset_2512_2707",
+      "offset_ini": 2512,
+      "offset_end": 2707,
+      "title": "Artikel 6"
+    },
+    {
+      "@id": "febc703f-0269-4d6f-9621-4ddd0290a97d#offset_2708_2948",
+      "offset_ini": 2708,
+      "offset_end": 2948,
+      "title": "Artikel 7"
+    },
+    {
+      "@id": "febc703f-0269-4d6f-9621-4ddd0290a97d#offset_2949_3218",
+      "offset_ini": 2949,
+      "offset_end": 3218,
+      "title": "Artikel 8"
+    },
+    {
+      "@id": "febc703f-0269-4d6f-9621-4ddd0290a97d#offset_3219_3346",
+      "offset_ini": 3219,
+      "offset_end": 3346,
+      "title": "Artikel 9"
+    },
+    {
+      "@id": "febc703f-0269-4d6f-9621-4ddd0290a97d#offset_3347_3703",
+      "offset_ini": 3347,
+      "offset_end": 3703,
+      "title": "Artikel 10"
+    },
+    {
+      "@id": "febc703f-0269-4d6f-9621-4ddd0290a97d#offset_3704_3944",
+      "offset_ini": 3704,
+      "offset_end": 3944,
+      "title": "Artikel 11"
+    },
+    {
+      "@id": "febc703f-0269-4d6f-9621-4ddd0290a97d#offset_3945_4213",
+      "offset_ini": 3945,
+      "offset_end": 4213,
+      "title": "Artikel 12"
+    },
+    {
+      "@id": "febc703f-0269-4d6f-9621-4ddd0290a97d#offset_4214_4576",
+      "offset_ini": 4214,
+      "offset_end": 4576,
+      "title": "Artikel 13"
+    },
+    {
+      "@id": "febc703f-0269-4d6f-9621-4ddd0290a97d#offset_4577_4838",
+      "offset_ini": 4577,
+      "offset_end": 4838,
+      "title": "Artikel 14"
+    },
+    {
+      "@id": "febc703f-0269-4d6f-9621-4ddd0290a97d#offset_0_430",
+      "offset_ini": 0,
+      "offset_end": 430
+    }
+  ]
+}

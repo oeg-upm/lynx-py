@@ -1,0 +1,59 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/010ad72a-1f80-4aea-9432-38067a3bbdff",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Soziale Sicherheit - BG"
+    },
+    "hasAuthority": "BGBl. Nr. 551/1993",
+    "id_local": "10008873",
+    "first_date_entry_in_force": "1993-08-06",
+    "version_date": "1993-08-06",
+    "url_consolidated": "http://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d10008873\u0026FassungVom\u003d1993-08-07",
+    "classifications": [
+      "69/03 Soziale Sicherheit"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/010ad72a-1f80-4aea-9432-38067a3bbdff/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/010ad72a-1f80-4aea-9432-38067a3bbdff/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 1003,
+  "text": "§ 1. Die in der Anlage (Anm.: wird als eigene Rechtsvorschrift dokumentiert) angeschlossene Vereinbarung ist von den in ihrem Artikel 1 Absatz 1 Buchstabe c genannten zuständigen Behörden und den in ihrem Artikel 1 Absatz 1 Buchstaben d und e genannten Trägern anzuwenden. Die in dieser Vereinbarung umschriebenen Ansprüche und Leistungen können ab dem im Artikel 24 Absatz 1 der in der Anlage (Anm.: wird als eigene Rechtsvorschrift dokumentiert) angeschlossenen Vereinbarung genannten Zeitpunkt auf Grund dieses Bundesgesetzes geltend gemacht werden.§ 2. Der Bundesminister für Arbeit und Soziales hat im Rahmen seines Wirkungsbereichs die geeigneten Maßnahmen zu treffen, die die Sicherstellung der Anwendung der in der Anlage (Anm.: wird als eigene Rechtsvorschrift dokumentiert) angeschlossenen Vereinbarung zum Ziel haben, soweit dadurch weder völkerrechtliche noch außenpolitische Fragen berührt werden.§ 3. Die Vollziehung dieses Bundesgesetzes obliegt dem Bundesminister für Arbeit und Soziales.",
+  "parts": [
+    {
+      "@id": "010ad72a-1f80-4aea-9432-38067a3bbdff#offset_0_551",
+      "offset_ini": 0,
+      "offset_end": 551,
+      "title": ""
+    },
+    {
+      "@id": "010ad72a-1f80-4aea-9432-38067a3bbdff#offset_552_909",
+      "offset_ini": 552,
+      "offset_end": 909,
+      "title": ""
+    },
+    {
+      "@id": "010ad72a-1f80-4aea-9432-38067a3bbdff#offset_910_1003",
+      "offset_ini": 910,
+      "offset_end": 1003,
+      "title": ""
+    }
+  ]
+}

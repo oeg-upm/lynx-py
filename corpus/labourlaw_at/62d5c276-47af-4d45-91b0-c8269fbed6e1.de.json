@@ -1,0 +1,47 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/62d5c276-47af-4d45-91b0-c8269fbed6e1",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Austausch von Kriegsbeschädigten für ärztliche Behandlung"
+    },
+    "hasAuthority": "BGBl. Nr. 42/1971",
+    "id_local": "10008261",
+    "first_date_entry_in_force": "1971-02-06",
+    "version_date": "1971-02-06",
+    "url_consolidated": "http://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d10008261\u0026FassungVom\u003d1971-02-06",
+    "classifications": [
+      "69/06 Kriegsopfer"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/62d5c276-47af-4d45-91b0-c8269fbed6e1/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/62d5c276-47af-4d45-91b0-c8269fbed6e1/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 441,
+  "text": "Nach Mitteilung des Generalsekretärs des Europarates hat Zypern am 8. Dezember 1970 seine Ratifikationsurkunde zum Abkommen über den Austausch von Kriegsbeschädigten zwischen den Mitgliedsländern des Europarates zum Zwecke der ärztlichen Behandlung (BGBl. Nr. 62/1958, letzte Kundmachung betreffend den Geltungsbereich BGBl. Nr. 366/1967) hinterlegt. Das Abkommen ist gemäß seinem Art. 8 Abs. 2 für Zypern am 1. Jänner 1971 in Kraft getreten.",
+  "parts": [
+    {
+      "@id": "62d5c276-47af-4d45-91b0-c8269fbed6e1#offset_0_441",
+      "offset_ini": 0,
+      "offset_end": 441,
+      "title": ""
+    }
+  ]
+}

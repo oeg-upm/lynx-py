@@ -1,0 +1,42 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/04d4fcaa-24c0-4428-866c-5c810899a2d0",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Burgenländische Verordnung elektromagnetische Felder in der Land- und Forstwirtschaft"
+    },
+    "hasAuthority": "BKA (Bundeskanzleramt)",
+    "nick": [
+      "Bgld. VEMF LFW"
+    ],
+    "id_local": "20010942",
+    "first_date_entry_in_force": "2020-01-01",
+    "version_date": "2020-01-01",
+    "url_consolidated": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d20010942\u0026FassungVom\u003d2020-01-01",
+    "classifications": [
+      "60/01 Arbeitsvertragsrecht"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/04d4fcaa-24c0-4428-866c-5c810899a2d0/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/04d4fcaa-24c0-4428-866c-5c810899a2d0/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 1327,
+  "text": "Beachte Diese Rechtsvorschrift gilt in ihrer Fassung vom 31. Dezember 2019 für das Land Burgenland als Verordnung des Bundes, soweit sie „Arbeiterrecht sowie Arbeiter- und Angestelltenschutz, soweit es sich um land- und forstwirtschaftliche Arbeiter und Angestellte handelt“ (Art. 11 Abs. 1 Z 9 B-VG, BGBl. Nr. 1/1930, in der Fassung des Bundesgesetzes BGBl. I Nr. 14/2019) regelt; soweit diese Fassung (allenfalls) den Bestimmungen des Bundes-Verfassungsgesetzes betreffend die Zuständigkeit der Behörden widerspricht, gilt sie als „sinngemäß geändert“ (Art. 151 Abs. 63 Z 4 B-VG). Änderung BGBl. I Nr. 14/2019 (NR: GP XXVI RV 301 AB 463 S. 57. BR: AB 10104 S. 888.) Präambel/Promulgationsklausel Auf Grund des § 94g der Burgenländischen Landarbeitsordnung 1977 – LArbO, LGBl. Nr. 37/1977, in der Fassung des Gesetzes LGBl. Nr. 3/2017, wird verordnet: Inhaltsverzeichnis § 1 Geltungsbereich § 2 Begriffsbestimmungen § 3 Expositionsgrenzwerte und Auslösewerte § 4 Bewertungen, Berechnungen und Messungen § 5 Ermittlung und Beurteilung der Gefahren, Festlegung von Maßnahmen § 6 Information, Unterweisung, Anhörung und Beteiligung der Dienstnehmerinnen und Dienstnehmer § 7 Maßnahmen und Maßnahmenprogramm § 8 Inhalt des Maßnahmenprogramms § 9 Persönliche Schutzausrüstung, Kennzeichnung § 10 Umsetzungshinweis § 11 Inkrafttreten"
+}

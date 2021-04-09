@@ -1,0 +1,392 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/dea68484-959c-4165-9518-d1da753c75c4",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Wiener Kinder- und Jugendhilfegesetz 2013"
+    },
+    "hasAuthority": "LGBl. Nr. 51/2013",
+    "nick": [
+      "WKJHG 2013"
+    ],
+    "id_local": "20000259",
+    "first_date_entry_in_force": "2013-12-16",
+    "version_date": "2014-12-17",
+    "url_consolidated": "http://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dLrW\u0026Gesetzesnummer\u003d20000259\u0026FassungVom\u003d2014-12-17",
+    "classifications": [
+      "60/20 Jugendschutz und Jugendwohlfahrt, Kindertagesheimwesen",
+      "60 Gesundheits- und Sozialrecht (S)"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/dea68484-959c-4165-9518-d1da753c75c4/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/dea68484-959c-4165-9518-d1da753c75c4/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 64272,
+  "text": "Präambel/Promulgationsklausel Der Wiener Landtag hat beschlossen: Inhaltsverzeichnis 1. Hauptstück Allgemeine Bestimmungen §§ 1,2, 3 Ziele und Aufgaben der Kinder- und Jugendhilfe § 4 Persönlicher Anwendungsbereich und örtliche Zuständigkeit § 5 Trägerschaft und Besorgung Fachliche Ausrichtung § 6 Personal für die öffentliche Kinder- und Jugendhilfe § 7 Anerkennung von Ausbildungen § 8 Planung, Forschung, Öffentlichkeitsarbeit § 9 Statistik § 10 Einrichtungen der privaten Kinder- und Jugendhilfe § 11 Verschwiegenheitspflicht § 12 Auskunftsrechte § 13 Datenverwendung § 14 Sonderauskünfte § 15 Dokumentation § 16 Kinder- und Jugendanwaltschaft § 17 Zusammenarbeit der öffentlichen Kinder- und Jugendhilfe mit anderen Einrichtungen 2. Hauptstück Leistungen der Kinder- und Jugendhilfe 1. Abschnitt Soziale Dienste § 18 Begriff § 19 Allgemeines § 20 Arten der Sozialen Dienste § 21 Erholungsaktionen § 22 Entgelt § 23 Praktische und wirtschaftliche Hilfen 2. Abschnitt Gefährdungsabklärung und Hilfeplanung § 24 Gefährdungsabklärung § 25 Hilfeplanung § 26 Beteiligung § 27 Krisenzentren 3. Abschnitt Erziehungshilfen § 28 Arten der Hilfen § 29 Unterstützung der Erziehung § 30 Volle Erziehung § 31 Erziehungshilfen auf Grund einer Vereinbarung § 32 Erziehungshilfen auf Grund einer gerichtlichen Verfügung § 33 Hilfen für junge Erwachsene § 34 Durchführung § 35 Vorläufige Kostentragung § 36 Kostentragung, Kostenersatz § 37 Übertragung von Rechtsansprüchen 4. Abschnitt Pflegekinder und Pflegepersonen § 38 Begriff § 39 Vermittlung von Pflegeplätzen § 40 Pflegeverhältnisse im Rahmen der Vollen Erziehung § 41 Private Pflegeverhältnisse § 42 Pflegeaufsicht § 43 Hilfen zur Festigung des Pflegeverhältnisses § 44 Pflegekindergeld 5. Abschnitt § 45 Tagesbetreuung 6. Abschnitt Sozialpädagogische Einrichtungen § 46 Bewilligung § 47 Aufsicht und Widerruf der Bewilligung § 48 Meldepflicht 7. Abschnitt Mitwirkung an der Adoption § 49 Grundsätze § 50 Mitwirkung an der Adoption im Inland § 51 Mitwirkung an der grenzüberschreitenden Adoption § 52 Eignungsbeurteilung 3. Hauptstück § 53 Strafbestimmungen § 55 Verweisungen auf Bundesgesetze, Staatsverträge und Richtlinien der Europäischen Union § 56 Schluss- und Übergangsbestimmungen § 57 In-Kraft-Treten1. HAUPTSTÜCK Allgemeine Bestimmungen Ziele und Aufgaben der Kinder- und Jugendhilfe § 1. (1) Kinder und Jugendliche haben ein Recht auf Förderung ihrer Entwicklung und auf Erziehung zu einer eigenverantwortlichen und gemeinschaftsfähigen Persönlichkeit. Hierbei sind die Grundsätze des Übereinkommens über die Rechte des Kindes, BGBl. Nr. 7/1993 (UN-Kinderrechtskonvention), umzusetzen. (2) Die Pflege und Erziehung von Kindern und Jugendlichen ist in erster Linie die Pflicht und das Recht ihrer Eltern beziehungsweise anderer mit Pflege und Erziehung betrauter Personen. (3) Eltern und andere mit Pflege und Erziehung betraute Personen sind bei der Ausübung von Pflege und Erziehung durch Information und Beratung zu unterstützen und das soziale Umfeld ist zu stärken. (4) Wird das Kindeswohl hinsichtlich Pflege und Erziehung von Eltern oder anderen mit Pflege und Erziehung betrauten Personen nicht gewährleistet, sind Erziehungshilfen zu gewähren. (5) In familiäre Rechte und Beziehungen darf nur insoweit eingegriffen werden, als dies zur Gewährleistung des Kindeswohls notwendig und im Bürgerlichen Recht vorgesehen ist. (6) Die Wahrnehmung der Aufgaben der Kinder- und Jugendhilfe erfolgt in Kooperation mit dem Bildungs-, Gesundheits- und Sozialsystem sowie mit Behörden und Gerichten.§ 2. Bei der Erfüllung der Aufgaben nach diesem Gesetz sind folgende Ziele zu verfolgen: 1. Bildung eines allgemeinen Bewusstseins für Grundsätze und Methoden förderlicher Pflege und Erziehung, 2. Stärkung der Erziehungskraft der Familien und Förderung des Bewusstseins der Eltern für ihre Aufgaben, 3. Förderung einer angemessenen Entfaltung und Entwicklung von Kindern und Jugendlichen sowie deren Verselbständigung, 4. Schutz von Kindern und Jugendlichen vor allen Formen von Gewalt und anderen Kindeswohlgefährdungen hinsichtlich Pflege und Erziehung, 5. Reintegration von Kindern und Jugendlichen in die Familie im Interesse des Kindeswohles, insbesondere im Zusammenhang mit Erziehungshilfen.§ 3. (1) Der Kinder- und Jugendhilfeträger hat folgende Aufgaben im erforderlichen Ausmaß zu besorgen: 1. Information über förderliche Pflege und Erziehung von Kindern und Jugendlichen, 2. Beratung bei Erziehungs- und Entwicklungsfragen und familiären Problemen, 3. Hilfen für werdende Eltern, Familien, Kinder und Jugendliche zur Bewältigung von familiären Problemen und Krisen, 4. Gefährdungsabklärung und Hilfeplanung, 5. Gewährung von Erziehungshilfen bei Gefährdung des Kindeswohls hinsichtlich Pflege und Erziehung, 6. Zusammenarbeit mit Einrichtungen, Behörden und öffentlichen Dienststellen, 7. Mitwirkung an der Adoption von Kindern und Jugendlichen, 8. Öffentlichkeitsarbeit zu Zielen, Aufgaben und Arbeitsweisen der Kinder- und Jugendhilfe sowie 9. Bewusstseinsbildung zu den Kinderrechten. (2) Bei der Umsetzung der Aufgaben ist darauf Bedacht zu nehmen, dass auch Dienste in den Herkunftssprachen angeboten werden.Persönlicher Anwendungsbereich und örtliche Zuständigkeit § 4. (1) Für die Erbringung der Leistung ist der Wiener Kinder- und Jugendhilfeträger zuständig, wenn die betroffenen Kinder, Jugendlichen, jungen Erwachsenen, werdenden Eltern, Pflegepersonen oder Adoptivwerberinnen und Adoptivwerber ihren Hauptwohnsitz, mangels eines solchen ihren gewöhnlichen Aufenthalt, mangels eines solchen ihren Aufenthalt in Wien haben. (2) Bei Gefahr im Verzug ist der Wiener Kinder- und Jugendhilfeträger zuständig, wenn die erforderliche Maßnahme in Wien zu setzen ist. Der örtlich zuständige Kinder- und Jugendhilfeträger ist zu verständigen. (3) Bei Wechsel des Hauptwohnsitzes oder des (gewöhnlichen) Aufenthalts geht die Zuständigkeit an den anderen Kinder- und Jugendhilfeträger über. Kein Zuständigkeitswechsel tritt ein, wenn sich Kinder und Jugendliche im Rahmen einer Erziehungshilfe in einem anderen Bundesland oder im Ausland aufhalten und wichtige Gründe nicht dafür sprechen. Der Kinder- und Jugendhilfeträger, der von Umständen Kenntnis erhält, die den Wechsel der Zuständigkeit begründen, hat den anderen davon unverzüglich in Kenntnis zu setzen.Trägerschaft und Besorgung § 5. (1) Die Durchführung der sich aus diesem Gesetz ergebenden Aufgaben obliegt der Landesregierung und dem Magistrat als Bezirksverwaltungsbehörde. (2) Die Durchführung folgender Aufgaben obliegt der Landesregierung: 1. fachliche Beaufsichtigung der gesamten Tätigkeit des Magistrates in der Kinder- und Jugendhilfe, 2. fachliche Aus- und Fortbildung des in der öffentlichen Kinder- und Jugendhilfe tätigen Personals, soweit es sich nicht um eine unter der Aufsicht der Schulbehörden stehende schulmäßige Ausbildung handelt, 3. Mitwirkung an der grenzüberschreitenden Adoption, 4. Anerkennung und fachliche Beaufsichtigung von Einrichtungen der privaten Kinder- und Jugendhilfe gemäß § 10, 5. Planung der allgemeinen Maßnahmen, die zur Erreichung der Ziele der Kinder- und Jugendhilfe erforderlich sind, 6. Anregung und Förderung von Forschung auf dem Gebiet der Kinder- und Jugendhilfe sowie 7. Förderung der Öffentlichkeitsarbeit. (3) Im Übrigen obliegt die Durchführung der öffentlichen Kinder- und Jugendhilfe dem Magistrat.Fachliche Ausrichtung Personal für die öffentliche Kinder- und Jugendhilfe § 6. (1) Die öffentliche Kinder- und Jugendhilfe ist von Fachkräften durchzuführen, die für den jeweiligen Tätigkeitsbereich ausgebildet und persönlich geeignet sind. Leistungen der Kinder- und Jugendhilfe sind nach fachlich anerkannten Standards sowie dem aktuellen Stand der Wissenschaften zu erbringen. (2) Mit Aufgaben der Rechtsvertretung in Unterhalts- und Abstammungsangelegenheiten dürfen nur Bedienstete (Rechtsvertreterinnen oder Rechtsvertreter) betraut werden, die die Voraussetzungen für die Verwendung als Fachbedienstete des Verwaltungsdienstes erfüllen. Sie haben nach entsprechender Ausbildung und praktischer Tätigkeit die erforderlichen Fachprüfungen abzulegen. (3) Mit Aufgaben der Sozialarbeit dürfen nur folgende Personen betraut werden: 1. Absolventinnen und Absolventen einer in der Republik Österreich gültigen Ausbildung für Sozialarbeit, 2. Absolventinnen und Absolventen einer anerkannten gleichwertigen Ausbildung, die in einem anderen Staat erworben wurde. (4) Psychologinnen und Psychologen, die in der Beratung und Diagnostik von Minderjährigen tätig sind, müssen selbstständige berufsberechtigte Klinische Psychologinnen oder Klinische Psychologen oder Gesundheitspsychologinnen oder Gesundheitspsychologen sein oder eine anerkannte gleichwertige Ausbildung aufweisen. (5) Mit Aufgaben der Sozialpädagogik dürfen nur folgende Personen betraut werden: 1. Absolventinnen und Absolventen einer in der Republik Österreich gültigen Ausbildung für Sozialpädagogik, 2. zur Betreuung von Minderjährigen mit Behinderungen neben Sozialpädagoginnen und Sozialpädagogen auch Absolventinnen und Absolventen einer in der Republik Österreich anerkannten Ausbildung zur diplomierten Sozialbetreuerin (diplomierte Behindertenpädagogin) oder zum diplomierten Sozialbetreuer (diplomierter Behindertenpädagoge), 3. Absolventinnen und Absolventen einer anerkannten gleichwertigen Ausbildung, die in einem anderen Staat erworben wurde. Personen, die eine solche Ausbildung nicht aufweisen, können für den Zeitraum von fünf Jahren beschäftigt werden, sofern sie sich berufsbegleitend der erforderlichen Ausbildung unterziehen. Die Ausbildung ist zum nächstmöglichen Zeitpunkt zu beginnen. (6) Für andere als die in den Abs. 2 bis 6 angeführten Tätigkeitsbereiche ist die Heranziehung sonstiger geeigneter Kräfte zulässig, sofern Art und Umfang der Tätigkeit keine Fachausbildung erfordern. (7) Für die in der öffentlichen Kinder- und Jugendhilfe tätigen Bediensteten ist Supervision anzubieten, insbesondere in der Einschulungsphase und bei Übernahme besonderer Aufgaben. (8) Die Landesregierung hat durch entsprechende Richtlinien dafür zu sorgen, dass für das mit Aufgaben der öffentlichen Kinder- und Jugendhilfe befasste Personal eine entsprechende Aus- und Fortbildung erfolgt. Diese hat die Erfordernisse der Praxis sowie die wissenschaftlich anerkannten Grundsätze der jeweiligen Fachgebiete zu berücksichtigen. (9) Sozialarbeiterinnen, Sozialarbeiter, Sozialpädagoginnen und Sozialpädagogen, die zumindest fünf Jahre im Bereich der öffentlichen Kinder- und Jugendhilfe tätig waren, können nach Absolvierung eines Fortbildungskurses im jeweils anderen Arbeitsbereich eingesetzt werden. Der Fortbildungskurs hat zumindest 300 Unterrichtseinheiten und 40 Stunden Praxis zu enthalten.Anerkennung von Ausbildungen § 7. (1) Folgende Ausbildungen gemäß § 6 Abs. 3 Z 2 und § 6 Abs. 5 Z 3 werden vom Magistrat gemäß der Richtlinie 2005/36/EG über die Anerkennung von Berufsqualifikationen anerkannt: 1. Ausbildungen, die in einem Mitgliedsstaat des Abkommens über den Europäischen Wirtschaftsraum erworben wurden, 2. Ausbildungen eines anderen Staates, dessen Staatsangehörigen Österreich auf Grund eines Staatsvertrages im Rahmen der Europäischen Integration die selben Rechte für den Berufszugang zu gewähren hat wie österreichischen Staatsbürgerinnen und österreichischen Staatsbürgern, 3. Ausbildungen von Drittstaatsangehörigen, soweit sich hinsichtlich der Anerkennung von Berufsqualifikationen nach dem Recht der Europäischen Union eine Gleichstellung ergibt. (2) Bestehen wesentliche Unterschiede in der Ausbildung, so hat die antragstellende Person die fehlende Qualifikation nach ihrer Wahl entweder durch einen höchstens 3-jährigen Anpassungslehrgang oder durch eine Eignungsprüfung nachzuweisen. Beim Nachweis von Rechtskenntnissen hat die Behörde die Art des Nachweises vorzuschreiben. Diese Ausgleichsmaßnahmen sind vorzuschreiben, es sei denn, die Unterschiede können durch die Berufspraxis ausgeglichen werden. (3) Über einen Antrag ist innerhalb von vier Monaten zu entscheiden. (4) Ausbildungen, die vom Magistrat nicht anerkannt werden können, sind nur dann gleichwertig, wenn sie von der zuständigen Behörde anerkannt (nostrifiziert) worden sind.Planung, Forschung, Öffentlichkeitsarbeit § 8. (1) In Ergänzung zu den Aufgaben der Landesregierung gemäß § 5 Abs. 2 Z 5, 6 und 7 obliegt dem Magistrat Wien 1. Planung konkreter Maßnahmen, die zur Erreichung der Ziele der Kinder- und Jugendhilfe erforderlich sind, 2. Durchführung von Forschung auf dem Gebiet der Kinder- und Jugendhilfe sowie 3. Durchführung der Öffentlichkeitsarbeit. (2) Der Magistrat hat bei seiner Planung die gesellschaftlichen Entwicklungen sowie die Ergebnisse der Forschung in den einschlägigen Bereichen zu berücksichtigen. (3) Der Magistrat hat sich um die Information der Öffentlichkeit über die Zielsetzungen, die Maßnahmen und die Probleme der Kinder- und Jugendhilfe zu bemühen.Statistik § 9. (1) Zur Feststellung der quantitativen Auswirkungen der Leistungen der Kinder- und Jugendhilfe sind jährlich statistische Daten zu folgenden Informationen zu erheben: 1. Anzahl der Personen, die soziale Dienste in Anspruch genommen haben, 2. Anzahl der Kinder und Jugendlichen, die Unterstützung der Erziehung erhalten haben, 3. Anzahl der Kinder und Jugendlichen, die in sozialpädagogischen Einrichtungen und bei Pflegepersonen betreut werden, 4. Anzahl der Gefährdungsabklärungen, 5. Anzahl der Erziehungshilfen auf Grund einer Vereinbarung und der Erziehungshilfen auf Grund einer gerichtlichen Verfügung, 6. Anzahl der jungen Erwachsenen, die Hilfen gemäß § 33 erhalten haben, 7. Anzahl der Kinder und Jugendlichen, für die an einer inländischen Adoption mitgewirkt wurde, 8. Anzahl der Kinder und Jugendlichen, für die an einer grenzüberschreitenden Adoption mitgewirkt wurde, 9. Anzahl der Kinder und Jugendlichen, für die Rechtsvertretungen im Sinne der §§ 207 bis 209 ABGB, JGS Nr. 946/1811, § 9 UVG, BGBl. Nr. 451/1985, oder Vertretungen in asyl- und fremdenrechtlichen Verfahren erfolgt sind, 10. Ausgaben und Einnahmen der öffentlichen Kinder- und Jugendhilfe. (2) Zahlen gemäß Abs. 1 Z 2, 3, 6, 7 und 8 sind nach Alter und Geschlecht aufzuschlüsseln. (3) Die Daten sind für ein Berichtsjahr zusammenzufassen und vom Magistrat im Internet zu veröffentlichen.Einrichtungen der privaten Kinder- und Jugendhilfe § 10. (1) Einrichtungen der privaten Kinder- und Jugendhilfe sind auf Antrag der Eignungswerberin oder des Eignungswerbers mit Bescheid der Landesregierung als zur Erfüllung von bestimmten nichthoheitlichen Aufgaben im Bereich der öffentlichen Kinder- und Jugendhilfe geeignet anzuerkennen, wenn sie nach Ziel und Ausstattung dazu geeignet sind und ein fachlich fundiertes Konzept vorgelegt wurde. Diese Einrichtungen müssen insbesondere über die für die geplanten Aufgaben notwendigen finanziellen Mittel, eine entsprechende Verwaltungsorganisation, die erforderlichen Räumlichkeiten sowie über Personal in der erforderlichen Anzahl und Qualifikation verfügen. (2) Die Einrichtung der privaten Kinder- und Jugendhilfe unterliegt nach der Anerkennung der Fachaufsicht der Landesregierung. Private Kinder- und Jugendhilfeeinrichtungen sind verpflichtet, im Rahmen des Bewilligungsverfahrens, der Aufsicht und der Leistungserbringung dem Kinder- und Jugendhilfeträger die erforderlichen Auskünfte zu erteilen, notwendige Dokumente vorzulegen, die Kontaktaufnahme mit den betreuten Kindern und Jugendlichen und die Besichtigung von Räumlichkeiten zuzulassen. Nimmt die Landesregierung Missstände wahr, so kann sie deren Behebung mit Bescheid auftragen. Werden die Missstände dennoch nicht behoben oder handelt es sich um schwer wiegende Missstände, so ist die Eignungsfeststellung zu widerrufen. (3) Ändern sich die Eignungsvoraussetzungen, so hat die Landesregierung die Eignung der Einrichtung zu überprüfen und erforderlichenfalls neu zu entscheiden. (4) Gewährleistet eine Einrichtung der privaten Kinder- und Jugendhilfe unter Berücksichtigung ihrer Ausstattung und sonstigen Leistungen das Wohl einer oder eines Minderjährigen besser und wirtschaftlicher als der öffentliche Träger, so soll die private Einrichtung herangezogen werden. (5) Über die Leistungserbringung durch geeignete private Kinder- und Jugendhilfeeinrichtungen können Leistungsverträge abgeschlossen werden, in denen unter anderem Art, Umfang und sonstige Bedingungen der Leistungserbringung sowie die Leistungsentgelte geregelt werden können.Verschwiegenheitspflicht § 11. (1) Die Mitarbeiterinnen und Mitarbeiter der öffentlichen Kinder- und Jugendhilfe und der beauftragten privaten Kinder- und Jugendhilfeeinrichtungen sind zur Verschwiegenheit über Tatsachen des Privat- und Familienlebens, die werdende Eltern, Eltern und andere mit Pflege und Erziehung betraute Personen, Familien, Kinder, Jugendliche und junge Erwachsene mittelbar oder unmittelbar betreffen und diesen ausschließlich aus dieser Tätigkeit bekannt geworden sind, verpflichtet, sofern die Offenlegung nicht im überwiegenden Interesse der betroffenen Kinder, Jugendlichen und jungen Erwachsenen liegt. (2) Die Verpflichtung zur Verschwiegenheit besteht auch nach Beendigung der Tätigkeit für den Kinder- und Jugendhilfeträger oder für die beauftragte private Kinder- und Jugendhilfeeinrichtung weiter. (3) Die Verschwiegenheitspflicht besteht nicht gegenüber dem Kinder- und Jugendhilfeträger. (4) Die Verschwiegenheitspflicht besteht im Strafverfahren nicht gegenüber Auskunftsersuchen der Staatsanwaltschaften und Gerichte, die sich auf den konkreten Verdacht beziehen, dass Kinder und Jugendliche von physischer, psychischer oder sexueller Gewalt betroffen waren oder vernachlässigt worden sind. Die Bestimmungen der §§ 51 Abs. 2 erster Satz und 112 StPO, BGBl. Nr. 631/1975, sind sinngemäß anzuwenden.Auskunftsrechte § 12. (1) Kinder und Jugendliche haben das Recht, selbst Auskünfte über alle dem Kinder- und Jugendhilfeträger oder einer beauftragten privaten Kinder- und Jugendhilfeeinrichtung bekannten Tatsachen ihres Privat- und Familienlebens zu erhalten, deren Kenntnis ihnen auf Grund ihres Alters und ihres Entwicklungsstandes zumutbar ist, soweit nicht überwiegende, berücksichtigungswürdige persönliche Interessen der Eltern oder sonst mit Pflege und Erziehung betrauter Personen sowie anderer Personen und überwiegende öffentliche Interessen gefährdet werden. (2) Die Ausübung des Rechts nach Abs. 1 steht Kindern und Jugendlichen zu, sobald sie über die notwendige Einsichts- und Urteilsfähigkeit verfügen. Das Vorliegen von Einsichts- und Urteilsfähigkeit ist ab Vollendung des 14. Lebensjahres zu vermuten. (3) Nach Erreichung der Volljährigkeit ist ihnen auf Verlangen Auskunft über alle dem Kinder- und Jugendhilfeträger und einer beauftragten privaten Kinder- und Jugendhilfeeinrichtung bekannten Tatsachen zu erteilen, soweit nicht überwiegende, berücksichtigungswürdige, persönliche Interessen der Eltern oder sonst mit Pflege und Erziehung betrauter Personen sowie anderer Personen gefährdet werden. (4) Eltern oder sonst mit Pflege und Erziehung betraute Personen haben das Recht, Auskünfte über alle dem Kinder- und Jugendhilfeträger und einer beauftragten privaten Kinder- und Jugendhilfeeinrichtung bekannten Tatsachen ihres Privat- und Familienlebens zu erhalten, soweit durch die Offenlegung nicht Interessen der betreuten Kinder und Jugendlichen oder überwiegende, berücksichtigungswürdige persönliche Interessen der Eltern oder sonst mit Pflege und Erziehung betrauter Personen sowie anderer Personen gefährdet werden. Dieses Recht steht auch Personen zu, denen Pflege und Erziehung auf Grund einer Erziehungshilfe ganz oder teilweise nicht mehr zukommt.Datenverwendung § 13. (1) Der Kinder- und Jugendhilfeträger ist ermächtigt, folgende Daten von natürlichen und juristischen Personen, die Leistungen im Sinne des 2. Hauptstücks erbringen, sowie Adoptivwerberinnen und Adoptivwerbern zur Eignungsbeurteilung und Aufsicht zu verwenden: 1. hinsichtlich natürlicher Personen: Name, ehemalige Namen, Geschlecht, Geburtsdatum, Geburtsort, Adresse, Telefonnummern, E-Mail-Adressen, Faxnummern, Familienstand, berufliche Qualifikation, Staatsangehörigkeit, bereichsspezifisches Personenkennzeichen, Sozialversicherungsnummer, Melderegisterzahl, Daten zur wirtschaftlichen Eignungsprüfung; 2. hinsichtlich natürlicher Personen, die unmittelbar Kinder und Jugendliche betreuen, sowie Personen, die mit Pflegepersonen im Sinne des § 38 sowie Adoptivwerberinnen und Adoptivwerbern nicht nur vorübergehend im gemeinsamen Haushalt leben: Daten gemäß Z 1, Daten den Gesundheitszustand betreffend, strafrechtliche Verurteilungen, Daten über die Eignung als Betreuungsperson; 3. hinsichtlich juristischer Personen: Name der juristischen Person sowie ihrer verantwortlichen und vertretungsbefugten Organe, Mitarbeiterinnen und Mitarbeiter, Vollmachten, Sitz, Adresse, Firmenbuchnummer, zentrale Vereinsregister-Zahl, Telefonnummern, E-Mail-Adressen, Faxnummern, berufliche Qualifikation der Mitarbeiterinnen und Mitarbeiter, Daten zur wirtschaftlichen Eignungsprüfung; 4. Daten im Zusammenhang mit der Aufsichtstätigkeit. (2) Der Kinder- und Jugendhilfeträger ist ermächtigt, folgende Daten von natürlichen und juristischen Personen, die Leistungen im Sinne des 2. Hauptstücks erbringen, zur Leistungserbringung und Leistungsabrechnung zu verwenden: 1. hinsichtlich natürlicher Personen: Name, ehemalige Namen, Geschlecht, Geburtsdatum, Geburtsort, Adresse, Telefonnummern, E-Mail-Adressen, Faxnummern, Familienstand, berufliche Qualifikation, Bankverbindung, bereichsspezifisches Personenkennzeichen, Sozialversicherungsnummer, Melderegisterzahl, berufliche Qualifikation sowie dienst- und besoldungsrechtliche Stellung; 2. hinsichtlich juristischer Personen: Name der juristischen Person sowie ihrer verantwortlichen und vertretungsbefugten Organe, Mitarbeiterinnen und Mitarbeiter, Vollmachten, Sitz, Adresse, Firmenbuchnummer, zentrale Vereinsregister-Zahl, Telefonnummern, E-Mail-Adressen, Faxnummern, Bankverbindung; 3. Art, Anzahl, Dauer, Tarife und Kosten der erbrachten Leistungen, Angaben über Leistungsempfängerinnen und Leistungsempfänger. (3) Daten, die gemäß Abs. 1 und 2 verwendet werden, dürfen nur zu den in Abs. 1 und 2 genannten Zwecken an andere Kinder- und Jugendhilfeträger, andere Kostenträgerinnen oder Kostenträger und Gerichte übermittelt werden. (4) Die verarbeiteten Daten dürfen nur solange aufbewahrt werden, als es für die Zwecke, für die sie verarbeitet wurden, erforderlich ist.Sonderauskünfte § 14. (1) Der Kinder- und Jugendhilfeträger ist ermächtigt, Sonderauskünfte nach § 9a Strafregistergesetz 1968, BGBl. Nr. 277/1968, einzuholen und diese Daten zu verwenden für den Fall der Eignungsfeststellung von und im Rahmen der Aufsicht über 1. Personen, die zur Kinderbetreuung angestellt werden (§ 6), 2. Pflegepersonen (§ 38), 3. Personen, die Minderjährige in Tagesbetreuung übernehmen (§ 45), 4. Personen, die Minderjährige in Sozialpädagogischen Einrichtungen betreuen (§ 46), 5. Personen, die Minderjährige in Form von Erholungsaktionen (§ 21) betreuen, 6. Wahleltern im Zuge der Vermittlung der Adoption (§ 52). (2) Der Kinder- und Jugendhilfeträger ist ermächtigt, zum Zweck der Abklärung der Gefährdung eines bestimmten minderjährigen Kindes und bei der Gewährung von Erziehungshilfen in Bezug auf Elternteile oder sonstige natürliche Personen, die Kinder und Jugendliche nicht nur vorübergehend im gemeinsamen Haushalt betreuen, folgende Auskünfte einzuholen und diese Daten zu verwenden: 1. Auskünfte nach der zentralen Gewaltschutzdatei gemäß § 58c Sicherheitspolizeigesetz, BGBl. Nr. 566/1991, sowie 2. Auskünfte nach §§ 9 und 9a Strafregistergesetz 1968, BGBl. Nr. 277/1968.Dokumentation § 15. (1) Über die Erbringung von Leistungen im Sinne des 2. Hauptstücks haben der Kinder- und Jugendhilfeträger und die beauftragte private Kinder- und Jugendhilfeeinrichtung eine schriftliche Dokumentation zu führen. (2) Die Dokumentation hat jedenfalls Angaben über betroffene Stellen, Leistungserbringer, verantwortliche und beigezogene Fachleute sowie Art, Umfang und Dauer der erbrachten Leistungen zu enthalten. (3) Die Dokumentation über Leistungen im Sinne des 2. Hauptstücks hat darüber hinaus jedenfalls Angaben zum Inhalt von Gefährdungsmitteilungen, Art und Umfang der festgestellten Gefährdung, Sozialanamnese der betroffenen Kinder und Jugendlichen, Inhalte des Hilfeplans sowie Daten von Auskunftspersonen zu enthalten. (4) Der Kinder- und Jugendhilfeträger und die beauftragte private Kinder- und Jugendhilfeeinrichtung hat organisatorische Vorkehrungen zu treffen, die den Schutz der Geheimhaltungsinteressen der Betroffenen nach § 1 Abs. 2 Datenschutzgesetz 2000, BGBl. I Nr. 165/1999, garantieren. Einsicht in die Dokumentation kann nur im Rahmen der Auskunftsrechte gemäß § 12 gewährt werden. (5) Bei Wechsel der Zuständigkeit oder Gewährung von Erziehungshilfen bei Gefahr im Verzug im Sinne des § 4 Abs. 3 ist die Dokumentation der bisherigen Leistungserbringung an den örtlich zuständigen Kinder- und Jugendhilfeträger zu übergeben.Kinder- und Jugendanwaltschaft § 16. (1) Zur besonderen Wahrung der Interessen von Kindern und Jugendlichen ist beim Amt der Wiener Landesregierung eine Kinder- und Jugendanwaltschaft einzurichten. Sie besteht aus der Kinder- und Jugendanwältin, dem Kinder- und Jugendanwalt sowie der erforderlichen Zahl von Mitarbeiterinnen und Mitarbeitern. (2) Für die Bereitstellung der personellen und sachlichen Erfordernisse hat das Amt der Wiener Landesregierung zu sorgen. (3) Die Stellen der Kinder- und Jugendanwältin und des Kinder- und Jugendanwaltes sind öffentlich auszuschreiben. Der für Kinder- und Jugendhilfe zuständige Ausschuss des Gemeinderates hat sämtliche Kandidatinnen und Kandidaten, die sich auf Grund der öffentlichen Ausschreibung beworben haben, anzuhören und die sechs geeignetsten Kandidatinnen und Kandidaten (drei weibliche Kandidatinnen, drei männliche Kandidaten) der zuständigen amtsführenden Stadträtin oder dem zuständigen amtsführenden Stadtrat vorzuschlagen. Die Kinder- und Jugendanwältin und der Kinder- und Jugendanwalt werden auf Vorschlag der zuständigen amtsführenden Stadträtin oder des zuständigen amtsführenden Stadtrates von der Landesregierung jeweils für die Dauer von fünf Jahren bestellt. Im Falle des Abs. 9 sowie bei Tod oder Verzicht der Kinder- und Jugendanwältin bzw. des Kinder- und Jugendanwaltes hat unverzüglich eine Neubestellung für die Restdauer der Funktionsperiode zu erfolgen. (4) Die Kinder- und Jugendanwältin und der Kinder- und Jugendanwalt sind bei Besorgung ihrer Aufgaben an keine Weisungen gebunden. Sie sind für Kinder und Jugendliche niederschwellig und unentgeltlich zugängig. (5) Die Kinder- und Jugendanwaltschaft unterliegt der Verschwiegenheitspflicht gemäß § 11. (6) Die Kinder- und Jugendanwaltschaft hat insbesondere folgende Aufgaben zu besorgen: 1. Beratung von Kindern, Jugendlichen, jungen Erwachsenen und Eltern oder anderen mit Pflege und Erziehung betrauten Personen in allen Angelegenheiten, die die Stellung von Kindern, Jugendlichen und jungen Erwachsenen sowie die Aufgaben von Obsorgeberechtigten betreffen. 2. Hilfestellung bei Meinungsverschiedenheiten und Auseinandersetzungen zwischen Eltern oder anderen mit Pflege und Erziehung betrauten Personen und Kindern sowie Jugendlichen über Pflege und Erziehung. 3. Information der Öffentlichkeit über die Aufgaben der Kinder- und Jugendanwaltschaft, die Kinderrechte und sonstige Angelegenheiten, die für Kinder, Jugendliche und junge Erwachsene von besonderer Bedeutung sind. 4. Einbringung der Interessen von Kindern, Jugendlichen und jungen Erwachsenen in Rechtssetzungsprozesse sowie bei Planung und Forschung. 5. Zusammenarbeit mit und Unterstützung von nationalen und internationalen Netzwerken. (7) Die Kinder- und Jugendanwaltschaft hat der Landesregierung bei Bedarf, mindestens jedoch einmal jährlich, über ihre Tätigkeit und die dabei gesammelten Erfahrungen zu berichten. Die Landesregierung hat diesen Tätigkeitsbericht dem Landtag vorzulegen. (8) Die Wiener Landes- und Gemeindebehörden sowie die Trägerinnen und Träger der Einrichtungen der privaten Kinder- und Jugendhilfe sind verpflichtet, der Kinder- und Jugendanwaltschaft die zur Erfüllung ihrer Aufgaben notwendige Unterstützung zu gewähren und die erforderlichen Auskünfte zu erteilen. In diesen Angelegenheiten sind gesetzliche Verschwiegenheitspflichten gegenüber der Kinder- und Jugendanwältin und dem Kinder- und Jugendanwalt nicht wirksam. (9) Wenn bei einer Kinder- und Jugendanwältin oder bei einem Kinder- und Jugendanwalt Umstände eintreten, die diese Person für dieses Amt als nicht mehr geeignet erscheinen lassen, hat die Landesregierung die Bestellung dieser Person zu widerrufen.Zusammenarbeit der öffentlichen Kinder- und Jugendhilfe mit anderen Einrichtungen § 17. Die öffentliche Kinder- und Jugendhilfe hat die Zusammenarbeit mit den Einrichtungen des Schulbereiches, den Kinderbetreuungseinrichtungen, der außerschulischen Kinder- und Jugendarbeit sowie den sonstigen Einrichtungen, die für die Kinder- und Jugendhilfe relevant sind, zu pflegen.2. HAUPTSTÜCK Leistungen der Kinder- und Jugendhilfe 1. Abschnitt Soziale Dienste Begriff § 18. Soziale Dienste dienen insbesondere der Förderung von Pflege und Erziehung und der Bewältigung des alltäglichen Familienlebens. Soziale Dienste haben vor allem auch die Aufgabe, präventiv zu wirken. Soziale Dienste können von werdenden Eltern, Familien, Kindern und Jugendlichen nach ihrem eigenen Ermessen in Anspruch genommen werden.Allgemeines § 19. Der Kinder- und Jugendhilfeträger hat vorzusorgen, dass die zur Erfüllung seiner Aufgaben notwendigen sozialen Dienste bereitgestellt werden.Arten der Sozialen Dienste § 20. Insbesondere sind folgende soziale Dienste bereitzustellen: 1. Beratung für werdende Eltern und Erziehungsberechtigte mit Säuglingen, Kindern und Jugendlichen, 2. Beratung für Kinder und Jugendliche, 3. Vermittlung zu Beratungseinrichtungen und Vermittlung von Ressourcen, 4. Hilfen für Familien in Krisensituationen, 5. Bildung für werdende Eltern, Eltern und Erziehungsberechtigte zur Stärkung der Fähigkeit zur Pflege und Erziehung sowie zur Vorbeugung von Entwicklungsstörungen und Erziehungsschwierigkeiten sowie von physischer, psychischer und sexueller Gewalt, 6. Betreuung Minderjähriger durch niederschwellige Dienste, zB betreute Notschlafstellen, 7. Beratung für Familien in finanziellen Angelegenheiten, 8. präventive Angebote und Beratungsangebote im gesundheitlichen, pflegerischen, sozialen, rechtlichen und psychologischen Bereich, 9. Beratungsangebote in Geburts- und Kinderkliniken, 10. Förderung von Kindern mit besonderen Bedürfnissen durch ambulante und stationäre Angebote, 11. Aus- und Fortbildung für Pflegepersonen, Adoptivwerberinnen und Adoptivwerber.Erholungsaktionen § 21. Zur Unterstützung von Eltern und Kindern sind Erholungsaktionen zur Betreuung von Kindern und Jugendlichen sowie für Familien zu fördern.Entgelt § 22. Für die Leistung von sozialen Diensten können Entgelte verlangt werden. Dabei sind Art und Umfang der Dienste sowie die persönlichen und wirtschaftlichen Verhältnisse derjenigen angemessen zu berücksichtigen, die diese Dienste in Anspruch nehmen.Praktische und wirtschaftliche Hilfen § 23. Der Kinder- und Jugendhilfeträger kann in berücksichtigungswürdigen Fällen zur Unterstützung von Jugendlichen und Familien praktische und wirtschaftliche Hilfen gewähren.2. Abschnitt Gefährdungsabklärung und Hilfeplanung Gefährdungsabklärung § 24. (1) Ergibt sich insbesondere auf Grund von Mitteilungen über den Verdacht der Gefährdung des Kindeswohls gemäß § 37 Bundes-Kinder- und Jugendhilfegesetz 2013, BGBl. I Nr. 69/2013, oder auf Grund einer berufsrechtlichen Verpflichtung sowie auf Grund glaubhafter Mitteilungen Dritter der konkrete Verdacht der Gefährdung von Kindern und Jugendlichen, ist die Gefährdungsabklärung unter Berücksichtigung der Dringlichkeit umgehend einzuleiten, um das Gefährdungsrisiko einzuschätzen. (2) Die Gefährdungsabklärung besteht aus der Erhebung jener Sachverhalte, die zur Beurteilung des Gefährdungsverdachtes bedeutsam sind, und der Einschätzung, ob eine Kindeswohlgefährdung vorliegt. Diese ist in strukturierter Vorgangsweise, unter Beachtung fachlicher Standards und Berücksichtigung der Art der zu erwartenden Gefährdung durchzuführen. (3) Als Erkenntnisquellen kommen insbesondere Gespräche mit den betroffenen Kindern und Jugendlichen, deren Eltern oder sonst mit Pflege und Erziehung betrauten Personen und Personen, in deren Betreuung sich die Kinder und Jugendlichen regelmäßig befinden, Besuche des Wohn- oder Aufenthaltsortes der Kinder und Jugendlichen, Stellungnahmen, Berichte und Gutachten von Fachleuten sowie die schriftlichen Gefährdungsmitteilungen in Betracht. (4) Mitteilungspflichtige gemäß § 37 Bundes-Kinder- und Jugendhilfegesetz 2013 beziehungsweise auf Grund berufsrechtlicher Vorschriften sind im Rahmen der Gefährdungsabklärung verpflichtet, die erforderlichen Auskünfte über die betroffenen Kinder und Jugendlichen zu erteilen sowie notwendige Dokumente vorzulegen. (5) Die Gefährdungseinschätzung ist im Zusammenwirken von zumindest zwei Fachkräften zu treffen.Hilfeplanung § 25. (1) Als Grundlage für die Gewährung von Erziehungshilfen ist ein Hilfeplan zu erstellen und in angemessenen Zeitabständen zu überprüfen, ob die gewählte Erziehungshilfe weiterhin geeignet und notwendig ist. (2) Der Hilfeplan ist mit dem Ziel der Gewährleistung der angemessenen sozialen, psychischen und körperlichen Entwicklung und Ausbildung der betroffenen Kinder und Jugendlichen zu erstellen. Dabei sind die im individuellen Fall im Hinblick auf die Kindeswohlgefährdung aussichtsreichsten Erziehungshilfen einzusetzen, wobei darauf zu achten ist, dass in familiäre Verhältnisse möglichst wenig eingegriffen wird. (3) Die Entscheidung über die im Einzelfall erforderliche Erziehungshilfe oder deren Änderung ist im Zusammenwirken von zumindest zwei Fachkräften zu treffen.Beteiligung § 26. (1) Kinder, Jugendliche, Eltern oder sonst mit Pflege und Erziehung betraute Personen sind im Rahmen der Gefährdungsabklärung zu beteiligen, vor der Entscheidung über die Gewährung von Erziehungshilfen sowie bei jeder Änderung von Art und Umfang der Erziehungshilfen zu beraten und auf die möglichen Folgen für die Entwicklung von Kindern und Jugendlichen hinzuweisen. (2) Die im Abs. 1 Genannten sind bei der Auswahl von Art und Umfang der Hilfen zu beteiligen. Ihren Wünschen ist zu entsprechen, soweit die Erfüllung derselben nicht negative Auswirkungen auf die Entwicklung der betroffenen Kinder und Jugendlichen hätte oder unverhältnismäßige Kosten verursachen würde. (3) Bei der Beteiligung von Kindern und Jugendlichen ist auf deren Entwicklungsstand Bedacht zu nehmen. (4) Von der Beteiligung ist abzusehen, soweit dadurch das Wohl der betroffenen Kinder und Jugendlichen gefährdet wäre.Krisenzentren § 27. Sozialpädagogische Einrichtungen, die zur Betreuung von Minderjährigen während der Gefährdungsabklärung bestimmt sind, dürfen nur mit Bewilligung (Bescheid) des Magistrats betrieben werden. Die §§ 35, 36, 37, 46, 47, 48 und die §§ 42 und 43 Bundes-Kinder- und Jugendhilfegesetz 2013 gelten sinngemäß.3. Abschnitt Erziehungshilfen Arten der Hilfen § 28. Hilfen zur Erziehung sind im Einzelfall als Unterstützung der Erziehung oder als volle Erziehung, als Erziehungshilfe auf Grund einer Vereinbarung oder als Erziehungshilfe auf Grund einer gerichtlichen Verfügung zu gewähren. Es ist jeweils die gelindeste, noch zum Ziel führende Maßnahme zu treffen.Unterstützung der Erziehung § 29. (1) Ist das Kindeswohl gefährdet und ist zu erwarten, dass die Gefährdung bei Verbleib in der Familie oder im sonstigen bisherigen Wohnumfeld abgewendet werden kann, ist Kindern und Jugendlichen Unterstützung der Erziehung zu gewähren. (2) Die Unterstützung der Erziehung umfasst insbesondere 1. die Beratung der Erziehungsberechtigten und der oder des Minderjährigen, 2. die Förderung der Erziehungskraft der Familie, besonders auch der gewaltlosen Erziehung, 3. die Förderung der Entwicklung der oder des Minderjährigen, 4. die Betreuung der oder des Minderjährigen und deren oder dessen Familie nach der Entlassung aus der vollen Erziehung, 5. regelmäßige Haus- oder Arztbesuche, 6. die Einschränkung des Kontaktes mit Personen, die das Kindeswohl gefährden.Volle Erziehung § 30. (1) Ist das Kindeswohl gefährdet und ist zu erwarten, dass die Gefährdung nur durch Betreuung außerhalb der Familie oder des sonstigen bisherigen Wohnumfeldes abgewendet werden kann, ist Kindern und Jugendlichen volle Erziehung zu gewähren, sofern der Kinder- und Jugendhilfeträger mit der Pflege und Erziehung zur Gänze betraut ist. (2) Volle Erziehung umfasst die Pflege und Erziehung der Minderjährigen in einer Pflegefamilie, bei Personen gemäß § 44 Abs. 6, in sozialpädagogischen Einrichtungen oder durch nicht ortsfeste Formen der Sozialpädagogik. (3) Die Pflege und Erziehung hat, vor allem bei Säuglingen und Kleinkindern, vorrangig bei Personen gemäß § 44 Abs. 6 oder in einer geeigneten Pflegefamilie stattzufinden. (4) Auch unbegleiteten minderjährigen Fremden, die einen hohen Betreuungsbedarf aufweisen (zB unmündigen minderjährigen Fremden) ist volle Erziehung in sozialpädagogischen Einrichtungen zu gewähren.Erziehungshilfen auf Grund einer Vereinbarung § 31. (1) Die Gewährung von Erziehungshilfen, mit denen die Eltern oder sonst mit Pflege und Erziehung betraute Personen einverstanden sind, erfolgt auf Grund einer schriftlichen Vereinbarung zwischen diesen und dem Kinder- und Jugendhilfeträger. (2) Der Abschluss, die Abänderung und die Aufkündigung dieser Vereinbarung bedürfen der Schriftform.Erziehungshilfen auf Grund einer gerichtlichen Verfügung § 32. (1) Stimmen die Eltern oder sonst mit Pflege und Erziehung betraute Personen einer notwendigen Erziehungshilfe nicht zu, hat der Kinder- und Jugendhilfeträger bei Gericht die nötigen gerichtlichen Verfügungen, wie etwa die Entziehung der Obsorge oder von Teilbereichen der Obsorge (§ 181 ABGB), zu beantragen. (2) Bei Gefahr im Verzug hat der Kinder- und Jugendhilfeträger unverzüglich die erforderliche Erziehungshilfe zu gewähren und die notwendigen Anträge bei Gericht zu stellen (§ 211 ABGB).Hilfen für junge Erwachsene § 33. (1) Jungen Erwachsenen können ambulante Hilfen und Hilfen durch Betreuung bei bis zum dritten Grad Verwandten oder Verschwägerten, bei Pflegepersonen oder in sozialpädagogischen Einrichtungen gewährt werden, wenn zum Zeitpunkt der Vollendung des 18. Lebensjahres bereits Erziehungshilfen gewährt wurden und dies zur Erreichung der im Hilfeplan definierten Ziele dringend notwendig ist. (2) Die Hilfe kann nur mit Zustimmung der jungen Erwachsenen und nur solange gewährt werden, als dies auf Grund der individuellen Lebenssituation notwendig ist. Die Hilfen enden jedenfalls mit der Vollendung des 21. Lebensjahres.Durchführung § 34. (1) Die Durchführung der Hilfen zur Erziehung obliegt dem Kinder- und Jugendhilfeträger. (2) Es ist jeweils die der Persönlichkeit der oder des Minderjährigen und ihren oder seinen Lebensverhältnissen entsprechende Maßnahme einzuleiten. Bei der Durchführung sind die Anlagen, Fähigkeiten, Neigungen und Entwicklungsmöglichkeiten der oder des Minderjährigen zu berücksichtigen. (3) Die getroffene Maßnahme ist zu ändern, wenn es das Wohl der oder des Minderjährigen erfordert, oder aufzuheben, wenn sie der oder dem Minderjährigen nicht mehr förderlich ist. (4) Die mit der Durchführung von Hilfen zur Erziehung befassten Organe des Kinder- und Jugendhilfeträgers sind berechtigt, die oder den Minderjährigen an ihrem oder seinem Wohnort und an sonstigen Aufenthaltsorten aufzusuchen und alle sonstigen maßgeblichen Verhältnisse festzustellen.Vorläufige Kostentragung § 35. Unbeschadet der Pflicht zum Tragen und Ersetzen der Kosten von Maßnahmen der öffentlichen Kinder- und Jugendhilfe hat zunächst für diese das Land Wien aufzukommen.Kostentragung, Kostenersatz § 36. (1) Die Kosten der Vollen Erziehung und die Betreuung von jungen Erwachsenen gemäß § 33 sind, soweit dadurch der Unterhalt tatsächlich geleistet wurde, von den Eltern des Kindes im Rahmen der gesetzlichen Unterhaltspflicht zu ersetzen, soweit sie nach ihren Lebensverhältnissen dazu im Stande sind. Die Geltendmachung von Kostenersatz kann für drei Jahre rückwirkend erfolgen. Von der Einhebung von Kostenersatz kann abgesehen werden, wenn der Aufwand dafür in keinem Verhältnis zum Nutzen steht. (2) Bei der Gewährung von Erziehungshilfen durch den örtlich unzuständigen Kinder- und Jugendhilfeträger hat der örtlich zuständige Kinder- und Jugendhilfeträger diesem die Kosten zu ersetzen.Übertragung von Rechtsansprüchen § 37. Forderungen von Kindern, Jugendlichen und jungen Erwachsenen auf wiederkehrende Leistungen, die der Deckung des Unterhaltsbedarfes dienen, gehen bei Gewährung der Vollen Erziehung oder Betreuung von jungen Erwachsenen durch den Kinder- und Jugendhilfeträger bis zur Höhe der Ersatzforderung unmittelbar kraft Gesetzes auf die Stadt Wien über.4. Abschnitt Pflegekinder und Pflegepersonen Begriff § 38. (1) Pflegekinder im Sinne dieses Gesetzes sind Minderjährige, die von anderen Personen nicht nur vorübergehend gepflegt und erzogen werden als von 1. bis zum dritten Grad Verwandten oder Verschwägerten – ausgenommen im Rahmen der Vollen Erziehung, 2. Wahleltern, 3. jenen, die vom Gericht mit der Obsorge im Bereich der Pflege und Erziehung betraut wurden, oder 4. jenen, die im Rahmen der Tagesbetreuung tätig werden. (2) Pflegepersonen sind Personen, die Pflegekinder im Sinne der Abs. 1 pflegen und erziehen.Vermittlung von Pflegeplätzen § 39. (1) Bei der Vermittlung sind für die Pflege und Erziehung eines bestimmten Kindes geeignete Pflegepersonen auszuwählen. (2) Jede Vermittlung hat dem Kindeswohl zu dienen. Sie ist nur vorzunehmen, wenn begründete Aussicht besteht, dass zwischen den Pflegepersonen und dem Pflegekind, ausgenommen bei vorübergehender Unterbringung, eine dem Verhältnis zwischen leiblichen Eltern und Kindern nahekommende Beziehung hergestellt wird und die bestmögliche individuelle und soziale Entfaltung der oder des Minderjährigen gesichert ist. (3) Die Aufnahme eines Pflegekindes ist nach fachlichen Gesichtspunkten unter Einbeziehung aller beteiligten Personen vorzubereiten. Für Pflegeeltern, Pflegekinder sowie leibliche Eltern sind Beratungshilfen einzurichten. (4) Pflegeplätze dürfen nur vom Kinder- und Jugendhilfeträger oder der dafür zugelassenen privaten Kinder- und Jugendhilfeeinrichtung vermittelt werden. Zur Vermittlung kann die Einrichtung der privaten Kinder- und Jugendhilfe mit Bescheid zugelassen werden, wenn sie die Voraussetzungen des § 10 erfüllt und Hilfen zur Festigung des Pflegeverhältnisses anbieten kann. (5) Für die Vermittlung von Pflegeplätzen und für Beratungshilfen darf kein Entgelt eingehoben werden.Pflegeverhältnisse im Rahmen der Vollen Erziehung § 40. (1) Pflegeverhältnisse im Rahmen der Vollen Erziehung bedürfen keiner bescheidmäßigen Bewilligung. (2) Vor Übergabe eines Pflegekindes ist die persönliche Eignung der Pflegepersonen vom Kinder- und Jugendhilfeträger zu prüfen und zu dokumentieren. Die Eignungsbeurteilung ist im Zusammenwirken von zumindest zwei Fachkräften vorzunehmen. (3) Die Eignung zur Übernahme in Pflege und Erziehung ist gegeben, wenn die Voraussetzungen des § 39 Abs. 2 vorliegen und die Ausbildung gemäß § 43 Abs. 1 absolviert wurde. Insbesondere müssen die Bewilligungswerberinnen und Bewilligungswerber persönliche Einstellungen und Fähigkeiten besitzen, welche die bestmögliche Förderung des Pflegekindes sicherstellen und die soziale Integration des Pflegekindes gewährleisten. (4) Die Eignung zur Übernahme in Pflege und Erziehung ist nicht gegeben, wenn einer der nachfolgend angeführten Umstände bei der Bewilligungswerberin oder beim Bewilligungswerber oder bei einer mit der Bewilligungswerberin oder mit dem Bewilligungswerber in Wohngemeinschaft lebenden Person vorliegt: 1. körperliche oder psychische Erkrankungen, geistige Behinderung oder Sucht, die das Wohl des Pflegekindes gefährdet erscheinen lassen, 2. strafgerichtliche Verurteilungen wegen Handlungen, die das Wohl des Pflegekindes gefährdet erscheinen lassen, 3. Betreuungsmängel bei leiblichen Kindern, Wahl- und Stiefkindern, 4. sonstige Gründe, die das Wohl des Pflegekindes gefährdet erscheinen lassen. (5) Der Altersunterschied zwischen den Pflegepersonen und dem Pflegekind hat dem natürlichen Altersunterschied zwischen leiblichen Eltern und Kindern zu entsprechen. Wenn es das Kindeswohl erfordert, sind Ausnahmen möglich. (6) Pflegepersonen sind verpflichtet, im Rahmen der Eignungsbeurteilung, der Aufsicht und der Leistungserbringung dem Kinder- und Jugendhilfeträger die erforderlichen Auskünfte zu erteilen, notwendige Dokumente vorzulegen sowie die Kontaktaufnahme zu den betreuten Kindern und Jugendlichen und die Besichtigung von Räumlichkeiten zuzulassen.Private Pflegeverhältnisse § 41. (1) Für die nicht nur vorübergehende Pflege und Erziehung von Pflegekindern unter 14 Jahren, die nicht im Rahmen der Vollen Erziehung erfolgt, ist eine Bewilligung (Bescheid) des Kinder- und Jugendhilfeträgers erforderlich. (2) Die Bewilligung darf nur für ein bestimmtes Pflegeverhältnis erteilt werden. Im Bescheid ist, wenn erforderlich, durch Auflagen sicherzustellen, dass die ordnungsgemäße Pflege und Erziehung der Kinder gewährleistet ist. (3) Personen, die ein Pflegekind übernehmen wollen, haben die Bewilligung zur Übernahme in Pflege und Erziehung bei dem Kinder- und Jugendhilfeträger zu beantragen. Bei der Prüfung der Eignung ist im Sinne des § 40 Abs. 3 bis 5 vorzugehen, wobei die Ausbildung gemäß § 43 Abs. 1 nicht absolviert werden muss. (4) Im behördlichen Verfahren über die Pflegebewilligung haben die Pflegepersonen und die Erziehungsberechtigten Parteistellung. Das mindestens zehnjährige Kind ist jedenfalls persönlich, das noch nicht zehnjährige Kind tunlichst, in geeigneter Weise zu hören. (5) Die Pflegebewilligung ist zu widerrufen, wenn die Voraussetzungen für die Bewilligung nicht mehr gegeben sind. Abs. 4 gilt sinngemäß. (6) Soweit es das Wohl des Pflegekindes wegen einer wesentlichen Veränderung der physischen, psychischen oder sozialen Situation der Pflegefamilie oder des Pflegekindes erfordert, hat der Kinder- und Jugendhilfeträger die Bewilligung zu ändern und erforderlichenfalls durch geeignete Auflagen zu ergänzen. (7) Pflegepersonen sind verpflichtet, im Rahmen des Bewilligungsverfahrens und der Aufsicht dem Kinder- und Jugendhilfeträger die erforderlichen Auskünfte zu erteilen, notwendige Dokumente vorzulegen sowie die Kontaktaufnahme zu den betreuten Kindern und Jugendlichen und die Besichtigung von Räumlichkeiten zuzulassen.Pflegeaufsicht § 42. (1) Pflegeverhältnisse unterliegen der Aufsicht durch den Kinder- und Jugendhilfeträger. Diese hat in angemessenen Zeitabständen, jedoch mindestens einmal jährlich, zu erfolgen. (2) Die Pflegepersonen haben den Organen des Kinder- und Jugendhilfeträgers die Pflegeaufsicht gemäß Abs. 1 zu ermöglichen. Die Pflegeaufsicht umfasst insbesondere den Kontakt zum Pflegekind, den Zutritt zu dessen Aufenthaltsräumen sowie die Vornahme von Ermittlungen über dessen Lebensverhältnisse, um sich vom Wohl und der bestmöglichen Entwicklung des Pflegekindes zu überzeugen. (3) Außergewöhnliche Umstände, die das Pflegekind betreffen, vor allem jede Änderung seines gewöhnlichen Aufenthaltes, sind von den Pflegepersonen unverzüglich dem Kinder- und Jugendhilfeträger mitzuteilen.Hilfen zur Festigung des Pflegeverhältnisses § 43. (1) Um die Übernahme eines Pflegekindes vorzubereiten, ist den Pflegepersonen vor Aufnahme eines Kindes eine Ausbildung (Vorbereitung) anzubieten. Der Kinder- und Jugendhilfeträger hat entsprechende Ausbildungsangebote bereitzustellen, die Pflegepersonen auf die Bedeutung der Ausbildung (Vorbereitung) hinzuweisen und den Besuch einer entsprechenden Einrichtung zu empfehlen. Die Teilnahme an einer Ausbildung (Vorbereitung) begründet keinen Rechtsanspruch auf Erteilung einer Pflegebewilligung. (2) Der Kinder- und Jugendhilfeträger hat Fortbildungsangebote für Pflegepersonen bereitzustellen. Dabei sind die besonderen Anforderungen an die Pflegepersonen zu berücksichtigen. Darüber hinaus hat der Kinder- und Jugendhilfeträger Beratungshilfen für Pflegepersonen sowie für Pflegekinder und Herkunftsfamilien anzubieten und die Kontakte der Pflegekinder zu den leiblichen Eltern zu fördern. (3) Der Kinder- und Jugendhilfeträger hat Pflegepersonen die Möglichkeit zur sozialversicherungsrechtlichen Absicherung anzubieten.Pflegekindergeld § 44. (1) Pflegepersonen gebührt zur Durchführung der Vollen Erziehung (§ 30) auf Antrag zur Erleichterung der mit der Pflege verbundenen Lasten Pflegekindergeld. Über den Antrag wird bescheidmäßig entschieden. (2) Das Pflegekindergeld ist nach Richtsätzen zu bemessen. (3) Der Richtsatz ist so anzusetzen, dass er den monatlichen Bedarf an Nahrung, Bekleidung, Körperpflege, Schulartikeln, anteilige Wohnungs- und Energiekosten sowie den Aufwand für eine altersgemäß gestaltete Freizeit deckt. (4) Der Richtsatz kann im Einzelfall überschritten werden, wenn infolge der persönlichen Verhältnisse des Pflegekindes ein erhöhter Bedarf besteht. Dies gilt insbesondere bei Verhaltensstörungen, Krankheiten, Behinderungen sowie zur Förderung besonderer Begabungen des Pflegekindes. (5) Die auf Grund des Abs. 3 festgesetzten Richtsätze sind von der Landesregierung für jedes Kalenderjahr durch Verordnung neu festzusetzen, wobei jeweils die Richtsätze des vorangegangenen Kalenderjahres unter Berücksichtigung der allgemeinen Kostensteigerung abzuändern sind. In dieser Verordnung können weitere Sonderleistungen, wie Beiträge für Sachaufwand insbesondere für Pflegepersonen mit mehreren Kindern, sowie für die kurzfristige Übernahme eines Pflegekindes vorgesehen werden. (6) Personen, die mit den von ihnen betreuten Kindern bis zum dritten Grad verwandt oder ver- schwägert sind, gebührt Pflegekindergeld in der Höhe des Richtsatzes. Davon ausgenommen sind die Eltern. (7) Endet ein Pflegeverhältnis gemäß § 40 dadurch, dass Pflegepersonen vom Gericht mit der Obsorge im Bereich der Pflege und Erziehung betraut werden, kann diesen Personen vom Kinder- und Jugendhilfeträger unter Berücksichtigung ihrer persönlichen und wirtschaftlichen Verhältnisse Pflegekindergeld bis zur Höhe des Richtsatzes gewährt werden.5. Abschnitt Tagesbetreuung § 45. (1) Tagesbetreuung ist die Übernahme von Minderjährigen unter 14 Jahren von anderen als bis zum dritten Grad Verwandten oder Verschwägerten, Wahleltern oder anderen mit der Pflege und Erziehung betrauten Personen zur berufsmäßigen, nicht bloß vorübergehenden Betreuung für einen Teil des Tages, die nicht im Rahmen des Kindergarten- und Schulbetriebes erfolgt. Die Betreuung kann sowohl als individuelle Betreuung im Haushalt einer geeigneten Person (Tagesmutter oder Tagesvater) als auch in Kindergruppen in geeigneten Räumlichkeiten erfolgen. (2) Tagesmütter, Tagesväter und Kindergruppen bedürfen einer Bewilligung. Die Voraussetzungen für Bewilligung und Widerruf werden durch ein eigenes Landesgesetz geregelt. (3) Dem Kinder- und Jugendhilfeträger obliegt die Aufsicht über die Tagesbetreuung.6. Abschnitt Sozialpädagogische Einrichtungen Bewilligung § 46. (1) Sozialpädagogische Einrichtungen umfassen vor allem 1. Betreuungseinrichtungen für Notsituationen 2. Betreuungseinrichtungen für die dauerhafte Betreuung von Kindern und Jugendlichen 3. betreute Wohnformen für Jugendliche 4. nicht ortsfeste Formen der Sozialpädagogik. (2) Sozialpädagogische Einrichtungen können sowohl als stationäre als auch als teilstationäre Dienste angeboten werden. (3) Sozialpädagogische Einrichtungen, die zur Übernahme von Minderjährigen in Volle Erziehung bestimmt sind (§ 30), dürfen nur mit Bewilligung (Bescheid) des Magistrats errichtet und betrieben werden. Eine vorläufige Inbetriebnahme ist zu gestatten, wenn ein dringender Betreuungsbedarf und die wesentlichen Bewilligungsvoraussetzungen vorliegen. Jede Änderung der sozialpädagogischen Einrichtung, die eine Abweichung von dem der seinerzeitigen Bewilligung zu Grunde gelegten Zustand bewirkt, bedarf ebenfalls einer Bewilligung. (4) Die Bewilligung ist zu erteilen, wenn ein nach wissenschaftlichen Erkenntnissen erstelltes sozialpädagogisches Konzept vorliegt, für die Leitung der Einrichtung und für die Pflege und Erziehung der Minderjährigen eine entsprechende Anzahl von Fachkräften zur Verfügung steht, die örtliche Lage der Einrichtung sowie deren Räumlichkeiten geeignet und die wirtschaftlichen Voraussetzungen für eine den Aufgaben der Kinder- und Jugendhilfe entsprechende Betreuung gegeben sind. (5) Die Landesregierung kann durch Verordnung Richtlinien für die Errichtung und den Betrieb von sozialpädagogischen Einrichtungen im Sinne des Abs. 3 erlassen. Die Behörde kann auf Antrag eine Nachsicht erteilen von: 1. einzelnen Anforderungen an die Raumanordnung und die Ausstattung: Die Nachsicht ist nur zu erteilen, wenn die Erfüllung dieser Anforderungen wirtschaftlich unzumutbar ist; dies ist insbesonders der Fall, wenn der mit der Erfüllung der Anforderung verbundene Aufwand außer Verhältnis zu dem angestrebten Erfolg steht. Die Landesregierung hat in der Verordnung jene Anforderungen festzulegen, von denen Nachsicht erteilt werden kann. 2. Anforderungen an das Personal: Die Nachsicht ist zu erteilen, wenn dies aus sozialpädagogischen, erlebnispädagogischen, pflegerischen, medizinischen oder sonstigen wesentlichen Gründen erforderlich ist. Diese Gründe können in der Verordnung näher ausgeführt werden. Die Nachsicht gemäß Z 1 und 2 ist zu widerrufen, wenn die Voraussetzungen für deren Erteilung nicht mehr gegeben sind. (6) Die Behörde kann die Bewilligung unter Erteilung von Auflagen, Bedingungen oder Befristungen erteilen, wenn dies zur Vermeidung einer Gefährdung des Wohls der Minderjährigen erforderlich ist. (7) Ergibt sich nach der Bewilligung, dass die Minderjährigen trotz Einhaltung der im Bewilligungs-bescheid vorgeschriebenen Auflagen nicht ausreichend geschützt sind, so hat die Behörde die erforderlichen zusätzlichen Auflagen vorzuschreiben. Sie hat sich dabei an den neuesten sozialpädagogischen Erkenntnissen, dem aktuellen Stand der Technik und den sonst in Betracht kommenden Wissenschaften zu orientieren. Die Behörde hat solche Auflagen nicht vorzuschreiben, wenn sie unverhältnismäßig sind, vor allem, wenn der mit der Erfüllung der Auflagen verbundene Aufwand außer Verhältnis zu dem mit den Auflagen angestrebten Erfolg steht.Aufsicht und Widerruf der Bewilligung § 47. Sozialpädagogische Einrichtungen unterliegen der Aufsicht des Kinder- und Jugendhilfeträgers. Dieser hat in geeigneten Zeitabständen, mindestens aber einmal jährlich zu überprüfen, ob die sozialpädagogischen Einrichtungen den vorgeschriebenen Erfordernissen entsprechen. Liegen die Voraussetzungen für die Bewilligung nicht mehr vor, ist diese zu widerrufen. Betreiber sind verpflichtet, im Rahmen des Bewilligungsverfahrens, der Aufsicht und der Leistungserbringung dem Kinder- und Jugendhilfeträger die erforderlichen Auskünfte zu erteilen, notwendige Dokumente vorzulegen sowie die Kontaktaufnahme zu den betreuten Kindern und Jugendlichen und die Besichtigung von Räumlichkeiten zuzulassen.Meldepflicht § 48. Folgende Umstände sind dem Kinder- und Jugendhilfeträger unverzüglich schriftlich zu melden: 1. jede Änderung der Trägerin oder des Trägers der sozialpädagogischen Einrichtung, 2. jeder Wechsel in der pädagogischen Leitung und 3. jede – auch nur vorübergehende – Schließung der sozialpädagogischen Einrichtung.7. Abschnitt Mitwirkung an der Adoption Grundsätze § 49. (1) Die Adoptionsvermittlung hat das Ziel, Kindern und Jugendlichen die am besten geeigneten Adoptiveltern oder Adoptivelternteile zu verschaffen. Es muss die begründete Aussicht bestehen, dass damit eine dem Verhältnis zwischen leiblichen Eltern und Kindern entsprechende Beziehung hergestellt wird. Der Altersunterschied zwischen den Adoptiveltern und dem Kind muss mindestens 16 Jahre betragen. Adoptiveltern müssen mindestens 25 Jahre alt sein. Die Interessen der Kinder und Jugendlichen sind vorrangig zu beachten. (2) Die Adoptionsvermittlung und Eignungsbeurteilung sind dem Kinder- und Jugendhilfeträger vorbehalten. Die Beratung, Vorbereitung und fachliche Begleitung von Adoptivwerberinnen und Adoptivwerbern sowie die Erstellung von Berichten können durch private Kinder- und Jugendhilfeeinrichtungen erfolgen, wenn diese eine ordnungsgemäße Besorgung dieser Aufgaben durch ausgebildete Fachkräfte gewährleisten. (3) Die Einhebung eines Entgelts für die Adoptionsvermittlung ist unzulässig. (4) Informationen über die leiblichen Eltern beziehungsweise Elternteile sind zu dokumentieren und 50 Jahre ab rechtskräftiger Bewilligung der Adoption aufzubewahren. Mit der Obsorge betraute Personen können aus besonders wichtigen medizinischen oder sozialen Gründen darüber Auskunft verlangen, solange das Adoptivkind das 14. Lebensjahr noch nicht vollendet hat. Nach Vollendung des 14. Lebensjahres steht dieses Recht dem Adoptivkind selbst zu.Mitwirkung an der Adoption im Inland § 50. Die Mitwirkung an der Adoption im Inland umfasst folgende Tätigkeiten: 1. Beratung und Begleitung von leiblichen Elternteilen vor und während der Adoptionsabwicklung; 2. Beratung, Vorbereitung, Eignungsbeurteilung und Schulung von Adoptivwerberinnen und Adoptivwerbern; 3. Auswahl von geeigneten Adoptiveltern entsprechend den individuellen Bedürfnissen der Kinder und Jugendlichen (Adoptionsvermittlung).Mitwirkung an der grenzüberschreitenden Adoption § 51. (1) Die Mitwirkung an der grenzüberschreitenden Adoption umfasst folgende Tätigkeiten: 1. Beratung, Vorbereitung, Eignungsbeurteilung und Schulung von Adoptivwerberinnen und Adoptivwerbern; 2. Übermittlung und Entgegennahme von Urkunden und Berichten im internationalen Austausch mit den zuständigen Behörden im Ausland. (2) Bei der Wahrnehmung von Aufgaben gemäß Abs. 1 sind die Bestimmungen internationaler Verträge und sonstige völkerrechtliche Verpflichtungen, insbesondere das Haager Übereinkommen vom 29. Mai 1993 über den Schutz von Kindern und die Zusammenarbeit im Hinblick auf grenzüberschreitende Adoptionen, BGBl. III Nr. 145/1999, einzuhalten.Eignungsbeurteilung § 52. (1) Vor der Vermittlung von Adoptionen im Inland beziehungsweise der Übermittlung von Anträgen ins Ausland ist die persönliche Eignung der Adoptivwerberinnen und Adoptivwerber zu beurteilen und zu dokumentieren. Die Eignungsbeurteilung ist im Zusammenwirken von zumindest zwei Fachkräften vorzunehmen. (2) Bei der Eignungsbeurteilung ist zu prüfen, ob die Adoptivwerberinnen und Adoptivwerber eine förderliche Pflege und Erziehung der anvertrauten Adoptivkinder gewährleisten können. Dabei sind insbesondere die geistige und körperliche Gesundheit, die Erziehungseinstellung, die Erziehungsfähigkeit, das Alter und die Zuverlässigkeit der Adoptivwerberinnen und Adoptivwerber sowie die Belastbarkeit des Familiensystems in Betracht zu ziehen. (3) Die Adoptivwerberinnen und Adoptivwerber sind verpflichtet, im Rahmen der Eignungsbeurteilung dem Kinder- und Jugendhilfeträger die erforderlichen Auskünfte zu erteilen, notwendige Dokumente vorzulegen sowie die Besichtigung von Räumlichkeiten zuzulassen.3. HAUPTSTÜCK Strafbestimmungen § 53. (1) Eine Verwaltungsübertretung begeht und ist mit einer Geldstrafe bis zu EUR 10.000,– zu bestrafen, wer 1. unbefugt oder entgeltlich Pflegeplätze oder eine Adoption vermittelt, 2. die Pflege eines Pflegekindes fortsetzt, obwohl die Pflegebewilligung widerrufen wurde, 3. eine sozialpädagogische Einrichtung oder ein Krisenzentrum ohne die erforderliche Bewilligung errichtet oder betreibt. (2) Eine Verwaltungsübertretung begeht und ist mit einer Geldstrafe bis zu EUR 2.100,– zu bestrafen, wer 1. ein Pflegekind unter 14 Jahren ohne die erforderliche Pflegebewilligung aufnimmt, 2. eine genehmigungspflichtige Änderung ohne Bewilligung durchführt, 3. die nach diesem Gesetz vorgesehenen Aufsichten, Eignungsfeststellungen und -beurteilungen behindert. (3) Eine Verwaltungsübertretung begeht und ist mit einer Geldstrafe bis zu EUR 1.500,– zu bestrafen, wer 1. Gebote oder Verbote der gemäß § 46 Abs. 3 erlassenen Verordnung nicht befolgt, 2. gegen Auflagen, Bedingungen und Befristungen in Bescheiden, die auf Grund dieses Gesetzes erlassen wurden, verstößt. (4) Eine Verwaltungsübertretung begeht und ist mit einer Geldstrafe bis zu EUR 500,– zu bestrafen, wer gegen die Meldepflicht gemäß § 48 verstößt. (5) Der Versuch ist strafbar.Abgabenbefreiung § 54. Alle Bescheide, Niederschriften, Abschriften und Beglaubigungen in Angelegenheiten der Kinder- und Jugendhilfe und Zeugnisse (Bescheinigungen), soweit solche zur Vollziehung dieses Gesetzes erforderlich werden, sind von allen in Landesvorschriften vorgesehenen Gebühren und Verwaltungsabgaben befreit.Verweisungen auf Bundesgesetze, Staatsverträge und Richtlinien der Europäischen Union § 55. (1) Soweit dieses Gesetz auf Bundesgesetze oder im Bundesgesetzblatt kundgemachte Staatsverträge verweist, sind diese in der am 1. September 2013 geltenden Fassung anzuwenden. (2) Soweit dieses Gesetz auf Richtlinien der Europäischen Union verweist, ist darunter die Fassung dieser Richtlinien am 1. September 2013 zu verstehen.Schluss- und Übergangsbestimmungen § 56. (1) Mit In-Kraft-Treten dieses Gesetzes treten das Gesetz vom 27. April 1990, LGBl. für Wien Nr. 36/1990, betreffend die Jugendwohlfahrt (Wiener Jugendwohlfahrtsgesetz 1990 – WrJWG 1990) mit Ausnahme des § 42, die Verordnung vom 11. Dezember 1990, LGBl. für Wien Nr. 3/1991, betreffend Richtlinien für die Errichtung und den Betrieb von Heimen und sonstigen Einrichtungen für Kinder und Jugendliche sowie die Wiener Pflegeelterngeldverordnung – WrPegVO vom 27. Dezember 2006, LGBl. für Wien Nr. 71/2006, außer Kraft. (2) Auf Verfahren und Maßnahmen, die zum Zeitpunkt des In-Kraft-Tretens dieses Gesetzes anhängig sind, finden die Bestimmungen dieses Gesetzes Anwendung. (3) Für anhängige Verwaltungsstrafverfahren hat sich die Strafe nach dem zum Zeitpunkt der Tat geltenden Recht zu richten, es sei denn, dass das zum Zeitpunkt der Fällung des Bescheides in erster Instanz geltende Recht für die Täterin oder den Täter günstiger ist. (4) Die auf Grund des Gesetzes vom 27. April 1990, LGBl. für Wien Nr. 36/1990, betreffend die Jugendwohlfahrt (Wiener Jugendwohlfahrtsgesetz 1990 – WrJWG 1990) erteilten Bewilligungen gelten als Bewilligungen nach diesem Gesetz. Die Zuständigkeit der Aufsicht richtet sich nach diesem Gesetz. (5) Durch dieses Gesetz werden die Richtlinien 2005/36/EG über die Anerkennung von Berufsqualifikationen (Amtsblatt Nr. L 255 vom 30. September 2005, S. 22), 2003/86/EG betreffend das Recht auf Familienzusammenführung (Amtsblatt Nr. L 251 vom 3. Oktober 2003, S. 12), 2009/50/EG über die Bedingungen für die Einreise und den Aufenthalt von Drittstaatsangehörigen zur Ausübung einer hochqualifizierten Beschäftigung (Amtsblatt Nr. L 155 vom 18. Juni 2009, S. 17), 2011/98/EU über ein einheitliches Verfahren zur Beantragung einer kombinierten Erlaubnis für Drittstaatsangehörige, sich im Hoheitsgebiet eines Mitgliedstaats aufzuhalten und zu arbeiten, sowie über ein gemeinsames Bündel von Rechten für Drittstaatsarbeitnehmer, die sich rechtmäßig in einem Mitgliedstaat aufhalten (Amtsblatt Nr. L 343 vom 23. Dezember 2011, S. 1), 2011/36/EU zur Verhütung und Bekämpfung des Menschenhandels und zum Schutz seiner Opfer sowie zur Ersetzung des Rahmenbeschlusses 2002/629/JI des Rates (Amtsblatt Nr. L 101 vom 15. April 2011, S. 1) und 2013/33/EU zur Festlegung von Normen für die Aufnahme von Personen, die internationalen Schutz beantragen (Amtsblatt Nr. L 180 vom 29. Juni 2013, S. 96), umgesetzt.In-Kraft-Treten § 57. (1) Dieses Gesetz tritt am 16. Dezember 2013 in Kraft. (2) Verordnungen auf Grund dieses Gesetzes können ab dem auf seine Kundmachung folgenden Tag erlassen werden; sie dürfen jedoch frühestens mit dem 16. Dezember 2013 in Kraft gesetzt werden.",
+  "parts": [
+    {
+      "@id": "dea68484-959c-4165-9518-d1da753c75c4#offset_2255_3549",
+      "offset_ini": 2255,
+      "offset_end": 3549,
+      "title": "Ziele und Aufgaben der Kinder- und Jugendhilfe"
+    },
+    {
+      "@id": "dea68484-959c-4165-9518-d1da753c75c4#offset_3550_4247",
+      "offset_ini": 3550,
+      "offset_end": 4247,
+      "title": ""
+    },
+    {
+      "@id": "dea68484-959c-4165-9518-d1da753c75c4#offset_4248_5174",
+      "offset_ini": 4248,
+      "offset_end": 5174,
+      "title": ""
+    },
+    {
+      "@id": "dea68484-959c-4165-9518-d1da753c75c4#offset_5175_6322",
+      "offset_ini": 5175,
+      "offset_end": 6322,
+      "title": "Persönlicher Anwendungsbereich und örtliche Zuständigkeit"
+    },
+    {
+      "@id": "dea68484-959c-4165-9518-d1da753c75c4#offset_6323_7379",
+      "offset_ini": 6323,
+      "offset_end": 7379,
+      "title": "Trägerschaft und Besorgung"
+    },
+    {
+      "@id": "dea68484-959c-4165-9518-d1da753c75c4#offset_7380_10752",
+      "offset_ini": 7380,
+      "offset_end": 10752,
+      "title": "Personal für die öffentliche Kinder- und Jugendhilfe"
+    },
+    {
+      "@id": "dea68484-959c-4165-9518-d1da753c75c4#offset_10753_12229",
+      "offset_ini": 10753,
+      "offset_end": 12229,
+      "title": "Anerkennung von Ausbildungen"
+    },
+    {
+      "@id": "dea68484-959c-4165-9518-d1da753c75c4#offset_12230_12939",
+      "offset_ini": 12230,
+      "offset_end": 12939,
+      "title": "Planung, Forschung, Öffentlichkeitsarbeit"
+    },
+    {
+      "@id": "dea68484-959c-4165-9518-d1da753c75c4#offset_12940_14323",
+      "offset_ini": 12940,
+      "offset_end": 14323,
+      "title": "Statistik"
+    },
+    {
+      "@id": "dea68484-959c-4165-9518-d1da753c75c4#offset_14324_16489",
+      "offset_ini": 14324,
+      "offset_end": 16489,
+      "title": "Einrichtungen der privaten Kinder- und Jugendhilfe"
+    },
+    {
+      "@id": "dea68484-959c-4165-9518-d1da753c75c4#offset_16490_17823",
+      "offset_ini": 16490,
+      "offset_end": 17823,
+      "title": "Verschwiegenheitspflicht"
+    },
+    {
+      "@id": "dea68484-959c-4165-9518-d1da753c75c4#offset_17824_19705",
+      "offset_ini": 17824,
+      "offset_end": 19705,
+      "title": "Auskunftsrechte"
+    },
+    {
+      "@id": "dea68484-959c-4165-9518-d1da753c75c4#offset_19706_22547",
+      "offset_ini": 19706,
+      "offset_end": 22547,
+      "title": "Datenverwendung"
+    },
+    {
+      "@id": "dea68484-959c-4165-9518-d1da753c75c4#offset_22548_23756",
+      "offset_ini": 22548,
+      "offset_end": 23756,
+      "title": "Sonderauskünfte"
+    },
+    {
+      "@id": "dea68484-959c-4165-9518-d1da753c75c4#offset_23757_25126",
+      "offset_ini": 23757,
+      "offset_end": 25126,
+      "title": "Dokumentation"
+    },
+    {
+      "@id": "dea68484-959c-4165-9518-d1da753c75c4#offset_25127_28826",
+      "offset_ini": 25127,
+      "offset_end": 28826,
+      "title": "Kinder- und Jugendanwaltschaft"
+    },
+    {
+      "@id": "dea68484-959c-4165-9518-d1da753c75c4#offset_28827_29197",
+      "offset_ini": 28827,
+      "offset_end": 29197,
+      "title": "Zusammenarbeit der öffentlichen Kinder- und Jugendhilfe mit anderen Einrichtungen"
+    },
+    {
+      "@id": "dea68484-959c-4165-9518-d1da753c75c4#offset_29198_29628",
+      "offset_ini": 29198,
+      "offset_end": 29628,
+      "title": "Begriff"
+    },
+    {
+      "@id": "dea68484-959c-4165-9518-d1da753c75c4#offset_29629_29787",
+      "offset_ini": 29629,
+      "offset_end": 29787,
+      "title": "Allgemeines"
+    },
+    {
+      "@id": "dea68484-959c-4165-9518-d1da753c75c4#offset_29788_30898",
+      "offset_ini": 29788,
+      "offset_end": 30898,
+      "title": "Arten der Sozialen Dienste"
+    },
+    {
+      "@id": "dea68484-959c-4165-9518-d1da753c75c4#offset_30899_31059",
+      "offset_ini": 30899,
+      "offset_end": 31059,
+      "title": "Erholungsaktionen"
+    },
+    {
+      "@id": "dea68484-959c-4165-9518-d1da753c75c4#offset_31060_31319",
+      "offset_ini": 31060,
+      "offset_end": 31319,
+      "title": "Entgelt"
+    },
+    {
+      "@id": "dea68484-959c-4165-9518-d1da753c75c4#offset_31320_31533",
+      "offset_ini": 31320,
+      "offset_end": 31533,
+      "title": "Praktische und wirtschaftliche Hilfen"
+    },
+    {
+      "@id": "dea68484-959c-4165-9518-d1da753c75c4#offset_31534_33295",
+      "offset_ini": 31534,
+      "offset_end": 33295,
+      "title": "Gefährdungsabklärung"
+    },
+    {
+      "@id": "dea68484-959c-4165-9518-d1da753c75c4#offset_33296_34091",
+      "offset_ini": 33296,
+      "offset_end": 34091,
+      "title": "Hilfeplanung"
+    },
+    {
+      "@id": "dea68484-959c-4165-9518-d1da753c75c4#offset_34092_35004",
+      "offset_ini": 34092,
+      "offset_end": 35004,
+      "title": "Beteiligung"
+    },
+    {
+      "@id": "dea68484-959c-4165-9518-d1da753c75c4#offset_35005_35324",
+      "offset_ini": 35005,
+      "offset_end": 35324,
+      "title": "Krisenzentren"
+    },
+    {
+      "@id": "dea68484-959c-4165-9518-d1da753c75c4#offset_35325_35676",
+      "offset_ini": 35325,
+      "offset_end": 35676,
+      "title": "Arten der Hilfen"
+    },
+    {
+      "@id": "dea68484-959c-4165-9518-d1da753c75c4#offset_35677_36471",
+      "offset_ini": 35677,
+      "offset_end": 36471,
+      "title": "Unterstützung der Erziehung"
+    },
+    {
+      "@id": "dea68484-959c-4165-9518-d1da753c75c4#offset_36472_37417",
+      "offset_ini": 36472,
+      "offset_end": 37417,
+      "title": "Volle Erziehung"
+    },
+    {
+      "@id": "dea68484-959c-4165-9518-d1da753c75c4#offset_37418_37810",
+      "offset_ini": 37418,
+      "offset_end": 37810,
+      "title": "Erziehungshilfen auf Grund einer Vereinbarung"
+    },
+    {
+      "@id": "dea68484-959c-4165-9518-d1da753c75c4#offset_37811_38369",
+      "offset_ini": 37811,
+      "offset_end": 38369,
+      "title": "Erziehungshilfen auf Grund einer gerichtlichen Verfügung"
+    },
+    {
+      "@id": "dea68484-959c-4165-9518-d1da753c75c4#offset_38370_39018",
+      "offset_ini": 38370,
+      "offset_end": 39018,
+      "title": "Hilfen für junge Erwachsene"
+    },
+    {
+      "@id": "dea68484-959c-4165-9518-d1da753c75c4#offset_39019_39879",
+      "offset_ini": 39019,
+      "offset_end": 39879,
+      "title": "Durchführung"
+    },
+    {
+      "@id": "dea68484-959c-4165-9518-d1da753c75c4#offset_39880_40073",
+      "offset_ini": 39880,
+      "offset_end": 40073,
+      "title": "Vorläufige Kostentragung"
+    },
+    {
+      "@id": "dea68484-959c-4165-9518-d1da753c75c4#offset_40074_40796",
+      "offset_ini": 40074,
+      "offset_end": 40796,
+      "title": "Kostentragung, Kostenersatz"
+    },
+    {
+      "@id": "dea68484-959c-4165-9518-d1da753c75c4#offset_40797_41177",
+      "offset_ini": 40797,
+      "offset_end": 41177,
+      "title": "Übertragung von Rechtsansprüchen"
+    },
+    {
+      "@id": "dea68484-959c-4165-9518-d1da753c75c4#offset_41178_41747",
+      "offset_ini": 41178,
+      "offset_end": 41747,
+      "title": "Begriff"
+    },
+    {
+      "@id": "dea68484-959c-4165-9518-d1da753c75c4#offset_41748_43005",
+      "offset_ini": 41748,
+      "offset_end": 43005,
+      "title": "Vermittlung von Pflegeplätzen"
+    },
+    {
+      "@id": "dea68484-959c-4165-9518-d1da753c75c4#offset_43006_45083",
+      "offset_ini": 43006,
+      "offset_end": 45083,
+      "title": "Pflegeverhältnisse im Rahmen der Vollen Erziehung"
+    },
+    {
+      "@id": "dea68484-959c-4165-9518-d1da753c75c4#offset_45084_46897",
+      "offset_ini": 45084,
+      "offset_end": 46897,
+      "title": "Private Pflegeverhältnisse"
+    },
+    {
+      "@id": "dea68484-959c-4165-9518-d1da753c75c4#offset_46898_47685",
+      "offset_ini": 46898,
+      "offset_end": 47685,
+      "title": "Pflegeaufsicht"
+    },
+    {
+      "@id": "dea68484-959c-4165-9518-d1da753c75c4#offset_47686_48760",
+      "offset_ini": 47686,
+      "offset_end": 48760,
+      "title": "Hilfen zur Festigung des Pflegeverhältnisses"
+    },
+    {
+      "@id": "dea68484-959c-4165-9518-d1da753c75c4#offset_48761_50587",
+      "offset_ini": 48761,
+      "offset_end": 50587,
+      "title": "Pflegekindergeld"
+    },
+    {
+      "@id": "dea68484-959c-4165-9518-d1da753c75c4#offset_50588_51420",
+      "offset_ini": 50588,
+      "offset_end": 51420,
+      "title": "Tagesbetreuung"
+    },
+    {
+      "@id": "dea68484-959c-4165-9518-d1da753c75c4#offset_51421_54759",
+      "offset_ini": 51421,
+      "offset_end": 54759,
+      "title": "Bewilligung"
+    },
+    {
+      "@id": "dea68484-959c-4165-9518-d1da753c75c4#offset_54760_55497",
+      "offset_ini": 54760,
+      "offset_end": 55497,
+      "title": "Aufsicht und Widerruf der Bewilligung"
+    },
+    {
+      "@id": "dea68484-959c-4165-9518-d1da753c75c4#offset_55498_55826",
+      "offset_ini": 55498,
+      "offset_end": 55826,
+      "title": "Meldepflicht"
+    },
+    {
+      "@id": "dea68484-959c-4165-9518-d1da753c75c4#offset_55827_57332",
+      "offset_ini": 55827,
+      "offset_end": 57332,
+      "title": "Grundsätze"
+    },
+    {
+      "@id": "dea68484-959c-4165-9518-d1da753c75c4#offset_57333_57780",
+      "offset_ini": 57333,
+      "offset_end": 57780,
+      "title": "Mitwirkung an der Adoption im Inland"
+    },
+    {
+      "@id": "dea68484-959c-4165-9518-d1da753c75c4#offset_57781_58491",
+      "offset_ini": 57781,
+      "offset_end": 58491,
+      "title": "Mitwirkung an der grenzüberschreitenden Adoption"
+    },
+    {
+      "@id": "dea68484-959c-4165-9518-d1da753c75c4#offset_58492_59519",
+      "offset_ini": 58492,
+      "offset_end": 59519,
+      "title": "Eignungsbeurteilung"
+    },
+    {
+      "@id": "dea68484-959c-4165-9518-d1da753c75c4#offset_59520_60795",
+      "offset_ini": 59520,
+      "offset_end": 60795,
+      "title": "Strafbestimmungen"
+    },
+    {
+      "@id": "dea68484-959c-4165-9518-d1da753c75c4#offset_60796_61119",
+      "offset_ini": 60796,
+      "offset_end": 61119,
+      "title": "Abgabenbefreiung"
+    },
+    {
+      "@id": "dea68484-959c-4165-9518-d1da753c75c4#offset_61120_61539",
+      "offset_ini": 61120,
+      "offset_end": 61539,
+      "title": "Verweisungen auf Bundesgesetze, Staatsverträge und Richtlinien der Europäischen Union"
+    },
+    {
+      "@id": "dea68484-959c-4165-9518-d1da753c75c4#offset_61540_64006",
+      "offset_ini": 61540,
+      "offset_end": 64006,
+      "title": "Schluss- und Übergangsbestimmungen"
+    },
+    {
+      "@id": "dea68484-959c-4165-9518-d1da753c75c4#offset_64007_64272",
+      "offset_ini": 64007,
+      "offset_end": 64272,
+      "title": "In-Kraft-Treten"
+    },
+    {
+      "@id": "dea68484-959c-4165-9518-d1da753c75c4#offset_0_2254",
+      "offset_ini": 0,
+      "offset_end": 2254
+    }
+  ]
+}

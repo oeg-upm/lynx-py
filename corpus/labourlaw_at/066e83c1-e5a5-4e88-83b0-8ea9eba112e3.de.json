@@ -1,0 +1,89 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/066e83c1-e5a5-4e88-83b0-8ea9eba112e3",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Erhöhung ausgewählter Kostenhöchstsätze des Art. 9 der Grundversorgungsvereinbarung"
+    },
+    "hasAuthority": "LGBl. Nr. 33/2016",
+    "id_local": "20000516",
+    "first_date_entry_in_force": "2016-06-30",
+    "version_date": "2016-06-30",
+    "url_consolidated": "http://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dLrW\u0026Gesetzesnummer\u003d20000516\u0026FassungVom\u003d2016-07-01",
+    "classifications": [
+      "60 Gesundheits- und Sozialrecht (S)",
+      "60/10 Angelegenheiten der Sozialhilfe"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/066e83c1-e5a5-4e88-83b0-8ea9eba112e3/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/066e83c1-e5a5-4e88-83b0-8ea9eba112e3/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 4378,
+  "text": "Sonstige Textteile Vereinbarung zwischen dem Bund und den Ländern gemäß Artikel 15a B-VG über eine Erhöhung ausgewählter Kostenhöchstsätze des Art. 9 der Grundversorgungsvereinbarung Der Bund, vertreten durch die Bundesregierung, und die Länder Burgenland, Kärnten, Niederösterreich, Oberösterreich, Salzburg, Steiermark, Tirol, Vorarlberg und Wien, jeweils vertreten durch den Landeshauptmann, – im Folgenden Vertragspartner genannt – kommen überein, gemäß Artikel 15a B-VG die nachstehende ergänzende Vereinbarung zur Vereinbarung zwischen dem Bund und den Ländern gemäß Artikel 15a B-VG über gemeinsame Maßnahmen zur vorübergehenden Grundversorgung für hilfs- und schutzbedürftige Fremde (Asylwerber, Asylberechtigte, Vertriebene und andere aus rechtlichen oder faktischen Gründen nicht abschiebbare Menschen) in Österreich (Grundversorgungsvereinbarung – Art. 15a B-VG) zu schließen: Präambel/Promulgationsklausel Der Wiener Landtag hat am 17. Dezember 2015 den Abschluss nachstehender Vereinbarung gemäß § 139 Abs. 2 der Wiener Stadtverfassung genehmigt:Artikel 1 Zielsetzung Die Vertragspartner kommen überein, ausgewählte Kostenhöchstsätze des Art. 9 der Grundversorgungsvereinbarung – Art. 15a B-VG zu erhöhen.Artikel 2 Erhöhung ausgewählter Kostenhöchstsätze Die Erhöhung beträgt bei den nachfolgenden Kostenhöchstsätzen des Art. 9 der Grundversorgungsvereinbarung – Art. 15a B-VG inklusive aller Steuern und Abgaben: 1. bei Art. 9 Z 1 von 1. Oktober 2015 bis 31. Dezember 2015 € 3,5 2. bei Art. 9 Z 1 ab 1. Jänner 2016 € 4,- 3. bei Art. 9 Z 2 für Erwachsene € 35,- 4. bei Art. 9 Z 2 für Minderjährige € 20,- 5. bei Art. 9 Z 2 für unbegleitete Minderjährige € 35,- 6. bei Art. 9 Z 3 für eine Einzelperson € 40,- 7. bei Art. 9 Z 3 für Familien (ab zwei Personen) € 80,- 8. bei Art. 9 Z 7 in Wohngruppen (mit Betreuungsschlüssel 1:10) € 20,- 9. bei Art. 9 Z 7 in Wohnheimen (mit Betreuungsschlüssel 1:15) € 3,5 10. bei Art. 9 Z 7 in betreutem Wohnen (mit Betreuungsschlüssel 1:20), oder in sonstigen geeigneten Unterkünften € 3,5.Artikel 3 Kosten In Bezug auf die Kosten und die Kostentragung gelten die Art. 10 und 11 der Grundversorgungsvereinbarung – Art. 15a B-VG.Artikel 4 Allfällige rückwirkende Verrechnung Der durch Art. 2 Z 1 erhöhte Kostenhöchstsatz des Art. 9 Z 1 der Grundversorgungsvereinbarung – Art. 15a B-VG kann von den Vertragspartnern rückwirkend ab dem 1. Oktober 2015 gegenverrechnet werden. Die durch Art. 2 Z 2 bis 7, 9 und 10 erhöhten Kostenhöchstsätze des Art. 9 Z 1, 2, 3 und 7 der Grundversorgungsvereinbarung – Art. 15a B-VG können im Falle eines Inkrafttretens dieser Vereinbarung nach dem 1. Jänner 2016 von den Vertragspartnern rückwirkend ab dem 1. Jänner 2016 gegenverrechnet werden. Der durch Art. 2 Z 8 erhöhte Kostenhöchstsatz des Art. 9 Z 7 der Grundversorgungsvereinbarung – Art. 15a B-VG kann von den Vertragspartnern rückwirkend ab dem 1. August 2015 gegenverrechnet werden.Artikel 5 Geltungsdauer und Kündigung (1) Diese Vereinbarung wird auf unbefristete Zeit abgeschlossen. (2) Sollte ein Vertragspartner die Vereinbarung aufkündigen, wird diese Kündigung frühestens 18 Monate nach Zustellung der Kündigung an alle Vertragspartner wirksam. (3) Die Kündigung gemäß Abs. 2 hat schriftlich zu erfolgen.Artikel 6 Inkrafttreten (1) Diese Vereinbarung tritt zwischen dem Bund und den Ländern mit dem Ersten des Folgemonats in Kraft, sobald 1. die nach der Bundesverfassung erforderlichen Voraussetzungen für das Inkrafttreten erfüllt sind und 2. die Mitteilungen aller Länder über das Vorliegen der nach der jeweiligen Landesverfassung erforderlichen Voraussetzungen beim Bundeskanzleramt eingelangt sind. (2) Nach dem 30. Juni 2016 können die Voraussetzungen für das Inkrafttreten der Vereinbarung nicht mehr erfüllt werden. (3) Das Bundeskanzleramt wird dem Bundesministerium für Inneres und den Ländern die Erfüllung der Voraussetzungen mitteilen. (4) Mit Inkrafttreten dieser Vereinbarung tritt die Vereinbarung zwischen dem Bund und den Ländern gemäß Artikel 15a B-VG über eine Erhöhung ausgewählter Kostenhöchstsätze des Art. 9 der Grundversorgungsvereinbarung, BGBl. I Nr. 46/2013, außer Kraft.Artikel 7 Urschrift Diese Vereinbarung wird in einer Urschrift ausgefertigt. Die Urschrift wird beim Bundeskanzleramt hinterlegt. Das Bundeskanzleramt hat allen Vertragsparteien beglaubigte Abschriften der Vereinbarung zu übermitteln.",
+  "parts": [
+    {
+      "@id": "066e83c1-e5a5-4e88-83b0-8ea9eba112e3#offset_1059_1217",
+      "offset_ini": 1059,
+      "offset_end": 1217,
+      "title": "Zielsetzung"
+    },
+    {
+      "@id": "066e83c1-e5a5-4e88-83b0-8ea9eba112e3#offset_1218_2036",
+      "offset_ini": 1218,
+      "offset_end": 2036,
+      "title": "Erhöhung ausgewählter Kostenhöchstsätze"
+    },
+    {
+      "@id": "066e83c1-e5a5-4e88-83b0-8ea9eba112e3#offset_2037_2174",
+      "offset_ini": 2037,
+      "offset_end": 2174,
+      "title": "Kosten"
+    },
+    {
+      "@id": "066e83c1-e5a5-4e88-83b0-8ea9eba112e3#offset_2175_2920",
+      "offset_ini": 2175,
+      "offset_end": 2920,
+      "title": "Allfällige rückwirkende Verrechnung"
+    },
+    {
+      "@id": "066e83c1-e5a5-4e88-83b0-8ea9eba112e3#offset_2921_3248",
+      "offset_ini": 2921,
+      "offset_end": 3248,
+      "title": "Geltungsdauer und Kündigung"
+    },
+    {
+      "@id": "066e83c1-e5a5-4e88-83b0-8ea9eba112e3#offset_3249_4144",
+      "offset_ini": 3249,
+      "offset_end": 4144,
+      "title": "Inkrafttreten"
+    },
+    {
+      "@id": "066e83c1-e5a5-4e88-83b0-8ea9eba112e3#offset_4145_4378",
+      "offset_ini": 4145,
+      "offset_end": 4378,
+      "title": "Urschrift"
+    },
+    {
+      "@id": "066e83c1-e5a5-4e88-83b0-8ea9eba112e3#offset_0_1058",
+      "offset_ini": 0,
+      "offset_end": 1058
+    }
+  ]
+}

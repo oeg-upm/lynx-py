@@ -1,0 +1,76 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/f3fce09e-7a1a-4338-a0c2-421b85efca89",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Übereinkommen zwischen Österreich und Argentinien, betreffend Entschädigung für Arbeitsunfälle"
+    },
+    "hasAuthority": "BGBl. I Nr. 33/1934",
+    "id_local": "10008094",
+    "first_date_entry_in_force": "1933-12-03",
+    "version_date": "1933-12-03",
+    "url_consolidated": "http://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d10008094\u0026FassungVom\u003d1933-12-03",
+    "classifications": [
+      "69/02 Arbeitsrecht"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/f3fce09e-7a1a-4338-a0c2-421b85efca89/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/f3fce09e-7a1a-4338-a0c2-421b85efca89/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 3519,
+  "text": "Sonstige Textteile Nachdem das am 22. März 1926 in Buenos Aires unterfertigte Übereinkommen zwischen der Republik Österreich und der Argentinischen Republik, betreffend Entschädigung für Arbeitsunfälle, welches also lautet: die verfassungsmäßige Genehmigung des Nationalrates erhalten hat, erklärt der Bundespräsident diesen Staatsvertrag für ratifiziert und verspricht im Namen der Republik Österreich dessen gewissenhafte Erfüllung. Zu Urkund dessen ist die vorliegende Ratifikation vom Bundespräsidenten unterfertigt, vom Bundeskanzler und vom Bundesminister für soziale Verwaltung gegengezeichnet und mit dem Staatssiegel der Republik Österreich versehen worden. Geschehen zu Wien, den 30. Dezember 1926. Ratifikationstext Der Austausch der Ratifikationsurkunden hat am 3. November 1933 stattgefunden; das Übereinkommen ist daher gemäß seinem Artikel V am 3. Dezember 1933 in Kraft getreten. Präambel/Promulgationsklausel Seine Exzellenz, der Herr Bundespräsident der Republik Österreich und Seine Exzellenz, der Herr Präsident der Argentinischen Republik, vom Wunsche beseelt, das Anwendungsgebiet der Gesetzgebung ihrer Staaten zugunsten ihrer Staatsangehörigen, betreffend Entschädigung für Arbeitsunfälle, zu erweitern, beschließen zu diesem Zwecke, ein Übereinkommen abzuschließen, und ernennen zu ihren Bevollmächtigten, und zwar: (Anm.: es folgen die Namen der Bevollmächtigten) die nach Austausch ihrer in guter und gehöriger Form befundenen Vollmachten übereingekommen sind wie folgt: Schlagworte e-rk3 Zuletzt aktualisiert am 14.11.2017 Gesetzesnummer 10008094 Dokumentnummer NOR11008244 alte Dokumentnummer N6193410593WArtikel I. Auf dem Gebiete der Entschädigungen für Arbeitsunfälle kommen beide vertragschließenden Teile überein, die Gleichheit in der Behandlung der Angehörigen des anderen mit jenen des eigenen Staates zu gewährleisten.Artikel II. Die vorstehende Bestimmung gilt unabhängig vom Aufenthalte der Geschädigten oder deren Hinterbliebenen in dem einen oder anderen der vertragschließenden Staaten. Das Recht auf Entschädigung wird auf Grund der Gesetzgebung des Staates, auf dessen Gebiet sich der Unfall ereignet hat, beurteilt werden.Artikel III. Das gegenwärtige Übereinkommen wird auch auf jene in Schwebe befindlichen Entschädigungen Anwendung finden, deren Auszahlungen an die Geschädigten oder deren Hinterbliebene gemäß den gesetzlichen Bestimmungen und Verordnungen des Staates, in welchem sich der Unfall ereignet hat, noch nicht verfallen sind.Artikel IV. Die nationalen Anstalten jedes der vertragschließenden Teile werden die Konsuln des anderen von allen tödlichen Arbeitsunfällen, welche sich im betreffenden Staatsgebiete ereignet haben, verständigen, damit die genannten Funktionäre die anspruchsberechtigten Hinterbliebenen des Verunglückten hievon in Kenntnis setzen können.Artikel V. Das gegenwärtige Übereinkommen wird ratifiziert und werden die Ratifizierungen baldmöglichst in Buenos Aires oder Wien ausgetauscht werden; dreißig Tage nach dem Austausche der Ratifizierungen wird es in Kraft treten. Das Übereinkommen gilt für den Zeitraum von fünf Jahren und wird nach Ablauf dieses Zeitraumes stets auf ein weiteres Jahr als verlängert betrachtet werden, insolange es nicht ein Jahr vorher gekündigt wird. Urkund dessen zeichnen und siegeln die hiezu designierten Bevollmächtigten das vorliegende Übereinkommen in Buenos Aires, der Hauptstadt der Argentinischen Republik, am zweiundzwanzigsten Tage des Monates März des Jahres eintausendneunhundertsechsundzwanzig.",
+  "parts": [
+    {
+      "@id": "f3fce09e-7a1a-4338-a0c2-421b85efca89#offset_1634_1855",
+      "offset_ini": 1634,
+      "offset_end": 1855,
+      "title": ""
+    },
+    {
+      "@id": "f3fce09e-7a1a-4338-a0c2-421b85efca89#offset_1856_2167",
+      "offset_ini": 1856,
+      "offset_end": 2167,
+      "title": ""
+    },
+    {
+      "@id": "f3fce09e-7a1a-4338-a0c2-421b85efca89#offset_2168_2486",
+      "offset_ini": 2168,
+      "offset_end": 2486,
+      "title": ""
+    },
+    {
+      "@id": "f3fce09e-7a1a-4338-a0c2-421b85efca89#offset_2487_2824",
+      "offset_ini": 2487,
+      "offset_end": 2824,
+      "title": ""
+    },
+    {
+      "@id": "f3fce09e-7a1a-4338-a0c2-421b85efca89#offset_2825_3519",
+      "offset_ini": 2825,
+      "offset_end": 3519,
+      "title": ""
+    },
+    {
+      "@id": "f3fce09e-7a1a-4338-a0c2-421b85efca89#offset_0_1633",
+      "offset_ini": 0,
+      "offset_end": 1633
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/bbb8cf74-c3e5-4690-ba85-c9fdb80e5072",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Wiener Pflege-, Patientinnen- und Patientenanwaltschaft"
+    },
+    "hasAuthority": "LGBl. Nr. 59/2006",
+    "id_local": "20000307",
+    "first_date_entry_in_force": "2011-08-18",
+    "version_date": "2011-08-18",
+    "url_consolidated": "http://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dLrW\u0026Gesetzesnummer\u003d20000307\u0026FassungVom\u003d2011-08-19",
+    "classifications": [
+      "60/40 Krankenbehandlung",
+      "60 Gesundheits- und Sozialrecht (S)"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/bbb8cf74-c3e5-4690-ba85-c9fdb80e5072/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/bbb8cf74-c3e5-4690-ba85-c9fdb80e5072/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 5369,
+  "text": "Präambel/Promulgationsklausel Der Wiener Landtag hat beschlossen:Artikel I Gesetz über die Wiener Pflege-, Patientinnen- und Patientenanwaltschaft Ziel § 1. Zur Wahrung und Sicherung der Rechte und Interessen von Personen in allen Angelegenheiten des Gesundheitswesens und Pflegebereichs in Wien ist beim Amt der Landesregierung eine Wiener Pflege-, Patientinnen- und Patientenanwaltschaft einzurichten.Aufgaben § 2. Die Wiener Pflege-, Patientinnen- und Patientenanwaltschaft hat folgende Aufgaben: 1. Behandlung von Beschwerden von Personen oder deren Angehörigen in allen Angelegenheiten des Gesundheitswesens und Pflegebereiches in Wien, 2. Aufklärung von Mängeln oder Missständen insbesondere im Rahmen der Unterbringung, der Versorgung, der Betreuung sowie der Heilbehandlung von Patientinnen und Patienten, 3. Erteilung von Auskünften, 4. Prüfung von Anregungen, 5. Abgabe von Empfehlungen, 6. sonstige durch Gesetz übertragene Aufgaben.Prüfbefugnisse § 3. (1) Wird die Wiener Pflege-, Patientinnen- und Patientenanwaltschaft mit Angelegenheiten des Gesundheitswesens und Pflegebereichs in Wien im Rahmen der Landes- oder Gemeindeverwaltung befasst (insbesondere Krankenanstalten, Wohn- und Pflegeheime, Rettung und Krankenbeförderung, Angebote und Dienste der Stadt Wien im Gesundheitswesen und Pflegebereich), haben die zuständigen Landes- und Gemeindeorgane in Vollziehung des selbstständigen Wirkungsbereiches des Landes sowie im eigenen und im vom Land übertragenen Wirkungsbereich der Gemeinde, sowie der Fonds Soziales Wien im Rahmen der ihm gesetzlich übertragenen Aufgaben diese bei der Erfüllung ihrer Aufgaben zu unterstützen. Die Rechtsträger der Einrichtungen und der Fonds Soziales Wien sind verpflichtet, der Anwaltschaft auf Verlangen Berichte oder Stellungnahmen zu übermitteln, Akteneinsicht zu gewähren oder Auskünfte zu erteilen. In diesen Angelegenheiten sind gesetzliche Verschwiegenheitspflichten gegenüber der Anwaltschaft nicht wirksam. (2) Wird die Wiener Pflege-, Patientinnen- und Patientenanwaltschaft mit einer Angelegenheit des Gesundheitswesens und Pflegebereichs in Wien im Rahmen der Bundesverwaltung befasst (insbesondere frei praktizierende Ärztinnen und Ärzte, Zahnärztinnen und Zahnärzte, Gesundheits- und Krankenpflegepersonal, Apotheken, Dentistinnen und Dentisten, Psychologinnen und Psychologen, Psychotherapeutinnen und Psychotherapeuten), sind die betroffenen Personen beziehungsweise Einrichtungen einzuladen, zum konkreten Vorbringen Stellung zu nehmen. Die Anwaltschaft hat erforderlichenfalls mit internen Informations- und Beschwerdestellen, bei den freien Berufen auch mit den gesetzlichen beruflichen Vertretungen zusammenzuarbeiten.Die Besetzung der Leitung § 4. (1) Die Bestellung der Leitung der Wiener Pflege-, Patientinnen- und Patientenanwaltschaft erfolgt nach öffentlicher Ausschreibung durch die Landesregierung für jeweils fünf Jahre. (2) Die Funktion nach Abs. 1 erlischt durch Tod, Zeitablauf oder Verzicht. Der Verzicht ist der Landesregierung schriftlich mitzuteilen und wird mit dem Ablauf des Tages des Einlangens der Verzichtserklärung wirksam. (3) Die Landesregierung hat die Bestellung einer Person nach Abs. 1 zu widerrufen, wenn die geistige oder körperliche Eignung zur Erfüllung der ihr nach diesem Gesetz obliegenden Aufgaben nicht mehr gegeben ist und voraussichtlich während der bestehenden Amtsperiode nicht wieder erlangt wird.Weisungsfreiheit und Verschwiegenheitspflicht § 5. (1) (Verfassungsbestimmung) Die gemäß § 4 bestellte Person ist in Ausübung ihrer Tätigkeit unabhängig und weisungsfrei. Die Bediensteten der Wiener Pflege-, Patientinnen- und Patientenanwaltschaft sind nur an deren oder dessen Weisungen gebunden. (2) Die gemäß § 4 bestellte Person unterliegt der Amtsverschwiegenheit. (3) Die Landesregierung ist berechtigt, sich über sämtliche Angelegenheiten in Zusammenhang mit den Aufgaben und Prüfbefugnissen der Wiener Pflege-, Patientinnen- und Patientenanwaltschaft zu unterrichten. Die gemäß § 4 bestellte Person ist verpflichtet, die von der Landesregierung im Einzelfall verlangten Auskünfte zu erteilen. Personenbezogene Daten sind nicht Gegenstand der Auskunftsverpflichtung.Tätigkeitsbericht § 6. Die Wiener Pflege-, Patientinnen- und Patientenanwaltschaft hat der Landesregierung über ihre Tätigkeit im vorausgegangenen Jahr spätestens bis 30. September jeden Jahres einen Bericht in anonymisierter Form zu erstatten. Die Landesregierung hat diesen Bericht dem Landtag vorzulegen.Personal- und Sacherfordernisse § 7. Für die Bereitstellung der personellen und sachlichen Erfordernisse hat das Amt der Landesregierung zu sorgen.Abgabenfreiheit § 8. Im Tätigkeitsbereich der Wiener Pflege-, Patientinnen- und Patientenanwaltschaft sind keine Landesverwaltungsabgaben zu entrichten.Schlussbestimmungen § 9. (1) Dieses Gesetz tritt an dem der Kundmachung folgenden Tag in Kraft. (2) (Verfassungsbestimmung) § 5 Abs. 1 tritt an dem der Kundmachung folgenden Tag in Kraft. (3) Das Gesetz über die Wiener Patientenanwaltschaft, LGBl. Nr. 19/1992 in der Fassung LGBl. Nr. 24/2006, tritt an dem der Kundmachung folgenden Tag außer Kraft. (4) Die bisherige Wiener Patientenanwaltschaft gilt solange als Wiener Pflege-, Patientinnen- und Patientenanwaltschaft und hat deren Aufgaben auf der Basis dieses Gesetzes zu besorgen, bis eine Bestellung gemäß § 4 erfolgt ist.",
+  "parts": [
+    {
+      "@id": "bbb8cf74-c3e5-4690-ba85-c9fdb80e5072#offset_65_402",
+      "offset_ini": 65,
+      "offset_end": 402,
+      "title": "Ziel"
+    },
+    {
+      "@id": "bbb8cf74-c3e5-4690-ba85-c9fdb80e5072#offset_403_943",
+      "offset_ini": 403,
+      "offset_end": 943,
+      "title": "Aufgaben"
+    },
+    {
+      "@id": "bbb8cf74-c3e5-4690-ba85-c9fdb80e5072#offset_944_2690",
+      "offset_ini": 944,
+      "offset_end": 2690,
+      "title": "Prüfbefugnisse"
+    },
+    {
+      "@id": "bbb8cf74-c3e5-4690-ba85-c9fdb80e5072#offset_2691_3412",
+      "offset_ini": 2691,
+      "offset_end": 3412,
+      "title": "Die Besetzung der Leitung"
+    },
+    {
+      "@id": "bbb8cf74-c3e5-4690-ba85-c9fdb80e5072#offset_3413_4185",
+      "offset_ini": 3413,
+      "offset_end": 4185,
+      "title": "Weisungsfreiheit und Verschwiegenheitspflicht"
+    },
+    {
+      "@id": "bbb8cf74-c3e5-4690-ba85-c9fdb80e5072#offset_4186_4492",
+      "offset_ini": 4186,
+      "offset_end": 4492,
+      "title": "Tätigkeitsbericht"
+    },
+    {
+      "@id": "bbb8cf74-c3e5-4690-ba85-c9fdb80e5072#offset_4493_4639",
+      "offset_ini": 4493,
+      "offset_end": 4639,
+      "title": "Personal- und Sacherfordernisse"
+    },
+    {
+      "@id": "bbb8cf74-c3e5-4690-ba85-c9fdb80e5072#offset_4640_4791",
+      "offset_ini": 4640,
+      "offset_end": 4791,
+      "title": "Abgabenfreiheit"
+    },
+    {
+      "@id": "bbb8cf74-c3e5-4690-ba85-c9fdb80e5072#offset_4792_5369",
+      "offset_ini": 4792,
+      "offset_end": 5369,
+      "title": "Schlussbestimmungen"
+    },
+    {
+      "@id": "bbb8cf74-c3e5-4690-ba85-c9fdb80e5072#offset_0_64",
+      "offset_ini": 0,
+      "offset_end": 64
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/8d121616-438f-4877-8d35-cc8581d83f55",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Austausch von Kriegsbeschädigten für ärztliche Behandlung"
+    },
+    "hasAuthority": "BGBl. Nr. 143/1959",
+    "id_local": "10008177",
+    "first_date_entry_in_force": "1959-06-26",
+    "version_date": "1959-06-26",
+    "url_consolidated": "http://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d10008177\u0026FassungVom\u003d1959-06-26",
+    "classifications": [
+      "69/06 Kriegsopfer"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/8d121616-438f-4877-8d35-cc8581d83f55/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/8d121616-438f-4877-8d35-cc8581d83f55/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 399,
+  "text": "Nach einer Mitteilung des Generalsekretariates des Europarates haben Belgien und Griechenland das Abkommen über den Austausch von Kriegsbeschädigten zwischen den Mitgliedsländern des Europarates zum Zwecke der ärztlichen Behandlung, BGBl. Nr. 62/1958, ratifiziert. Das Abkommen ist gemäß seinem Artikel 8 für Belgien am 1. Mai 1959 in Kraft getreten, für Griechenland wird es am 1. Juli 1959 wirksam.",
+  "parts": [
+    {
+      "@id": "8d121616-438f-4877-8d35-cc8581d83f55#offset_0_399",
+      "offset_ini": 0,
+      "offset_end": 399,
+      "title": ""
+    }
+  ]
+}

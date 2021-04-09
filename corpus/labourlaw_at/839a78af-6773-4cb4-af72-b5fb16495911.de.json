@@ -1,0 +1,148 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/839a78af-6773-4cb4-af72-b5fb16495911",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Soziale Sicherheit – Durchführung (Bulgarien)"
+    },
+    "hasAuthority": "BGBl. III Nr. 62/2006",
+    "id_local": "20004677",
+    "first_date_entry_in_force": "2006-03-31",
+    "version_date": "2006-03-31",
+    "url_consolidated": "http://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d20004677\u0026FassungVom\u003d2006-04-01",
+    "classifications": [
+      "69/03 Soziale Sicherheit"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/839a78af-6773-4cb4-af72-b5fb16495911/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/839a78af-6773-4cb4-af72-b5fb16495911/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 9151,
+  "text": "Ratifikationstext Die Vereinbarung tritt gemäß ihrem Art. 17 mit 1. April 2006 in Kraft. Präambel/Promulgationsklausel Auf Grund des Artikels 28 Absatz 1 des Abkommens zwischen der Republik Österreich und der Republik Bulgarien über soziale Sicherheit 1) vom 14. April 2005 – im Folgenden als Abkommen bezeichnet – haben die zuständigen Behörden, und zwar: – in der Republik Österreich die Bundesministerin für soziale Sicherheit, Generationen und Konsumentenschutz, die Bundesministerin für Gesundheit und Frauen und der Bundesminister für Wirtschaft und Arbeit, – in der Republik Bulgarien der Minister für Arbeit und Sozialpolitik und der Minister für Gesundheitswesen, zur Durchführung des Abkommens Folgendes vereinbart: ___________________ 1) Kundgemacht in BGBl. III Nr. 61/2006ABSCHNITT I ALLGEMEINE BESTIMMUNGEN Artikel 1 Begriffsbestimmungen In dieser Vereinbarung werden die in Artikel 1 des Abkommens festgelegten Ausdrücke in derselben Bedeutung verwendet, die ihnen im genannten Artikel gegeben wird.Artikel 2 Verbindungsstellen Verbindungsstellen nach Artikel 29 des Abkommens sind – in der Republik Österreich für die Kranken-, Unfall- und Pensionsversicherung: Hauptverband der österreichischen Sozialversicherungsträger, für das Arbeitslosengeld: Landesgeschäftsstelle Oberösterreich des Arbeitsmarktservices; – in der Republik Bulgarien für die Leistungen bei vorübergehender Arbeitsunfähigkeit, Mutterschaft, Arbeitslosigkeit und Pensionen: Nationales Versicherungsinstitut, für die Pflichtkrankenversicherung: Nationale Krankenkasse, für die medizinische Notfallhilfe: Gesundheitsministerium.Artikel 3 Aufgaben der Verbindungsstellen (1) Den Verbindungsstellen obliegen die in dieser Vereinbarung festgelegten Aufgaben. Bei Durchführung des Abkommens haben die Verbindungsstellen einander zu unterstützen und können miteinander sowie mit den beteiligten Personen oder deren Beauftragten in Verbindung treten. (2) Die Verbindungsstellen haben die zur Durchführung dieser Vereinbarung erforderlichen zweisprachigen Formblätter festzulegen.ABSCHNITT II BESTIMMUNGEN ÜBER DIE ANZUWENDENDEN RECHTSVORSCHRIFTEN Artikel 4 Entsendungen, Wahl der Rechtsvorschriften des Entsendestaates (1) In den Fällen der Artikel 7 und 8 des Abkommens hat der Träger des Vertragsstaates, dessen Rechtsvorschriften anzuwenden sind, über Antrag eine entsprechende Bescheinigung auszustellen. (2) Die Bescheinigungen nach Absatz 1 sind auszustellen bei Anwendung der österreichischen Rechtsvorschriften vom zuständigen Träger der Krankenversicherung; bei Anwendung der bulgarischen Rechtsvorschriften vom Nationalen Versicherungsinstitut.ABSCHNITT III BESONDERE BESTIMMUNGEN Kapitel 1 Krankheit und Mutterschaft Artikel 5 Zusammenrechnung der Versicherungszeiten (1) Für die Anwendung des Artikels 10 des Abkommens durch einen Träger eines Vertragsstaates hat die betreffende Person eine Bescheinigung über die nach den Rechtsvorschriften des anderen Vertragsstaates erworbenen Versicherungszeiten vorzulegen. Legt die betreffende Person die Bescheinigung nicht vor, so kann der zuständige Träger den Träger des anderen Vertragsstaates um Ausstellung und Übersendung der Bescheinigung ersuchen. (2) Die Bescheinigung nach Absatz 1 ist auszustellen in der Republik Österreich vom Träger der Krankenversicherung; in der Republik Bulgarien vom Nationalen Versicherungsinstitut.Artikel 6 Gewährung von Leistungen (1) Für die Anwendung des Artikels 11 des Abkommens hat die betreffende Person dem nach Artikel 13 des Abkommens in Betracht kommenden Träger zum Nachweis des Anspruches auf Sachleistungen eine Bescheinigung des zuständigen Trägers vorzulegen. Legt die betreffende Person die Bescheinigung nicht vor, so hat der zuständige Träger über Ersuchen des Trägers des Aufenthaltsortes nachträglich eine solche Bescheinigung auszustellen. (2) Die Feststellung und Kontrolle der Arbeitsunfähigkeit der von Artikel 11 des Abkommens erfassten Personen ist so durchzuführen, als handle es sich um einen eigenen Versicherten des Vertragsstaates, in dem die Feststellung und Kontrolle vorzunehmen ist; der zuständige Träger ist vom Ergebnis der Feststellung und Kontrolle zu unterrichten. (3) Wird Krankenhauspflege gewährt, so hat der Träger des Aufenthaltsortes, nachdem er davon Kenntnis erhalten hat, dem zuständigen Träger unverzüglich den Tag der Aufnahme in das Krankenhaus und die voraussichtliche Dauer des Aufenthaltes sowie den Tag der Entlassung mitzuteilen. (4) Sachleistungen im Sinne des Artikels 11 Absatz 2 des Abkommens sind: 1. Körperersatzstücke, orthopädische Apparate und Stützapparate einschließlich gewebebespannter orthopädischer Korsette nebst Ergänzungsteilen, Zubehör und Werkzeugen; 2. orthopädische Maßschuhe, gegebenenfalls mit dem dazugehörigen Normalschuh (nicht orthopädisch); 3. Kiefer- und Gesichtsplastiken, Perücken; 4. Modellabdrucke (Nachbildungen der verschiedenen Körperteile), die benutzt werden, um die unter den Ziffern 1 bis 3 genannten Gegenstände richtig anzupassen; 5. Kunstaugen, Kontaktschalen, Vergrößerungsbrillen und Fernrohrbrillen; 6. Hörgeräte; 7. Zahnersatz (festsitzender und herausnehmbarer) und Verschlussprothesen der Mundhöhle; 8. Krankenfahrzeuge, Rollstühle sowie andere mechanische Fortbewegungsmittel; 9. Erneuerung der unter den Ziffern 1 bis 8 genannten Gegenstände; 10. Blindenführhunde; 11. ärztliche Behandlung und Kuren in Genesungs- und Erholungsheimen oder Heilanstalten; 12. Maßnahmen der medizinischen und beruflichen Wiedereingliederung; 13. alle übrigen Heilbehelfe, Hilfsmittel und ähnliches, deren Anschaffungskosten 150 Euro übersteigen. (5) Sind Leistungen nach Absatz 4 wegen unbedingter Dringlichkeit gewährt worden, so hat der Träger des Aufenthaltsortes dies unverzüglich dem zuständigen Träger mitzuteilen.Artikel 7 Erstattung der Kosten von Sachleistungen bei Nichteinhaltung des vorgesehenen Verfahrens Die entstandenen Aufwendungen sind auf Antrag der betreffenden Person vom zuständigen Träger nach den für den Träger des Aufenthaltsortes maßgebenden Sätzen zu erstatten, sofern die vorgesehenen Verfahrensregelungen nicht eingehalten werden konnten. Dieser Träger hat dem zuständigen Träger auf dessen Verlangen die erforderlichen Auskünfte zu erteilen.Artikel 8 Zahlung von Geldleistungen Geldleistungen sind den Berechtigten direkt zu zahlen.Kapitel 2 Arbeitsunfälle und Berufskrankheiten Artikel 9 Gewährung von Sachleistungen In den Fällen des Artikels 16 Absatz 1 des Abkommens sind die Artikel 6 und 7 entsprechend anzuwenden.Artikel 10 Zahlung von Geldleistungen Die Renten und andere Geldleistungen sind direkt an die Anspruchsberechtigten zu zahlen.Artikel 11 Statistiken Die zuständigen Träger haben der für sie in Betracht kommenden Verbindungsstelle eine jährlich zu erstellende Statistik über die in den anderen Vertragsstaat nach Artikel 10 gezahlten Renten zu übermitteln. Diese Statistiken sind von den Verbindungsstellen auszutauschen.Kapitel 3 Alter, Invalidität und Tod (Pensionen) Artikel 12 Bearbeitung der Leistungsanträge (1) Die zuständigen Träger haben einander unverzüglich über einen Leistungsantrag, auf den Abschnitt III Kapitel 3 in Verbindung mit Artikel 32 Absatz 2 des Abkommens anzuwenden ist, zu unterrichten. (2) Die zuständigen Träger haben in der Folge einander auch die sonstigen für eine Leistungsfeststellung erheblichen Tatsachen, gegebenenfalls unter Beifügung ärztlicher Gutachten, mitzuteilen. (3) Die zuständigen Träger haben einander über die Entscheidungen im Feststellungsverfahren zu unterrichten.Artikel 13 Zahlung von Pensionen Die zuständigen Träger haben Pensionen und andere Geldleistungen direkt an die Anspruchsberechtigten zu zahlen.Artikel 14 Statistiken Auf die Pensionen nach diesem Kapitel ist Artikel 11 entsprechend anzuwenden.Kapitel 4 Arbeitslosigkeit Artikel 15 Verfahren In den Fällen der Artikel 26 und 27 des Abkommens hat die betreffende Person dem zuständigen Träger des einen Vertragsstaates eine Bescheinigung des zuständigen Trägers des anderen Vertragsstaates vorzulegen, aus der die Versicherungszeiten, die sie nach den Rechtsvorschriften des anderen Vertragsstaates zurückgelegt hat, und Zeiten, während derer sie Arbeitslosengeld vom anderen Vertragsstaat bezogen hat, hervorgehen. Legt die betreffende Person die Bescheinigung nicht vor, so kann die Verbindungsstelle des einen Vertragsstaates die Verbindungsstelle des anderen Vertragsstaates um Ausstellung und Übermittlung einer solchen Bescheinigung ersuchen.ABSCHNITT IV FINANZIELLE BESTIMMUNGEN Artikel 16 Kostenerstattung Für die Durchführung des Artikels 14 und des Artikels 16 Absatz 3 des Abkommens ist der Anspruch auf Erstattung der Kosten von Sachleistungen nach Abschluss des Leistungsfalles oder für jedes Kalendervierteljahr geltend zu machen und binnen zwei Monaten nach Eingang der Forderung zu erfüllen.ABSCHNITT V SCHLUSSBESTIMMUNGEN Artikel 17 Geltungsdauer Diese Vereinbarung tritt gleichzeitig mit dem Abkommen in Kraft und bleibt solange wie das Abkommen in Kraft. GESCHEHEN zu Sofia, am 14. April 2005 in zwei Urschriften in deutscher und bulgarischer Sprache, wobei beide Texte in gleicher Weise authentisch sind.",
+  "parts": [
+    {
+      "@id": "839a78af-6773-4cb4-af72-b5fb16495911#offset_785_1013",
+      "offset_ini": 785,
+      "offset_end": 1013,
+      "title": "Begriffsbestimmungen"
+    },
+    {
+      "@id": "839a78af-6773-4cb4-af72-b5fb16495911#offset_1014_1612",
+      "offset_ini": 1014,
+      "offset_end": 1612,
+      "title": "Verbindungsstellen"
+    },
+    {
+      "@id": "839a78af-6773-4cb4-af72-b5fb16495911#offset_1613_2057",
+      "offset_ini": 1613,
+      "offset_end": 2057,
+      "title": "Aufgaben der Verbindungsstellen"
+    },
+    {
+      "@id": "839a78af-6773-4cb4-af72-b5fb16495911#offset_2058_2632",
+      "offset_ini": 2058,
+      "offset_end": 2632,
+      "title": "Entsendungen, Wahl der Rechtsvorschriften des Entsendestaates"
+    },
+    {
+      "@id": "839a78af-6773-4cb4-af72-b5fb16495911#offset_2633_3368",
+      "offset_ini": 2633,
+      "offset_end": 3368,
+      "title": "Zusammenrechnung der Versicherungszeiten"
+    },
+    {
+      "@id": "839a78af-6773-4cb4-af72-b5fb16495911#offset_3369_5782",
+      "offset_ini": 3369,
+      "offset_end": 5782,
+      "title": "Gewährung von Leistungen"
+    },
+    {
+      "@id": "839a78af-6773-4cb4-af72-b5fb16495911#offset_5783_6234",
+      "offset_ini": 5783,
+      "offset_end": 6234,
+      "title": "Erstattung der Kosten von Sachleistungen bei Nichteinhaltung des vorgesehenen Verfahrens"
+    },
+    {
+      "@id": "839a78af-6773-4cb4-af72-b5fb16495911#offset_6235_6325",
+      "offset_ini": 6235,
+      "offset_end": 6325,
+      "title": "Zahlung von Geldleistungen"
+    },
+    {
+      "@id": "839a78af-6773-4cb4-af72-b5fb16495911#offset_6326_6513",
+      "offset_ini": 6326,
+      "offset_end": 6513,
+      "title": "Gewährung von Sachleistungen"
+    },
+    {
+      "@id": "839a78af-6773-4cb4-af72-b5fb16495911#offset_6514_6639",
+      "offset_ini": 6514,
+      "offset_end": 6639,
+      "title": "Zahlung von Geldleistungen"
+    },
+    {
+      "@id": "839a78af-6773-4cb4-af72-b5fb16495911#offset_6640_6933",
+      "offset_ini": 6640,
+      "offset_end": 6933,
+      "title": "Statistiken"
+    },
+    {
+      "@id": "839a78af-6773-4cb4-af72-b5fb16495911#offset_6934_7528",
+      "offset_ini": 6934,
+      "offset_end": 7528,
+      "title": "Bearbeitung der Leistungsanträge"
+    },
+    {
+      "@id": "839a78af-6773-4cb4-af72-b5fb16495911#offset_7529_7672",
+      "offset_ini": 7529,
+      "offset_end": 7672,
+      "title": "Zahlung von Pensionen"
+    },
+    {
+      "@id": "839a78af-6773-4cb4-af72-b5fb16495911#offset_7673_7772",
+      "offset_ini": 7673,
+      "offset_end": 7772,
+      "title": "Statistiken"
+    },
+    {
+      "@id": "839a78af-6773-4cb4-af72-b5fb16495911#offset_7773_8475",
+      "offset_ini": 7773,
+      "offset_end": 8475,
+      "title": "Verfahren"
+    },
+    {
+      "@id": "839a78af-6773-4cb4-af72-b5fb16495911#offset_8476_8834",
+      "offset_ini": 8476,
+      "offset_end": 8834,
+      "title": "Kostenerstattung"
+    },
+    {
+      "@id": "839a78af-6773-4cb4-af72-b5fb16495911#offset_8835_9151",
+      "offset_ini": 8835,
+      "offset_end": 9151,
+      "title": "Geltungsdauer"
+    },
+    {
+      "@id": "839a78af-6773-4cb4-af72-b5fb16495911#offset_0_784",
+      "offset_ini": 0,
+      "offset_end": 784
+    }
+  ]
+}

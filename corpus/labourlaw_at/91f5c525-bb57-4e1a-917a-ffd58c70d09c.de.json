@@ -1,0 +1,86 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/91f5c525-bb57-4e1a-917a-ffd58c70d09c",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Bedarfsorientierten Mindestsicherung in Wien 2018 (WMG-VO 2018)"
+    },
+    "hasAuthority": "LGBl. Nr. 3/2018",
+    "nick": [
+      "WMG-VO 2018"
+    ],
+    "id_local": "20000553",
+    "first_date_entry_in_force": "2018-01-01",
+    "version_date": "2018-01-01",
+    "url_consolidated": "http://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dLrW\u0026Gesetzesnummer\u003d20000553\u0026FassungVom\u003d2018-01-01",
+    "classifications": [
+      "60 Gesundheits- und Sozialrecht (S)",
+      "60/10 Angelegenheiten der Sozialhilfe"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/91f5c525-bb57-4e1a-917a-ffd58c70d09c/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/91f5c525-bb57-4e1a-917a-ffd58c70d09c/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 3596,
+  "text": "Präambel/Promulgationsklausel Auf Grund der §§ 7 Abs. 5, 8 Abs. 4, 9 Abs. 3, 11 Abs. 2 und 17 Abs. 3 des Gesetzes zur Bedarfsorientierten Mindestsicherung in Wien (Wiener Mindestsicherungsgesetz – WMG), LGBl. für Wien Nr. 38/2010, zuletzt geändert durch das Gesetz LGBl. für Wien Nr. 29/2013, wird verordnet: Im RIS seit 06.02.2018 Zuletzt aktualisiert am 06.02.2018 Gesetzesnummer 20000553 Dokumentnummer LWI40012351§ 2. Mietbeihilfenobergrenzen (1) Die Mietbeihilfenobergrenzen betragen: 1. bei 1 bis 2 Bewohnerinnen oder Bewohnern EUR 322,54; 2. bei 3 bis 4 Bewohnerinnen oder Bewohnern EUR 338,18; 3. bei 5 bis 6 Bewohnerinnen oder Bewohnern EUR 358,26; 4. ab 7 Bewohnerinnen oder Bewohnern EUR 377,24. (2) Die Mietbeihilfenobergrenzen beinhalten den jeweiligen Grundbetrag zur Deckung des Wohnbedarfs.§ 3. Einkommensfreibeträge Als Einkommensfreibetrag ist zu berücksichtigen a) bei einem Einkommen bis zur Geringfügigkeitsgrenze von EUR 438,05 EUR 61,00; b) bei einem Einkommen über der Geringfügigkeitsgrenze von EUR 438,05 EUR 145,00.§ 4. Als Vermögensfreibetrag sind EUR 4.315,20 zu berücksichtigen.§ 5. Das Taschengeld gemäß § 17 Abs. 3 WMG beträgt EUR 129,46.Artikel I § 1. Mindeststandards, Grundbeträge zur Deckung des Wohnbedarfs und Geringfügigkeitsgrenze (1) Für volljährige alleinstehende Personen und volljährige Personen, die mit anderen volljährigen Personen in Wohngemeinschaft leben, und für volljährige Personen, die ausschließlich mit Personen nach § 7 Abs. 2 Z 3 oder Z 4 WMG eine Bedarfsgemeinschaft bilden, beträgt der Mindeststandard EUR 863,04. Dieser enthält folgenden Grundbetrag zur Deckung des Wohnbedarfs: a) für volljährige Personen, soweit sie nicht unter lit. b fallen EUR 215,76; b) für Personen, die das Regelpensionsalter erreicht haben, oder für auf die Dauer von mindestens einem Jahr arbeitsunfähige Personen EUR 116,50. (2) Für volljährige Personen, die mit anderen volljährigen Personen in einer Bedarfsgemeinschaft gemäß § 7 Abs. 2 Z 2 WMG leben, beträgt der Mindeststandard EUR 647,28. Dieser enthält folgenden Grundbetrag zur Deckung des Wohnbedarfs: a) für volljährige Personen, soweit sie nicht unter lit. b oder c fallen EUR 161,82; b) für Personen, die das Regelpensionsalter erreicht haben, oder für auf die Dauer von mindestens einem Jahr arbeitsunfähige Personen, wenn sie mit Personen, die diese Voraussetzungen nicht erfüllen, in der Bedarfsgemeinschaft leben EUR 87,38; c) für Personen, die das Regelpensionsalter erreicht haben, oder für auf die Dauer von mindestens einem Jahr arbeitsunfähige Personen, wenn bei mehr als einer Person der Bedarfsgemeinschaft diese Voraussetzungen vorliegen EUR 58,25. (3) Für volljährige Personen mit Anspruch auf Familienbeihilfe gemäß § 7 Abs. 2 Z 4 WMG und für volljährige Personen bis zum vollendeten 21. Lebensjahr ohne Einkommen oder mit einem Einkommen bis zu einer Geringfügigkeitsgrenze gemäß § 7 Abs. 2 Z 4 WMG beträgt der Mindeststandard EUR 431,52. Dieser enthält einen Grundbetrag zur Deckung des Wohnbedarfs in der Höhe von EUR 107,88. (4) Für minderjährige Personen gemäß § 7 Abs. 2 Z 3 WMG beträgt der Mindeststandard EUR 233,02. (5) Die Geringfügigkeitsgrenze beträgt EUR 438,05.Artikel II Diese Verordnung tritt mit 1. Jänner 2018 in Kraft und ist auf Sachverhalte anzuwenden, die sich nach dem 31. Dezember 2017 ereignen. Die Verordnung der Wiener Landesregierung zum Gesetz zur Bedarfsorientierten Mindestsicherung in Wien 2017 (WMG-VO 2017), LGBl. für Wien Nr. 32/2017, ist auf Sachverhalte weiterhin anzuwenden, die sich nach 31. Dezember 2016 und vor 1. Jänner 2018 ereignet haben.",
+  "parts": [
+    {
+      "@id": "91f5c525-bb57-4e1a-917a-ffd58c70d09c#offset_417_805",
+      "offset_ini": 417,
+      "offset_end": 805,
+      "title": "§ 2. Mietbeihilfenobergrenzen"
+    },
+    {
+      "@id": "91f5c525-bb57-4e1a-917a-ffd58c70d09c#offset_806_1041",
+      "offset_ini": 806,
+      "offset_end": 1041,
+      "title": "§ 3. Einkommensfreibeträge"
+    },
+    {
+      "@id": "91f5c525-bb57-4e1a-917a-ffd58c70d09c#offset_1042_1107",
+      "offset_ini": 1042,
+      "offset_end": 1107,
+      "title": "§ 4."
+    },
+    {
+      "@id": "91f5c525-bb57-4e1a-917a-ffd58c70d09c#offset_1108_1169",
+      "offset_ini": 1108,
+      "offset_end": 1169,
+      "title": "§ 5."
+    },
+    {
+      "@id": "91f5c525-bb57-4e1a-917a-ffd58c70d09c#offset_1170_3188",
+      "offset_ini": 1170,
+      "offset_end": 3188,
+      "title": "Artikel I § 1. Mindeststandards, Grundbeträge zur Deckung des Wohnbedarfs und Geringfügigkeitsgrenze"
+    },
+    {
+      "@id": "91f5c525-bb57-4e1a-917a-ffd58c70d09c#offset_3189_3596",
+      "offset_ini": 3189,
+      "offset_end": 3596,
+      "title": "Artikel II"
+    },
+    {
+      "@id": "91f5c525-bb57-4e1a-917a-ffd58c70d09c#offset_0_416",
+      "offset_ini": 0,
+      "offset_end": 416
+    }
+  ]
+}

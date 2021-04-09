@@ -1,0 +1,64 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/4baec2ec-6110-424d-ae39-a70e2a39c049",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Erklärung des Kollektivvertrages für das grafische Gewerbe für Arbeiter/innen und für Angestellte zur Satzung"
+    },
+    "hasAuthority": "BGBl. II Nr. 85/2016",
+    "id_local": "20009511",
+    "first_date_entry_in_force": "2016-03-31",
+    "version_date": "2016-03-31",
+    "url_consolidated": "http://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d20009511\u0026FassungVom\u003d2016-04-01",
+    "classifications": [
+      "60/03 Kollektives Arbeitsrecht"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/4baec2ec-6110-424d-ae39-a70e2a39c049/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/4baec2ec-6110-424d-ae39-a70e2a39c049/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 2711,
+  "text": "Präambel/Promulgationsklausel Das Bundeseinigungsamt beim Bundesministerium für Arbeit, Soziales und Konsumentenschutz ist gemäß § 18 Abs. 1 Arbeitsverfassungsgesetz, BGBl. Nr. 22/1974, in der Fassung des Bundesgesetzes BGBl. I Nr. 71/2013 ermächtigt, auf Antrag einer kollektivvertragsfähigen Körperschaft, die Partei eines Kollektivvertrages ist, bei Vorliegen der in Abs. 3 angeführten Voraussetzungen diesem Kollektivvertrag durch Erklärung zur Satzung auch außerhalb seines räumlichen, fachlichen und persönlichen Wirkungsbereiches rechtsverbindliche Wirkung zuzuerkennen. Das Bundeseinigungsamt beim Bundesministerium für Arbeit, Soziales und Konsumentenschutz hat mit Beschluss vom 18. April 2016 nach Durchführung einer Senatsverhandlung nachstehende Satzung erlassen:Satzung eines Kollektivvertrages für das grafische Gewerbe Arbeiter/innen und Angestellte S 3/2016/X/42/1 Geltungsbereich der Satzung § 1. Die Satzung gilt a) Fachlich: Für alle Sparten der grafischen Produktion (Druck und Druckformenerzeugung), die von dem in § 2 näher bezeichneten, zwischen dem Verband Druck \u0026 Medientechnik und dem Österreichischen Gewerkschaftsbund, Gewerkschaft der Privatangestellten, Druck, Journalismus, Papier, abgeschlossenen Kollektivvertrag erfasst sind. b) Örtlich: Für das Gebiet der Republik Österreich. c) Persönlich: Für alle Arbeitgeber/innen, die grafische Erzeugnisse regelmäßig unter Anwendung von in grafischen Unternehmungen üblichen Verfahren herstellen, sowie die von diesen Arbeitgeber/innen beschäftigten Arbeiter/innen, Lehrlingen und Angestellten, sofern ihre Arbeitsverhältnisse nicht schon durch einen gültigen Kollektivvertrag (ausgenommen Kollektivverträge gemäß § 18 Abs. 4 ArbVG) erfasst sind.Inhalt der Satzung § 2. Der zwischen dem Verband Druck \u0026 Medientechnik und dem Österreichischen Gewerkschaftsbund, Gewerkschaft der Privatangestellten, Druck, Journalismus, Papier, am 15. März 2016 abgeschlossene Kollektivvertrag – Vereinbarung betreffend die Lohntabellen zum Kollektivvertrag für das grafische Gewerbe Österreichs und die Gehaltstabellen für technische und kaufmännische Angestellte zum Kollektivvertrag für das grafische Gewerbe Österreichs, beim Bundesministerium für Arbeit, Soziales und Konsumentenschutz unter Registerzahl KV 137/2016 hinterlegt und im „Amtsblatt zur Wiener Zeitung“ am 2. April 2016 kundgemacht, wird zur Satzung erklärt.Beginn der Wirksamkeit und Geltungsdauer der Satzung § 3. Als Wirksamkeitsbeginn der Satzung wird der 1. April 2016 bei monatlicher Lohn- bzw. Gehaltsauszahlung und der 4. April 2016 bei wöchentlicher Lohnauszahlung festgesetzt. Die Geltungsdauer der Satzung richtet sich nach der Geltungsdauer des gesatzten Kollektivvertrages.",
+  "parts": [
+    {
+      "@id": "4baec2ec-6110-424d-ae39-a70e2a39c049#offset_776_1721",
+      "offset_ini": 776,
+      "offset_end": 1721,
+      "title": "Geltungsbereich der Satzung"
+    },
+    {
+      "@id": "4baec2ec-6110-424d-ae39-a70e2a39c049#offset_1722_2383",
+      "offset_ini": 1722,
+      "offset_end": 2383,
+      "title": "Inhalt der Satzung"
+    },
+    {
+      "@id": "4baec2ec-6110-424d-ae39-a70e2a39c049#offset_2384_2711",
+      "offset_ini": 2384,
+      "offset_end": 2711,
+      "title": ""
+    },
+    {
+      "@id": "4baec2ec-6110-424d-ae39-a70e2a39c049#offset_0_775",
+      "offset_ini": 0,
+      "offset_end": 775
+    }
+  ]
+}

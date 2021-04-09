@@ -1,0 +1,154 @@
+1	¿A quién se le aplica el Estatuto de los Trabajadores (en adelante ET)?	Artículo 1. Ámbito de aplicación.
+2	¿Qué se considera un empresario en la legislación laboral?	Artículo 1. Ámbito de aplicación.
+3	¿Qué relaciones laborales se excluyen de la aplicación del ET?	Artículo 1. Ámbito de aplicación.
+4	Si tengo una empresa española, ¿Se aplican los derechos económicos de la legislación española laboral a los trabajadores españoles contratados en España?	Artículo 1. Ámbito de aplicación.
+5	 ¿Qué es un centro de trabajo?	Artículo 1. Ámbito de aplicación.
+6	¿Hay relaciones laborales de carácter especial?	Artículo 2. Relaciones laborales de carácter especial
+7	 ¿Cuál es el marco legal al que están sujetas las relaciones laborales de carácter especial?	Artículo 2. Relaciones laborales de carácter especial
+8	 ¿Dónde se regulan los derechos y obligaciones de la relación laboral?	Artículo 3. Fuentes de la relación laboral 
+8.1	¿Dónde tengo que acudir para conocer los derechos de las relaciones laborales?	Artículo 3. Fuentes de la relación laboral.
+9	¿Bajo qué principio se aplicarán las disposiciones legales y reglamentarias?	Artículo 3. Fuentes de la relación laboral.
+10	¿Qué sucede si hay preceptos contradictorios de dos o más normas laborales?	Artículo 3. Fuentes de la relación laboral.
+11	¿Qué valor tienen los usos y costumbres?	Artículo 3. Fuentes de la relación laboral.
+12	¿Son renunciables los derechos laborales reconocidos?	Artículo 3. Fuentes de la relación laboral. 
+12.1	¿Se puede disponer de los derechos del trabajador?	Artículo 3. Fuentes de la relación laboral. 
+12.3	¿Se puede compensar económicamente los derechos de los trabajadores?	Artículo 3. Fuentes de la relación laboral. 
+12.4	¿Podrán renunciar de alguno de sus derechos los trabajadores?	Artículo 3. Fuentes de la relación laboral.
+13	¿Cuáles son los derechos laborales básicos?	Artículo 4. Derechos laborales. 
+13.1	¿Cuáles son los derechos básicos del trabajador?	Artículo 4. Derechos laborales.
+14	¿Cuáles son los derechos laborales del trabajador en relación con el trabajo? ¿Qué derechos laborales son reclamables por el trabajador?	Artículo 4. Derechos laborales.
+15	 ¿Cuáles son los deberes laborales de los trabajadores? ¿Cuáles son las obligaciones de los trabajadores? ¿Qué es exigible por parte del trabajador? 	Artículo 5. Deberes laborales.
+16	¿Cuál es la edad mínima para trabajar?	Artículo 6. Trabajo de los menores.
+17	¿Qué restricciones tienen los mayores de 16 años y menores de 18 años?	Artículo 6. Trabajo de los menores.
+18	¿Pueden los menores de 16 años intervenir en espectáculos públicos?	Artículo 6. Trabajo de los menores.
+19	¿Quién tiene capacidad para contratar la prestación de su trabajo?	Artículo 7. Capacidad para contratar.
+20	¿Puede ser verbal un contrato de trabajo?	Artículo 8. Forma del contrato.
+21	¿Qué contratos tienen que estar por escrito obligatoriamente?	Artículo 8. Forma del contrato.
+22	¿Debe comunicar el empresario la contratación de un trabajador?	Artículo 8. Forma del contrato.
+23	¿Es obligatorio entregar una copia básica de los contratos a los trabajadores?	Artículo 8. Forma del contrato.
+24	¿Cuáles son los efectos de la nulidad de un contrato de trabajo?	Artículo 9. Validez del contrato.
+25	¿Qué obligaciones genera al empresario un trabajo en común?	Artículo 10. Trabajo en común y contrato de grupo.
+26	¿Qué efectos despliega un contrato con un grupo de trabajadores?	Artículo 10. Trabajo en común y contrato de grupo.
+27	¿Con quién se puede concertar un contrato en prácticas?	Artículo 10. Trabajo en común y contrato de grupo.
+28	¿Cuáles son las especificidades de un contrato en prácticas? ¿Cuáles son las reglas del contrato en prácticas?	Artículo 11. Contratos formativos
+29	¿Qué es un contrato para la formación y el aprendizaje?	Artículo 11. Contratos formativos
+30	¿Cuáles son las reglas por las que se rige el contrato para la formación y el aprendizaje?	Artículo 11. Contratos formativos
+31	¿Qué se entiende por contrato a tiempo parcial?	Artículo 12. Contrato a tiempo parcial y contrato de relevo.
+32	¿Durante cuánto tiempo puede concertarse un contrato a tiempo parcial?	Artículo 12. Contrato a tiempo parcial y contrato de relevo.
+33	¿Cuándo se entiende que el contrato a tiempo parcial se celebra por tiempo indefinido?	Artículo 12. Contrato a tiempo parcial y contrato de relevo.
+34	¿Cuáles son las especificidades de un contrato a tiempo parcial? ¿Cuáles son las reglas del contrato a tiempo parcial?	Artículo 12. Contrato a tiempo parcial y contrato de relevo.
+35	¿Qué se entiende por horas complementarias?	Artículo 12. Contrato a tiempo parcial y contrato de relevo.
+36	¿Cuáles son las reglas de las horas complementarias?	Artículo 12. Contrato a tiempo parcial y contrato de relevo.
+37	¿Cuándo puede un trabajador acceder a la jubilación parcial?	Artículo 12. Contrato a tiempo parcial y contrato de relevo.
+38	¿Cuáles son las reglas del contrato de relevo?	Artículo 12. Contrato a tiempo parcial y contrato de relevo.
+39	¿Qué se entiende por trabajo a distancia?	Artículo 13. Trabajo a distancia.
+40	¿Qué requisitos tiene el contrato a distancia?	Artículo 13. Trabajo a distancia.
+41	¿Es posible establecer un periodo de prueba?	Artículo 14. Período de prueba.
+42	¿Cuál es la duración máxima del periodo de prueba?	Artículo 14. Período de prueba.
+43	¿Puede establecerse un periodo de prueba con las mismas funciones que ha relizado anteriormente en la empresa?	Artículo 14. Período de prueba.
+44	¿Qué derechos y obligaciones tiene un trabajador en periodo de prueba?	Artículo 14. Período de prueba.
+45	¿Qué sucede si tanscurre el periodo de prueba sin desestimiento?	Artículo 14. Período de prueba.
+46	¿Qué situaciones interrumpen el periodo de prueba?	Artículo 14. Período de prueba.
+47	¿Qué tipos de trabajo se pueden realizar respecto a la duración del contrato?	Artículo 15. Duración del contrato.
+48	¿Cuándo se pueden realizar contratos de duración determinada?	Artículo 15. Duración del contrato.
+49	¿Qué efecto tiene un contrato temporal celebrado en fraude de ley?	Artículo 15. Duración del contrato.
+50	¿Cuándo se deben notificar los contratos determinados a la representación legal de los trabajadores?	Artículo 15. Duración del contrato.
+51	¿Qué derechos tiene un trabajador con un contrato temporal?	Artículo 15. Duración del contrato.
+52	¿Qué derechos tiene un trabajador con un contrato de duración determinada?	Artículo 15. Duración del contrato.
+53	¿Qué características tiene un contrato fijo-discontinuo?	Artículo 16. Ingreso al trabajo.
+54	¿Es posible la discriminación en las relaciones laborales?	Artículo 17. No discriminación en las relaciones laborales.
+55	¿Es posible la discriminación en las relaciones laborales?	Artículo 28. Igualdad de remuneración por razón de sexo.
+56	¿Es posible realizar registros sobre el trabajador?	Artículo 18. Inviolabilidad de la persona del trabajador
+57	¿Qué derechos y obligaciones tiene un trabajador en materia de seguridad y salud en el trabajo?	Artículo 19. Seguridad e higiene.
+58	¿Es obligatorio realizar formación acerca de Prevención de Riesgos Laborales?	Artículo 19. Seguridad e higiene.
+59	¿Cuál es la obligación de los delegados de prevención o representantes legales de los trabajadores en materia de seguridad y salud en el trabajo?	Artículo 19. Seguridad e higiene.
+60	¿Cuáles son los poderes de dirección y control del empresario en la actividad laboral?	Artículo 20. Dirección y control de la actividad laboral.
+61	¿Puede el trabajador tener una prestación laboral para diferentes empresarios?	Artículo 21. Pacto de no concurrencia y de permanencia en la empresa.
+62	¿Cuáles son las características de un pacto de no concurrencia posterior a la extinción del contrato?	Artículo 21. Pacto de no concurrencia y de permanencia en la empresa.
+63	¿Cuál es el régimen de la compensación económica por plena dedicación del trabajador?	Artículo 21. Pacto de no concurrencia y de permanencia en la empresa.
+64	¿Tendrá derecho el empresario a percibir una compensación económica por especialización profesional si se abandona el trabajo?	Artículo 21. Pacto de no concurrencia y de permanencia en la empresa.
+65	¿Cuáles son las reglas del sistema de clasificación profesional?	Artículo 22. Sistema de clasificación profesional.
+66	¿Qué derechos tiene el trabajador respecto a la promoción y formación profesional en el trabajo?	Artículo 23. Promoción y formación profesional en el trabajo.
+67	¿Cómo se regulan los ascensos?	Artículo 24. Ascensos.
+68	¿Cómo se regula la promoción económica?	Artículo 25. Promoción económica.
+69	¿Qué se considera salario?	Artículo 26. Del salario.
+70	¿Qué debe comprender el salario?	Artículo 26. Del salario.
+71	¿Quién satisface las cargas fiscales y de seguridad social a cargo del trabajador?	Artículo 26. Del salario.
+72	¿Cómo se fija el Salario Mínimo Interprofesional?	Artículo 27. Salario mínimo interprofesional.
+73	¿Cómo se liquida y se paga el salario?	Artículo 29. Liquidación y pago.
+74	¿Cómo se regulan las gratificaciones extraordinarias?	Artículo 31. Gratificaciones extraordinarias.
+75	¿Cuáles son las garantías de las que goza el salario?	Artículo 32. Garantías del salario
+76	¿Qué es el Fondo de Garantía Salarial?	Artículo 33. El Fondo de Garantía Salarial.
+77	¿Cuáles son las características de la jornada de trabajo?	Artículo 34. Jornada.
+78	¿El trabajador tiene derecho a adaptar la jornada de trabajo para conciliar su vida personal, familiar y laboral?	Artículo 34. Jornada.
+79	¿Cómo se regulan las horas extraordinarias?	Artículo 35. Horas extraordinarias.
+80	¿Qué se entiende como trabajo nocturno?	Artículo 36. Trabajo nocturno, trabajo a turnos y ritmo de trabajo.
+81	¿Cuáles son los requisitos en el caso de tener trabajadores nocturnos?	Artículo 36. Trabajo nocturno, trabajo a turnos y ritmo de trabajo.
+82	¿Qué se considera trabajo a turnos?	Artículo 36. Trabajo nocturno, trabajo a turnos y ritmo de trabajo.
+83	¿Cuál es el régimen del descanso semanal?	Artículo 37. Descanso semanal, fiestas y permisos.
+84	¿Cuál es el régimen de las fiestas laborales?	Artículo 37. Descanso semanal, fiestas y permisos.
+85	¿Puede el trabajador ausentarse del trabajo con derecho a remuneración?	Artículo 37. Descanso semanal, fiestas y permisos.
+86	¿Cuál es el régimen de las vacaciones anuales?	Artículo 38. Vacaciones anuales.
+87	¿Cuál es el régimen de la movilidad funcional?	Artículo 39. Movilidad funcional.
+88	¿Cuándo se puede trasladar a un trabajador que no haya sido contratado para prestar sus servicios con centros de trabajo móviles o itinerantes?	Artículo 40. Movilidad geográfica.
+89	¿Cuándo podrá acordar modificaciones sustanciales de las condiciones de trabajo la dirección de la empresa?	Artículo 41. Modificaciones sustanciales de condiciones de trabajo.
+90	¿Qué se entiende por modificación sustancial de las condiciones de trabajo?	Artículo 41. Modificaciones sustanciales de condiciones de trabajo.
+91	¿Es el empresario que contrata o subcontrata con otros la realización de obras o servicios responsable del pago de las cuotas de la Seguridad Social?	Artículo 42. Subcontratación de obras y servicios.
+92	¿Deben conocer los trabajadores del contratista o subcontratista la identidad de la empresa principal para la cual están prestando servicios?	Artículo 42. Subcontratación de obras y servicios.
+93	¿Cuál es la responsabilidad existente para el nuevo empresario en la sucesión de empresa?	Artículo 44. La sucesión de empresa.
+94	¿Qué se considera sucesión de empresa?	Artículo 44. La sucesión de empresa.
+95	¿Qué efectos tiene la sucesión de empresas?	Artículo 44. La sucesión de empresa.
+96	¿Cuáles son las causas por las que puede suspenderse un contrato de trabajo?	Artículo 45. Causas y efectos de la suspensión.
+97	¿Qué efectos tiene la suspensión de un contrato de trabajo?	Artículo 45. Causas y efectos de la suspensión.
+98	¿Cuál es el régimen de las excedencias?	Artículo 46. Excedencias.
+99	¿Cuándo se entiende que concurren causas económicas en una suspensión de un contrato de trabajo?	Artículo 47. Suspensión del contrato o reducción de jornada por causas económicas, técnicas, organizativas o de producción o derivadas de fuerza mayor.
+100	¿Cuándo se entiende que concurren causas técnicas en una suspensión de un contrato de trabajo?	Artículo 47. Suspensión del contrato o reducción de jornada por causas económicas, técnicas, organizativas o de producción o derivadas de fuerza mayor.
+101	¿Qué se entiende por reducción de jornada de trabajo?	Artículo 47. Suspensión del contrato o reducción de jornada por causas económicas, técnicas, organizativas o de producción o derivadas de fuerza mayor.
+102	¿Cuáles son las razones por las que se extingue el contrato de trabajo?	Artículo 49. Extinción del contrato.
+103	¿Qué trámites debe hacer el empresario a causa de la extinción del contrato de trabajo de un trabajador?	Artículo 49. Extinción del contrato.
+104	¿Cuándo será justa la extinción de contrato por voluntad del trabajador?	Artículo 50. Extinción por voluntad del trabajador.
+105	¿Cuándo se considera que existe un despido colectivo?	Artículo 51. Despido colectivo.
+106	¿Qué requiere la realización de un despido colectivo?	Artículo 51. Despido colectivo.
+107	¿Tiene algún privilegio laboral los representantes legales en un despido colectivo?	Artículo 51. Despido colectivo.
+108	¿Qué debe hacer una empresa cuando el despido colectivo afecte a más de 50 personas?	Artículo 51. Despido colectivo.
+109	¿Cuáles son las causas objetivas por las que podrá extinguirse un contrato laboral?	Artículo 52. Extinción del contrato por causas objetivas.
+110	¿Cuáles son los requisitos en el caso de extinción del contrato de trabajo por causas objetivas?	Artículo 53. Forma y efectos de la extinción por causas objetivas.
+111	¿En qué consiste un despido disciplinario?	Artículo 54. Despido disciplinario.
+112	¿Cuáles son los requisitos formales de un despido disciplinario?	Artículo 55. Forma y efectos del despido disciplinario.
+113	¿Qué efectos tiene un despido nulo?	Artículo 55. Forma y efectos del despido disciplinario.
+114	¿Qué efectos tiene el despido procedente?	Artículo 55. Forma y efectos del despido disciplinario.
+115	¿Qué efectos tiene el despido improcedente?	Artículo 56. Despido improcedente.
+116	¿Qué régimen tienen las faltas y sanciones de los trabajadores?	Artículo 58. Faltas y sanciones de los trabajadores.
+117	¿Cuál es el plazo de prescripción y caducidad de las acciones derivadas del contrato de trabajo?	Artículo 59. Prescripción y caducidad.
+118	¿Qué es un delegado de personal?	Artículo 62. Delegados de personal.
+119	¿Qué es un comité de empresa?	Artículo 63. Comités de empresa.
+120	¿Quién forma el comité de empresa?	Artículo 66. Composición.
+121	¿Qué garantías tienen el comité de empresa y los delegados de personal?	Artículo 68. Garantías.
+122	¿Cómo se elige a los delegados de personal y a los miembros del comité de empresa?	Artículo 69. Elección.
+123	¿Cómo se vota a los delegados de personal?	Artículo 70. Votación para delegados.
+124	¿Cómo se vota el comité de empresa?	Artículo 71. Elección para el comité de empresa.
+125	¿Cómo están representados los prestadores de servicios en trabajos fijos-discontinuos y los trabajadores no fijos?	Artículo 72. Representantes de quienes presten servicios en trabajos fijos discontinuos y de trabajadores no fijos.
+126	¿Cómo se forma la mesa electoral?	Artículo 73. Mesa electoral.
+127	¿Cuáles son las funciones de la mesa electoral?	Artículo 74. Funciones de la mesa.
+128	¿Cómo se efectúa el acto de la votación de los delegados y comités de empresa?	Artículo 75. Votación para delegados y comités de empresa.
+129	¿Cuál es el procedimiento de las impugnaciones en materia electoral?	Artículo 76. Reclamaciones en materia electoral.
+130	¿Cuál es el régimen de las asambleas de trabajadores?	Artículo 77. Las asambleas de trabajadores.
+131	¿Dónde podrán reunirse las asambleas de trabajadores?	Artículo 78. Lugar de reunión.
+132	¿Qué se debe realizar con la convocatoria de la reunión?	Artículo 79. Convocatoria.
+133	¿Cómo se regula el sistema de votación de una asamblea?	Artículo 80. Votaciones.
+134	¿Qué es un convenio colectivo?	Artículo 82. Concepto y eficacia.
+135	¿Cómo se negocian los convenios colectivos?	Artículo 83. Unidades de negociación.
+136	¿Qué sucede ante la concurrencia de varios convenios colectivos?	Artículo 84. Concurrencia.
+137	¿Cuál es la vigencia de un convenio colectivo?	Artículo 86. Vigencia.
+138	¿Quién está legitimado para negociar un convenio colectivo?	Artículo 87. Legitimación.
+139	¿Qué es la comisión negociadora respecto a los convenios colectivos?	Artículo 88. Comisión negociadora.
+140	¿Cómo se tramita el convenio colectivo?	Artículo 89. Tramitación.
+141	¿Qué requiere un convenio colectivo para que sea válido?	Artículo 90. Validez.
+142	¿Cómo se aplica e interpreta un convenio colectivo?	Artículo 91. Aplicación e interpretación del convenio colectivo.
+143	¿Cómo se produce la adhesión y extensión de un convenio colectivo?	Artículo 92. Adhesión y extensión.
+144	¿Cómo se regula el trabajo por cuenta propia?	Disposición adicional primera. Fomento de la contratación indefinida de los contratos en prácticas y de aprendizaje.
+145	¿En qué consiste la representación institucional de los empresarios?	Disposición adicional sexta. Representación institucional de los empresarios.
+146	¿Qué es la Comisión Consultiva Nacional de Convenios Colectivos?	Disposición adicional novena. Anticipos reintegrables.
+147	¿Pueden establecerse cláusulas en los convenios colectivos referidas al cumplimiento de la edad ordinaria de jubilación?	Disposición adicional décima. Cláusulas de los convenios colectivos referidas al cumplimiento de la edad ordinaria de jubilación.
+148	¿Cómo se regulan los contratos formativos celebrados con trabajadores con discapacidad?	Disposición adicional vigésima. Aplicación del despido por causas económicas, técnicas, organizativas o de producción en el Sector Público.
+149	¿En qué consiste la sustitución de trabajadores excedentes por cuidados familiares?	Disposición adicional vigesimoprimera.

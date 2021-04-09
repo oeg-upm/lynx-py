@@ -1,0 +1,58 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/44599b66-0d89-4ca3-83b9-003a2da31831",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Verordnung über die Durchführung des Praktikantenabkommens zwischen Österreich und der Tschechischen Republik"
+    },
+    "hasAuthority": "BGBl. III Nr. 31/2006",
+    "id_local": "20004612",
+    "first_date_entry_in_force": "2006-02-17",
+    "version_date": "2006-02-17",
+    "url_consolidated": "http://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d20004612\u0026FassungVom\u003d2006-02-17",
+    "classifications": [
+      "69/04 Ausländerbeschäftigung"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/44599b66-0d89-4ca3-83b9-003a2da31831/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/44599b66-0d89-4ca3-83b9-003a2da31831/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 843,
+  "text": "Präambel/Promulgationsklausel Gemäß Art. 1 Abs. 3 des Abkommens zwischen der Regierung der Republik Österreich und der Regierung der Tschechischen Republik über den Austausch von Arbeitnehmern zur Erweiterung der beruflichen und sprachlichen Kenntnisse (Praktikantenabkommen), BGBl. III Nr. 71/2005, wird verordnet:§ 1. Über Anträge und über den Widerruf von Bewilligungen nach dem Praktikantenabkommen entscheidet die nach dem beabsichtigten Wohnsitz des Praktikanten, in Ermangelung eines solchen die nach seinem gewöhnlichen Aufenthalt zuständige regionale Geschäftsstelle des Arbeitsmarktservice. In Wien entscheidet das Arbeitsmarktservice Hietzinger Kai.§ 2. Über Berufungen gegen Bescheide der regionalen Geschäftsstellen entscheidet die zuständige Landesgeschäftsstelle des Arbeitsmarktservice. Eine weitere Berufung ist nicht zulässig.",
+  "parts": [
+    {
+      "@id": "44599b66-0d89-4ca3-83b9-003a2da31831#offset_315_659",
+      "offset_ini": 315,
+      "offset_end": 659,
+      "title": ""
+    },
+    {
+      "@id": "44599b66-0d89-4ca3-83b9-003a2da31831#offset_660_843",
+      "offset_ini": 660,
+      "offset_end": 843,
+      "title": ""
+    },
+    {
+      "@id": "44599b66-0d89-4ca3-83b9-003a2da31831#offset_0_314",
+      "offset_ini": 0,
+      "offset_end": 314
+    }
+  ]
+}

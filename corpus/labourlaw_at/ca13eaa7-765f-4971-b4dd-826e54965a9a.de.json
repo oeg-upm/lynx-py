@@ -1,0 +1,76 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/ca13eaa7-765f-4971-b4dd-826e54965a9a",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Heimarbeitstarif für die Herstellung oder Bearbeitung von Waren aus Kunststoffen durch Heimarbeiterinnen und Heimarbeiter"
+    },
+    "hasAuthority": "BKA (Bundeskanzleramt)",
+    "id_local": "20011299",
+    "first_date_entry_in_force": "2020-06-30",
+    "version_date": "2020-06-30",
+    "url_consolidated": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d20011299\u0026FassungVom\u003d2020-07-01",
+    "classifications": [
+      "60/04 Arbeitsrecht allgemein"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/ca13eaa7-765f-4971-b4dd-826e54965a9a/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/ca13eaa7-765f-4971-b4dd-826e54965a9a/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 1677,
+  "text": "Präambel/Promulgationsklausel Das Bundeseinigungsamt beim Bundesministerium für Arbeit, Familie und Jugend ist gemäß § 34 Abs. 1 Heimarbeitsgesetz 1960, BGBl. Nr. 105/1961, in der Fassung des Bundesgesetzes BGBl. I Nr. 61/2018 ermächtigt, auf Antrag einer kollektivvertragsfähigen Körperschaft der Arbeitnehmerinnen und Arbeitnehmer Heimarbeitstarife zu erlassen. Das Bundeseinigungsamt beim Bundesministerium für Arbeit, Familie und Jugend hat mit Beschluss vom 13. Oktober 2020 nach Durchführung einer Senatsverhandlung nachstehenden Heimarbeitstarif erlassen:Heimarbeitstarif für die Herstellung oder Bearbeitung von Waren aus Kunststoffen durch Heimarbeiterinnen und Heimarbeiter H 7/2020/VIII/38/5 Geltungsbereich § 1. a) Räumlich: für das Bundesgebiet Österreich. b) Fachlich: für die Herstellung oder Bearbeitung von Waren aus Kunststoffen, soweit ihre Herstellung oder Bearbeitung nicht in einen anderen Erzeugungszweig fällt und nicht bereits in einem Heimarbeitsgesamtvertrag oder Heimarbeitstarif geregelt ist. c) Persönlich: für alle Auftraggeberinnen und Auftraggeber, die für die unter b) angeführten Arbeiten Heimarbeiterinnen und Heimarbeiter beschäftigen.Entgelte § 2. Die Stückentgelte der in Heimarbeit Beschäftigten sind mit einem Stundenlohn von 9,06 € zu berechnen.Heimarbeitszuschlag § 3. Auf die so errechneten Stückentgelte erhalten die in Heimarbeit Beschäftigten einen gesondert auszuweisenden Heimarbeitszuschlag von 10%.Sonstige Ansprüche § 4. Der Urlaubszuschuss und die Weihnachtsremuneration betragen jeweils vier Wochenlöhne, das sind 8%.Wirksamkeitsbeginn § 5. Der Wirksamkeitsbeginn dieses Heimarbeitstarifes wird mit 1. Juli 2020 festgesetzt.",
+  "parts": [
+    {
+      "@id": "ca13eaa7-765f-4971-b4dd-826e54965a9a#offset_562_1171",
+      "offset_ini": 562,
+      "offset_end": 1171,
+      "title": "Geltungsbereich"
+    },
+    {
+      "@id": "ca13eaa7-765f-4971-b4dd-826e54965a9a#offset_1172_1286",
+      "offset_ini": 1172,
+      "offset_end": 1286,
+      "title": "Entgelte"
+    },
+    {
+      "@id": "ca13eaa7-765f-4971-b4dd-826e54965a9a#offset_1287_1448",
+      "offset_ini": 1287,
+      "offset_end": 1448,
+      "title": "Heimarbeitszuschlag"
+    },
+    {
+      "@id": "ca13eaa7-765f-4971-b4dd-826e54965a9a#offset_1449_1570",
+      "offset_ini": 1449,
+      "offset_end": 1570,
+      "title": "Sonstige Ansprüche"
+    },
+    {
+      "@id": "ca13eaa7-765f-4971-b4dd-826e54965a9a#offset_1571_1677",
+      "offset_ini": 1571,
+      "offset_end": 1677,
+      "title": "Wirksamkeitsbeginn"
+    },
+    {
+      "@id": "ca13eaa7-765f-4971-b4dd-826e54965a9a#offset_0_561",
+      "offset_ini": 0,
+      "offset_end": 561
+    }
+  ]
+}

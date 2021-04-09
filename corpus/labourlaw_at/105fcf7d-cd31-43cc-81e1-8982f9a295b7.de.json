@@ -1,0 +1,391 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/105fcf7d-cd31-43cc-81e1-8982f9a295b7",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Schifffahrt-ArbeitnehmerInnenschutzverordnung"
+    },
+    "hasAuthority": "BGBl. II Nr. 260/2009 zuletzt geändert durch BGBl. II Nr. 215/2012 ",
+    "nick": [
+      "SchiffAV"
+    ],
+    "id_local": "20006418",
+    "first_date_entry_in_force": "2009-08-31",
+    "version_date": "2012-06-30",
+    "url_consolidated": "http://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d20006418\u0026FassungVom\u003d2012-07-01",
+    "classifications": [
+      "60/02 Arbeitnehmerschutz"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/105fcf7d-cd31-43cc-81e1-8982f9a295b7/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/105fcf7d-cd31-43cc-81e1-8982f9a295b7/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 27290,
+  "text": "Präambel/Promulgationsklausel Auf Grund der §§ 32 Abs. 2, 39 Abs. 3 und 72 Abs. 2 sowie §§ 3, 6, 7, 12, 14, 15, 17, 20 bis 24, 27, 28, 33 bis 39, 60, 61, 69 und 70 in Verbindung mit § 132 Abs. 1 des ArbeitnehmerInnenschutzgesetzes, BGBl. Nr. 450/1994, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 147/2006, wird verordnet: Inhaltsverzeichnis 1. Abschnitt: Allgemeine Bestimmungen § 1. Geltungsbereich 2. Abschnitt: Fahrzeuge auf Binnengewässern § 2. Geltungsbereich § 3. Angaben § 4. Kennzeichnung von Gefahrenstellen § 5. Sanitäre Vorkehrungen und Sozialeinrichtungen § 6. Heiz-, Koch- und Kühleinrichtungen § 7. Trinkwasser § 8. Verkehrswege § 9. Zu- und Abgänge § 10. Leitern § 11. Schwenkbäume § 12. Geländer § 13. Luken § 14. Außenbordarbeiten § 15. Brückendurchfahrten § 16. Aufenthalt im Bereich von Schlepp- oder Kupplungsseilen § 17. Rettungswesten § 18. Festmachen und Verholen § 19. Wiederkehrende Übungen § 20. Abnahmeprüfung § 21. Wiederkehrende Prüfung § 22. Prüfbefund 3. Abschnitt: Schwimmende Geräte auf Binnengewässern § 23. Geltungsbereich § 24. Angaben § 25. Kennzeichnung von Gefahrenstellen § 26. Geländer § 27. Fußleisten, Wasserabläufe § 28. Niedergänge und Einstiegluken § 29. Sicherheitsabstand § 30. Warneinrichtung § 31. Schüttklappen und Förderbänder § 32. Einsatz der Arbeitnehmer § 33. Sicherung gegen Verrutschen § 34. Belastung § 35. Arbeiten und Fahren bei Dunkelheit und schlechter Sicht § 36. Abstellen von Gegenständen § 37. Sicherung gegen unbeabsichtigtes Bewegen § 38. Verstellen von Schüttklappen (Rutschen) und Förderbändern § 39. Begehen von Einstiegluken und Eingängen § 40. Zusätzliche Bestimmungen für Eimerketten-Schwimmbagger, Saug- und Spülbagger § 41. Rettungswesten § 42. Wiederkehrende Übungen § 43. Abnahmeprüfung § 44. Wiederkehrende Prüfung § 45. Prüfbefund 4. Abschnitt: Schifffahrtsanlagen § 46. Geltungsbereich § 47. Sicherung der Arbeitsplätze und der Zugänge § 48. Zugänge zu Fahrzeugen § 49. Beförderung von Arbeitnehmern mit Fahrzeugen § 50. Sicherung der Ladeluken und sonstiger Öffnungen § 51. Beleuchtung der Arbeitsplätze an Bord § 52. Lukendeckel § 53. Hebe- und Fördereinrichtungen und Zubehör § 54. Bedienung von Hebe- und Fördereinrichtungen § 55. Sicherheitsmaßnahmen beim Umschlag 5. Abschnitt: Schlussbestimmungen § 56. Übergangsbestimmungen § 57. Inkrafttreten1. Abschnitt Allgemeine Bestimmungen Geltungsbereich § 1. (1) Diese Verordnung gilt für die Beschäftigung von Arbeitnehmern und Arbeitnehmerinnen im Bereich der Binnenschifffahrt. (2) Die Bestimmungen der Arbeitsstättenverordnung, BGBl. II Nr. 368/1998, gelten soweit diese Verordnung keine Abweichungen festlegt. (3) Die Bestimmungen der Arbeitsmittelverordnung, BGBl. II Nr. 164/2000, gelten soweit diese Verordnung keine Abweichungen festlegt. (4) Die Bestimmungen der Kennzeichnungsverordnung, BGBl. II Nr. 101/1997, gelten soweit diese Verordnung keine Abweichungen festlegt. (5) Bei den in dieser Verordnung verwendeten personenbezogenen Bezeichnungen (beispielsweise Arbeitgeber, Arbeitnehmer) gilt die gewählte Form für beide Geschlechter.2. Abschnitt Fahrzeuge auf Binnengewässern Geltungsbereich § 2. Dieser Abschnitt gilt für Fahrzeuge auf Binnengewässern gemäß § 2 Z 1 des Schifffahrtsgesetzes 1997, BGBl. I Nr. 62/1997, ausgenommen schwimmende Geräte und Seeschiffe (§ 2 Z 2 des Seeschiffahrtsgesetzes, BGBl. Nr. 174/1981).Angaben § 3. (1) Fahrzeuge müssen die für den Schutz der Arbeitnehmer erforderlichen Anschriften und Kennzeichnungen tragen. (2) Anschriften und Kennzeichnungen müssen eindeutig, gut sichtbar und deutlich lesbar sein.Kennzeichnung von Gefahrenstellen § 4. Gefahrenbereiche müssen gut sichtbar und dauerhaft gekennzeichnet sein.Sanitäre Vorkehrungen und Sozialeinrichtungen § 5. (1) Fahrzeuge müssen mindestens einen Aufenthaltsraum sowie ausreichende Umkleide-, Wasch- und Toiletteneinrichtungen haben. Dies gilt nicht, soweit sich diese Einrichtungen in der Nähe des Fahrzeuges befinden, gefahrlos und rasch erreichbar sowie von den ArbeitnehmerInnen kostenlos benutzbar sind. (2) Entnahmestellen von nicht zum Trinken geeignetem Wasser sind als solche zu kennzeichnen.Heiz-, Koch- und Kühleinrichtungen § 6. (1) Arbeitgeber haben dafür zu sorgen, dass Heiz-, Koch- und Kühleinrichtungen nur mit vom Hersteller angegebenen Brennstoffen betrieben und nicht überhitzt werden. (2) Übergelaufener Brennstoff ist sofort zu entfernen. Bindemittel sind in der erforderlichen Menge in der Nähe der Anlagen bereitzuhalten. (3) Feste Brennstoffe dürfen nicht mit Hilfe von brennbaren Flüssigkeiten entzündet werden.Trinkwasser § 7. (1) Auf Fahrzeugen ist den Arbeitnehmern Trinkwasser oder ein anderes gesundheitlich einwandfreies alkoholfreies Getränk zur Verfügung zu stellen. (2) Der einwandfreie hygienische Zustand des Trinkwassers ist regelmäßig zu überprüfen.Verkehrswege § 8. Arbeitgeber haben dafür zu sorgen, dass Verkehrswege, insbesondere Einstiegluken und Eingänge, die im Dreh-, Fahr- oder Absenkbereich von Einrichtungen liegen, nicht begangen werden, wenn sich diese in Bewegung befinden. Der Gefahrenbereich ist zu kennzeichnen und soweit wie möglich abzuschranken.Zu- und Abgänge § 9. (1) Arbeitgeber haben dafür zu sorgen, dass Wasserfahrzeuge nur über sichere Zugänge betreten und verlassen werden. (2) Ausgelegte Landstege müssen sicher befestigt sein. Dabei müssen Geländer gesetzt sein, die gegen unbeabsichtigtes Ausheben gesichert sind. (3) Liegt das Ende eines Landsteges auf einer Lukenabdeckung oder dem Lukensüll auf, so müssen sichere Stiegen auf den Gangbord vorhanden sein.Leitern § 10. Arbeitgeber haben dafür zu sorgen, dass Leitern nur benutzt werden, wenn sie sicher aufgestellt oder befestigt sind.Schwenkbäume § 11. (1) Arbeitgeber haben dafür zu sorgen, dass Schwenkbäume nur zum Übersetzen beim Festmachen und Lösen von Wasserfahrzeugen benutzt werden. Sie dürfen nicht über ihre zulässige Tragfähigkeit hinaus belastet und bei der Benutzung nicht in Schwingung versetzt werden. (2) Schwenkbäume müssen gegen unbeabsichtigtes Ausschwenken gesichert werden.Geländer § 12. (1) Arbeitgeber haben dafür zu sorgen, dass Geländer nur geöffnet oder teilweise entfernt werden: 1. zum An- und Vonbordgehen an den hierfür vorgesehenen Stellen, 2. beim Einsatz des Schwenkbaumes in seinem Schwenkbereich, 3. beim Festmachen und Lösen von Seilen im Pollerbereich, 4. bei Wasserfahrzeugen, die an senkrechten Ufern liegen oder gekoppelt sind oder die Bord an Bord liegen und keine Absturzgefahr besteht, 5. wenn Arbeiten unverhältnismäßig behindert werden. (2) Sobald die Voraussetzungen gemäß Abs. 1 nicht mehr vorliegen, sind Geländer sofort wieder zu schließen oder zu setzen. (3) Abnehmbare Geländer sind gegen unbeabsichtigtes Ausheben zu sichern.Luken § 13. (1) Arbeitgeber haben dafür zu sorgen, dass Gangborde als Verkehrsweg nur benutzt werden, wenn die Luken neben ihnen geschlossen oder mögliche Absturzstellen gesichert sind. (2) Lukenabdeckungen dürfen nur betreten werden, wenn sie die erforderliche Tragfähigkeit haben. (3) Luken müssen zwischen Sonnenuntergang und Sonnenaufgang geschlossen werden, wenn nicht durch geeignete Sicherungsmaßnahmen ein Absturz in den Laderaum verhindert ist oder wenn eine ausreichende Erkennung des geöffneten Lukenbereiches während der Dunkelheit nicht gewährleistet ist. (4) Aushebbare Teile von Lukenabdeckungen müssen mechanisch gehoben werden, wenn Arbeitnehmer durch die manuelle Handhabung gefährdet werden können.Außenbordarbeiten § 14. Arbeitgeber haben dafür zu sorgen, dass Außenbords Instandhaltungsarbeiten nur bei still liegenden Wasserfahrzeugen durchgeführt werden. Arbeitnehmer dürfen für diese Arbeiten nur eingesetzt werden, wenn sie dabei durch vorbeifahrende Fahrzeuge nicht gefährdet werden können.Brückendurchfahrten § 15. Arbeitgeber haben dafür zu sorgen, dass Arbeitnehmer, die während der Fahrt Deckarbeiten ausführen, vor Brückendurchfahrten rechtzeitig gewarnt werden, wenn eine Gefährdung von Arbeitnehmern möglich ist.Aufenthalt im Bereich von Schlepp- oder Kupplungsseilen § 16. Arbeitgeber haben dafür zu sorgen, dass Arbeitnehmer sich nur soweit erforderlich im Bereich von Schlepp- oder Kupplungsseilen oder ähnlichen Gefahrenstellen aufhalten.Rettungswesten § 17. (1) Arbeitgeber haben dafür zu sorgen, dass beim Aufenthalt und bei Arbeiten an Deck und am Gangbord, bei Arbeiten außenbords sowie bei Benutzen des Beibootes oder Schwenkbaumes Rettungswesten getragen werden. (2) Abweichend von Abs. 1 brauchen beim Aufenthalt und bei Arbeiten an Deck und am Gangbord Rettungswesten nicht getragen werden, wenn Schanzkleider von mindestens 0,9 m Höhe oder Geländer gemäß § 47 Abs. 1 der Arbeitsmittelverordnung, BGBl. II Nr. 164/2000, durchgehend gesetzt sind. (3) Arbeitgeber haben die Arbeitnehmer in der Handhabung der Rettungswesten vor Aufnahme der Tätigkeit sowie in regelmäßigen Abständen, jedoch mindestens einmal jährlich, zu unterweisen. (4) Arbeitnehmer haben sich vor dem Anlegen von Rettungswesten zu überzeugen, dass keine offenkundigen Mängel vorliegen. Die Bedienungsanleitungen der Rettungswesten sind vom Arbeitgeber zur Verfügung zu stellen.Festmachen und Verholen § 18. (1) Arbeitgeber haben dafür zu sorgen, dass Wasserfahrzeuge mit lehnigen (schmiegsamen) und verzinkten Drahtseilen oder geeigneten Seilen aus Natur- oder Chemiefasern verholt oder ausreichend festgemacht werden. (2) An Verhol- und Festmachseilen dürfen nur Haken verwendet werden, die nach Konstruktion, Werkstoff und Fertigung so beschaffen sind, dass Dauer- und Sprödbrüche nicht zu erwarten sind. (3) An Verhol- und Festmachseilen dürfen Drahtseilklammern nicht verwendet werden. (4) Es dürfen nur Drahtseile verwendet werden, deren Spleiß bekleidet und deren Enden besetzt sind.Wiederkehrende Übungen § 19. Mit den Schutz- und Rettungsausrüstungen, Bei- und Rettungsbooten sowie Rettungsringen sind in regelmäßigen Abständen, mindestens einmal jährlich Übungen durchzuführen. Über die Übungen sind Vermerke zu führen.Abnahmeprüfung § 20. (1) Folgende Arbeitsmittel auf Fahrzeugen sind vor der ersten Inbetriebnahme einer Abnahmeprüfung zu unterziehen: 1. Beiboote, 2. Schlepphaken. (2) Die Abnahmeprüfung nach Abs. 1 muss mindestens die Prüfinhalte des § 7 Abs. 2 der Arbeitsmittelverordnung, BGBl. II Nr. 164/2000, umfassen. (3) Für Abnahmeprüfungen nach Abs. 1 sind Personen gemäß § 7 Abs. 3 oder Abs. 4 der Arbeitsmittelverordnung, BGBl. II Nr. 164/2000, heranzuziehen.Wiederkehrende Prüfung § 21. (1) Folgende Arbeitsmittel auf Fahrzeugen sind mindestens einmal im Kalenderjahr, jedoch längstens im Abstand von 15 Monaten, einer wiederkehrenden Prüfung zu unterziehen: 1. Beiboote, 2. Schlepphaken. (2) Die wiederkehrende Prüfung gemäß Abs. 1 muss mindestens die Prüfinhalte des § 8 Abs. 2 der Arbeitsmittelverordnung, BGBl. II Nr. 164/2000, umfassen. (3) Für wiederkehrende Prüfungen nach Abs. 1 sind Personen gemäß § 7 Abs. 3 oder § 7 Abs. 4 der Arbeitsmittelverordnung, BGBl. II Nr. 164/2000, oder sonstige geeignete fachkundige Personen heranzuziehen.Prüfbefund § 22. Die Ergebnisse der Abnahmeprüfungen (§ 20) und der wiederkehrenden Prüfungen (§ 21) sind in einem Prüfbefund gemäß § 11 der Arbeitsmittelverordnung, BGBl. II Nr. 164/2000, festzuhalten.3. Abschnitt Schwimmende Geräte auf Binnengewässern Geltungsbereich § 23. Dieser Abschnitt gilt für Schwimmende Geräte auf Binnengewässern gemäß § 2 Z 6 des Schifffahrtsgesetzes 1997, BGBl. I Nr. 62/1997.Angaben § 24. (1) Schwimmende Geräte müssen die für den Schutz der Arbeitnehmer erforderlichen Anschriften und Kennzeichnungen tragen. (2) Anschriften und Kennzeichnungen müssen eindeutig, gut sichtbar und deutlich lesbar sein.Kennzeichnung von Gefahrenstellen § 25. Gefahrenbereiche müssen gut sichtbar und dauerhaft gekennzeichnet sein.Geländer § 26. (1) Die Kanten der Decks müssen, soweit es der Betrieb zulässt, so gesichert sein, dass Arbeitnehmer nicht über Bord fallen können. (2) Soweit es der Betrieb zulässt, müssen mehr als 1 m über Deck oder über dem Wasser liegende Arbeitsbühnen, Podeste oder Verkehrswege mit Geländern gemäß § 47 Abs. 1 Arbeitsmittelverordnung, BGBl. II Nr. 164/2000, gesichert sein.Fußleisten, Wasserabläufe § 27. Soweit nicht Schanzkleider vorhanden sind, müssen die Kanten der Decks Fußleisten haben. Wasserabläufe müssen in ausreichender Zahl vorhanden sein.Niedergänge und Einstiegluken § 28. (1) Niedergänge und Einstiegluken zu Unterkunfts- und Betriebsräumen dürfen nicht im Dreh- und Fahrbereich des Oberwagens von Hebezeugen, Fördergeräten und Arbeitsmaschinen liegen. (2) Niedergänge und Einstiegsluken sind abzusichern, wenn sie im Bereich von Winden oder Schleppseilen liegen.Sicherheitsabstand § 29. Zwischen den äußersten bewegten Teilen dreh- und fahrbarer Hebezeuge, Fördergeräte und Arbeitsmaschinen und den Kanten der Decks, den Aufbauten, Aufstiegen, Lukensüllen, Pollern, Geländern, Winden und ähnlichen Einrichtungen muss allseitig ein Sicherheitsabstand von mindestens 0,5 m vorhanden sein.Warneinrichtung § 30. Auslegerkrane auf schwimmenden Geräten müssen mit einer Warneinrichtung ausgestattet sein, die dem Kranführer (Bedienungspersonal) ein Überschreiten des zulässigen Neigungswinkels anzeigt.Schüttklappen und Förderbänder § 31. (1) Schüttklappen (Rutschen) und Förderbänder müssen so beschaffen oder geführt sein, dass Arbeitnehmer durch herab fallendes Fördergut nicht verletzt werden können. (2) Höhenverstellbare Schüttklappen (Rutschen) und Förderbänder müssen Einrichtungen zum Heben und Senken sowie Auffangvorrichtungen haben.Einsatz der Arbeitnehmer § 32. Arbeitgeber haben dafür zu sorgen, dass schwimmende Geräte nur von Arbeitnehmern bedient und gewartet werden, die fachkundig sind und von denen zu erwarten ist, dass sie ihre Aufgaben zuverlässig erfüllen. Mindestens ein Besatzungsmitglied muss mit dem Gewässer, auf dem das schwimmende Gerät eingesetzt ist, vertraut sein.Sicherung gegen Verrutschen § 33. Arbeitgeber haben dafür zu sorgen, dass Hebezeuge, Fördergeräte, Arbeitsmaschinen und Arbeitsbühnen, die nicht fest mit dem Schwimmkörper (Schiffskörper) verbunden sind, gegen Verrutschen, Kippen und Umfallen gesichert werden. Fahrbahnen müssen sicher begrenzt werden.Belastung § 34. (1) Arbeitgeber haben dafür zu sorgen, dass die zulässige Belastung nicht überschritten wird. Bei höherer Windstärke als der Stabilitätsrechnung zu Grunde gelegt ist, dürfen Hebezeuge, Fördergeräte, Arbeitsmaschinen und Arbeitsbühnen nicht belastet werden. (2) Bei Grundberührung des Schwimmkörpers (Schiffskörpers) dürfen Hebezeuge, Fördergeräte und Arbeitsmaschinen nicht belastet werden. Belastete Einrichtungen sind sofort zu entlasten. Dies gilt nicht für Eimerkettenbagger, für Saugbagger, für Rammen beim Ziehen von Spundbohlen oder Pfählen und für schwimmende Geräte, die zur Durchführung der Arbeiten auf Grund gesetzt werden müssen und die dafür entsprechend gebaut sind.Arbeiten und Fahren bei Dunkelheit und schlechter Sicht § 35. Arbeitgeber haben dafür zu sorgen, dass bei Dunkelheit und schlechter Sicht schwimmende Geräte nur betrieben oder verfahren werden, wenn der Arbeitsbereich oder das Fahrwasser ausreichend erkennbar sind.Abstellen von Gegenständen § 36. Arbeitgeber haben dafür zu sorgen, dass Gegenstände wie Greifer, Baggerlöffel oder Lasten nur so abgestellt werden, dass zwischen ihnen und den äußersten bewegten Teilen dreh- und fahrbarer Hebezeuge, Fördergeräten und Arbeitsmaschinen ein Sicherheitsabstand von mindestens 0,5 m vorhanden ist.Sicherung gegen unbeabsichtigtes Bewegen § 37. Arbeitgeber haben dafür zu sorgen, dass vor Überführungsfahrten schwimmender Geräte bewegliche Teile der Hebezeuge, Fördergeräte und Arbeitsmaschinen gegen Verrutschen, Verschieben und Losschlagen gesichert sind.Verstellen von Schüttklappen (Rutschen) und Förderbändern § 38. Arbeitgeber haben dafür zu sorgen, dass höhenverstellbare Schüttklappen (Rutschen) und Förderbänder nur durch mechanisch wirkende Einrichtungen angehoben und abgesenkt werden. Die Auffangvorrichtungen sind wirksam zu machen.Begehen von Einstiegsluken und Eingängen § 39. Arbeitgeber haben dafür zu sorgen, dass Einstiegsluken und Eingänge, die im Dreh- und Fahrbereich des Oberwagens der Hebezeuge, Fördergeräte und Arbeitsmaschinen liegen, während des Betriebes nicht begangen werden.Eimerketten-Schwimmbagger, Saug- und Spülbagger § 40. (1) Ist das Überschreiten des Eimerleiter- oder Saugrohrschlitzes erforderlich, muss ein Laufsteg von mindestens 0,5 m Breite mit Geländern gemäß § 47 Abs. 1 Arbeitsmittelverordnung, BGBl. II Nr. 164/2000, an beiden Seiten vorhanden sein. (2) Auf beiden Seiten der Eimerleiter sind Warnschilder mit folgender Aufschrift anzubringen: „Das Betreten und Überklettern der Eimerkette während des Betriebes ist verboten“. (3) Der Eimerleiter- oder Saugrohrschlitz darf während des Betriebes nur auf dem Laufsteg überschritten werden.Rettungswesten § 41. (1) Arbeitgeber haben dafür zu sorgen, dass beim Aufenthalt und bei Arbeiten an Deck und am Gangbord, bei Arbeiten außenbords sowie bei Benutzen des Beibootes Rettungswesten getragen werden. (2) Abweichend von Abs. 1 brauchen beim Aufenthalt und bei Arbeiten an Deck und am Gangbord Rettungswesten nicht getragen werden, wenn Schanzkleider von mindestens 0,9 m Höhe oder Geländer gemäß § 47 Abs. 1 der Arbeitsmittelverordnung, BGBl. II Nr. 164/2000, durchgehend gesetzt sind. (3) Arbeitgeber haben die Arbeitnehmer in der Handhabung der Rettungswesten vor Aufnahme der Tätigkeit sowie in regelmäßigen Abständen, jedoch mindestens einmal jährlich, zu unterweisen. (4) Arbeitnehmer haben sich vor dem Anlegen von Rettungswesten zu überzeugen, dass keine offenkundigen Mängel vorliegen. Die Bedienungsanleitungen der Rettungswesten sind vom Arbeitgeber zur Verfügung zu stellen.Wiederkehrende Übungen § 42. Mit den Schutz- und Rettungsausrüstungen, Bei- und Rettungsbooten sowie Rettungsringen sind in regelmäßigen Abständen, mindestens einmal jährlich Übungen durchzuführen. Über die Übungen sind Vermerke zu führen.Abnahmeprüfung § 43. (1) Kraftbetriebene Hebezeuge, Löffel- oder Greifbagger auf schwimmenden Geräten sind vor der ersten Inbetriebnahme einer Abnahmeprüfung zu unterziehen. (2) Die Abnahmeprüfung nach Abs. 1 muss mindestens die Prüfinhalte des § 7 Abs. 2 der Arbeitsmittelverordnung, BGBl. II Nr. 164/2000, umfassen. Für Abnahmeprüfungen nach Abs. 1 sind Personen gemäß § 7 Abs. 3 der Arbeitsmittelverordnung, BGBl. II Nr. 164/2000, heranzuziehen.Wiederkehrende Prüfung § 44. (1) Folgende Arbeitsmittel auf schwimmenden Geräten sind mindestens einmal im Kalenderjahr, jedoch längstens im Abstand von 15 Monaten, einer wiederkehrenden Prüfung zu unterziehen: 1. Hebezeuge, Löffel- oder Greifbagger, 2. höhenverstellbare Schüttklappen. (2) Die wiederkehrende Prüfung gemäß Abs. 1 muss mindestens die Prüfinhalte des § 8 Abs. 2 der Arbeitsmittelverordnung, BGBl. II Nr. 164/2000 umfassen. (3) Für wiederkehrende Prüfungen nach Abs. 1 sind Personen gemäß § 7 Abs. 3 oder § 7 Abs. 4 der Arbeitsmittelverordnung, BGBl. II Nr. 164/2000, oder sonstige geeignete fachkundige Personen heranzuziehen.Prüfbefund § 45. Die Ergebnisse der Abnahmeprüfungen (§ 43) und der wiederkehrenden Prüfungen (§ 44) sind in einem Prüfbefund gemäß § 11 der Arbeitsmittelverordnung, BGBl. II Nr. 164/2000, festzuhalten.4. Abschnitt Schifffahrtsanlagen Geltungsbereich § 46. (1) Dieser Abschnitt gilt für alle Tätigkeiten, die im Bereich von Schifffahrtsanlagen oder schwimmenden Anlagen im Zusammenhang mit dem Schiffumschlag oder dem Betrieb, der Instandhaltung oder der Reparatur von Fahrzeugen oder Schwimmkörpern durchgeführt werden. (2) Der Neubau von Fahrzeugen oder Schwimmkörpern im Betrieb einer Schiffswerft bleibt unberührt.Sicherung der Arbeitsplätze und der Zugänge § 47. (1) Arbeitsplätze an Land sowie Zugänge zu Arbeitsplätzen an Land oder an Bord, die von Arbeitnehmern regelmäßig benützt werden, müssen unter Bedachtnahme auf die zu verrichtenden Tätigkeiten und Arbeitsvorgänge gestaltet, eingerichtet und in Stand gehalten werden. (2) Arbeitsplätze an Land und auf schwimmenden Anlagen sowie Verkehrswege und Zugänge zu Arbeitsplätzen vom nächstgelegenen öffentlichen Weg her müssen ausreichend beleuchtet sein. (3) Verkehrswege und Zugänge zu Fahrzeugen müssen von allen Hindernissen freigehalten werden. (4) Verkehrswege am Ufer im Bereich von Länden oder Umschlagsplätzen müssen mindestens 1,20 m breit und entsprechend den durchzuführenden Tätigkeiten gestaltet sein. (5) Gefahrenstellen auf Schifffahrtsanlagen, Arbeitsplätzen oder Zugängen (zB Bodenöffnungen, zurückspringende Kaimauern) sind gemäß den Arbeitnehmerschutzvorschriften zu kennzeichnen, ausreichend zu beleuchten und, soweit möglich, durch Geländer, Fußleisten usw. gegen Absturz von Personen und Herabfallen von Gegenständen zu sichern.Zugänge zu Fahrzeugen § 48. (1) Liegt ein Fahrzeug zur Durchführung von Arbeiten am Ufer oder Bord an Bord an einem anderen Fahrzeug, so müssen erforderlichenfalls sichere Verbindungseinrichtungen zum Ufer und zwischen den Fahrzeugen (zB Stegladen, Leiter, Landsteg) vorhanden sein. (2) Verbindungseinrichtungen müssen fest, sicher begehbar und so gesichert sein, dass sie ihre Lage nicht verändern können. Stegladen müssen mindestens 0,40 m breit und erforderlichenfalls auf einer Seite über die ganze Länge mit einem Geländer ausgestattet sein, das den Arbeitnehmerschutzvorschriften entspricht. Die Neigung von Stegladen und Landstegen muss so gering sein, dass beim Begehen, auch bei Nässe oder schlechter Witterung, keine Gefahr des Ab- oder Ausrutschens besteht. Die Oberfläche muss rutschfest sein. (3) Leitern müssen genügend lang und gegen Wegrutschen gesichert aufgestellt sein.Beförderung von Arbeitnehmern mit Fahrzeugen § 49. Werden bei Arbeiten Arbeitnehmer mit Fahrzeugen befördert, so muss für jeden Arbeitnehmer ein Einzelrettungsmittel an Bord sein.Sicherung der Ladeluken und sonstiger Öffnungen § 50. (1) Solange Verladearbeiten an Bord von Fahrzeugen durchgeführt werden, müssen alle zugänglichen Ladeluken zuverlässig verschlossen oder durch ein standfestes Geländer von mindestens 1 m Höhe gesichert sein. Dies gilt nicht für Ladeluken mit einem Süll von mindestens 0,75 m Höhe, für Ladeluken, die unmittelbar für das Verladen benützt werden, und nicht für nur kurze Unterbrechungen der Verladearbeiten, wenn sichergestellt ist, dass Unbefugte nicht in den Gefahrenbereich gelangen können. (2) Sonstige für Arbeitnehmer gefährliche Öffnungen oder Vertiefungen sind soweit wie möglich zu verschließen oder mit einer ausreichend tragfähigen Abdeckung zu versehen.Beleuchtung der Arbeitsplätze an Bord § 51. Während der Vorbereitung und Durchführung von Arbeiten sind alle Zugänge, Arbeitsplätze, Verkehrswege oder sonstige Stellen oder Bereiche, die Arbeitnehmer während ihrer Tätigkeit betreten müssen, ausreichend sowie möglichst gleichmäßig und blendfrei zu beleuchten.Lukendeckel § 52. (1) Das Versetzen von Lukendeckeln hat so zu erfolgen, dass Gefahren für Arbeitnehmer vermieden und Beschädigungen der Lukendeckel verhindert werden. (2) Vor Aufnahme der Arbeit an einer Luke sind die Lukenabdeckungen zu entfernen oder gegen Lageveränderung zu sichern.Hebe- und Fördereinrichtungen und Zubehör § 53. (1) Trag- und Anschlagmittel und Zubehör von Hebe- und Fördereinrichtungen (zB Ketten, Seile, Ringe, Schäkel) sind in Abständen von höchstens 3 Monaten wiederkehrend zu überprüfen. Die Prüfung ist zu dokumentieren. (2) Ketten dürfen nicht durch Knoten verkürzt, nicht über scharfe Kanten gezogen und nicht durch Reiben an harten oder scharfkantigen Gegenständen beschädigt werden. (3) Bei Augspleißungen oder Kauschen von Drahtseilen müssen die ganzen Litzen mindestens dreimal und die auf die Hälfte verjüngten Litzen dann noch mindestens zweimal miteinander verspleißt werden; andere Spleißungen dürfen nur verwendet werden, wenn sie mindestens ebenso wirksam sind.Bedienung von Hebe- und Fördereinrichtungen § 54. Zur Führung von Hebe- und Fördereinrichtungen sowie zur Abgabe von Signalen und zur Erteilung von Weisungen an die mit der Führung solcher Einrichtungen oder Betriebsmittel oder mit der Überwachung von Hubseilen an Trommeln oder Winden Beschäftigten dürfen nur verlässliche, geeignete Personen herangezogen werden.Sicherheitsmaßnahmen beim Umschlag § 55. (1) An Hebezeugen dürfen Lasten nur dann und nur solange schwebend belassen werden, als der Gefahrenbereich von der mit der Führung des Hebezeuges beauftragten Person (§ 54) ständig überwacht wird und diese Person im Gefahrenfall unverzüglich Warnsignale oder notwendige Bewegungen der Last bewirken kann. (2) Soweit es die Sicherheit der Arbeitnehmer erfordert, ist bei den Arbeiten ein Signalposten einzusetzen. (3) Durch geeignete Maßnahmen muss sichergestellt werden, dass die Sicht an den Arbeitsstellen und -plätzen nicht durch Staub oder Dämpfe in einem für Arbeitnehmer gefährlichen Ausmaß beeinträchtigt wird. (4) Durch geeignete Maßnahmen ist dafür zu sorgen, dass gefährliche Vorgangsweisen oder Verfahren beim Stapeln oder Stauen von Ladegut vermieden werden. (5) Bei Arbeiten mit Schüttgütern oder mit gefährlichen Gütern ist durch geeignete Maßnahmen dafür zu sorgen, dass die Arbeitnehmer im Gefahrenfall Schiffsräume und Decks sicher und rasch verlassen können. (6) Ladebühnen dürfen nur verwendet werden, wenn sie ausreichend tragfähig und fest sowie gut und sicher befestigt sind. (7) Für die Güterbeförderung zwischen Fahrzeugen und dem Land dürfen Handkarren nur verwendet werden, wenn für die Arbeitnehmer die Gefahr des Ab- oder Ausgleitens nicht besteht und durch Art, Neigung, Abmessungen oder Zustand der Verbindungseinrichtungen keine anderen Gefahren für die Arbeitnehmer hervorgerufen werden können. (8) Stegladen und Landebrücken, die zum Be- oder Entladen dienen, müssen ausreichend breit und so fest oder so unterstützt sein, dass bei ihrer Benützung ein Brechen, Kippen, Abgleiten oder stärkeres Schwanken ausgeschlossen ist; sind sie weniger als 1,20 m breit, müssen sie an beiden Seiten mit Geländern ausgestattet sein, die den Arbeitnehmerschutzvorschriften entsprechen. (9) Haken dürfen, außer zum Aufbrechen der Ladung, nicht an Bändern oder Verschnürungen von Stückgütern oder Verpackungen befestigt werden. (10) Fasshaken dürfen nur verwendet werden, wenn durch die besondere Bauart oder Beschaffenheit der Fässer oder der Haken Gefahren vermieden werden.5. Abschnitt Schlussbestimmungen Übergangsbestimmungen § 56. (1) Fahrzeuge auf Binnengewässern, für die vor dem 1. Jänner 2009 die Zulassung gemäß § 102 des Schifffahrtsgesetzes, BGBl. I Nr. 62/1997, erteilt wurde, müssen § 5 ab 1. Jänner 2012 entsprechen. (2) §§ 28 Abs. 1 und 29 dieser Verordnung gelten nicht für schwimmende Geräte auf Binnengewässern, für die vor dem 1. Jänner 2009 die Zulassung gemäß § 102 des Schifffahrtsgesetzes, BGBl. I Nr. 62/1997, erteilt wurde. (3) Abs. 1 und 2 gelten nicht für Fahrzeuge und schwimmende Geräte, die den Bestimmungen dieser Verordnung bereits entsprechen.Inkrafttreten § 57. (1) Diese Verordnung tritt am 1. September 2009 in Kraft. (2) Das Inhaltsverzeichnis zum 4. und 5. Abschnitt, § 1 Abs. 1 bis 4, der 4. Abschnitt samt Überschrift sowie der 5. Abschnitt samt Überschrift in der Fassung BGBl. II Nr. 215/2012 treten mit 1. Juli 2012 in Kraft.",
+  "parts": [
+    {
+      "@id": "105fcf7d-cd31-43cc-81e1-8982f9a295b7#offset_2341_3087",
+      "offset_ini": 2341,
+      "offset_end": 3087,
+      "title": "Geltungsbereich"
+    },
+    {
+      "@id": "105fcf7d-cd31-43cc-81e1-8982f9a295b7#offset_3088_3376",
+      "offset_ini": 3088,
+      "offset_end": 3376,
+      "title": "Geltungsbereich"
+    },
+    {
+      "@id": "105fcf7d-cd31-43cc-81e1-8982f9a295b7#offset_3377_3593",
+      "offset_ini": 3377,
+      "offset_end": 3593,
+      "title": "Angaben"
+    },
+    {
+      "@id": "105fcf7d-cd31-43cc-81e1-8982f9a295b7#offset_3594_3703",
+      "offset_ini": 3594,
+      "offset_end": 3703,
+      "title": "Kennzeichnung von Gefahrenstellen"
+    },
+    {
+      "@id": "105fcf7d-cd31-43cc-81e1-8982f9a295b7#offset_3704_4146",
+      "offset_ini": 3704,
+      "offset_end": 4146,
+      "title": "Sanitäre Vorkehrungen und Sozialeinrichtungen"
+    },
+    {
+      "@id": "105fcf7d-cd31-43cc-81e1-8982f9a295b7#offset_4147_4582",
+      "offset_ini": 4147,
+      "offset_end": 4582,
+      "title": "Heiz-, Koch- und Kühleinrichtungen"
+    },
+    {
+      "@id": "105fcf7d-cd31-43cc-81e1-8982f9a295b7#offset_4583_4833",
+      "offset_ini": 4583,
+      "offset_end": 4833,
+      "title": "Trinkwasser"
+    },
+    {
+      "@id": "105fcf7d-cd31-43cc-81e1-8982f9a295b7#offset_4834_5149",
+      "offset_ini": 4834,
+      "offset_end": 5149,
+      "title": "Verkehrswege"
+    },
+    {
+      "@id": "105fcf7d-cd31-43cc-81e1-8982f9a295b7#offset_5150_5572",
+      "offset_ini": 5150,
+      "offset_end": 5572,
+      "title": "Zu- und Abgänge"
+    },
+    {
+      "@id": "105fcf7d-cd31-43cc-81e1-8982f9a295b7#offset_5573_5702",
+      "offset_ini": 5573,
+      "offset_end": 5702,
+      "title": "Leitern"
+    },
+    {
+      "@id": "105fcf7d-cd31-43cc-81e1-8982f9a295b7#offset_5703_6063",
+      "offset_ini": 5703,
+      "offset_end": 6063,
+      "title": "Schwenkbäume"
+    },
+    {
+      "@id": "105fcf7d-cd31-43cc-81e1-8982f9a295b7#offset_6064_6746",
+      "offset_ini": 6064,
+      "offset_end": 6746,
+      "title": "Geländer"
+    },
+    {
+      "@id": "105fcf7d-cd31-43cc-81e1-8982f9a295b7#offset_6747_7463",
+      "offset_ini": 6747,
+      "offset_end": 7463,
+      "title": "Luken"
+    },
+    {
+      "@id": "105fcf7d-cd31-43cc-81e1-8982f9a295b7#offset_7464_7762",
+      "offset_ini": 7464,
+      "offset_end": 7762,
+      "title": "Außenbordarbeiten"
+    },
+    {
+      "@id": "105fcf7d-cd31-43cc-81e1-8982f9a295b7#offset_7763_7991",
+      "offset_ini": 7763,
+      "offset_end": 7991,
+      "title": "Brückendurchfahrten"
+    },
+    {
+      "@id": "105fcf7d-cd31-43cc-81e1-8982f9a295b7#offset_7992_8221",
+      "offset_ini": 7992,
+      "offset_end": 8221,
+      "title": "Aufenthalt im Bereich von Schlepp- oder Kupplungsseilen"
+    },
+    {
+      "@id": "105fcf7d-cd31-43cc-81e1-8982f9a295b7#offset_8222_9136",
+      "offset_ini": 8222,
+      "offset_end": 9136,
+      "title": "Rettungswesten"
+    },
+    {
+      "@id": "105fcf7d-cd31-43cc-81e1-8982f9a295b7#offset_9137_9748",
+      "offset_ini": 9137,
+      "offset_end": 9748,
+      "title": "Festmachen und Verholen"
+    },
+    {
+      "@id": "105fcf7d-cd31-43cc-81e1-8982f9a295b7#offset_9749_9987",
+      "offset_ini": 9749,
+      "offset_end": 9987,
+      "title": "Wiederkehrende Übungen"
+    },
+    {
+      "@id": "105fcf7d-cd31-43cc-81e1-8982f9a295b7#offset_9988_10442",
+      "offset_ini": 9988,
+      "offset_end": 10442,
+      "title": "Abnahmeprüfung"
+    },
+    {
+      "@id": "105fcf7d-cd31-43cc-81e1-8982f9a295b7#offset_10443_11029",
+      "offset_ini": 10443,
+      "offset_end": 11029,
+      "title": "Wiederkehrende Prüfung"
+    },
+    {
+      "@id": "105fcf7d-cd31-43cc-81e1-8982f9a295b7#offset_11030_11231",
+      "offset_ini": 11030,
+      "offset_end": 11231,
+      "title": "Prüfbefund"
+    },
+    {
+      "@id": "105fcf7d-cd31-43cc-81e1-8982f9a295b7#offset_11232_11435",
+      "offset_ini": 11232,
+      "offset_end": 11435,
+      "title": "Geltungsbereich"
+    },
+    {
+      "@id": "105fcf7d-cd31-43cc-81e1-8982f9a295b7#offset_11436_11662",
+      "offset_ini": 11436,
+      "offset_end": 11662,
+      "title": "Angaben"
+    },
+    {
+      "@id": "105fcf7d-cd31-43cc-81e1-8982f9a295b7#offset_11663_11773",
+      "offset_ini": 11663,
+      "offset_end": 11773,
+      "title": "Kennzeichnung von Gefahrenstellen"
+    },
+    {
+      "@id": "105fcf7d-cd31-43cc-81e1-8982f9a295b7#offset_11774_12151",
+      "offset_ini": 11774,
+      "offset_end": 12151,
+      "title": "Geländer"
+    },
+    {
+      "@id": "105fcf7d-cd31-43cc-81e1-8982f9a295b7#offset_12152_12330",
+      "offset_ini": 12152,
+      "offset_end": 12330,
+      "title": "Fußleisten, Wasserabläufe"
+    },
+    {
+      "@id": "105fcf7d-cd31-43cc-81e1-8982f9a295b7#offset_12331_12657",
+      "offset_ini": 12331,
+      "offset_end": 12657,
+      "title": "Niedergänge und Einstiegluken"
+    },
+    {
+      "@id": "105fcf7d-cd31-43cc-81e1-8982f9a295b7#offset_12658_12981",
+      "offset_ini": 12658,
+      "offset_end": 12981,
+      "title": "Sicherheitsabstand"
+    },
+    {
+      "@id": "105fcf7d-cd31-43cc-81e1-8982f9a295b7#offset_12982_13191",
+      "offset_ini": 12982,
+      "offset_end": 13191,
+      "title": "Warneinrichtung"
+    },
+    {
+      "@id": "105fcf7d-cd31-43cc-81e1-8982f9a295b7#offset_13192_13533",
+      "offset_ini": 13192,
+      "offset_end": 13533,
+      "title": "Schüttklappen und Förderbänder"
+    },
+    {
+      "@id": "105fcf7d-cd31-43cc-81e1-8982f9a295b7#offset_13534_13887",
+      "offset_ini": 13534,
+      "offset_end": 13887,
+      "title": "Einsatz der Arbeitnehmer"
+    },
+    {
+      "@id": "105fcf7d-cd31-43cc-81e1-8982f9a295b7#offset_13888_14189",
+      "offset_ini": 13888,
+      "offset_end": 14189,
+      "title": "Sicherung gegen Verrutschen"
+    },
+    {
+      "@id": "105fcf7d-cd31-43cc-81e1-8982f9a295b7#offset_14190_14886",
+      "offset_ini": 14190,
+      "offset_end": 14886,
+      "title": "Belastung"
+    },
+    {
+      "@id": "105fcf7d-cd31-43cc-81e1-8982f9a295b7#offset_14887_15151",
+      "offset_ini": 14887,
+      "offset_end": 15151,
+      "title": "Arbeiten und Fahren bei Dunkelheit und schlechter Sicht"
+    },
+    {
+      "@id": "105fcf7d-cd31-43cc-81e1-8982f9a295b7#offset_15152_15478",
+      "offset_ini": 15152,
+      "offset_end": 15478,
+      "title": "Abstellen von Gegenständen"
+    },
+    {
+      "@id": "105fcf7d-cd31-43cc-81e1-8982f9a295b7#offset_15479_15737",
+      "offset_ini": 15479,
+      "offset_end": 15737,
+      "title": "Sicherung gegen unbeabsichtigtes Bewegen"
+    },
+    {
+      "@id": "105fcf7d-cd31-43cc-81e1-8982f9a295b7#offset_15738_16025",
+      "offset_ini": 15738,
+      "offset_end": 16025,
+      "title": "Verstellen von Schüttklappen (Rutschen) und Förderbändern"
+    },
+    {
+      "@id": "105fcf7d-cd31-43cc-81e1-8982f9a295b7#offset_16026_16286",
+      "offset_ini": 16026,
+      "offset_end": 16286,
+      "title": "Begehen von Einstiegsluken und Eingängen"
+    },
+    {
+      "@id": "105fcf7d-cd31-43cc-81e1-8982f9a295b7#offset_16287_16867",
+      "offset_ini": 16287,
+      "offset_end": 16867,
+      "title": "Eimerketten-Schwimmbagger, Saug- und Spülbagger"
+    },
+    {
+      "@id": "105fcf7d-cd31-43cc-81e1-8982f9a295b7#offset_16868_17763",
+      "offset_ini": 16868,
+      "offset_end": 17763,
+      "title": "Rettungswesten"
+    },
+    {
+      "@id": "105fcf7d-cd31-43cc-81e1-8982f9a295b7#offset_17764_18002",
+      "offset_ini": 17764,
+      "offset_end": 18002,
+      "title": "Wiederkehrende Übungen"
+    },
+    {
+      "@id": "105fcf7d-cd31-43cc-81e1-8982f9a295b7#offset_18003_18450",
+      "offset_ini": 18003,
+      "offset_end": 18450,
+      "title": "Abnahmeprüfung"
+    },
+    {
+      "@id": "105fcf7d-cd31-43cc-81e1-8982f9a295b7#offset_18451_19092",
+      "offset_ini": 18451,
+      "offset_end": 19092,
+      "title": "Wiederkehrende Prüfung"
+    },
+    {
+      "@id": "105fcf7d-cd31-43cc-81e1-8982f9a295b7#offset_19093_19294",
+      "offset_ini": 19093,
+      "offset_end": 19294,
+      "title": "Prüfbefund"
+    },
+    {
+      "@id": "105fcf7d-cd31-43cc-81e1-8982f9a295b7#offset_19295_19710",
+      "offset_ini": 19295,
+      "offset_end": 19710,
+      "title": "Geltungsbereich"
+    },
+    {
+      "@id": "105fcf7d-cd31-43cc-81e1-8982f9a295b7#offset_19711_20802",
+      "offset_ini": 19711,
+      "offset_end": 20802,
+      "title": "Sicherung der Arbeitsplätze und der Zugänge"
+    },
+    {
+      "@id": "105fcf7d-cd31-43cc-81e1-8982f9a295b7#offset_20803_21690",
+      "offset_ini": 20803,
+      "offset_end": 21690,
+      "title": "Zugänge zu Fahrzeugen"
+    },
+    {
+      "@id": "105fcf7d-cd31-43cc-81e1-8982f9a295b7#offset_21691_21869",
+      "offset_ini": 21691,
+      "offset_end": 21869,
+      "title": "Beförderung von Arbeitnehmern mit Fahrzeugen"
+    },
+    {
+      "@id": "105fcf7d-cd31-43cc-81e1-8982f9a295b7#offset_21870_22586",
+      "offset_ini": 21870,
+      "offset_end": 22586,
+      "title": "Sicherung der Ladeluken und sonstiger Öffnungen"
+    },
+    {
+      "@id": "105fcf7d-cd31-43cc-81e1-8982f9a295b7#offset_22587_22895",
+      "offset_ini": 22587,
+      "offset_end": 22895,
+      "title": "Beleuchtung der Arbeitsplätze an Bord"
+    },
+    {
+      "@id": "105fcf7d-cd31-43cc-81e1-8982f9a295b7#offset_22896_23182",
+      "offset_ini": 22896,
+      "offset_end": 23182,
+      "title": "Lukendeckel"
+    },
+    {
+      "@id": "105fcf7d-cd31-43cc-81e1-8982f9a295b7#offset_23183_23897",
+      "offset_ini": 23183,
+      "offset_end": 23897,
+      "title": "Hebe- und Fördereinrichtungen und Zubehör"
+    },
+    {
+      "@id": "105fcf7d-cd31-43cc-81e1-8982f9a295b7#offset_23898_24261",
+      "offset_ini": 23898,
+      "offset_end": 24261,
+      "title": "Bedienung von Hebe- und Fördereinrichtungen"
+    },
+    {
+      "@id": "105fcf7d-cd31-43cc-81e1-8982f9a295b7#offset_24262_26396",
+      "offset_ini": 24262,
+      "offset_end": 26396,
+      "title": "Sicherheitsmaßnahmen beim Umschlag"
+    },
+    {
+      "@id": "105fcf7d-cd31-43cc-81e1-8982f9a295b7#offset_26397_26998",
+      "offset_ini": 26397,
+      "offset_end": 26998,
+      "title": "Übergangsbestimmungen"
+    },
+    {
+      "@id": "105fcf7d-cd31-43cc-81e1-8982f9a295b7#offset_26999_27290",
+      "offset_ini": 26999,
+      "offset_end": 27290,
+      "title": "Inkrafttreten"
+    },
+    {
+      "@id": "105fcf7d-cd31-43cc-81e1-8982f9a295b7#offset_0_2340",
+      "offset_ini": 0,
+      "offset_end": 2340
+    }
+  ]
+}

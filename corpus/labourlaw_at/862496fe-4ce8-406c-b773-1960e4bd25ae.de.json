@@ -1,0 +1,47 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/862496fe-4ce8-406c-b773-1960e4bd25ae",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Arbeitskräfte (spanische) – Anwerbung Beschäftigung in Österreich (Spanien)"
+    },
+    "hasAuthority": "BGBl. III Nr. 165/1998",
+    "id_local": "10009094",
+    "first_date_entry_in_force": "1998-10-15",
+    "version_date": "1998-10-15",
+    "url_consolidated": "http://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d10009094\u0026FassungVom\u003d1998-10-16",
+    "classifications": [
+      "69/04 Ausländerbeschäftigung"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/862496fe-4ce8-406c-b773-1960e4bd25ae/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/862496fe-4ce8-406c-b773-1960e4bd25ae/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 2856,
+  "text": "(Übersetzung) ÖSTERREICHISCHE BOTSCHAFT MADRID VERBALNOTE Die österreichische Botschaft begrüßt das spanische Ministerium für auswärtige Angelegenheiten und beehrt sich, den Austausch von Verbalnoten zwischen der Österreichischen Bundesregierung und der Spanischen Regierung über die Feststellung des Erlöschens des Abkommens zwischen Österreich und Spanien über die Anwerbung spanischer Arbeitskräfte und deren Beschäftigung in Österreich *) vom 15. Juli 1964 vorzuschlagen:Das Abkommen zwischen Österreich und Spanien über die Anwerbung spanischer Arbeitskräfte und deren Beschäftigung in Österreich vom 15. Juli 1964 ist mit dem Zeitpunkt des Inkrafttretens des Beitritts der Republik Österreich zur Europäischen Union am 1. Jänner 1995 erloschen. Falls sich die Spanische Regierung mit dem Vorschlag der Österreichischen Bundesregierung einverstanden erklärt, werden diese Verbalnote und die das Einverständnis der Spanischen Regierung zum Ausdruck bringende Antwortnote des spanischen Außenministeriums eine einvernehmliche Feststellung über das Erlöschen des eingangs erwähnten Abkommens vom 15. Juli 1964 darstellen. Die österreichische Botschaft benützt diese Gelegenheit, dem Ministerium für auswärtige Angelegenheiten den Ausdruck ihrer vorzüglichen Hochachtung zu erneuern. Madrid, am 29. Juli 1997 L. S. Ministerium für auswärtige Angelegenheiten Generaldirektion für Rechts- und Konsularangelegenheiten Direktion für Rechtsangelegenheiten Goya, 6 28001 Madrid (Übersetzung) MINISTERIUM FÜR AUSWÄRTIGE ANGELEGENHEITEN Generaldirektion für Rechts- und Konsularangelegenheiten Zl. 96/15 Ref. 15 IS/Tg VERBALNOTE Das Ministerium für auswärtige Angelegenheiten entbietet der Botschaft der Republik Österreich seine besten Empfehlungen und beehrt sich, mit Bezug auf die Verbalnote Zl. 187.431/1-97 vom 29. Juli 1997 bezüglich die Feststellung des Erlöschens des Abkommens zwischen Österreich und Spanien über die Anwerbung spanischer Arbeitskräfte und deren Beschäftigung in Österreich vom 15. Juli 1964 mitzuteilen, daß in Übereinstimmung mit dem Gemeinschaftsrecht ab dem Zeitpunkt des Inkrafttretens des Beitritts der Republik Österreich zur Europäischen Union am 1. Jänner 1995 und im Sinne des freien Arbeitsmarkts auf europäischer Ebene das gegenständliche Abkommen automatisch außer Kraft getreten ist, aus welchem Grund ein Notenwechsel für das Erlöschen des Abkommens nicht notwendig ist. Diese Note dient daher zur Anerkennung der Tatsache, daß das gegenständliche Abkommen für beide Länder ab 1. Jänner 1995 keine Gültigkeit mehr hat. Das Ministerium für auswärtige Angelegenheiten benützt diese Gelegenheit, der Botschaft der Republik Österreich den Ausdruck seiner vorzüglichen Hochachtung zu erneuern. Madrid, 18. September 1997 L. S. An die Botschaft der Republik Österreich Madrid ________________ *) Kundgemacht in BGBl. Nr. 26/1969",
+  "parts": [
+    {
+      "@id": "862496fe-4ce8-406c-b773-1960e4bd25ae#offset_0_2856",
+      "offset_ini": 0,
+      "offset_end": 2856,
+      "title": "L. S."
+    }
+  ]
+}

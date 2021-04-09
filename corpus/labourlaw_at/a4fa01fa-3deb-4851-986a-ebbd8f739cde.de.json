@@ -1,0 +1,65 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/a4fa01fa-3deb-4851-986a-ebbd8f739cde",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Badegewässer und Badestellen in Wien"
+    },
+    "hasAuthority": "LGBl. Nr. 28/1997",
+    "id_local": "20000275",
+    "first_date_entry_in_force": "2006-06-14",
+    "version_date": "2006-06-14",
+    "url_consolidated": "http://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dLrW\u0026Gesetzesnummer\u003d20000275\u0026FassungVom\u003d2006-06-15",
+    "classifications": [
+      "60 Gesundheits- und Sozialrecht (S)",
+      "60/30 Gesundheitsvorsorge"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/a4fa01fa-3deb-4851-986a-ebbd8f739cde/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/a4fa01fa-3deb-4851-986a-ebbd8f739cde/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 1372,
+  "text": "Präambel/Promulgationsklausel Auf Grund des § 2 Abs. 7 des Bundesgesetzes über Hygiene in Bädern, Sauna-Anlagen, Warmluft- und Dampfbädern, Kleinbadeteichen und über die Wasserqualität von Badestellen (Bäderhygienegesetz - BHygG), BGBl. Nr. 254/1976 in der Fassung BGBl. Nr. 658/1996 und BGBl. I Nr. 21/1997, wird verordnet:§ 1. Badegewässer gemäß § 2 Abs. 5 Bäderhygienegesetz sind die Alte Donau, die Neue Donau und das Mühlwasser.§ 2. (1) An der Alten Donau werden folgende Badestellen festgelegt: 1. Angelibad 2. Städtisches Strandbad Alte Donau 3. Gänsehäufel - Weststrand 4. Gänsehäufel - Oststrand 5. Gänsehäufel - Südstrand 6. Kaiserwasser 7. An der Unteren Alten Donau der Bereich zwischen Großer Buchtstraße und Südende (Badestege) (2) An der Neuen Donau werden folgende Badestellen festgelegt: 1. Höhe des Segelhafens, rechtes Ufer 2. Höhe des Grundwasserwerkes Donauinsel Nord, Rechtes Ufer 3. oberhalb der Nordbahnbrücke, linkes Ufer 4. Reichsbrücke, stromabwärts, linkes Ufer 5. 100 m stromaufwärts der Wasserskiliftanlage, linkes Ufer 6. Ostbahnbrücke, stromabwärts, linkes Ufer 7. Steinspornbrücke, stromabwärts, linkes Ufer 8. Höhe Lobgrundstraße, linkes Ufer 9. 600 m stromaufwärts des Wehres 2, linkes Ufer (3) Am Mühlwasser wird folgende Badestelle festgelegt: Strandbad Stadlau§ 3. Diese Verordnung tritt mit dem der Kundmachung folgenden Tag in Kraft.",
+  "parts": [
+    {
+      "@id": "a4fa01fa-3deb-4851-986a-ebbd8f739cde#offset_324_432",
+      "offset_ini": 324,
+      "offset_end": 432,
+      "title": ""
+    },
+    {
+      "@id": "a4fa01fa-3deb-4851-986a-ebbd8f739cde#offset_433_1297",
+      "offset_ini": 433,
+      "offset_end": 1297,
+      "title": ""
+    },
+    {
+      "@id": "a4fa01fa-3deb-4851-986a-ebbd8f739cde#offset_1298_1372",
+      "offset_ini": 1298,
+      "offset_end": 1372,
+      "title": ""
+    },
+    {
+      "@id": "a4fa01fa-3deb-4851-986a-ebbd8f739cde#offset_0_323",
+      "offset_ini": 0,
+      "offset_end": 323
+    }
+  ]
+}

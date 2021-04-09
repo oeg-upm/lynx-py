@@ -1,0 +1,88 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/3c00c5c3-2cd9-41b1-aa52-8d7493b06e1e",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "BSchEG-Einhebungsverordnung"
+    },
+    "hasAuthority": "BGBl. II Nr. 264/1998 zuletzt geändert durch BGBl. II Nr. 345/1998 ",
+    "id_local": "10009092",
+    "first_date_entry_in_force": "1998-08-18",
+    "version_date": "1998-09-29",
+    "url_consolidated": "http://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d10009092\u0026FassungVom\u003d1998-09-30",
+    "classifications": [
+      "60/01 Arbeitsvertragsrecht"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/3c00c5c3-2cd9-41b1-aa52-8d7493b06e1e/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/3c00c5c3-2cd9-41b1-aa52-8d7493b06e1e/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 3288,
+  "text": "Präambel/Promulgationsklausel Auf Grund des § 12 Abs. 5 des Bauarbeiter-Schlechtwetterentschädigungsgesetzes 1957, BGBl. Nr. 129, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 113/1998, wird verordnet:§ 1. Die von den Trägern der gesetzlichen Krankenversicherung im Kalendermonat eingehobenen Schlechtwetterentschädigungsbeiträge sind an die Bauarbeiter-Urlaubs- und Abfertigungskasse (BUAK) bis zum 20. des Folgemonats durch Überweisung auf das Postscheckkonto Nr. 90.010.842, „Bauarbeiter-Urlaubs- und Abfertigungskasse, Wien“ abzuführen.§ 2. Auf die Abfuhr gemäß § 1 haben die Träger der Krankenversicherung jeweils bis zum 10., 20. und Letzten des jeweiligen Kalendermonats Anzahlungen in dem Ausmaß zu leisten, das dem Eingang an Schlechtwetterentschädigungsbeiträgen annähernd entspricht. Im Dezember ist die Akontierung zum Letzten des Kalendermonats so zeitgerecht durchzuführen, daß die Gutschrift auf das oben angeführte Konto spätestens zum 30. Dezember erfolgt.§ 3. Die Träger der Krankenversicherung haben die Abrechnung über die Schlechtwetterentschädigungsbeiträge der BUAK unter Verwendung des hiefür erstellten Formblattes jeweils bis zum 20. des Folgemonats vorzulegen.§ 4. Zur Abgeltung der den Trägern der Krankenversicherung durch die Einhebung des Schlechtwetterentschädigungsbeitrages erwachsenden Kosten wird ein jährlicher Pauschalbetrag von 3,58 Millionen Schilling festgesetzt.§ 5. Der Pauschalbetrag ist von der BUAK für das jeweilige Kalenderjahr durch Zahlungen in zwei gleich hohen Teilbeträgen am 1. April und am 1. Oktober dieses Kalenderjahres an den Hauptverband der österreichischen Sozialversicherungsträger zu entrichten. Der Hauptverband hat diese Zahlungen auf die Krankenversicherungsträger aufzuteilen. Der Aufteilungsschlüssel errechnet sich aus dem Verhältnis zwischen den vom einzelnen Krankenversicherungsträger vorgeschriebenen Schlechtwetterentschädigungsbeiträgen zum Gesamtbetrag der im Kalenderjahr 1997 vorgeschriebenen Schlechtwetterentschädigungsbeiträge.§ 6. (1) An die Stelle des Pauschalbetrages gemäß § 4 tritt ab 1. Jänner eines jeden Jahres, erstmals ab 1. Jänner 1999, der mit der Vervielfachungszahl nach Abs. 2 vervielfachte Betrag. Eine Erhöhung darf jedoch den auf Grund einer Vervielfachung des Pauschalbetrages des vorangegangenen Jahres mit der Aufwertungszahl des jeweiligen Kalenderjahres (§ 108a ASVG) sich ergebenden Betrag nicht übersteigen. (2) Die Vervielfachungszahl ergibt sich durch Teilung der den Krankenversicherungsträgern erwachsenden Verwaltungskosten für die Beitragseinhebung des zweitvorangegangenen Kalenderjahres durch die Verwaltungskosten für die Beitragseinhebung des drittvorangegangenen Kalenderjahres. Die Verwaltungskosten für diesen Bereich sind dabei nach den Ergebnissen der Kostenrechnung zu berücksichtigen. Als Verwaltungskosten für die Beitragseinhebung gelten die Verwaltungskosten der Krankenversicherungsträger für den Melde-, Versicherungs- und Beitragsbereich des Schlechtwetterentschädigungsbeitrages.§ 7. Abweichend von § 4 beträgt der Pauschalbetrag für 1998 1,79 Millionen Schilling abzüglich der von den Krankenversicherungsträgern nach dem 1. Juli 1998 von den abgeführten Beiträgen einbehaltenen Vergütungen. Dieser Pauschalbetrag ist am 1. Oktober 1998 zu entrichten.",
+  "parts": [
+    {
+      "@id": "3c00c5c3-2cd9-41b1-aa52-8d7493b06e1e#offset_207_545",
+      "offset_ini": 207,
+      "offset_end": 545,
+      "title": ""
+    },
+    {
+      "@id": "3c00c5c3-2cd9-41b1-aa52-8d7493b06e1e#offset_546_978",
+      "offset_ini": 546,
+      "offset_end": 978,
+      "title": ""
+    },
+    {
+      "@id": "3c00c5c3-2cd9-41b1-aa52-8d7493b06e1e#offset_979_1192",
+      "offset_ini": 979,
+      "offset_end": 1192,
+      "title": ""
+    },
+    {
+      "@id": "3c00c5c3-2cd9-41b1-aa52-8d7493b06e1e#offset_1193_1409",
+      "offset_ini": 1193,
+      "offset_end": 1409,
+      "title": ""
+    },
+    {
+      "@id": "3c00c5c3-2cd9-41b1-aa52-8d7493b06e1e#offset_1410_2014",
+      "offset_ini": 1410,
+      "offset_end": 2014,
+      "title": ""
+    },
+    {
+      "@id": "3c00c5c3-2cd9-41b1-aa52-8d7493b06e1e#offset_2015_3015",
+      "offset_ini": 2015,
+      "offset_end": 3015,
+      "title": ""
+    },
+    {
+      "@id": "3c00c5c3-2cd9-41b1-aa52-8d7493b06e1e#offset_3016_3288",
+      "offset_ini": 3016,
+      "offset_end": 3288,
+      "title": ""
+    },
+    {
+      "@id": "3c00c5c3-2cd9-41b1-aa52-8d7493b06e1e#offset_0_206",
+      "offset_ini": 0,
+      "offset_end": 206
+    }
+  ]
+}

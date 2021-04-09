@@ -1,0 +1,176 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/6cc1efae-b88f-4b3d-aa6f-f396b281d638",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Wiener Tagesbetreuungsverordnung"
+    },
+    "hasAuthority": "Landesregierung Wien",
+    "nick": [
+      "WTBVO"
+    ],
+    "id_local": "20000520",
+    "first_date_entry_in_force": "2016-10-04",
+    "version_date": "2019-05-09",
+    "url_consolidated": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dLrW\u0026Gesetzesnummer\u003d20000520\u0026FassungVom\u003d2016-10-05",
+    "classifications": [
+      "60/20 Jugendschutz und Jugendwohlfahrt, Kindertagesheimwesen",
+      "60 Gesundheits- und Sozialrecht (S)"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/6cc1efae-b88f-4b3d-aa6f-f396b281d638/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/6cc1efae-b88f-4b3d-aa6f-f396b281d638/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 16881,
+  "text": "Bundesland Wien Änderung LGBl. Nr. 22/2018 LGBl. Nr. 26/2019 Präambel/Promulgationsklausel Auf Grund des § 5 des Gesetzes betreffend die Regelung der Betreuung von Tageskindern (Wiener Tagesbetreuungsgesetz – WTBG), LGBl. für Wien Nr. 73/2001, zuletzt geändert durch das Landesgesetz LGBl. für Wien Nr. 12/2016, wird verordnet: Im RIS seit 17.10.2016Abschnitt 1 Gegenstand § 1. Diese Verordnung regelt die Durchführung der Tagesbetreuung durch Tagesmütter oder Tagesväter und in Kindergruppen sowie die dafür erforderliche Ausbildung.Abschnitt 2 Ausbildungslehrgänge für Kindergruppenbetreuungspersonen und Tagesmütter oder Tagesväter Allgemeines und Voraussetzungen § 2. (1) Kindergruppenbetreuungspersonen und Tagesmütter oder Tagesväter müssen vor Aufnahme ihrer Tätigkeit die Absolvierung einer Ausbildung gemäß § 4 nachweisen. (2) Der Magistrat hat die von den Organisatorinnen oder Organisatoren der Lehrgänge vorgeschlagenen Lehrpläne bescheidmäßig zu genehmigen, wenn diese den vorgesehenen Ausbildungsbereichen und Unterrichtseinheiten gemäß § 4 entsprechen. Im Genehmigungsverfahren ist ein fachlich fundiertes Konzept (Curriculum) vorzulegen. Die Genehmigung ist zu versagen, wenn die vorgeschriebenen Mindestanforderungen nicht erfüllt werden bzw. wenn darüber hinausgehende Angebote dem angestrebten Zweck der Umsetzung der in § 1a Abs. 1 Wiener Tagesbetreuungsgesetz genannten Grundlagendokumente nicht entsprechen. (3) Den Organen des Magistrats ist jederzeit Einsicht in alle Unterlagen, die die Ausbildungslehrgänge betreffen, zu gestatten.Voraussetzungen für die Zulassung zu Ausbildungslehrgängen für Kindergruppenbetreuungspersonen bzw. Tagesmütter oder Tagesväter § 3. Für die Zulassung zu einem Ausbildungslehrgang für Kindergruppenbetreuungspersonen und Tagesmütter oder Tagesväter sind folgende Voraussetzungen zu erfüllen: 1. ein Mindestalter von 18 Jahren, 2. die Erfüllung der allgemeinen Schulpflicht, 3. positiver Pflichtschulabschluss, 4. sehr gute Kenntnisse der deutschen Sprache in Wort und Schrift, 5. es dürfen keine Umstände gemäß § 9 Abs. 2 Z 1 bis 4 und § 15 Abs. 2 Z 1 bis 4 vorliegen.Ausbildungsbereiche und Stundenausmaß § 4. (1) Die theoretische Ausbildung hat folgende Ausbildungsbereiche, jeweils nach dem aktuellen Stand der Wissenschaft, im angegebenen Stundenausmaß zu enthalten, wobei sämtliche Ausbildungsbereiche unter besonderer Beachtung der inklusiven sowie der geschlechtssensiblen Pädagogik zu unterrichten sind: 1. Pädagogik im Ausmaß von mindestens 120 Stunden 2. Pädagogische Prinzipien unter Berücksichtigung der Grundlagendokumente nach § 1a Abs. 1 Wiener Tagesbetreuungsgesetz und deren praktische Umsetzung im Ausmaß von mindestens 10 Stunden 3. Methodischer didaktischer Aufbau im Ausmaß von mindestens 30 Stunden 4. Entwicklungspsychologie im Ausmaß von mindestens 20 Stunden 5. Diversität im Ausmaß von mindestens 10 Stunden 6. Persönlichkeitsbildung und Kommunikation im Ausmaß von mindestens 30 Stunden 7. Rechtliche und organisatorische Belange der Tätigkeit als Kindergruppenbetreuerin oder Kindergruppenbetreuer und Tagesmutter oder Tagesvater im Ausmaß von mindestens 10 Stunden 8. Gesundheit und Ernährung im Ausmaß von mindestens 10 Stunden (2) Zusätzlich zur theoretischen Ausbildung ist ein Praktikum im Ausmaß von insgesamt 160 Stunden während der Dauer des Ausbildungslehrganges, jeweils in Blöcken in einem Kindergarten, in einer Kindergruppe und bei einer Tagesmutter oder einem Tagesvater, zu absolvieren. Die Organisatorinnen und Organisatoren der Lehrgänge haben die Durchführung des Praktikums zu organisieren. (2a) Der Ablauf des Praktikums ist von den Praktikumsstellen und von der Praktikantin oder dem Praktikanten zu dokumentieren. Der positive Abschluss des Praktikums ist durch positive Beurteilungen aller Praktikumsstellen nachzuweisen. (3) In Ergänzung der Ausbildung müssen Kindergruppenbetreuungspersonen sowie Tagesmütter oder Tagesväter die Absolvierung einer regelmäßigen, einschlägigen Fortbildung von jährlich mindestens 20 Unterrichtseinheiten nachweisen. (4) In Ergänzung der Ausbildung müssen Kindergruppenbetreuungspersonen sowie Tagesmütter oder Tagesväter einen Erste-Hilfe-Kurs für Kindernotfälle verpflichtend alle fünf Jahre im Ausmaß von mindestens acht Stunden absolvieren und diesen nachweisen. (5) Wurden im Rahmen einer Ausbildung (z. B. Kindergartenpädagogin oder Kindergartenpädagoge, Sozialpädagogin oder Sozialpädagoge) einzelne der im Abs. 1 genannten Ausbildungsinhalte bereits vermittelt, so sind diese auf die Ausbildung anzurechnen. Der Magistrat hat über die Anrechnung des Stundenausmaßes zu entscheiden.Anforderungen an die Qualifikation der Ausbildungspersonen § 5. (1) Ausbildungspersonen müssen die beruflichen sowie die berufs- und arbeitspädagogischen Fertigkeiten, Kenntnisse und Fähigkeiten besitzen, die für die Vermittlung der Ausbildungsinhalte erforderlich sind. (2) Ausbildungspersonen müssen für die Vermittlung der einzelnen in § 4 Abs. 1 genannten Ausbildungsbereiche über methodisch-didaktische und folgende fachliche Qualifikationen verfügen: 1. Pädagogik: Kindergartenpädagogin oder Kindergartenpädagoge 2. Pädagogische Prinzipien unter Berücksichtigung der Grundlagendokumente nach § 1a Abs. 1 Wiener Tagesbetreuungsgesetz und deren praktische Umsetzung: Kindergartenpädagogin oder Kindergartenpädagoge 3. Methodischer didaktischer Aufbau: Kindergartenpädagogin oder Kindergartenpädagoge oder Didaktiklehrerin oder Didaktiklehrer 4. Entwicklungspsychologie: Psychologin oder Psychologe 5. Diversität: einschlägige berufliche Kenntnisse 6. Persönlichkeitsbildung und Kommunikation: Psychosoziale Berufe 7. Rechtliche und organisatorische Belange der Tätigkeit als Kindergruppenbetreuerin oder Kindergruppenbetreuer und Tagesmutter oder Tagesvater: Juristin oder Jurist 8. Gesundheit und Ernährung: Ärztin oder Arzt, Ernährungswissenschaftlerin oder Ernährungswissenschaftler oder vergleichbare QualifikationAbschluss der Ausbildungslehrgänge § 6. (1) Der Abschluss des Ausbildungslehrganges erfolgt mit einer schriftlichen Seminararbeit zu einem praxisbezogenen Thema und einer mündlichen Prüfung zum Inhalt des Ausbildungslehrganges. Während des Ausbildungslehrganges sind zwei schriftliche Lernzielkontrollen erfolgreich zu absolvieren. Bei negativer Beurteilung einer Lernzielkontrolle kann diese zweimal wiederholt werden. Die Zulassung zur Präsentation der Seminararbeit und zur mündlichen Prüfung setzt voraus, dass die Kandidatin oder der Kandidat: 1. zwei Lernzielkontrollen positiv absolviert hat, 2. das Praktikum vollständig und positiv abgeschlossen hat, 3. eine positive Beurteilung der schriftlichen Seminararbeit erhalten hat, 4. höchstens 10 % des Stundenausmaßes gemäß § 4 Abs. 1 des Ausbildungslehrganges versäumt hat, 5. und einen Nachweis über die Absolvierung eines nicht länger als ein Jahr zurückliegenden Erste-Hilfe-Kurses für Kindernotfälle im Ausmaß von 16 Stunden erbracht hat. (2) Das Thema für die Seminararbeit ist von der Kandidatin oder dem Kandidaten gemeinsam mit der Organisatorin oder dem Organisator des Lehrganges und der Referentin oder dem Referenten zu erarbeiten. Die Seminararbeit ist von der Kandidatin oder dem Kandidaten in Anwesenheit einer Vertreterin oder eines Vertreters der Organisatorin oder des Organisators und mindestens einer Referentin oder eines Referenten öffentlich zu präsentieren. (3) Die mündliche Prüfung ist vor einer Prüfungskommission abzulegen, die aus Vertreterinnen oder Vertretern der Organisatorin oder des Organisators und mindestens einer Referentin oder einem Referenten besteht. Aufsichtsorgane des Magistrats können an der Prüfung teilnehmen und gelten dabei als Mitglieder der Prüfungskommission. Wird die Prüfung nicht bestanden, kann sie nach frühestens vier Wochen wiederholt werden. Wird sie dann erneut nicht bestanden, ist ein letztmaliges Antreten nach mindestens weiteren vier Wochen möglich. (4) Der positive Abschluss der Ausbildung ist durch ein Zeugnis zu bestätigen. Voraussetzung dafür ist die positive Beurteilung und Präsentation der Seminararbeit sowie die bestandene mündliche Prüfung. (5) Bei negativem Abschluss der Ausbildung bzw. im Falle des Abbrechens der Ausbildung ist über die absolvierten Teile der Ausbildung eine formlose Teilnahmebestätigung auszustellen.Teilnahme von Aufsichtsorganen an den Veranstaltungen der Ausbildungslehrgänge § 7. Den Aufsichtsorganen des Magistrats ist die jederzeitige Teilnahme an den Veranstaltungen der Ausbildungslehrgänge zu gestatten.Abschnitt 3 Tagesmütter oder Tagesväter Begriff § 8. Tagesmütter oder Tagesväter sind Personen, die regelmäßig und entgeltlich Minderjährige bis zum vollendeten 16. Lebensjahr (Tageskinder) für einen Teil des Tages individuell im eigenen Haushalt betreuen (§ 1 Abs. 1 Z 1 Wiener Tagesbetreuungsgesetz). Die Betreuung und Förderung der Tageskinder hat in Zusammenarbeit und Übereinstimmung mit den Erziehungsberechtigten zu erfolgen, wobei die Bedürfnisse der Tageskinder im Mittelpunkt stehen.Persönliche Eignung § 9. (1) Tagesmütter oder Tagesväter müssen eigenberechtigt und persönlich geeignet sein. (2) Bei Tagesmüttern oder Tagesvätern und mit ihnen in Wohngemeinschaft lebenden Personen dürfen keine der nachfolgend angeführten Umstände vorliegen: 1. körperliche oder psychische Erkrankungen, die geeignet sind, das Wohl des Tageskindes zu gefährden, 2. gerichtliche Verurteilungen, verwaltungsstrafrechtliche Vormerkungen oder anhängige Strafverfahren wegen Handlungen, die geeignet sind, das Wohl des Tageskindes zu gefährden sowie Vormerkungen nach dem Waffengesetz, 3. Betreuungsmängel bei leiblichen Kindern, Wahl- oder Stiefkindern, 4. sonstige Gründe, die geeignet sind, das Wohl des Tageskindes zu gefährden.Anforderungen an die Räumlichkeiten § 10. Tagesmüttern oder Tagesvätern müssen längerfristig nutzbare Räumlichkeiten für die Tagesbetreuung zur Verfügung stehen.§ 11. (1) Die Lage der Räumlichkeiten muss für die Betreuung von Tageskindern geeignet sein. (2) Die Größe der Räumlichkeiten muss gewährleisten, dass Tageskinder ihrem altersentsprechenden Spiel- und Bewegungsbedürfnis nachkommen können. Schlaf- bzw. Rückzugsmöglichkeiten müssen vorhanden sein. (3) Die Ausstattung der Räumlichkeiten, in denen Tageskinder betreut werden, muss kindgerecht, altersentsprechend und so beschaffen sein, dass Unfälle und Verletzungen oder gesundheitliche Schädigungen weitestgehend vermieden werden können. (4) Die Räumlichkeiten, in denen Tageskinder betreut werden, müssen in einem hygienisch einwandfreien Zustand sein.Zulässige Höchstzahl der betreuten Tageskinder § 12. (1) In der Bewilligung gemäß § 3 Abs. 1 WTBG ist die Höchstzahl der zu betreuenden Tageskinder festzulegen. Dabei ist insbesondere auf die persönliche Eignung (§ 9), die Größe und Anzahl der zur Verfügung stehenden Räumlichkeiten und auf Anzahl und Alter der eigenen Kinder der Tagesmütter oder Tagesväter Bedacht zu nehmen. (2) Eine Tagesmutter oder ein Tagesvater darf einschließlich der eigenen Kinder bis zum vollendeten 12. Lebensjahr höchstens fünf Minderjährige gleichzeitig betreuen. (3) In Notsituationen, z. B. bei Erkrankung einer Tagesmutter oder eines Tagesvaters, ist eine geringfügige Überschreitung der bewilligten Kinderanzahl kurzfristig gestattet. Der Magistrat ist hievon jedoch unverzüglich in Kenntnis zu setzen.Abschnitt 4 Kindergruppen Begriff § 13. Kindergruppen sind Einrichtungen, in denen Minderjährige bis zum vollendeten 16. Lebensjahr (Tageskinder) regelmäßig und entgeltlich für einen Teil des Tages in geeigneten Räumlichkeiten betreut werden, sofern dies nicht im Rahmen des Kindergarten- oder Schulbetriebes erfolgt.Gruppen § 14. (1) Die Betreuung und Erziehung der Tageskinder hat in Gruppen zu erfolgen. (2) Eine Kindergruppe darf höchstens umfassen: 1. vierzehn gleichzeitig betreute Tageskinder, 2. zehn gleichzeitig betreute Tageskinder, wenn mindestens ein Kind im Alter bis zu zwei Jahren ist und nicht eine weitere Betreuungsperson anwesend ist. (3) In der Bewilligung gemäß § 3 Abs. 1 WTBG ist bei der Festlegung der Höchstzahl der zu betreuenden Tageskinder insbesondere auf das pädagogische Konzept, das Alter der Tageskinder und die Größe und Anzahl der zur Verfügung stehenden Räumlichkeiten Bedacht zu nehmen.Betreuungspersonal § 15. (1) Für jede Kindergruppe muss zumindest eine fachlich ausgebildete Betreuungsperson vorhanden sein, die sowohl eigenberechtigt als auch persönlich geeignet ist und Deutschkenntnisse auf dem Referenzniveau C1 des Gemeinsamen Europäischen Referenzrahmens für Sprachen erreicht. Fachlich ausgebildete Betreuungspersonen, die Kinder mit Österreichischer Gebärdensprache (ÖGS) als Erstsprache und hörende Kinder gehörloser Eltern betreuen, müssen zusätzlich Kenntnisse der ÖGS auf dem Niveau B2 des Gemeinsamen Europäischen Referenzrahmens für Sprachen erreichen. (2) Bei einer Betreuungsperson dürfen keine der nachfolgend angeführten Umstände vorliegen: 1. körperliche oder psychische Erkrankungen, die geeignet sind, das Wohl des Tageskindes zu gefährden, 2. gerichtliche Verurteilungen, verwaltungsstrafrechtliche Vormerkungen oder anhängige Strafverfahren wegen Handlungen, die geeignet sind, das Wohl des Tageskindes zu gefährden sowie Vormerkungen nach dem Waffengesetz, 3. Betreuungsmängel bei leiblichen Kindern, Wahl- oder Stiefkindern, 4. sonstige Gründe, die geeignet sind, das Wohl des Tageskindes zu gefährdenHilfskräfte § 16. Zusätzlich eingesetzte Hilfskräfte müssen eigenberechtigt sein und die Voraussetzungen des § 15 Abs. 2 erfüllen.Anforderungen an die Räumlichkeiten § 17. Dem Rechtsträger der Kindergruppe müssen längerfristig nutzbare Räumlichkeiten für die Tagesbetreuung zur Verfügung stehen.§ 18. (1) Lage und Ausstattung der Räumlichkeiten müssen für die Umsetzung des pädagogischen Konzeptes geeignet sein. (2) Jeder Kindergruppe müssen folgende Räumlichkeiten zur Verfügung stehen: 1. ein Aufenthaltsraum mit altersangepasster Ausstattung, 2. ein Ruheraum, mindestens jedoch eine Ruhemöglichkeit, 3. ein WC, 4. ein Waschraum, mindestens jedoch eine Waschgelegenheit und bei Bedarf eine Wickelgelegenheit, 5. eine Küche, mindestens jedoch eine vom Aufenthaltsraum bzw. Ruheraum durch Raumteiler abgetrennte Küchenzeile, 6. einen Vorraum mit Möglichkeit zur Kleiderablage. (3) Die Räume der Tagesbetreuungseinrichtung müssen pro Tageskind und Betreuungsperson eine Fläche von mindestens 4 m² umfassen. In allen Räumen, zu denen Tageskinder Zugang haben, ist das Rauchen untersagt. (4) Jede Tagesbetreuungseinrichtung ist im Einklang mit dem pädagogischen Konzept mit einer ausreichenden Anzahl an altersentsprechenden Bildungsmitteln, Arbeitsbehelfen und Spielgeräten auszustatten, damit der jeweilige Stand der pädagogischen Erkenntnisse verwirklicht werden kann. (5) Die Räumlichkeiten, in denen Tageskinder betreut werden, müssen in einem hygienisch einwandfreien Zustand sein.Unfallverhütung § 19. (1) Die Ausstattung der Räumlichkeiten, in der die Kindergruppe untergebracht ist, muss so beschaffen sein, dass Unfälle und Verletzungen oder gesundheitliche Schädigungen weitestgehend vermieden werden können. Die Rechtsträgerin oder der Rechtsträger der Kindergruppe ist zu einer diesbezüglichen laufenden Überwachung der Tagesbetreuungseinrichtung verpflichtet. Aufgetretene Mängel sind unverzüglich zu beheben. (2) Feuerlöscher und Verbandskästen sind bereitzuhalten. Medikamente, gefährliche Stoffe und Zubereitungen, wie z. B. Reinigungsmittel, sind versperrt oder für Tageskinder unerreichbar zu verwahren. (3) Alle Räumlichkeiten, zu denen Tageskinder unter sechs Jahren Zugang haben, müssen zusätzlich folgende Voraussetzungen erfüllen: 1. Die Fußböden müssen leicht zu reinigen und aufwaschbar sowie so beschaffen sein, dass keine Gefahr des Ausrutschens, Stolperns oder von Verletzungen durch Fugen gegeben ist, 2. Steckdosen müssen mit einem Berührungsschutz ausgestattet sein, 3. sämtliche Glasflächen und Glasfüllungen in Türen müssen bis zu einer Höhe von mindestens 1,20 m über dem Fußboden in Sicherheitsglas ausgeführt oder entsprechend gesichert sein, 4. Fenster sind durch entsprechend konstruierte Vorkehrungen gegen das Hinausfallen von Kindern abzusichern.Schluss- und Übergangsbestimmungen § 20. (1) Vor Inkrafttreten dieser Verordnung begonnene Ausbildungslehrgänge können nach den bisherigen Bestimmungen zu Ende geführt werden und sind gleichwertig einer Ausbildung gemäß § 4. (2) Kindergruppenbetreuungspersonen haben die in § 4 Abs. 1 normierten Ausbildungsinhalte ab 01.01.2023 nachzuweisen. (3) Mit Inkrafttreten dieser Verordnung tritt die Verordnung der Wiener Landesregierung über die Regelung der Tagesbetreuung nach dem Wiener Tagesbetreuungsgesetz (Wiener Tagesbetreuungsverordnung – WTBVO), LGBl. Nr. 94/2001, außer Kraft.Abschnitt 5 Inkrafttreten § 21. Diese Verordnung tritt mit dem der Kundmachung folgenden Tag in Kraft.",
+  "parts": [
+    {
+      "@id": "6cc1efae-b88f-4b3d-aa6f-f396b281d638#offset_350_533",
+      "offset_ini": 350,
+      "offset_end": 533,
+      "title": "Gegenstand"
+    },
+    {
+      "@id": "6cc1efae-b88f-4b3d-aa6f-f396b281d638#offset_534_1556",
+      "offset_ini": 534,
+      "offset_end": 1556,
+      "title": "Allgemeines und Voraussetzungen"
+    },
+    {
+      "@id": "6cc1efae-b88f-4b3d-aa6f-f396b281d638#offset_1557_2123",
+      "offset_ini": 1557,
+      "offset_end": 2123,
+      "title": "Voraussetzungen für die Zulassung zu Ausbildungslehrgängen für Kindergruppenbetreuungspersonen bzw. Tagesmütter oder Tagesväter"
+    },
+    {
+      "@id": "6cc1efae-b88f-4b3d-aa6f-f396b281d638#offset_2124_4628",
+      "offset_ini": 2124,
+      "offset_end": 4628,
+      "title": "Ausbildungsbereiche und Stundenausmaß"
+    },
+    {
+      "@id": "6cc1efae-b88f-4b3d-aa6f-f396b281d638#offset_4629_5950",
+      "offset_ini": 4629,
+      "offset_end": 5950,
+      "title": "Anforderungen an die Qualifikation der Ausbildungspersonen"
+    },
+    {
+      "@id": "6cc1efae-b88f-4b3d-aa6f-f396b281d638#offset_5951_8309",
+      "offset_ini": 5951,
+      "offset_end": 8309,
+      "title": "Abschluss der Ausbildungslehrgänge"
+    },
+    {
+      "@id": "6cc1efae-b88f-4b3d-aa6f-f396b281d638#offset_8310_8521",
+      "offset_ini": 8310,
+      "offset_end": 8521,
+      "title": "Teilnahme von Aufsichtsorganen an den Veranstaltungen der Ausbildungslehrgänge"
+    },
+    {
+      "@id": "6cc1efae-b88f-4b3d-aa6f-f396b281d638#offset_8522_9014",
+      "offset_ini": 8522,
+      "offset_end": 9014,
+      "title": "Tagesmütter oder Tagesväter"
+    },
+    {
+      "@id": "6cc1efae-b88f-4b3d-aa6f-f396b281d638#offset_9015_9743",
+      "offset_ini": 9015,
+      "offset_end": 9743,
+      "title": "Persönliche Eignung"
+    },
+    {
+      "@id": "6cc1efae-b88f-4b3d-aa6f-f396b281d638#offset_9744_9904",
+      "offset_ini": 9744,
+      "offset_end": 9904,
+      "title": "Anforderungen an die Räumlichkeiten"
+    },
+    {
+      "@id": "6cc1efae-b88f-4b3d-aa6f-f396b281d638#offset_9905_10557",
+      "offset_ini": 9905,
+      "offset_end": 10557,
+      "title": ""
+    },
+    {
+      "@id": "6cc1efae-b88f-4b3d-aa6f-f396b281d638#offset_10558_11344",
+      "offset_ini": 10558,
+      "offset_end": 11344,
+      "title": "Zulässige Höchstzahl der betreuten Tageskinder"
+    },
+    {
+      "@id": "6cc1efae-b88f-4b3d-aa6f-f396b281d638#offset_11345_11661",
+      "offset_ini": 11345,
+      "offset_end": 11661,
+      "title": "Kindergruppen"
+    },
+    {
+      "@id": "6cc1efae-b88f-4b3d-aa6f-f396b281d638#offset_11662_12268",
+      "offset_ini": 11662,
+      "offset_end": 12268,
+      "title": "Gruppen"
+    },
+    {
+      "@id": "6cc1efae-b88f-4b3d-aa6f-f396b281d638#offset_12269_13412",
+      "offset_ini": 12269,
+      "offset_end": 13412,
+      "title": "Betreuungspersonal"
+    },
+    {
+      "@id": "6cc1efae-b88f-4b3d-aa6f-f396b281d638#offset_13413_13542",
+      "offset_ini": 13413,
+      "offset_end": 13542,
+      "title": "Hilfskräfte"
+    },
+    {
+      "@id": "6cc1efae-b88f-4b3d-aa6f-f396b281d638#offset_13543_13707",
+      "offset_ini": 13543,
+      "offset_end": 13707,
+      "title": "Anforderungen an die Räumlichkeiten"
+    },
+    {
+      "@id": "6cc1efae-b88f-4b3d-aa6f-f396b281d638#offset_13708_14897",
+      "offset_ini": 13708,
+      "offset_end": 14897,
+      "title": ""
+    },
+    {
+      "@id": "6cc1efae-b88f-4b3d-aa6f-f396b281d638#offset_14898_16198",
+      "offset_ini": 14898,
+      "offset_end": 16198,
+      "title": "Unfallverhütung"
+    },
+    {
+      "@id": "6cc1efae-b88f-4b3d-aa6f-f396b281d638#offset_16199_16779",
+      "offset_ini": 16199,
+      "offset_end": 16779,
+      "title": "Schluss- und Übergangsbestimmungen"
+    },
+    {
+      "@id": "6cc1efae-b88f-4b3d-aa6f-f396b281d638#offset_16780_16881",
+      "offset_ini": 16780,
+      "offset_end": 16881,
+      "title": "Inkrafttreten"
+    },
+    {
+      "@id": "6cc1efae-b88f-4b3d-aa6f-f396b281d638#offset_0_349",
+      "offset_ini": 0,
+      "offset_end": 349
+    }
+  ]
+}

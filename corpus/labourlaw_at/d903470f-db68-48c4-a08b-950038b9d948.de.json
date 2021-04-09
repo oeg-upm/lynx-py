@@ -1,0 +1,42 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/d903470f-db68-48c4-a08b-950038b9d948",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Stmk. Bauarbeiterschutzverordnung"
+    },
+    "hasAuthority": "BKA (Bundeskanzleramt)",
+    "nick": [
+      "BauVOLuFw"
+    ],
+    "id_local": "20010993",
+    "first_date_entry_in_force": "2020-01-01",
+    "version_date": "2020-01-01",
+    "url_consolidated": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d20010993\u0026FassungVom\u003d2020-01-01",
+    "classifications": [
+      "60/01 Arbeitsvertragsrecht"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/d903470f-db68-48c4-a08b-950038b9d948/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/d903470f-db68-48c4-a08b-950038b9d948/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 833,
+  "text": "Beachte Diese Rechtsvorschrift gilt in ihrer Fassung vom 31. Dezember 2019 für das Land Steiermark als Verordnung des Bundes, soweit sie „Arbeiterrecht sowie Arbeiter- und Angestelltenschutz, soweit es sich um land- und forstwirtschaftliche Arbeiter und Angestellte handelt“ (Art. 11 Abs. 1 Z 9 B-VG, BGBl. Nr. 1/1930, in der Fassung des Bundesgesetzes BGBl. I Nr. 14/2019) regelt; soweit diese Fassung (allenfalls) den Bestimmungen des Bundes-Verfassungsgesetzes betreffend die Zuständigkeit der Behörden widerspricht, gilt sie als „sinngemäß geändert“ (Art. 151 Abs. 63 Z 4 B-VG). Änderung LGBlStmk. Nr. 118/2006 BGBl. I Nr. 14/2019 (NR: GP XXVI RV 301 AB 463 S. 57. BR: AB 10104 S. 888.) Präambel/Promulgationsklausel Auf Grund des § 142 der Steiermärkischen Landarbeitsordnung 2001 – STLAO 2001, LGBl. Nr. 39/2002, wird verordnet:"
+}

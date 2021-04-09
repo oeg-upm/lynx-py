@@ -1,0 +1,64 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/bb3ca7ab-e7af-48ef-9352-acee30520dcf",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Einrichtung von Regionalbüros der Anwaltschaft für Gleichbehandlung in den Bundesländern"
+    },
+    "hasAuthority": "BGBl. II Nr. 126/2017",
+    "id_local": "20009869",
+    "first_date_entry_in_force": "2017-06-30",
+    "version_date": "2017-06-30",
+    "url_consolidated": "http://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d20009869\u0026FassungVom\u003d2017-07-01",
+    "classifications": [
+      "60/01 Arbeitsvertragsrecht"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/bb3ca7ab-e7af-48ef-9352-acee30520dcf/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/bb3ca7ab-e7af-48ef-9352-acee30520dcf/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 1531,
+  "text": "Präambel/Promulgationsklausel Auf Grund des § 4 Abs. 1 des Bundesgesetzes über die Gleichbehandlungskommission und die Gleichbehandlungsanwaltschaft (GBK/GAW-Gesetz), BGBl. Nr. 108/1979, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 107/2013, wird verordnet: Zuletzt aktualisiert am 16.05.2017 Gesetzesnummer 20009869 Dokumentnummer NOR40193207§ 1. Es werden Regionalbüros der Anwaltschaft für Gleichbehandlung in 1. Linz für den örtlichen Wirkungsbereich des Landes Oberösterreich, 2. Innsbruck für den örtlichen Wirkungsbereich der Länder Vorarlberg, Tirol und Salzburg, 3. Klagenfurt für den örtlichen Wirkungsbereich des Landes Kärnten, 4. Graz für den örtlichen Wirkungsbereich des Landes Steiermark, eingerichtet.§ 2. Der sachliche Wirkungsbereich der Regionalbüros umfasst die in § 3 Abs. 2 Z 1 lit. a bis c GBK/GAW-Gesetz, BGBl. Nr. 108/1979 in der Fassung des Bundesgesetzes BGBl. I Nr. 107/2013 genannten Angelegenheiten.§ 3. (1) Diese Verordnung tritt mit 1. Juli 2017 in Kraft. (2) Mit Ablauf des 30. Juni 2017 treten außer Kraft: 1. die Verordnung betreffend die Einrichtung eines Regionalbüros der Anwältin für Gleichbehandlungsfragen für Vorarlberg, Tirol und Salzburg, BGBl. II Nr. 356/1998,. 2. die Verordnung betreffend die Einrichtung von Regionalbüros der Anwältin für Gleichbehandlungsfragen in den Ländern Kärnten und Steiermark, BGBl. II Nr. 341/2000 und 3. die Verordnung betreffend die Einrichtung eines Regionalbüros der Anwältin für Gleichbehandlungsfragen für Oberösterreich, BGBl. II Nr. 442/2002.",
+  "parts": [
+    {
+      "@id": "bb3ca7ab-e7af-48ef-9352-acee30520dcf#offset_350_724",
+      "offset_ini": 350,
+      "offset_end": 724,
+      "title": ""
+    },
+    {
+      "@id": "bb3ca7ab-e7af-48ef-9352-acee30520dcf#offset_725_936",
+      "offset_ini": 725,
+      "offset_end": 936,
+      "title": ""
+    },
+    {
+      "@id": "bb3ca7ab-e7af-48ef-9352-acee30520dcf#offset_937_1531",
+      "offset_ini": 937,
+      "offset_end": 1531,
+      "title": ""
+    },
+    {
+      "@id": "bb3ca7ab-e7af-48ef-9352-acee30520dcf#offset_0_349",
+      "offset_ini": 0,
+      "offset_end": 349
+    }
+  ]
+}

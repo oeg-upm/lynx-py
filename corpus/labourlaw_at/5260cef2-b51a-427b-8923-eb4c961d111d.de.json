@@ -1,0 +1,130 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/5260cef2-b51a-427b-8923-eb4c961d111d",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Übereinkommen über das Mindestalter für die Zulassung von Kindern zur gewerblichen Arbeit"
+    },
+    "hasAuthority": "BGBl. Nr. 279/1936 zuletzt geändert durch BGBl. Nr. 224/1949 ",
+    "id_local": "10008097",
+    "first_date_entry_in_force": "1949-03-31",
+    "version_date": "1962-02-05",
+    "url_consolidated": "http://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d10008097\u0026FassungVom\u003d1962-02-05",
+    "classifications": [
+      "69/02 Arbeitsrecht"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/5260cef2-b51a-427b-8923-eb4c961d111d/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/5260cef2-b51a-427b-8923-eb4c961d111d/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 8305,
+  "text": "Sonstige Textteile Der Bundespräsident von Österreich erklärt den von der I. Internationalen Arbeitskonferenz in Washington im Jahre 1919 angenommenen Entwurf eines Übereinkommens über das Mindestalter für die Zulassung von Kindern zur gewerblichen Arbeit, welcher also lautet: ... für ratifiziert und verspricht im Namen Österreichs dessen gewissenhafte Erfüllung. Zu Urkund dessen ist die vorliegende Ratifikation vom Bundespräsidenten unterfertigt, vom Bundeskanzler und von den Bundesministern für die auswärtigen Angelegenheiten, für Unterricht, für soziale Verwaltung und für Handel und Verkehr gegengezeichnet und mit dem Staatsiegel des Bundesstaates Österreich versehen worden. Geschehen zu Wien, den 20. Jänner 1936. Ratifikationstext Die vorliegende Ratifikationsurkunde ist am 26. Februar 1936 im Internationalen Arbeitsamt des Völkerbundes hinterlegt worden. Folgende Staaten haben bisher das Übereinkommen ratifiziert: Albanien, Argentinien, Belgien (ohne Belgisch-Kongo und ohne die belgischen Mandatsgebiete), Brasilien, Großbritannien, Bulgarien, Chile, Kolumbien, Kuba, Dänemark, Dominikanische Republik, Spanien, Estland, Griechenland, Freistaat Irland, Japan, Lettland, Luxemburg, Nicaragua, Niederlande, Polen, Rumänien, Schweiz, Tschechoslowakei, Uruguay, Jugoslawien. Dieses Übereinkommen ist sohin gemäß seinem Artikel 10 für Österreich am 26. Februar 1936 in Kraft getreten. Gegenwärtig (Kundmachung des Bundeskanzleramtes vom 12. Oktober 1950, BGBl. Nr. 219/1950) nicht mehr Mitglied der Internationalen Arbeitsorganisation: Estland, Japan, Jugoslawien, Lettland, Nikaragua, Rumänien, Spanien Präambel/Promulgationsklausel Die Allgemeine Konferenz der Internationalen Arbeitsorganisation des Völkerbundes, einberufen von der Regierung der Vereinigten Staaten von Amerika auf den 29. Oktober 1919 nach Washington, gestützt auf ihren Beschluß über die Annahme verschiedener Anträge, betreffend „die Beschäftigung der Jugendlichen: Altersgrenze für die Zulassung zur Arbeit“, eine Frage, die einen Teil des vierten Verhandlungsgegenstandes der Konferenz von Washington bildete, gestützt ferner auf ihren Beschluß, diese Anträge in die Form eines Entwurfes zu einem internationalen Übereinkommen zu fassen, nimmt den nachstehenden Entwurf eines Übereinkommens an, das den Mitgliedern der Internationalen Arbeitsorganisation gemäß den Bestimmungen über die Arbeit im Vertrag von Versailles vom 28. Juni 1919 und im Vertrag von Saint-Germain vom 10. September 1919 zur Ratifizierung vorzulegen ist:Artikel 1. Als „gewerbliche Betriebe“ im Sinne dieses Übereinkommens gelten insbesondere: a) Bergwerke, Steinbrüche und andere Anlagen zur Gewinnung von Bodenschätzen; b) Gewerbe, in denen Gegenstände hergestellt, umgeändert, gereinigt, ausgebessert, verziert, fertiggestellt, verkaufsbereit gemacht oder in denen Stoffe umgearbeitet werden, mit Einschluß des Schiffbaues, der Abbruchunternehmungen, der Erzeugung, Umformung und Übertragung von motorischer Kraft irgendwelcher Art und von Elektrizität; c) der Bau, der Wiederaufbau, die Instandhaltung, die Ausbesserung, der Umbau oder der Abbruch von Bauwerken, Eisenbahnen, Straßenbahnen, Häfen, Docks, Dämmen, Kanälen, Anlagen für die Binnenschiffahrt, Straßen, Tunnels, Brücken, Straßenüberführungen, Abwasserkanälen, Brunnenschächten, Telegraph- und Telephonanlagen, elektrischen Anlagen, Gas- und Wasserwerken und anderen Bauarbeiten sowie die dazu nötigen Vor- und Grundarbeiten; d) die Beförderung von Personen oder Gütern auf Straßen, Eisenbahnen oder Binnengewässern, inbegriffen der Verkehr mit Gütern in Docks, auf Ausladeplätzen, Werften und in Lagerhäusern, mit Ausnahme der Handbeförderung. In jedem Lande bestimmt die zuständige Behörde die Grenze zwischen Gewerbe einerseits, Handel und Landwirtschaft anderseits.Artikel 2. Kinder unter vierzehn Jahren dürfen in öffentlichen oder privaten gewerblichen Betrieben oder deren Nebenbetrieben weder beschädigt werden noch arbeiten. Dies gilt nicht für Betriebe, in denen lediglich Mitglieder einer und derselben Familie beschäftigt sind.Artikel 3. Die Bestimmungen des Artikels 2 finden keine Anwendung auf die Arbeit der Kinder in Fachschulen, vorausgesetzt, daß diese Arbeit von der Behörde gestattet ist und von ihr überwacht wird.Artikel 4. Damit die Durchführung der Bestimmungen dieses Übereinkommens überwacht werden kann, hat jeder Inhaber eines gewerblichen Betriebes ein Verzeichnis aller von ihm beschäftigten Personen unter sechzehn Jahren mit Angabe von Jahr und Tag der Geburt zu führen.Artikel 5. Bei Anwendung dieses Übereinkommens auf Japan sind folgende Abänderungen des Artikels 2 gestattet: a) Kinder über zwölf Jahre können zur Arbeit zugelassen werden, wenn sie den Volksschulunterricht beendet haben; b) für Kinder von zwölf bis vierzehn Jahren, die bereits beschäftigt werden, können Übergangsbestimmungen getroffen werden. Die Bestimmungen des bestehenden japanischen Gesetzes, welche Kinder unter zwölf Jahren zu gewissen leichten Arbeiten zuläßt, ist aufzuheben.Artikel 6. Die Bestimmungen des Artikels 2 finden keine Anwendung auf Indien. Doch dürfen in Indien Kinder unter zwölf Jahren nicht beschäftigt werden: a) in Fabriken mit motorischem Betrieb, die mehr als zehn Personen beschäftigen; b) in Bergwerken, Steinbrüchen und anderen Anlagen zur Gewinnung von Bodenschätzen; c) bei der Beförderung von Personen, Gütern oder Postsendungen auf Eisenbahnen und beim Verkehr mit Gütern in Docks, auf Ausladeplätzen und Werften, mit Ausnahme der Handbeförderung.Artikel 7. Die förmlichen Ratifikationen dieses Übereinkommens sind nach den Bestimmungen des Teiles XIII des Vertrags von Versailles vom 28. Juni 1919 und des Vertrags von Saint-Germain vom 10. September 1919 dem Generaldirektor des Internationalen Arbeitsamtes zur Eintragung mitzuteilen.Artikel 8. Jedes Mitglied der Internationalen Arbeitsorganisation, das dieses Übereinkommen ratifiziert, verpflichtet sich, es für diejenigen seiner Kolonien, Besitzungen oder Protektorate, die keine völlige Selbstregierung haben, in Kraft zu setzen, jedoch unter den folgenden Vorbehalten: a) Die Anwendbarkeit des Übereinkommens darf nicht durch die örtlichen Verhältnisse ausgeschlossen sein; b) die für die Anpassung des Übereinkommens an die örtlichen Verhältnisse erforderlichen Abänderungen dürfen ihm eingefügt werden. Jedes Mitglied hat dem Internationalen Arbeitsamte seine Entschließung hinsichtlich seiner einzelnen Kolonien, Besitzungen oder Protektorate, die keine völlige Selbstregierung haben, mitzuteilen.Artikel 9. Sobald die Ratifikation durch zwei Mitglieder der Internationalen Arbeitsorganisation beim Internationalen Arbeitsamt eingetragen ist, teilt der Generaldirektor des Internationalen Arbeitsamtes dies sämtlichen Mitgliedern der Internationalen Arbeitsorganisation mit.Artikel 10. Dieses Übereinkommen tritt mit dem Tage in Kraft, an dem die Mitteilung durch den Generaldirektor des Internationalen Arbeitsamtes stattgefunden hat. Es bindet nur diejenigen Mitglieder, die ihre Ratifikation beim Internationales Arbeitsamt haben eintragen lassen. In der Folge tritt für jedes andere Mitglied dieses Übereinkommen mit dem Tage in Kraft, an dem keine Ratifikation beim Internationalen Arbeitsamt eingetragen worden ist.Artikel 11. Jedes Mitglied, das dieses Übereinkommen ratifiziert, verpflichtet sich, seine Bestimmungen spätestens am 1. Juli 1922 zur Anwendung zu bringen und die zu ihrer Durchführung nötigen Maßnahmen zu treffen.Artikel 12. Jedes Mitglied, das dieses Übereinkommen ratifiziert hat, kann es nach Ablauf von zehn Jahren, gerechnet von dem Tage, an dem es zum erstenmal in Kraft tritt, durch eine an den Generaldirektor des Internationalen Arbeitsamtes zu richtende und von ihm einzutragende Anzeige kündigen. Die Wirkung der Kündigung tritt erst ein Jahr nach ihrer Eintragung beim Internationalen Arbeitsamt ein.Artikel 13. Der Verwaltungsrat des Internationalen Arbeitsamtes hat, sooft er es für nötig erachtet, der Allgemeinen Konferenz einen Bericht über die Durchführung dieses Übereinkommens zu erstatten und zu prüfen, ob die Frage seiner gänzlichen oder teilweisen Abänderung auf die Tagesordnung der Konferenz gesetzt werden soll.Artikel 14. Der französische und der englische Wortlaut dieses Übereinkommens sind in gleicher Weise maßgebend.",
+  "parts": [
+    {
+      "@id": "5260cef2-b51a-427b-8923-eb4c961d111d#offset_2518_3797",
+      "offset_ini": 2518,
+      "offset_end": 3797,
+      "title": ""
+    },
+    {
+      "@id": "5260cef2-b51a-427b-8923-eb4c961d111d#offset_3798_4067",
+      "offset_ini": 3798,
+      "offset_end": 4067,
+      "title": ""
+    },
+    {
+      "@id": "5260cef2-b51a-427b-8923-eb4c961d111d#offset_4068_4264",
+      "offset_ini": 4068,
+      "offset_end": 4264,
+      "title": ""
+    },
+    {
+      "@id": "5260cef2-b51a-427b-8923-eb4c961d111d#offset_4265_4531",
+      "offset_ini": 4265,
+      "offset_end": 4531,
+      "title": ""
+    },
+    {
+      "@id": "5260cef2-b51a-427b-8923-eb4c961d111d#offset_4532_5019",
+      "offset_ini": 4532,
+      "offset_end": 5019,
+      "title": ""
+    },
+    {
+      "@id": "5260cef2-b51a-427b-8923-eb4c961d111d#offset_5020_5518",
+      "offset_ini": 5020,
+      "offset_end": 5518,
+      "title": ""
+    },
+    {
+      "@id": "5260cef2-b51a-427b-8923-eb4c961d111d#offset_5519_5808",
+      "offset_ini": 5519,
+      "offset_end": 5808,
+      "title": ""
+    },
+    {
+      "@id": "5260cef2-b51a-427b-8923-eb4c961d111d#offset_5809_6530",
+      "offset_ini": 5809,
+      "offset_end": 6530,
+      "title": ""
+    },
+    {
+      "@id": "5260cef2-b51a-427b-8923-eb4c961d111d#offset_6531_6807",
+      "offset_ini": 6531,
+      "offset_end": 6807,
+      "title": ""
+    },
+    {
+      "@id": "5260cef2-b51a-427b-8923-eb4c961d111d#offset_6808_7254",
+      "offset_ini": 6808,
+      "offset_end": 7254,
+      "title": ""
+    },
+    {
+      "@id": "5260cef2-b51a-427b-8923-eb4c961d111d#offset_7255_7469",
+      "offset_ini": 7255,
+      "offset_end": 7469,
+      "title": ""
+    },
+    {
+      "@id": "5260cef2-b51a-427b-8923-eb4c961d111d#offset_7470_7868",
+      "offset_ini": 7470,
+      "offset_end": 7868,
+      "title": ""
+    },
+    {
+      "@id": "5260cef2-b51a-427b-8923-eb4c961d111d#offset_7869_8194",
+      "offset_ini": 7869,
+      "offset_end": 8194,
+      "title": ""
+    },
+    {
+      "@id": "5260cef2-b51a-427b-8923-eb4c961d111d#offset_8195_8305",
+      "offset_ini": 8195,
+      "offset_end": 8305,
+      "title": ""
+    },
+    {
+      "@id": "5260cef2-b51a-427b-8923-eb4c961d111d#offset_0_2517",
+      "offset_ini": 0,
+      "offset_end": 2517
+    }
+  ]
+}

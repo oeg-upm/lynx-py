@@ -1,0 +1,58 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/6a0944da-7187-4bee-847e-8dba4d894e83",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Heimarbeit - Verwendung von gefährlichen Stoffen"
+    },
+    "hasAuthority": "BGBl. Nr. 178/1983",
+    "id_local": "10008539",
+    "first_date_entry_in_force": "1983-03-25",
+    "version_date": "1983-09-30",
+    "url_consolidated": "http://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d10008539\u0026FassungVom\u003d1983-09-30",
+    "classifications": [
+      "60/04 Arbeitsrecht allgemein"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/6a0944da-7187-4bee-847e-8dba4d894e83/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/6a0944da-7187-4bee-847e-8dba4d894e83/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 2464,
+  "text": "Präambel/Promulgationsklausel Auf Grund des § 17 Abs. 1 des Heimarbeitsgesetzes 1960, BGBl. Nr. 105/1961, in der Fassung des Bundesgesetzes BGBl. Nr. 303/1975 wird im Einvernehmen mit dem Bundesminister für Handel, Gewerbe und Industrie verordnet:§ 1. (1) In allen in Betracht kommenden Erzeugungszweigen ist verboten 1. die Ausführung von Arbeiten durch Heimarbeiter, bei denen diese der Einwirkung von gesundheitsgefährdenden, insbesondere giftigen, ätzenden, haut- oder schleimhautreizenden Stoffen oder Zubereitungen ausgesetzt sind. Solche Stoffe oder Zubereitungen, soweit sie die vorstehenden Eigenschaften besitzen, sind: a) Blei, seine Legierungen oder Verbindungen; b) Quecksilber, seine Legierungen oder Verbindungen; c) Benzol, Tetrachlorkohlenstoff, 1,1,2 Trichloräthan und 1,2 Dichloräthan sowie Zubereitungen, bei denen der Volumenanteil dieser Stoffe mehr als 1 vH beträgt; d) Nitro- und Aminoverbindungen des Benzols oder seiner Homologen und deren Abkömmlinge sowie Zubereitungen, bei denen der Volumenanteil dieser Stoffe mehr als 1 vH beträgt; e) Tetrachloräthan und Pentachloräthan; f) Schwefelkohlenstoff; g) Cyanverbindungen; h) Methanol und Zubereitungen, bei denen der Volumenanteil an Methanol mehr als 10 vH beträgt; i) Trichloräthylen, 1,1,1 Trichloräthan und Dichlormethan sowie Zubereitungen, bei denen der Volumenanteil dieser Stoffe mehr als 10 vH beträgt; j) Perchloräthylen und Zubereitungen, bei denen der Volumenanteil an Perchloräthylen mehr als 20 vH beträgt; k) Toluol und Zubereitungen, bei denen der Volumenanteil an Toluol mehr als 20 vH beträgt; l) Xylole und Zubereitungen, bei denen der Volumenanteil an Xylol mehr als 20 vH beträgt; m) niedrig siedende Benzinfraktionen, bei denen der Volumenanteil an n-Hexan mehr als 10 vH beträgt; n) Pflanzenschutz- und Schädlingsbekämpfungsmittel; o) asbesthältige Staube; p) radioaktive Stoffe; 2. das Abfüllen brennbarer Flüssigkeiten mit einem Flammpunkt unter 30 ºC durch Heimarbeiter. (2) Abs. 1 Z 1 gilt nicht, wenn die dort angeführten Stoffe oder Zubereitungen nur in so geringem Ausmaß zur Einwirkung gelangen können, daß nach arbeitsmedizinischen Erfahrungen eine Schädigung der Gesundheit nicht zu erwarten ist.§ 2. Mit dem Inkrafttreten dieser Verordnung tritt die Verordnung des Bundesministeriums für soziale Verwaltung vom 1. Oktober 1957, BGBl. Nr. 226, womit Heimarbeit in gewissen Erzeugungszweigen aus Gründen des Dienstnehmerschutzes verboten wird, außer Kraft.",
+  "parts": [
+    {
+      "@id": "6a0944da-7187-4bee-847e-8dba4d894e83#offset_247_2205",
+      "offset_ini": 247,
+      "offset_end": 2205,
+      "title": ""
+    },
+    {
+      "@id": "6a0944da-7187-4bee-847e-8dba4d894e83#offset_2206_2464",
+      "offset_ini": 2206,
+      "offset_end": 2464,
+      "title": ""
+    },
+    {
+      "@id": "6a0944da-7187-4bee-847e-8dba4d894e83#offset_0_246",
+      "offset_ini": 0,
+      "offset_end": 246
+    }
+  ]
+}

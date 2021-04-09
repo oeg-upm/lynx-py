@@ -1,0 +1,42 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/73979999-e52e-4405-89f4-a3c121f5da84",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Oö. Schutz der Dienstnehmerinnen und Dienstnehmer in der Land- und Forstwirtschaft vor Gefährdung durch Lärm und Vibrationen"
+    },
+    "hasAuthority": "BKA (Bundeskanzleramt)",
+    "nick": [
+      "Oö. VOLV-LF"
+    ],
+    "id_local": "20010923",
+    "first_date_entry_in_force": "2020-01-01",
+    "version_date": "2020-01-01",
+    "url_consolidated": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d20010923\u0026FassungVom\u003d2020-01-01",
+    "classifications": [
+      "60/01 Arbeitsvertragsrecht"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/73979999-e52e-4405-89f4-a3c121f5da84/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/73979999-e52e-4405-89f4-a3c121f5da84/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 1513,
+  "text": "Beachte Diese Rechtsvorschrift gilt in ihrer Fassung vom 31. Dezember 2019 für das Land Oberösterreich als Verordnung des Bundes, soweit sie „Arbeiterrecht sowie Arbeiter- und Angestelltenschutz, soweit es sich um land- und forstwirtschaftliche Arbeiter und Angestellte handelt“ (Art. 11 Abs. 1 Z 9 B-VG, BGBl. Nr. 1/1930, in der Fassung des Bundesgesetzes BGBl. I Nr. 14/2019) regelt; soweit diese Fassung (allenfalls) den Bestimmungen des Bundes-Verfassungsgesetzes betreffend die Zuständigkeit der Behörden widerspricht, gilt sie als „sinngemäß geändert“ (Art. 151 Abs. 63 Z 4 B-VG). Änderung LGBlOÖ. Nr. 12/2010 BGBl. I Nr. 14/2019 (NR: GP XXVI RV 301 AB 463 S. 57. BR: AB 10104 S. 888.) Präambel/Promulgationsklausel Auf Grund des § 95 Abs. 1 und 2 Z 7 der Oö. Landarbeitsordnung 1989, LGBl. Nr. 25, zuletzt geändert durch das Landesgesetz LGBl. Nr. 4/2006, wird verordnet: INHALTSVERZEICHNIS § 1 Anwendungsbereich § 2 Begriffsbestimmungen § 3 Expositionsgrenzwert § 4 Auslösewert § 5 Grenzwerte für bestimmte Räume § 6 Bewertungen und Messungen § 7 Ermittlung und Beurteilung der Gefahren § 8 Information, Unterweisung, Anhörung und Beteiligung der Dienstnehmerinnen und Dienstnehmer § 9 Maßnahmen und Maßnahmenprogramm § 10 Bauliche und raumakustische Maßnahmen § 11 Maßnahmen an der Quelle § 12 Maßnahmen betreffend Arbeitsmittel und Arbeitsvorgänge § 13 Technische und organisatorische Maßnahmen § 14 Persönliche Schutzausrüstung, Kennzeichnung, Verzeichnis § 15 Übergangsbestimmungen § 16 In-Kraft-Treten"
+}

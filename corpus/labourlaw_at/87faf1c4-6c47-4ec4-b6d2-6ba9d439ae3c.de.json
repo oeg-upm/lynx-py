@@ -1,0 +1,42 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/87faf1c4-6c47-4ec4-b6d2-6ba9d439ae3c",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Bgld. Kennzeichnungsverordnung"
+    },
+    "hasAuthority": "BKA (Bundeskanzleramt)",
+    "nick": [
+      "Bgld. KennV"
+    ],
+    "id_local": "20010933",
+    "first_date_entry_in_force": "2020-01-01",
+    "version_date": "2020-01-01",
+    "url_consolidated": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d20010933\u0026FassungVom\u003d2020-01-01",
+    "classifications": [
+      "60/01 Arbeitsvertragsrecht"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/87faf1c4-6c47-4ec4-b6d2-6ba9d439ae3c/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/87faf1c4-6c47-4ec4-b6d2-6ba9d439ae3c/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 909,
+  "text": "Beachte Diese Rechtsvorschrift gilt in ihrer Fassung vom 31. Dezember 2019 für das Land Burgenland als Verordnung des Bundes, soweit sie „Arbeiterrecht sowie Arbeiter- und Angestelltenschutz, soweit es sich um land- und forstwirtschaftliche Arbeiter und Angestellte handelt“ (Art. 11 Abs. 1 Z 9 B-VG, BGBl. Nr. 1/1930, in der Fassung des Bundesgesetzes BGBl. I Nr. 14/2019) regelt; soweit diese Fassung (allenfalls) den Bestimmungen des Bundes-Verfassungsgesetzes betreffend die Zuständigkeit der Behörden widerspricht, gilt sie als „sinngemäß geändert“ (Art. 151 Abs. 63 Z 4 B-VG). Änderung LGBlBgld. Nr. 49/2016 [CELEX Nr. 32014L0027] BGBl. I Nr. 14/2019 (NR: GP XXVI RV 301 AB 463 S. 57. BR: AB 10104 S. 888.) Präambel/Promulgationsklausel Auf Grund des § 94e Abs. 2 Z 1 der Burgenländischen Landarbeitsordnung 1977 – LArbO, LGBl. Nr. 37, zuletzt geändert durch das Gesetz LGBl. Nr. 53/2000, wird verordnet:"
+}

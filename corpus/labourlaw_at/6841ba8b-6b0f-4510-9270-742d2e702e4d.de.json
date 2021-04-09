@@ -1,0 +1,113 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/6841ba8b-6b0f-4510-9270-742d2e702e4d",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Smogalarmplan für Wien"
+    },
+    "hasAuthority": "LGBl. Nr. 02/1991",
+    "id_local": "20000270",
+    "first_date_entry_in_force": "1994-08-31",
+    "version_date": "1994-08-31",
+    "url_consolidated": "http://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dLrW\u0026Gesetzesnummer\u003d20000270\u0026FassungVom\u003d1994-09-01",
+    "classifications": [
+      "60 Gesundheits- und Sozialrecht (S)",
+      "60/30 Gesundheitsvorsorge"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/6841ba8b-6b0f-4510-9270-742d2e702e4d/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/6841ba8b-6b0f-4510-9270-742d2e702e4d/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 16343,
+  "text": "Präambel/Promulgationsklausel Auf Grund des § 1 Abs. 1 des Smogalarmgesetzes, BGBl. Nr. 38/1989, wird verordnet:Belastungsgebiet § 1. Belastungsgebiet ist das Gebiet des Landes Wien; das ist jenes Gebiet, das durch § 2 des Gebietsänderungsgesetzes vom 29. Juni 1946, LGBl. für Wien Nr. 14/1954, umgrenzt wird.Meßstellen § 2. (1) Folgende 14 Meßstellen (14mal Schwefeldioxidmessung, 14mal Staubmessung, 14mal Stickstoffdioxidmessung und sechsmal Kohlenmonoxidmessung) sind zur Ermittlung der Konzentration der genannten Luftschadstoffe ständig zu betreiben: 1. Stephansdom - Gst.-Nr. 817, EZ 1234, KG Innere Stadt (Schwefeldioxid, Staub, Stickstoffdioxid); 2. Taborstraße - Gst.-Nr. 3929/1, EZ 5836, KG Leopoldstadt (Schwefeldioxid, Staub, Stickstoffdioxid, Kohlenmonoxid); 3. Währinger Gürtel - Gst.-Nr. 1869/1, EZ 2008, KG Alsergrund (Schwefeldioxid, Staub, Stickstoffdioxid); 4. Belgradplatz - Gst.-Nr. 816/252, EZ 1538, KG Inzersdorf Stadt (Schwefeldioxid, Staub, Stickstoffdioxid); 5. Laaerberg - Gst.-Nr. 1524/1, EZ 1557, KG Oberlaa Stadt (Schwefeldioxid, Staub, Stickstoffdioxid); 6. Kaiserebersdorf - Gst.-Nr. 1991/3, EZ 1641, KG Kaiserebersdorf (Schwefeldioxid, Staub, Stickstoffdioxid, Kohlenmonoxid); 7. Rinnböckstraße - Gst.-Nr. 1092, EZ 370, KG Simmering (Schwefeldioxid, Staub, Stickstoffdioxid, Kohlenmonoxid); 8. Gaudenzdorf - Gst.-Nr. 194, EZ 42, KG Gaudenzdorf (Schwefeldioxid, Staub, Stickstoffdioxid, Kohlenmonoxid); 9. Hietzinger Kai - Gst.-Nr. 701/1, EZ 564, KG Hietzing (Schwefeldioxid, Staub, Stickstoffdioxid, Kohlenmonoxid); 10. Kendlerstraße Gst.-Nr. 3535/2, EZ 4694, KG Ottakring (Schwefeldioxid, Staub, Stickstoffdioxid); 11. Zentralanstalt - Gst.-Nr. 345, EZ 495, KG Heiligenstadt (Schwefeldioxid, Staub, Stickstoffdioxid); 12. Gerichtsgasse - Gst.-Nr. 438/4, EZ 596, KG Großjedlersdorf II (Schwefeldioxid, Staub, Stickstoffdioxid); 13. Stadlau - Gst.-Nr. 254/1, EZ 701, KG Hirschstetten (Schwefeldioxid, Staub, Stickstoffdioxid, Kohlenmonoxid) und 14. Liesing - Gst.-Nr. 308/1, EZ 1220, KG Liesing (Schwefeldioxid, Staub, Stickstoffdioxid). (2) Im Belastungsgebiet sind folgende meteorologische Meßstellen zur Feststellung der Windrichtung, der Windgeschwindigkeit, der Lufttemperatur und der Luftfeuchtigkeit ständig zu betreiben: 1. Grundwasserwerk Untere Lobau - Gst.-Nr. 218/1, EZ 27, KG Kaiserebersdorf Herrschaft; 2. Jägerwiese - Gst.-Nr. 1188, EZ 1110, KG Grinzing; 3. AKH-Dach, Bettenturm West - Gst. Nr. 1869/1, EZ 2008, KG Alsergrund und 4. Zentralanstalt - Gst.-Nr. 345, EZ 495, KG Heiligenstadt. (3) Zur Bestimmung des Höhenprofils der Lufttemperatur sind folgende Meßstellen ständig zu betreiben: 1. Donauturm - Gst.-Nr. 2577/2, EZ 340, KG Kaisermühlen; 2. Zentralanstalt - Gst.-Nr. 345, EZ 495, KG Heiligenstadt und 3. Exelberg - Gst.-Nr. 55/2, EZ 521, KG Weidlingbach.Grenzwerte § 3. (1) Bei Überschreitung der in den Anlagen 1, 2 oder 3 des Smogalarmgesetzes genannten Grenzwerte an einem Drittel der Meßstellen, die für die Messung des Schadstoffes (der Schadstoffe) in Wien eingerichtet sind (§ 2 Abs. 1), ist je nach Belastungsintensität entweder die Vorwarnstufe, Smogalarmstufe 1 oder Smogalarmstufe 2 unter den in den §§ 6 Z 2 oder 8 Z 2 des Smogalarmgesetzes genannten Voraussetzungen auszulösen. (2) Unter Berücksichtigung der meteorologischen Gegebenheiten ist bei Auslösung der Vorwarnstufe oder der Smogalarmstufe 1 in den an Wien angrenzenden Zonen I oder II des niederösterreichischen Belastungsgebietes in Wien die Vorwarnstufe, bei Auslösung der Smogalarmstufe 2 in diesen Bereichen ist in Wien die Smogalarmstufe 1 auszulösen. (3) Die Zonen I und II des niederösterreichischen Belastungsgebietes im Sinne des Abs. 2 umfassen folgende Bereiche: 1. Zone I: Gerichtsbezirk Schwechat; die Gemeinden Aderklaa, Deutsch-Wagram, Groß-Enzersdorf, Großhofen, Parbasdorf und Raasdorf des Verwaltungsbezirkes Gänserndorf; die Gemeinden Achau, Biedermannsdorf, Brunn am Gebirge, Gumpoldskirchen, Guntramsdorf, Hennersdorf, Laxenburg, Maria Enzersdorf, Mödling, Münchendorf, Perchtoldsdorf, Vösendorf und Wiener Neudorf des Verwaltungsbezirkes Mödling und 2. Zone II: Die Gemeinden Gerasdorf und Klosterneuburg des Verwaltungsbezirkes Wien-Umgebung; die Gemeinden Bisamberg, Enzersfeld, Hagenbrunn, Hausleiten, Korneuburg, Langenzersdorf, Leobendorf, Spillern, Stetteldorf am Wagram, Stetten und Stockerau des Verwaltungsbezirkes Korneuburg; die Gemeinden St. Andrä Wördern, Tulln und Zeiselmauer des Verwaltungsbezirkes Tulln.Bekanntgabe der Auslösung der Vorwarnstufe oder des Smogalarms § 4. (1) Das Auslösen der Vorwarnstufe oder des Smogalarms unter Angabe der Alarmstufe ist bekanntzugeben: 1. Im Österreichischen Rundfunk (Hörfunk und Fernsehen) durch Durchsagen im Anschluß an jeweils drei aufeinander folgende Nachrichtensendungen; 2. im Österreichischen Fernsehen durch lokale Einschaltungen; 3. im Teletext und 4. nach Möglichkeit an jeder Luftqualitätsanzeigetafel durch Aufscheinen des Wortes „Smog“ in Leuchtschrift. (2) Vor der Auslösung der Vorwarnstufe oder des Smogalarms ist der Landeshauptmann von Niederösterreich zu verständigen.Auslösung der Vorwarnstufe; Informationen und Aufrufe § 5. (1) Bei Überschreitung von zumindest einem der Grenzwerte gemäß Anlage 1 des Smogalarmgesetzes an einem Drittel der für die Messungen dieser (dieses) Schadstoffe(s) in Wien eingerichteten Meßstellen (§ 2 Abs. 1), ist unter der in § 6 Z 2 des Smogalarmgesetzes genannten Voraussetzung die Vorwarnstufe auszulösen. (2) Die Vorwarnstufe ist unter Berücksichtigung der meteorologischen Gegebenheiten auch dann auszulösen, wenn in den Zonen I oder II des niederösterreichischen Belastungsgebietes (§ 3 Abs. 3) die Vorwarnstufe oder die Smogalarmstufe 1 ausgelöst werden. (3) Die Verlautbarung im Österreichischen Rundfunk hat folgendes zu enthalten: 1. Die Angabe, welcher (welche) Luftschadstoff(e) zum Auslösen der Vorwarnstufe geführt hat (haben); 2. im Falle des § 5 Abs. 1 die Angabe, in welchem Ausmaß die Grenzwerte überschritten wurden; 3. im Falle des § 5 Abs. 1 die Angabe der Meßstationen, bei denen die Überschreitungen der Grenzwerte registriert wurden; 4. im Falle des § 5 Abs. 2 die Angabe, in welcher Zone des niederösterreichischen Belastungsgebietes (§ 3 Abs. 3) die Vorwarnstufe oder die Smogalarmstufe 1 ausgelöst wurde; 5. die Aufforderung, daß a) Feuerungsanlagen und betriebliche Feuerungen soweit wie möglich gedrosselt werden sollen, b) Feuerungsanlagen ohne schadstoffarme Energieversorgung für Amtsgebäude, Wohnhausanlagen und Betriebe derart gedrosselt werden sollen, daß die Raumtemperatur auf maximal 20oC abgesenkt wird, c) der Betrieb von kalorischen Kraftwerken und Heizanlagen ohne schadstoffarme Energieversorgung von schwefelhaltigen Brennstoffen auf Erdgas oder schadstoffärmere Brennstoffe umgestellt werden soll, d) für notwendige Fahrten öffentliche Verkehrsmittel benützt werden müssen und nur, wenn dies unumgänglich ist, private Kraftfahrzeuge in Betrieb genommen werden dürfen, wobei schadstoffarme Kraftfahrzeuge, das sind Fahrzeuge mit Elektromotoren und solche, deren Emissionen nicht die in § 1 d Abs. 1 Z 3 Kategorie A oder B der KDV 1967, BGBl. Nr. 399, in der Fassung der 34. Novelle, BGBl. Nr. 579/1991, festgelegten Werte übersteigen, zu verwenden sind und e) der Betrieb von Abfallverbrennungsanlagen ohne Rauchgasreinigung eingestellt werden soll; 6. den Hinweis an die Bevölkerung, daß diese Maßnahmen chronisch erkrankte Personen, insbesondere solche mit Erkrankungen der Atemwege, sowie Schwangere und Kleinkinder schützen sollen und 7. den Hinweis, daß die in Z 6 genannten Personen nach Möglichkeit ihre Wohnung nicht verlassen und körperliche Anstrengungen vermeiden sollen.Auslösung des Smogalarms § 6. (1) Bei Überschreitung von zumindest einem der Grenzwerte gemäß Anlage 2 des Smogalarmgesetzes an einem Drittel der für die Messung dieser (dieses) Schadstoffe(s) in Wien eingerichteten Meßstellen (§ 2 Abs. 1) ist unter der in § 8 Z 2 des Smogalarmgesetzes genannten Voraussetzung Smogalarmstufe 1 auszulösen. (2) Die Smogalarmstufe 1 ist unter Berücksichtigung der meteorologischen Gegebenheiten auch dann auszulösen, wenn in den Zonen I oder II des niederösterreichischen Belastungsgebietes (§ 3 Abs. 3) die Smogalarmstufe 2 ausgelöst wird. (3) Bei Überschreitung von zumindest einem der Grenzwerte gemäß Anlage 3 des Smogalarmgesetzes an einem Drittel der für die Messung dieser (dieses) Schadstoffe(s) in Wien eingerichteten Meßstellen (§ 2 Abs. 1) ist unter der in § 8 Z 2 des Smogalarmgesetzes genannten Voraussetzung Smogalarmstufe 2 auszulösen.Verlautbarung bei Smogalarm § 7. Die Verlautbarung im Österreichischen Rundfunk bei Smogalarm hat folgendes zu enthalten: 1. Die Angabe, welcher (welche) Luftschadstoff(e) zum Auslösen der Smogalarmstufe 1 oder Smogalarmstufe 2 geführt hat (haben); 2. im Falle des § 6 Abs. 1 oder 3 die Angabe, in welchem Ausmaß die Grenzwerte überschritten wurden; 3. im Falle des § 6 Abs. 1 oder 3 die Angabe der Meßstationen, bei denen die Überschreitung der Grenzwerte registriert wurden; 4. im Falle des § 6 Abs. 2 die Angabe, in welcher Zone des niederösterreichischen Belastungsgebietes (§ 3 Abs. 3) die Smogalarmstufe 2 ausgelöst wurde; 5. die Anordnung der in § 8 vorgesehenen Verbote, die erforderlich sind, um durch Verringerung der Emissionen ein weiteres Ansteigen der Immissionen zu verhindern und zu bewirken, daß die Grenzwerte für Luftschadstoffe möglichst rasch unterschritten werden, wobei auf § 2 Abs. 2 Smogalarmgesetz Rücksicht zu nehmen ist und 6. den Zeitpunkt des Inkrafttretens dieser Verbote.Maßnahmen bei Smogalarm § 8. (1) Bei Smogalarmstufe 1 kann verboten werden: 1. Der Betrieb von Kraftfahrzeugen, außer jenen Fahrzeugen, die gemäß § 10 Abs. 3 des Smogalarmgesetzes, BGBl. Nr. 38/1989, in der Fassung BGBl. Nr. 210/1992 von einem solchen Verbot ausgenommen sind; 2. das Verfeuern von Heizöl mit mehr als 0,6% Schwefelgehalt oder von festen Brennstoffen mit einem diesem Wert entsprechenden verbrennbaren Schwefelgehalt pro Heizwertäquivalent in Anlagen, die hauptsächlich betrieblichen Zwecken und nicht der Raumheizung dienen; von diesem Verbot sind Anlagen auszunehmen, die über eine solche Rauchgasentschwefelung verfügen oder so betrieben werden, daß der ermittierte SO2-Gehalt derart reduziert wird, daß er maximal dem SO2-Gehalt entspricht, der bei Verfeuern von Heizöl mit 0,6% Schwefelgehalt entstehen würde; 3. das Verfeuern von Heizöl mit mehr als 0,2% Schwefelgehalt oder von festen Brennstoffen mit einem diesem Wert entsprechenden verbrennbaren Schwefelgehalt pro Heizwertäquivalent in Anlagen, die ausschließlich der Raumheizung oder Warmwasserbereitung dienen; von diesem Verbot sind Anlagen auszunehmen, die über eine solche Rauchgasentschwefelung verfügen oder so betrieben werden, daß der emittierte SO2-Gehalt derart reduziert wird, daß er maximal dem SO2-Gehalt entspricht, der bei Verfeuern von Heizöl mit 0,2% Schwefelgehalt entstehen würde; 4. der Betrieb von Abfallverbrennungsanlagen ohne Rauchgasreinigung und 5. die Erhöhung der Raumtemperatur in Amtsgebäuden, Wohnhausanlagen und Betrieben auf mehr als 18°C, sofern diese Einrichtungen nicht durch Feuerungsanlagen mit schadstoffarmer Energieversorgung beheizt werden. Von diesem Verbot sind jedenfalls Krankenanstalten im Sinne des Krankenanstaltengesetzes, BGBl. Nr. 1/1957, zuletzt geändert durch das Bundesgesetz BGBl. Nr. 745/1988, auszunehmen. (2) Bei Smogalarmstufe 2 kann verboten werden: 1. Der Betrieb von Kraftfahrzeugen, außer jenen Fahrzeugen, die gemäß § 10 Abs. 3 des Smogalarmgesetzes, BGBl. Nr. 38/1989, in der Fassung BGBl. Nr. 210/1992 von einem solchen Verbot ausgenommen sind; 2. das Verfeuern von Heizöl mit mehr als 0,2% Schwefelgehalt oder von festen Brennstoffen mit einem diesem Wert entsprechenden verbrennbaren Schwefelgehalt pro Heizwertäquivalent; von diesem Verbot sind Anlagen auszunehmen, die über eine solche Rauchgasentschwefelung verfügen oder so betrieben werden, daß der emittierte SO2-Gehalt derart reduziert wird, daß er maximal dem SO2-Gehalt entspricht, der bei Verfeuern von Heizöl mit 0,2% Schwefelgehalt entstehen würde; 3. der Betrieb von Abfallverbrennungsanlagen ohne Rauchgasreinigung; 4. die Erhöhung der Raumtemperatur in Amtsgebäuden, Wohnhausanlagen und Betrieben auf mehr als 18o C, sofern diese Einrichtungen nicht durch Feuerungsanlagen mit schadstoffarmer Energieversorgung beheizt werden, wobei von diesem Verbot jedenfalls Krankenanstalten im Sinne des Krankenanstaltengesetzes auszunehmen sind und 5. die Abhaltung von Massenveranstaltungen, insbesondere Sportveranstaltungen. (3) Die Verbote nach Abs. 1 und 2 treten zwei Stunden nach der ersten Bekanntgabe im Österreichischen Rundfunk in Kraft. (4) Kraftfahrzeuge im Sinne des § 5 Abs. 3 Z 5 lit. d sind mit einer Plakette gemäß § 28 a Abs. 3 a Kraftfahrgesetz-Durchführungsverordnung 1967, BGBl. Nr. 399/1967, in der Fassung BGBl. Nr. 665/1992 in Verbindung mit § 57 a Kraftfahrgesetz 1967, BGBl. Nr. 267/1967, in der Fassung BGBl. Nr. 695/1991 zu kennzeichnen. (5) Die Plakette (Abs. 4) ist von gemäß § 57 a Abs. 2 Kraftfahrgesetz 1967 (KFG 1967), BGBl. Nr. 267, in der Fassung BGBl. Nr. 695/1991 ermächtigten Vereinen oder Gewerbetreibenden, von einem gemäß § 125 KFG 1967 bestellten Sachverständigen oder von der Bundesprüfanstalt für Kraftfahrzeuge (§ 131 KFG 1967) gegen Ersatz der Gestehungskosten auszufolgen oder anzubringen, wenn das Kraftfahrzeug schadstoffarm (§ 10 Abs. 3 Z 2 Smogalarmgesetz, BGBl. Nr. 38/1989, in der Fassung BGBl. Nr. 210/1992) ist.Voraussetzungen zur Entwarnung § 9. (1) Sobald im Falle des § 3 Abs. 1 die dem Smogalarm zugrundeliegenden Grenzwerte an allen Meßstellen, die für eine Messung des betreffenden Schadstoffes (der betreffenden Schadstoffe) in Wien eingerichtet sind (§ 2 Abs. 1), nicht mehr überschritten werden, und auch bei Aufhebung der Verbote nach § 8 Abs. 1 und 2 ein erneutes Überschreiten innerhalb von zwölf Stunden nicht zu erwarten ist, ist bei Wegfall der Voraussetzungen für die Smogalarmstufe 2 Smogalarmstufe 1 auszulösen, bei Wegfall der Voraussetzungen für die Smogalarmstufe 1 der Smogalarm aufzuheben und die Vorwarnstufe auszulösen. Sobald die der Vorwarnstufe zugrundeliegenden Grenzwerte an allen Meßstellen, die für eine Messung des betreffenden Schadstoffes (der betreffenden Schadstoffe) eingerichtet sind (§ 2 Abs. 1), nicht mehr überschritten werden und ein erneutes Überschreiten innerhalb von zwölf Stunden nicht zu erwarten ist, ist die Vorwarnstufe aufzuheben. (2) Sobald im Falle des § 3 Abs. 2 in den Zonen I oder II des niederösterreichischen Belastungsgebietes (§ 3 Abs. 3) die Smogalarmstufe 2 aufgehoben wird, ist in Wien die Vorwarnstufe auszulösen. Wenn in diesen Zonen die Smogalarmstufe 1 aufgehoben wird, ist in Wien die Vorwarnstufe zu belassen. Sobald in diesen Zonen die Vorwarnstufe aufgehoben wird, ist in Wien ebenfalls die Vorwarnstufe aufzuheben.Bekanntgabe der Entwarnung § 10. (1) Für die Bekanntgabe der Aufhebung der Vorwarnstufe bzw. des Smogalarms (Entwarnung) sind § 4 Abs. 1 Z 1 bis 3, § 5 Abs. 3 Z 1 bis 4 und § 7 Z 1 bis 4 mit der Maßgabe anzuwenden, daß sich die Bekanntgabe nicht auf die Auslösung sondern auf die Aufhebung der Vorwarnstufe oder des Smogalarms bezieht. (2) Die Verlautbarung im Österreichischen Rundfunk hat weiters zu enthalten: a) bei Aufhebung der Smogalarmstufe 2: Die Bekanntgabe des Außerkrafttretens der für die Smogalarmstufe 2 angeordneten Verbote (§ 7 Z 5 i.V.m. § 8 Abs. 2). Bei Fortbestehen der Voraussetzungen für die Smogalarmstufe 1 ist das Inkrafttreten der erforderlichen Verbote (§ 7 Z 5) nach § 8 Abs. 1 bekanntzugeben, b) bei Aufhebung der Smogalarmstufe 1: Die Bekanntgabe des Außerkrafttretens der für die Smogalarmstufe 1 angeordneten Verbote (§ 7 Z 5 i.V.m. § 8 Abs. 1). Bei Fortbestehen der Voraussetzungen für die Vorwarnstufe hat die Verlautbarung eine Aufforderung nach § 5 Abs. 3 Z 5 und die Hinweise nach § 5 Abs. 3 Z 6 und 7 zu enthalten, c) bei Aufhebung der Vorwarnstufe: Die Bekanntgabe der Unbeachtlichkeit der Aufforderung nach § 5 Abs. 3 Z 5. (3) An den Luftqualitätsanzeigetafeln ist das Wort „Smog“ zu löschen. (4) Vor der Aufhebung des Smogalarms bzw. der Vorwarnstufe ist der Landeshauptmann von Niederösterreich zu verständigen.Inkrafttreten § 11. Diese Verordnung tritt mit 1. Februar 1991 in Kraft.",
+  "parts": [
+    {
+      "@id": "6841ba8b-6b0f-4510-9270-742d2e702e4d#offset_112_308",
+      "offset_ini": 112,
+      "offset_end": 308,
+      "title": "Belastungsgebiet"
+    },
+    {
+      "@id": "6841ba8b-6b0f-4510-9270-742d2e702e4d#offset_309_2812",
+      "offset_ini": 309,
+      "offset_end": 2812,
+      "title": "Meßstellen"
+    },
+    {
+      "@id": "6841ba8b-6b0f-4510-9270-742d2e702e4d#offset_2813_4474",
+      "offset_ini": 2813,
+      "offset_end": 4474,
+      "title": "Grenzwerte"
+    },
+    {
+      "@id": "6841ba8b-6b0f-4510-9270-742d2e702e4d#offset_4475_5098",
+      "offset_ini": 4475,
+      "offset_end": 5098,
+      "title": "Bekanntgabe der Auslösung der Vorwarnstufe oder des Smogalarms"
+    },
+    {
+      "@id": "6841ba8b-6b0f-4510-9270-742d2e702e4d#offset_5099_7687",
+      "offset_ini": 5099,
+      "offset_end": 7687,
+      "title": "Auslösung der Vorwarnstufe; Informationen und Aufrufe"
+    },
+    {
+      "@id": "6841ba8b-6b0f-4510-9270-742d2e702e4d#offset_7688_8569",
+      "offset_ini": 7688,
+      "offset_end": 8569,
+      "title": "Auslösung des Smogalarms"
+    },
+    {
+      "@id": "6841ba8b-6b0f-4510-9270-742d2e702e4d#offset_8570_9572",
+      "offset_ini": 8570,
+      "offset_end": 9572,
+      "title": "Verlautbarung bei Smogalarm"
+    },
+    {
+      "@id": "6841ba8b-6b0f-4510-9270-742d2e702e4d#offset_9573_13541",
+      "offset_ini": 9573,
+      "offset_end": 13541,
+      "title": "Maßnahmen bei Smogalarm"
+    },
+    {
+      "@id": "6841ba8b-6b0f-4510-9270-742d2e702e4d#offset_13542_14918",
+      "offset_ini": 13542,
+      "offset_end": 14918,
+      "title": "Voraussetzungen zur Entwarnung"
+    },
+    {
+      "@id": "6841ba8b-6b0f-4510-9270-742d2e702e4d#offset_14919_16271",
+      "offset_ini": 14919,
+      "offset_end": 16271,
+      "title": "Bekanntgabe der Entwarnung"
+    },
+    {
+      "@id": "6841ba8b-6b0f-4510-9270-742d2e702e4d#offset_16272_16343",
+      "offset_ini": 16272,
+      "offset_end": 16343,
+      "title": "Inkrafttreten"
+    },
+    {
+      "@id": "6841ba8b-6b0f-4510-9270-742d2e702e4d#offset_0_111",
+      "offset_ini": 0,
+      "offset_end": 111
+    }
+  ]
+}

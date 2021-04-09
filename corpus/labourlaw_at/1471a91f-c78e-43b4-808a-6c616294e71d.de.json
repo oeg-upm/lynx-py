@@ -1,0 +1,260 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/1471a91f-c78e-43b4-808a-6c616294e71d",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Wiener Heimhilfeeinrichtungengesetz-Verordnung"
+    },
+    "hasAuthority": "LGBl. Nr. 20/2008",
+    "nick": [
+      "WHEG-VO"
+    ],
+    "id_local": "20000255",
+    "first_date_entry_in_force": "2008-03-22",
+    "version_date": "2008-03-22",
+    "url_consolidated": "http://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dLrW\u0026Gesetzesnummer\u003d20000255\u0026FassungVom\u003d2008-03-22",
+    "classifications": [
+      "60 Gesundheits- und Sozialrecht (S)",
+      "60/10 Angelegenheiten der Sozialhilfe"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/1471a91f-c78e-43b4-808a-6c616294e71d/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/1471a91f-c78e-43b4-808a-6c616294e71d/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 39958,
+  "text": "Präambel/Promulgationsklausel Auf Grund des § 7 des Gesetzes über die Einrichtung der Heimhilfe in Wien – Wiener Heimhilfeeinrichtungengesetz – WHEG, LGBl. für Wien Nr. 8/2008, wird verordnet:1. Abschnitt Allgemeines Lehr- und Ausbildungsziele § 1. (1) Die Ausbildung dient der Vermittlung von Kenntnissen und Fertigkeiten in der Betreuung von Menschen aller Altersstufen in ihren persönlichen und sozialen Angelegenheiten sowie in der Unterstützung bei der Basisversorgung. (2) Die theoretische und praktische Ausbildung hat darauf abzuzielen, dass die Heimhelferinnen und Heimhelfer Hilfestellung im hauswirtschaftlichen Bereich sowie bei bestimmten Aktivitäten und existenziellen Erfahrungen des täglichen Lebens (AEDL) im Sinne der Unterstützung von Eigenaktivitäten, der Hilfe zur Selbsthilfe und teilweisen Übernahme von Tätigkeiten bei der Basisversorgung einschließlich der Unterstützung bei der Einnahme und Anwendung von Arzneimitteln leisten können. Die Ausbildung soll ferner im Sinne der Ganzheitlichkeit gewährleisten, dass Würde und Selbstständigkeit der betreuten Personen erhalten bleiben und gefördert werden.Leitung der Heimhilfeausbildung § 2. (1) Die Betreiberin oder der Betreiber der Ausbildungseinrichtung hat eine fachlich und pädagogisch geeignete und qualifizierte Person für die Leitung der Heimhilfeausbildung und für die stellvertretende Leitung der Heimhilfeausbildung zu bestellen. (2) Der Leitung der Heimhilfeausbildung obliegen insbesondere folgende Aufgaben: 1. Planung, Organisation, Koordination und Kontrolle der gesamten theoretischen und praktischen Ausbildung, 2. Sicherung der inhaltlichen und pädagogischen Qualität des Unterrichts in den einzelnen Unterrichtsfächern, 3. Auswahl der Einrichtungen, an denen die praktische Ausbildung durchgeführt wird sowie Kontrolle und Sicherung der Qualität der praktischen Ausbildung, 4. Organisation, Koordination und Mitwirkung bei der Aufnahme der Ausbildungsteilnehmerinnen und Ausbildungsteilnehmer sowie beim Ausschluss von der Heimhilfeausbildung, 5. Aufsicht über die Ausbildungsteilnehmerinnen und Ausbildungsteilnehmer sowie Zuweisung dieser an die Einrichtungen und Praktikumsbereiche der praktischen Ausbildung, 6. Anrechnung von Prüfungen und Praktika, 7. Organisation und Koordination von sowie die Mitwirkung an der Abschlussprüfung und 8. Überprüfung der Erreichung der Ausbildungsziele.Aufnahme in die Heimhilfeausbildung § 3. (1) Über die Aufnahme der Bewerberinnen und Bewerber entscheidet die Betreiberin oder der Betreiber der Ausbildungseinrichtung im Einvernehmen mit der Leitung der Heimhilfeausbildung. (2) Vor der Aufnahme ist ein Aufnahmegespräch und ein Aufnahmetest mit den Bewerberinnen und Bewerbern durchzuführen. (3) Die Auswahl der Bewerberinnen und Bewerber hat unter Bedachtnahme auf die Erfordernisse der angestrebten Tätigkeit zu erfolgen, wobei insbesondere die Ergebnisse des Aufnahmegesprächs und des Aufnahmetests heranzuziehen sind.Ausschluss aus der Heimhilfeausbildung § 4. (1) Ausbildungsteilnehmerinnen oder Ausbildungsteilnehmer sind von der weiteren Teilnahme an der Heimhilfeausbildung aus folgenden Gründen auszuschließen: 1. mangelnde Vertrauenswürdigkeit, 2. mangelnde gesundheitliche Eignung oder 3. grober Verstoß gegen die Regelungen der Ausbildungsordnung. (2) Über den Ausschluss hat die Betreiberin oder der Betreiber der Ausbildungseinrichtung im Einvernehmen mit der Leitung der Heimhilfeausbildung zu entscheiden. Vor der Entscheidung über den Ausschluss sind die betroffenen Ausbildungsteilnehmerinnen oder Ausbildungsteilnehmer schriftlich über den Ausschlussgrund zu informieren. Es ist ihnen eine angemessene Frist zur Stellungnahme einzuräumen.Ausbildungszeit § 5. (1) Die Ausbildung hat mindestens 200 Unterrichtseinheiten theoretische und mindestens 200 Stunden praktische Ausbildung zu umfassen. (2) Eine Unterrichtseinheit im Rahmen der theoretischen Ausbildung hat mindestens fünfzig Minuten zu dauern. (3) Die Teilnahme an den Unterrichtseinheiten der theoretischen und an den Stunden der praktischen Ausbildung ist verpflichtend. (4) Die Ausbildung ist innerhalb eines Zeitraumes von zwölf Monaten zu absolvieren. (5) Der Beginn einer Heimhilfeausbildung ist von der Leitung festzusetzen und spätestens drei Monate vor Beginn dem Magistrat anzuzeigen.Unterbrechung der Ausbildung; Versäumen von Unterrichtseinheiten und Praktikumsstunden § 6. (1) Die Ausbildung ist vorbehaltlich der Bestimmungen des Abs. 2 ohne Unterbrechung zu absolvieren. (2) Eine Unterbrechung der Ausbildung ist aus folgenden Gründen zulässig: 1. für die Dauer des Beschäftigungsverbotes gemäß den Bestimmungen über den Mutterschutz, 2. für die Dauer des Elterkarenzurlaubes, 3. für die Dauer der Ableistung der allgemeinen Wehrpflicht oder des Wehrersatzdienstes, 4. aus schwer wiegenden gesundheitlichen, persönlichen oder familiären Gründen für die Dauer bis zu einem Jahr. Über die Zulässigkeit der Unterbrechung hat die Betreiberin oder der Betreiber der Ausbildungseinrichtung im Einvernehmen mit der Leitung der Heimhilfeausbildung zu entscheiden. (3) Ausbildungsteilnehmerinnen und Ausbildungsteilnehmer, die aus einem der in Abs. 2 genannten Gründe die Ausbildung unterbrochen haben, sind berechtigt, die Ausbildung zum ehestmöglichen Zeitpunkt fortzusetzen. Der Zeitpunkt der Fortsetzung ist entsprechend den organisatorischen Möglichkeiten durch die Betreiberin oder den Betreiber der Ausbildungseinrichtung im Einvernehmen mit der Leitung der Heimhilfeausbildung festzusetzen. (4) Die Ausbildung ist in jenem Stand fortzusetzen, in dem sie unterbrochen wurde. Ist dies aus organisatorischen Gründen nicht möglich oder mit längeren für die Ausbildungsteilnehmerinnen und Ausbildungsteilnehmer nicht zumutbaren Wartezeiten verbunden, ist Abs. 5 anzuwenden, sofern hierdurch die Erreichung der Ausbildungsziele nicht gefährdet wird. (5) Versäumen Ausbildungsteilnehmerinnen oder Ausbildungsteilnehmer mehr als 10% der theoretischen Ausbildung, hat die Leitung der Heimhilfeausbildung unter Bedachtnahme auf die versäumte theoretische Ausbildung und die Leistungen der Ausbildungsteilnehmerinnen oder Ausbildungsteilnehmer zu entscheiden, ob die Ausbildungsteilnehmerin oder der Ausbildungsteilnehmer zur Abschlussprüfung zuzulassen ist oder die Ausbildung zu wiederholen hat. (6) Die praktische Ausbildung ist zur Gänze zu absolvieren.Räumliche und sachliche Ausstattung § 7. Jede Ausbildungseinrichtung hat eine ausreichende Anzahl an Unterrichtsräumen mit der für die Ausbildung erforderlichen technischen und fachspezifischen Ausstattung, sodass die Erreichung der Ausbildungsziele gewährleistet ist und eine entsprechende Anzahl an Sozialräumen aufzuweisen.Ausbildungsordnung § 8. (1) Die Leitung der Heimhilfeausbildung hat den Unterrichtsbetrieb durch eine Ausbildungsordnung festzulegen und für deren Einhaltung zu sorgen. (2) Die Ausbildungsordnung hat insbesondere zu enthalten: 1. die Rechte und Pflichten der Leitung der Heimhilfeausbildung und der Lehr- und Fachkräfte, 2. die Rechte und Pflichten der Ausbildungsteilnehmerinnen und Ausbildungsteilnehmer einschließlich der Regelungen über das Versäumen von Ausbildungszeiten, 3. Maßnahmen zur Sicherheit der Ausbildungsteilnehmerinnen und Ausbildungsteilnehmer und 4. Vorschriften zur Ermöglichung eines ordnungsgemäßen Ausbildungsbetriebs. (3) Die Ausbildungsordnung ist spätestens drei Monate vor erstmaliger Aufnahme des Ausbildungsbetriebs dem Magistrat vorzulegen. (4) Die Ausbildungsordnung ist den Ausbildungsteilnehmerinnen und Ausbildungsteilnehmern sowie den Lehr- und Fachkräften nachweislich zur Kenntnis zu bringen.2. Abschnitt Ausbildungsinhalte – Lehr- und Fachkräfte Didaktische Grundsätze § 9. Die Heimhilfeausbildung hat nach folgenden didaktischen Grundsätzen zu erfolgen: 1. Dem Unterricht sind die Prinzipien der Methodenvielfalt, der Lebensnähe, der Anschaulichkeit, der Selbsttätigkeit und Selbstverantwortung der Ausbildungsteilnehmerinnen und Ausbildungsteilnehmer zugrunde zu legen. 2. In allen Unterrichtsfächern ist das,,Soziale Lernen’’ zu fördern, wobei die Ausbildungsteilnehmerinnen und Ausbildungsteilnehmer zur Kommunikation, Eigenständigkeit und zu tolerantem Verhalten sowie zum Anwenden vorhandener Hilfsmittel und zum Erarbeiten neuer Lösungsmodelle zu befähigen sind. Hiezu ist eine Unterrichtsform zu wählen, die die Ausbildungsteilnehmerinnen und Ausbildungsteilnehmer während der gesamten Ausbildung aktiv am Unterrichtsgeschehen und –ablauf teilhaben lässt. 3. Die Ausbildungsteilnehmerinnen und Ausbildungsteilnehmer sind zu einem partnerschaftlichen, verantwortungsvollen Umgang miteinander anzuhalten, um sie zu einem ebensolchen Umgang mit anderen Menschen unter Beachtung der Gleichstellung von Mann und Frau zu befähigen. 4. Aus der Struktur des Berufsfeldes auftretende Spannungen und Widerstände sind aufzuzeigen, um die Ausbildungsteilnehmerinnen und Ausbildungsteilnehmer bei der konstruktiven Bewältigung beruflicher Belastungen zu unterstützen. 5. Die Ausbildungsteilnehmerinnen und Ausbildungsteilnehmer sind für die Bildung der eigenen Persönlichkeit zu sensibilisieren, um ihnen für die Berufsausübung der Heimhilfe ein höchstmögliches Maß an Innovation, Offenheit, Toleranz und Akzeptanz gegenüber der Vielfalt an soziokulturellen Hintergründen von Menschen zu vermitteln. 6. Der Unterricht ist durch zusätzliche Veranstaltungen, wie Lehrausgänge, zu ergänzen, um den Ausbildungsteilnehmerinnen und Ausbildungsteilnehmern Einblick in umfassende Zusammenhänge auf gesundheitlichen, sozialen, wirtschaftlichen, politischen und kulturellen Gebieten zu geben. 7. In der praktischen Ausbildung ist den Ausbildungsteilnehmerinnen und Ausbildungsteilnehmern Gelegenheit zu geben, Kontinuität und Erfolg ihrer Betreuung und Pflege zu erleben, wobei eine positive Verarbeitung der Erlebnisse in der Praxis im Rahmen von Gesprächsführung und Praxisreflexion zu ermöglichen ist. 8. Der Unterricht ist auch fächerübergreifend sowie in Form von Seminaren oder Projektunterricht unter Berücksichtigung aktueller Fragen und Tagesereignisse mit verschiedenen Lehrmitteln, einschließlich ergänzender und weiterführender Literatur durchzuführen, um spezielle Neigungen und Interessen der Ausbildungsteilnehmerinnen und Ausbildungsteilnehmer zu fördern und ihnen zu helfen, komplexe Probleme zu erfassen, eigenständig zu bearbeiten und lösen zu lernen. 9. Im Unterricht sind Veränderungen und Neuerungen in der Pflege und Medizin, in Gesellschaft, Wirtschaft und Kultur zu berücksichtigen.Theoretische Ausbildung § 10. (1) Der theoretischen Ausbildung ist ein Lehrplan zugrunde zu legen. Dieser hat die in Abs. 2 angeführten Unterrichtsfächer zu enthalten und darf die jeweils angegebene Anzahl der Unterrichtseinheiten nicht unterschreiten. (2) Die theoretische Ausbildung hat folgende Unterrichtsfächer zu beinhalten, die im entsprechenden Ausmaß nach den neuesten pädagogischen und fachlichen Erkenntnissen von folgenden Lehr- und Fachkräften zu vermitteln sind: 1. Arbeitsorganisation, Planung und Dokumentation (4 Unterrichtseinheiten) durch Angehörige des gehobenen Dienstes für Gesundheits- und Krankenpflege; 2. Ethik und Berufskunde (8 Unterrichtseinheiten) durch Angehörige des gehobenen Dienstes für Gesundheits- und Krankenpflege; 3. Erste Hilfe (20 Unterrichtseinheiten) durch Ärztinnen oder Ärzte für Allgemeinmedizin, Fachärztinnen oder Fachärzte, Angehörige des gehobenen Dienstes für Gesundheits- und Krankenpflege, Sanitäterinnen oder Sanitäter; 4. Grundzüge der angewandten Hygiene (6 Unterrichtseinheiten) durch Ärztinnen oder Ärzte für Allgemeinmedizin, Fachärztinnen oder Fachärzte oder Angehörige des gehobenen Dienstes für Gesundheits- und Krankenpflege; 5. Grundzüge der Betreuung, Grundpflege und Beobachtung alter, behinderter und chronisch kranker Menschen (60 Unterrichtseinheiten) durch Lehrerinnen oder Lehrer für Gesundheits- und Krankenpflege, Angehörige des gehobenen Dienstes für Gesundheits- und Krankenpflege, wobei die Ausbildungsinhalte des Basismoduls „Unterstützung bei der Basisversorgung“ durch Lehrerinnen oder Lehrer für Gesundheits- und Krankenpflege zu erfolgen haben; 6. Einführung in die Arzneimittellehre (20 Unterrichtseinheiten) durch Ärztinnen oder Ärzte für Allgemeinmedizin, Pharmazeutinnen oder Pharmazeuten; 7. Grundzüge der angewandten Ernährungslehre und Diätkunde (8 Unterrichtseinheiten) durch Diätologinnen oder Diätologen oder Angehörige des gehobenen Dienstes für Gesundheits- und Krankenpflege; 8. Grundzüge der Ergonomie und Mobilisation (20 Unterrichtseinheiten) durch Ergotherapeutinnen oder Ergotherapeuten, Physiotherapeutinnen oder Physiotherapeuten oder Angehörige des gehobenen Dienstes für Gesundheits- und Krankenpflege; 9. Haushaltsführung, Umweltschutz, Sicherheit und Unfallverhütung im Haushalt (12 Unterrichtseinheiten) durch Angehörige des gehobenen Dienstes für Gesundheits- und Krankenpflege oder sonstige fachkompetente Personen; 10. Grundzüge der Gerontologie (10 Unterrichtseinheiten) durch Psychologinnen oder Psychologen, Ärztinnen oder Ärzte für Allgemeinmedizin, Fachärztinnen oder Fachärzte oder Angehörige des gehobenen Dienstes für Gesundheits- und Krankenpflege; 11. Grundzüge der Kommunikation und Konfliktbewältigung (26 Unterrichtseinheiten) durch Psychologinnen oder Psychologen, Psychotherapeutinnen oder Psychotherapeuten; 12. Grundzüge der sozialen Sicherheit und andere rechtliche Aspekte (6 Unterrichtseinheiten) durch Juristinnen oder Juristen, Diplomsozialarbeiterinnen oder Diplomsozialarbeiter oder Angehörige des gehobenen Dienstes für Gesundheits- und Krankenpflege. (3) Die Lehr- und Fachkräfte müssen ihre fachspezifische Ausbildung oder ihre Kenntnisse im Unterrichtsfach, das sie unterrichten, durch Zeugnisse, Seminarnachweise oder andere geeignete Unterlagen nachweisen.Lehrziele § 11. Durch den Unterricht sollen folgende Lehrziele erreicht werden: 1. Arbeitsorganisation, Planung und Dokumentation: verschiedene Formen der Arbeitsorganisation und ihre Voraussetzungen kennen und umsetzen können; die Bedeutung einer an den Bedürfnissen und Ressourcen der Betreuten orientierten Arbeitsplanung erkennen können, selbstständige Planung vornehmen und die geplanten Maßnahmen umsetzen und dokumentieren können; die Arbeitsziele in Form der Selbst- und Fremdkontrolle überprüfen können; 2. Ethik und Berufskunde: Individualität im Zusammenhang mit gesellschaftlichen, sozialen und kulturellen Hintergründen wahrnehmen und erkennen können und diese Erkenntnisse zur Grundlage der Betreuungsarbeit machen können, die wichtigsten Einrichtungen und Berufsgruppen im Gesundheits- und Sozialbereich und deren Aufgaben- und Arbeitsbereiche kennen lernen; 3. Erste Hilfe: Kenntnisse und praktische Fertigkeiten erwerben und mit der nötigen Sicherheit alle Erste-Hilfe-Maßnahmen unter besonderer Berücksichtigung des Gesundheitszustandes der Betreuten und der Unfälle im unmittelbaren Wohnbereich durchführen können; 4. Grundzüge der angewandten Hygiene: Hygiene als Selbst- und Fremdschutz, als Beitrag zum allgemeinen Wohlbefinden und als ganzheitliche Krankheitsverhütung erkennen und praktisch umsetzen können; 5. Grundzüge der Betreuung, Beobachtung und Grundpflege (Aktivitäten und existenziellen Erfahrungen des täglichen Lebens – AEDL) alter, behinderter und chronisch kranker Menschen: Die Betreuung, Beobachtung und Grundpflege im Alter, bei Behinderung und chronischen Krankheiten kulturspezifisch verstehen und strukturieren können; häufige Erscheinungsformen und die jeweiligen Charakteristika kennen und benennen können; die richtigen Aktivitäten in der Betreuung und Grundpflege ableiten können; körperliche und seelische Veränderungen wahrnehmen, beobachten und erkennen können, die Beobachtungen beschreiben können, die eigenen Aufgaben und die Zuständigkeit anderer Berufsgruppen erkennen und Beobachtungen sowie Informationen an die zuständigen Stellen weiterleiten können; die Notwendigkeit der Zusammenarbeit mit den Angehörigen erkennen können; die pflegerischen Grundtechniken praktisch durchführen können; Beschaffungs- und Finanzierungsmöglichkeiten von Pflegematerialien und Pflegebehelfen kennen; 6. Einführung in die Arzneimittellehre: Darreichungsformen und Wirkungsweisen von Arzneimitteln sowie die Gefahren und Vorsichtsmaßnahmen bei deren Verabreichung kennen und damit umgehen können; 7. Grundzüge der angewandten Ernährungslehre und Diätkunde: Grundlagen der Ernährungslehre und relevante Kostarten kennen und bedürfnis- und bedarfsgerechte Menüpläne beurteilen können; 8. Grundzüge der Ergonomie und Mobilisation: in Kenntnis ergonomischer Prinzipien unter besonderer Berücksichtigung körperschonender Arbeitsweisen und mit dem Einsatz von Hilfsmitteln arbeiten können; Ziele der Ergotherapie und Ziele der Physiotherapie kennen; einfache physikalische Hilfsmittel einsetzen und anwenden können; Beschaffungs- und Finanzierungsmöglichkeiten von ergo- und physiotherapeutischen Hilfsmitteln (Behelfen) kennen; 9. Haushaltsführung, Umweltschutz, Sicherheit und Unfallverhütung im Haushalt: effiziente Methoden der Haushaltsführung unter Wahrung der Individualität des betreuten Haushaltes kennen und anwenden können; Kenntnisse über Grundsätze und Maßnahmen zum Umweltschutz und der Unfallverhütung und zur senioren-, pflege- und behindertengerechten Wohnungsausstattung erwerben, vermitteln und umsetzen können; 10. Grundzüge der Gerontologie: Die Zusammenhänge zwischen Individuum und Gesellschaft ausgehend vom persönlichen Erleben und Verhalten verstehen können, die psychische Entwicklung des Menschen in den verschiedenen Phasen des Alters bis zum Sterben kennen und altersbedingte körperliche und psychische Veränderungen verstehen können; 11. Grundzüge der Kommunikation und Konfliktbewältigung: Gespräche erleben und erfahren und aus der Reflexion und persönlichen Erfahrung die Zusammenhänge von Kommunikation und Konflikt erkennen können, um Konfliktlösungen durch das Anwenden verschiedener Kommunikationsformen herbeiführen zu können; 12. Grundzüge der sozialen Sicherheit und andere rechtliche Aspekte: die wichtigsten sozialrechtlichen Bestimmungen kennen lernen; berufsrelevante Grundlagen des Privatrechtes und des öffentlichen Rechtes kennen und deren Bedeutung für die eigene Berufspraxis unter besonderer Berücksichtigung des Wiener Heimhilfeeinrichtungengesetzes sowie sozialhilferechtlicher, schadenersatzrechtlicher und sachwalterrechtlicher Bestimmungen verstehen können.Praktische Ausbildung § 12. (1) Die praktische Ausbildung hat die Praktikumsvorbereitung und Praktikumsreflexion zu beinhalten. Davon sind 120 Stunden im ambulanten Bereich der Betreuung zu Hause und 80 Stunden im stationären oder teilstationären Bereich, in Pflegeheimen oder Pflegestationen von Wohnheimen oder sonstigen betreuten Wohnformen zu absolvieren. (2) Die praktische Ausbildung darf frühestens nach Absolvierung von 100 Unterrichtseinheiten in der theoretischen Ausbildung begonnen werden. (3) Die Betreiberin oder der Betreiber der Ausbildungseinrichtung hat für eine ausreichende Anzahl von Praktikumsplätzen an Einrichtungen, in der ein Praktikum absolviert werden kann, Sorge zu tragen. (4) Die Betreiberin oder der Betreiber einer Einrichtung, in der ein Praktikum absolviert werden kann, hat zur Durchführung der praktischen Ausbildung und zur Sicherstellung des Praktikumserfolges folgende fachlich qualifizierten und pädagogisch geeigneten Personen zur beruflichen Förderung, Anleitung und Begleitung sowie zur fachlichen Beurteilung des Praktikumserfolges einzusetzen: 1. Angehörige des gehobenen Dienstes für Gesundheits- und Krankenpflege, 2. Pflegehelferinnen und Pflegehelfer, 3. Heimhelferinnen und Heimhelfer (5) Die Anzahl der fachlich und pädagogisch geeigneten Personen richtet sich nach den konkreten Erfordernissen der Einrichtung, in der ein Praktikum absolviert wird, und nach der Anzahl der Ausbildungsteilnehmerinnen und Ausbildungsteilnehmer. (6) Die Ausbildungsteilnehmerinnen und Ausbildungsteilnehmer dürfen nur zu solchen Tätigkeiten herangezogen werden, die im unmittelbaren Zusammenhang mit dem zu erlernenden Beruf stehen und zur Erreichung der Ausbildungsziele erforderlich sind. (7) Den Ausbildungsteilnehmerinnen und Ausbildungsteilnehmern ist von der Ausbildungseinrichtung ein Ausbildungsheft mit vorgegebenen Praktikumszielen zur Verfügung zu stellen, das die Ausbildungsteilnehmerinnen und die Ausbildungsteilnehmer zu führen haben. (8) Jede Betreiberin und jeder Betreiber einer Einrichtung, in der ein Praktikum absolviert wird, hat über die bei ihm tatsächlich geleisteten Stunden eine schriftliche Bestätigung auszustellen. Diese hat insbesondere zu enthalten: 1. das Datum und die Dauer der Anwesenheit, 2. die ausgeübten Tätigkeiten und 3. die Beurteilung, ob der angestrebte Praktikumserfolg erreicht wurde oder nicht.3. Abschnitt Prüfungen und Beurteilungen Einzelprüfungen § 13. (1) In den Unterrichtsfächern gemäß § 10 sind Einzelprüfungen in Form einer mündlichen oder schriftlichen Prüfung abzunehmen. (2) Über eine Einzelprüfung ist von der Lehr- oder Fachkraft ein schriftliches Prüfungsprotokoll zu führen. Dieses hat insbesondere die Prüfungsfragen und die Prüfungsbeurteilung zu beinhalten. (3) Der Termin einer Einzelprüfung ist den Ausbildungsteilnehmerinnen und den Ausbildungsteilnehmern mindestens zwei Wochen vorher bekannt zu geben.Beurteilung der theoretischen Ausbildung § 14. (1) In den Einzelprüfungen der Unterrichtsfächer gemäß § 10 haben die Lehr- oder Fachkräfte die theoretischen und praktischen Kenntnisse der Ausbildungsteilnehmerinnen und Ausbildungsteilnehmer über die Lehrinhalte zu überprüfen und zu beurteilen. (2) Die Lehr- und Fachkräfte haben schriftliche Aufzeichnungen für die Beurteilung der Mitarbeit während der Ausbildung zu führen. (3) Die Einzelprüfung kann mit „Bestanden“ oder „Nicht bestanden“ beurteilt werden. Positive Leistungen in der Mitarbeit können in die Beurteilung einbezogen werden.Beurteilung der praktischen Ausbildung § 15. (1) Die Leistung der Ausbildungsteilnehmerinnen und Ausbildungsteilnehmer in den Praktikumsbereichen ist von den Lehr- und Fachkräften des betreffenden Praktikums mit „Bestanden“ oder „Nicht bestanden“ zu beurteilen. (2) Die Fachkräfte haben die Kenntnisse und Fertigkeiten der Ausbildungsteilnehmerinnen und Ausbildungsteilnehmer im betreffenden Praktikumsbereich laufend zu überprüfen. In den Praktikumsbereichen haben die Lehr- oder Fachkräfte schriftliche Aufzeichnungen über die Leistungen der Ausbildungsteilnehmerinnen und Ausbildungsteilnehmer als Grundlage für die Beurteilung zu führen.Nichtantreten zu einer Prüfung § 16. (1) Sind Ausbildungsteilnehmerinnen oder Ausbildungsteilnehmer durch Krankheit oder aus anderen wichtigen Gründen, wie insbesondere Geburt eines Kindes, Erkrankung oder Tod eines Kindes, Wahl- oder Pflegekindes oder sonstiger naher Angehöriger verhindert, zu Einzelprüfungen oder Wiederholungsprüfungen anzutreten, sind die betreffenden Prüfungen zum ehest möglichen Termin, spätestens jedoch innerhalb von vier Wochen nach Wegfall des Verhinderungsgrundes, nachzuholen. Diese Frist kann von der Leitung der Heimhilfeausbildung einmal um höchstens weitere vier Wochen verlängert werden. (2) Treten Ausbildungsteilnehmerinnen oder Ausbildungsteilnehmer zu einer Einzelprüfung oder Wiederholungsprüfung nicht an, ohne aus einem der in Abs. 1 angeführten Gründe verhindert zu sein, ist der Nichtantritt einem „Nicht bestanden“ gleichzuhalten. (3) Über das Vorliegen eines Verhinderungsgrundes gemäß Abs. 1 entscheidet die Leitung der Heimhilfeausbildung nach Glaubhaftmachung durch die Ausbildungsteilnehmerinnen oder Ausbildungsteilnehmer.Wiederholen einer Einzelprüfung § 17. Während der Ausbildungszeit darf jede Einzelprüfung, die mit der Note „Nicht bestanden“ beurteilt wird, einmal wiederholt werden. Die Wiederholungsprüfung ist zum ehest möglichen Termin, frühestens jedoch nach zwei Wochen anzusetzen.Wiederholen eines Praktikums § 18. (1) Werden die Leistungen von Ausbildungsteilnehmerinnen oder Ausbildungsteilnehmern in einem Praktikum mit „Nicht bestanden“ beurteilt, ist das betreffende Praktikum zum ehest möglichen Termin zu wiederholen. Das zu wiederholende Praktikum ist an einer anderen Organisationseinheit durchzuführen und durch eine andere Fachkraft zu beurteilen. Jedes Praktikum darf einmal wiederholt werden. (2) Ist ein Wiederholen während der Ausbildungszeit nicht möglich, kann diese durch die Leitung der Heimhilfeausbildung verlängert werden.4. Abschnitt Abschlussprüfung Abschlussprüfung § 19. (1) Die Ausbildung ist mit einer mündlichen kommissionellen Abschlussprüfung, nach erfolgreich absolvierten Einzelprüfungen und Praktika, zu beenden. (2) Die Prüfungskommission setzt sich aus einer oder einem Vorsitzenden, der Leitung der Heimhilfeausbildung, drei Vertreterinnen oder Vertretern des Lehrpersonals und einer fachkundigen Vertreterin oder einem fachkundigen Vertreter der gesetzlichen Interessensvertretung der Dienstnehmerinnen und Dienstnehmer zusammen. (3) Der oder dem Vorsitzenden der Prüfungskommission obliegt die Leitung und organisatorische Abwicklung der Abschlussprüfung. Diese oder dieser hat die übrigen Kommissionsmitglieder schriftlich zu laden. (4) Dem Magistrat, der die oder den Vorsitzenden stellt, sind Name, Geburtsdatum und Geburtsort jener Ausbildungsteilnehmerinnen und Ausbildungsteilnehmer, die die theoretische und praktische Ausbildung erfolgreich absolviert haben, spätestens zwei Wochen vor dem Prüfungstermin zu melden.Gegenstand der Abschlussprüfung § 20. (1) Im Rahmen der Abschlussprüfung sind in erster Linie theoretische und praktische Kenntnisse in den Unterrichtsfächern „Grundzüge der Betreuung, Grundpflege und Beobachtung alter, behinderter und chronisch kranker Menschen“, „Einführung in die Arzneimittellehre“ und „Grundzüge der Ergonomie und Mobilisation“ in Form von drei Teilprüfungen, insbesondere anhand einer Falldarstellung gemäß Abs. 2 zu überprüfen. (2) Für die Abschlussprüfung ist von den Ausbildungsteilnehmerinnen und Ausbildungsteilnehmern eine nach den Aktivitäten und existenziellen Erfahrungen des täglichen Lebens (AEDL) strukturierte Falldarstellung aus der Praxis, in der der Lernstoff vernetzt angewandt wird, schriftlich auszuarbeiten. Die Ausarbeitung der Falldarstellung wird durch die Lehrerin oder den Lehrer für Gesundheits- und Krankenpflege begleitet. Die Falldarstellung ist spätestens eine Woche vor der Abschlussprüfung der Lehrerin oder dem Lehrer für Gesundheits- und Krankenpflege abzugeben, andernfalls eine Zulassung zur Abschlussprüfung nicht möglich ist.Beurteilung der Abschlussprüfung § 21. (1) Im Rahmen der Abschlussprüfung ist zu beurteilen, ob die Ausbildungsteilnehmerinnen oder Ausbildungsteilnehmer die für die fachgerechte Ausübung der entsprechenden Spezialaufgabe erforderlichen Kenntnisse und Fertigkeiten erworben haben. (2) Die Abschlussprüfung ist mit „Bestanden“ oder „Nicht bestanden“ zu beurteilen. (3) Die Abschlussprüfung ist erfolgreich abgelegt, wenn keine der drei Teilprüfungen mit „Nicht bestanden“ zu beurteilen ist und die einfache Mehrheit der Mitglieder der Prüfungskommission nach nicht öffentlicher Beratung die Prüfung mit „Bestanden“ beurteilt.Qualifikationsnachweis § 22. Die Betreiberin oder der Betreiber der Ausbildungseinrichtung hat ein Zeugnis, dass die Ausbildungsteilnehmerin oder der Ausbildungsteilnehmer die gesamte Ausbildung zur Heimhelferin oder zum Heimhelfer mit Erfolg absolviert hat und einen Ausbildungsnachweis, der das Ausmaß der Unterrichtseinheiten und Praktikumsstunden in den jeweiligen Unterrichtsfächern und Praktikumsbereichen sowie deren Beurteilung beinhaltet, auszustellen und beides mit dem Rundsiegel der Ausbildungseinrichtung zu versehen. Zusätzlich kann ein Berufsabzeichen verliehen werden.Nichtantreten zur Abschlussprüfung § 23. (1) Sind Ausbildungsteilnehmerinnen oder Ausbildungsteilnehmer durch Krankheit oder aus anderen wichtigen Gründen, wie insbesondere Geburt eines Kindes, Erkrankung oder Tod eines Kindes, Wahl- oder Pflegekindes oder sonstiger naher Angehöriger, verhindert, zu Prüfungen anzutreten oder den Abgabetermin für die schriftliche Abschlussarbeit einzuhalten, ist die Abschlussprüfung zum ehest möglichen Termin nachzuholen. Gegebenenfalls ist für die Falldarstellung oder die schriftliche Arbeit ein neuer Abgabetermin von der Leitung der Heimhilfeausbildung festzusetzen. (2) Treten Ausbildungsteilnehmerinnen oder Ausbildungsteilnehmer zu der Abschlussprüfung nicht an, obwohl keine Verhinderungsgründe gemäß Abs. 1 vorliegen, ist der Nichtantritt einem „Nicht bestanden“ gleichzuhalten. (3) Über das Vorliegen eines Verhinderungsgrundes gemäß Abs. 1 entscheidet die Prüfungskommission nach Glaubhaftmachung durch die Ausbildungsteilnehmerinnen und Ausbildungsteilnehmer.Wiederholen der Abschlussprüfung § 24. (1) Die einzelnen Teilprüfungen oder die gesamte Abschlussprüfung können, wenn sie beim ersten Mal nicht bestanden werden, zweimal wiederholt werden. (2) Die Wiederholungsprüfung ist innerhalb von zwölf Wochen, nicht aber vor Ablauf von zwei Wochen nach der nicht bestandenen Teil- oder gesamten Abschlussprüfung oder der ersten Wiederholungsprüfung abzulegen.Negative Beurteilung der Abschlussprüfung § 25. (1) Nach erfolglosem Ausschöpfen der Wiederholungsmöglichkeiten oder bei nicht fristgerechter Vorlage der Falldarstellung gemäß § 20 Abs. 2 ohne Vorliegen einer gerechtfertigten Verhinderung gemäß § 23 Abs. 1 gilt die Heimhilfeausbildung als nicht bestanden. (2) In den Fällen des Abs. 1 ist nach neuerlicher Aufnahme gemäß § 3 eine nochmalige Absolvierung der Heimhilfeausbildung zulässig.Abschlussprüfungsprotokoll § 26. (1) Über die Abschlussprüfung ist ein Protokoll zu führen, das insbesondere zu enthalten hat: 1. Namen und Funktionen der Mitglieder der Prüfungskommission, 2. Datum der Abschlussprüfung, 3. Namen der Ausbildungsteilnehmerinnen und Ausbildungsteilnehmer, 4. Prüfungsfächer, 5. Prüfungsfragen, 6. Beurteilung der Abschlussprüfung sowie der Teilprüfungen und 7. Begründung der Beurteilung der Abschlussprüfung. (2) Das Protokoll ist von allen Mitgliedern der Prüfungskommission zu unterzeichnen. (3) Das Protokoll mit Ausnahme der Prüfungsfragen ist mindestens 50 Jahre nach Ablegung der Abschlussprüfung aufzubewahren. Zur Aufbewahrung ist die Leitung der Heimhilfeausbildung oder im Falle des Nichtfortbestehens der Leitung der Heimhilfeausbildung die Betreiberin oder der Betreiber der Heimhilfeausbildung oder im Falle des Nichtfortbestehens des Rechtsträgers der Heimhilfeausbildung der Magistrat der Stadt Wien verpflichtet.5. Abschnitt Anpassungslehrgang und Eignungsprüfung Anpassungslehrgang § 27. (1) Der Anpassungslehrgang nach dem Wiener Sozialbetreuungsberufegesetz ist im Rahmen der praktischen Ausbildung durchzuführen. Eine kontinuierliche und fachspezifische Anleitung und Aufsicht durch mindestens eine Fachkraft ist sicherzustellen. (2) Die Anerkennungswerberinnen und Anerkennungswerber dürfen nur zu Tätigkeiten herangezogen werden, die in unmittelbarem Zusammenhang mit den zu erwerbenden Fähigkeiten und Fertigkeiten stehen. (3) Die Anerkennungswerberinnen und Anerkennungswerber, die im Rahmen des Anpassungslehrgangs eine Zusatzausbildung über die im Zulassungsbescheid angeführten Unterrichtsfächer zu absolvieren haben, sind zur Teilnahme am entsprechenden theoretischen Unterricht verpflichtet. (4) Die Leistungen der Anerkennungswerberinnen und Anerkennungswerber sind gemäß § 15 Abs. 1 zu beurteilen. Auf die Prüfungen im Rahmen einer allfälligen Zusatzausbildung sind die §§ 13 und 14 sinngemäß anzuwenden. (5) Ein Anpassungslehrgang, der mit „Nicht bestanden“ beurteilt wurde, darf höchstens einmal wiederholt werden. Nach erfolglosem Ausschöpfen der Wiederholungsmöglichkeit ist eine nochmalige Absolvierung des Anpassungslehrgangs nicht zulässig. (6) Über den absolvierten Anpassungslehrgang ist eine Bestätigung auszustellen, die die Beurteilung des im Zulassungsbescheid vorgeschriebenen Anpassungslehrgangs und der allfälligen Zusatzausbildung zu enthalten hat. Die Bestätigung ist von der Leitung der Heimhilfeausbildung zu unterzeichnen und mit dem Rundsiegel der Ausbildungseinrichtung zu versehen.Eignungsprüfung § 28. (1) Die Eignungsprüfung hat mündlich und kommissionell stattzufinden und ist über die im Zulassungsbescheid angeführten Unterrichtsfächer in deutscher Sprache abzulegen. (2) Die §§ 19 Abs. 2, 3 und 4, 23 und 26 sind sinngemäß anzuwenden. (3) Die Eignungsprüfung ist gemäß § 21 Abs. 2 zu beurteilen. Eine Eignungsprüfung, die mit der Note „Nicht bestanden“ beurteilt wurde, darf höchstens zweimal wiederholt werden. Nach erfolglosem Ausschöpfen der Wiederholungsmöglichkeiten ist eine nochmalige Absolvierung der Eignungsprüfung nicht zulässig. (4) Über die absolvierte Eignungsprüfung ist eine Bestätigung auszustellen, die die Beurteilung der im Zulassungsbescheid angeführten Unterrichtsfächer zu enthalten hat. Die Bestätigung ist von der oder dem Vorsitzenden der Prüfungskommission und von der Leitung der Heimhilfeausbildung zu unterzeichnen und mit dem Rundsiegel der Ausbildungseinrichtung zu versehen.Zeugnis, Ausbildungsbestätigung, Bestätigung § 29. (1) Nach abgelegter kommissioneller Prüfung sind eine Ausbildungsbestätigung und ein Zeugnis gemäß den Mustern der Anlagen 1 und 2 auszustellen. (2) Nach abgelegter Eignungsprüfung ist eine Bestätigung über die Eignungsprüfung gemäß dem Muster der Anlage 3, nach absolviertem Anpassungslehrgang ist eine Bestätigung über den Anpassungslehrgang gemäß dem Muster der Anlage 4 auszustellen. (3) Die Ausstellung der Ausbildungsbestätigungen, Zeugnisse und Bestätigungen gemäß den Anlagen 1 bis 4 kann mittels automationsunterstützter Datenverarbeitung erfolgen, wobei das Datenverarbeitungsregister (DVR-Nummer) anzuführen ist. Die nicht zutreffenden geschlechtsspezifischen Bezeichnungen in den Anlagen 1 bis 4 sind zu streichen oder wegzulassen.Übergangsbestimmung § 30. Die vor In-Kraft-Treten dieser Verordnung begonnenen Ausbildungen können nach der vor diesem Zeitpunkt geltenden Rechtslage fortgesetzt und abgeschlossen werden.Außer-Kraft-Treten § 31. Die Verordnung der Wiener Landesregierung über die Ausbildung und Prüfung in der Heimhilfe (Wiener Heimhilfe-Ausbildungs- und Prüfungsverordnung – WHH-APV), LGBl. für Wien Nr. 10/2002, tritt mit In-Kraft-Treten dieser Verordnung außer Kraft.Anlage 1 Bezeichnung, Adresse und Rechtsträger der Ausbildungseinrichtung sowie DVR-Nummer ZEUGNIS Frau / Herr geboren am..........................................................in hat die Ausbildung gemäß dem Wiener Sozialbetreuungsberufegesetz, LGBl. für Wien Nr. 4/2008 idgF, und dem Wiener Heimhilfeeinrichtungengesetz, LGBl. für Wien Nr. 8/2008 idgF, in Verbindung mit der Verordnung der Wiener Landesregierung zum Wiener Heimhilfeeinrichtungengesetz, LGBl. für Wien Nr. 20/2008 idgF, absolviert und die kommissionelle Abschlussprüfung bestanden und ist zur Ausübung des Berufs der Heimhelferin oder des Heimhelfers unter Führung der Berufsbezeichnung „Heimhelferin / Heimhelfer“ berechtigt. ...................................., am ................................... Für die Prüfungskommission: Der / Die Vorsitzende: Der / Die Leiter/in der Ausbildung Rundsiegel der AusbildungseinrichtungAnlage 2 Bezeichnung, Adresse und Rechtsträger der Ausbildungseinrichtung sowie DVR-Nummer Ausbildungsbestätigung Frau / Herr geboren am in hat an der Ausbildung gemäß dem Wiener Sozialbetreuungsberufegesetz, LGBl. für Wien Nr. 4/2008 idgF, und dem Wiener Heimhilfeeinrichtungengesetz, LGBl. für Wien Nr. 8/2008 idgF, in Verbindung mit der Verordnung der Wiener Landesregierung zum Wiener Heimhilfeeinrichtungengesetz, LGBl. für Wien Nr. 20/2008 idgF, in der Zeit von bis teilgenommen 1) und nachstehende Beurteilungen erlangt: Theoretische Ausbildung: Unterrichtsfach Stunden 2 Beurteilung 3 Wh. 4 Arbeitsorganisation, Planung, Dokumentation 1 Ausbildung mindestens 200 Unterrichtseinheiten gemäß § 5 Abs. 1 und 4 WHEG-VO 2 Unterrichtseinheiten gemäß § 14 WHEG-VO – Zutreffendes einfügen 3 „Bestanden“ oder „Nicht bestanden“ gemäß § 14 WHEG-VO – Zutreffendes einfügen 4 Wiederholungsprüfung gemäß § 16 WHEG-VO – Bei Zutreffen ankreuzen Ethik und Berufskunde Erste Hilfe Grundzüge der angewandten Hygiene Grundzüge der Betreuung, Grundpflege und Beobachtung alter, behinderter und chronisch kranker Menschen Einführung in die Arzneimittellehre Grundzüge der angewandten Ernährungslehre und Diätkunde Grundzüge der Ergonomie und Mobilisation Haushaltsführung, Umweltschutz, Sicherheit und Unfallverhütung im Haushalt Grundzüge der Gerontologie Grundzüge der Kommunikation und Konfliktbewältigung Grundzüge der Sozialen Sicherheit und andere rechtliche Aspekte Praktische Ausbildung: Praktikumsbereiche Stunden 5 Beurteilung 6 Wh. 7 ambulanter Bereich stationärer oder teilstationärer Bereich 5 200 Stunden praktische Ausbildung – gemäß § 5 Abs. 1 WHEG-VO – Zutreffendes eintragen 6 „Bestanden“ oder „Nicht bestanden“ – gemäß § 15 Abs. 1 WHEG-VO – Zutreffendes eintragen 7 Wiederholung eines Praktikums gemäß § 17 WHEG-VO – Bei Zutreffen ankreuzen Kommissionelle Abschlussprüfung: Unterrichtsfach Beurteilung 8 Wh. 9 Wh. 10 Grundzüge der Betreuung, Grundpflege und Beobachtung alter, behinderter und chronisch kranker Menschen Einführung in die Arzneimittellehre Grundzüge der Ergonomie und Mobilisation Diese Bestätigung ist kein Nachweis der Berufsberechtigung. ............................, am ............................. Der Leiter / Die Leiterin der Ausbildung: Rundsiegel der Ausbildungseinrichtung 8 „Bestanden“ oder „Nichtbestanden“ – gemäß § 15 Abs. 1 WHEG-VO – Zutreffendes eintragen 9 Erste Wiederholung gemäß § 17 WHEG-VO – Bei Zutreffen ankreuzen 10 Zweite Wiederholung gemäß § 17 WHEG-VO – Bei Zutreffen ankreuzenAnlage 3 Bezeichnung, Adresse und Rechtsträger der Ausbildungseinrichtung sowie DVR-Nummer BESTÄTIGUNG ÜBER DEN ANPASSUNGSLEHRGANG Frau / Herr geboren am in hat den mit Bescheid des Magistrats der Stadt Wien vom , Zahl: vorgeschriebenen Anpassungslehrgang gemäß dem Wiener Sozialbetreuungsberufegesetz, LGBl. für Wien Nr. 4/2008 idgF, und dem Wiener Heimhilfeeinrichtungengesetz, LGBl. für Wien Nr. 8/2008 idgF, in Verbindung mit der Verordnung der Wiener Landesregierung zum Wiener Heimhilfeeinrichtungengesetz, LGBl. für Wien Nr. 20/2008 idgF, mit – ohne1) Erfolg absolviert und nachstehende Beurteilungen erlangt: Fachbereich / Sachgebiet / Unterrichtsfach Stunden Beurteilung 2 Wh. 3 1 Nicht Zutreffendes streichen 2 „Bestanden“ oder „Nicht bestanden“ gemäß § 27 Abs. 5 WHEG-VO – Zutreffendes einfügen 3 Wiederholung gemäß § 27 Abs. 5 WHEG-VO – Bei Zutreffen ankreuzen ..............................., am ............................. Der / Die Leiter/in der Ausbildung: Rundsiegel der AusbildungseinrichtungAnlage 4 Bezeichnung, Adresse und Rechtsträger der Ausbildungseinrichtung sowie DVR-Nummer BESTÄTIGUNG ÜBER DIE EIGNUNGSPRÜFUNG Frau / Herr geboren am in hat die gemäß Bescheid des Magistrats der Stadt Wien vom , Zahl: vorgeschriebene Eignungsprüfung gemäß dem Wiener Sozialbetreuungsberufegesetz, LGBl. für Wien Nr. 4/2008 idgF, und dem Wiener Heimhilfeeinrichtungengesetz, LGBl. für Wien Nr. 8/2008 idgF, in Verbindung mit der Verordnung der Wiener Landesregierung zum Wiener Heimhilfeeinrichtungengesetz, LGBl. für Wien Nr. 20/2008 idgF, Nicht1) bestanden und nachstehende Beurteilungen erlangt: Sachgebiet / Unterrichtsfach Beurteilung 2 Wh. 3 Wh. 4 1 Nicht Zutreffendes streichen 2 „Bestanden“ oder „Nicht bestanden“ gemäß § 28 Abs. 3 WHEG-VO – Zutreffendes einfügen 3 Erste Wiederholungsprüfung gemäß § 28 Abs. 3 WHEG-VO – Bei Zutreffen ankreuzen 4 Zweite Wiederholungsprüfung gemäß § 28 Abs. 3 WHEG-VO – Bei Zutreffen ankreuzen ..............................., am ............................. Der / Die Vorsitzende: Der / Die Leiter/in der Ausbildung: Rundsiegel der Ausbildungseinrichtung",
+  "parts": [
+    {
+      "@id": "1471a91f-c78e-43b4-808a-6c616294e71d#offset_192_1126",
+      "offset_ini": 192,
+      "offset_end": 1126,
+      "title": "Lehr- und Ausbildungsziele"
+    },
+    {
+      "@id": "1471a91f-c78e-43b4-808a-6c616294e71d#offset_1127_2384",
+      "offset_ini": 1127,
+      "offset_end": 2384,
+      "title": "Leitung der Heimhilfeausbildung"
+    },
+    {
+      "@id": "1471a91f-c78e-43b4-808a-6c616294e71d#offset_2385_2956",
+      "offset_ini": 2385,
+      "offset_end": 2956,
+      "title": "Aufnahme in die Heimhilfeausbildung"
+    },
+    {
+      "@id": "1471a91f-c78e-43b4-808a-6c616294e71d#offset_2957_3692",
+      "offset_ini": 2957,
+      "offset_end": 3692,
+      "title": "Ausschluss aus der Heimhilfeausbildung"
+    },
+    {
+      "@id": "1471a91f-c78e-43b4-808a-6c616294e71d#offset_3693_4306",
+      "offset_ini": 3693,
+      "offset_end": 4306,
+      "title": "Ausbildungszeit"
+    },
+    {
+      "@id": "1471a91f-c78e-43b4-808a-6c616294e71d#offset_4307_6372",
+      "offset_ini": 4307,
+      "offset_end": 6372,
+      "title": "Unterbrechung der Ausbildung; Versäumen von Unterrichtseinheiten und Praktikumsstunden"
+    },
+    {
+      "@id": "1471a91f-c78e-43b4-808a-6c616294e71d#offset_6373_6698",
+      "offset_ini": 6373,
+      "offset_end": 6698,
+      "title": "Räumliche und sachliche Ausstattung"
+    },
+    {
+      "@id": "1471a91f-c78e-43b4-808a-6c616294e71d#offset_6699_7628",
+      "offset_ini": 6699,
+      "offset_end": 7628,
+      "title": "Ausbildungsordnung"
+    },
+    {
+      "@id": "1471a91f-c78e-43b4-808a-6c616294e71d#offset_7629_10529",
+      "offset_ini": 7629,
+      "offset_end": 10529,
+      "title": "Didaktische Grundsätze"
+    },
+    {
+      "@id": "1471a91f-c78e-43b4-808a-6c616294e71d#offset_10530_13825",
+      "offset_ini": 10530,
+      "offset_end": 13825,
+      "title": "Theoretische Ausbildung"
+    },
+    {
+      "@id": "1471a91f-c78e-43b4-808a-6c616294e71d#offset_13826_18471",
+      "offset_ini": 13826,
+      "offset_end": 18471,
+      "title": "Lehrziele"
+    },
+    {
+      "@id": "1471a91f-c78e-43b4-808a-6c616294e71d#offset_18472_20847",
+      "offset_ini": 18472,
+      "offset_end": 20847,
+      "title": "Praktische Ausbildung"
+    },
+    {
+      "@id": "1471a91f-c78e-43b4-808a-6c616294e71d#offset_20848_21378",
+      "offset_ini": 20848,
+      "offset_end": 21378,
+      "title": "Einzelprüfungen"
+    },
+    {
+      "@id": "1471a91f-c78e-43b4-808a-6c616294e71d#offset_21379_21969",
+      "offset_ini": 21379,
+      "offset_end": 21969,
+      "title": "Beurteilung der theoretischen Ausbildung"
+    },
+    {
+      "@id": "1471a91f-c78e-43b4-808a-6c616294e71d#offset_21970_22610",
+      "offset_ini": 21970,
+      "offset_end": 22610,
+      "title": "Beurteilung der praktischen Ausbildung"
+    },
+    {
+      "@id": "1471a91f-c78e-43b4-808a-6c616294e71d#offset_22611_23684",
+      "offset_ini": 22611,
+      "offset_end": 23684,
+      "title": "Nichtantreten zu einer Prüfung"
+    },
+    {
+      "@id": "1471a91f-c78e-43b4-808a-6c616294e71d#offset_23685_23955",
+      "offset_ini": 23685,
+      "offset_end": 23955,
+      "title": "Wiederholen einer Einzelprüfung"
+    },
+    {
+      "@id": "1471a91f-c78e-43b4-808a-6c616294e71d#offset_23956_24519",
+      "offset_ini": 23956,
+      "offset_end": 24519,
+      "title": "Wiederholen eines Praktikums"
+    },
+    {
+      "@id": "1471a91f-c78e-43b4-808a-6c616294e71d#offset_24520_25537",
+      "offset_ini": 24520,
+      "offset_end": 25537,
+      "title": "Abschlussprüfung"
+    },
+    {
+      "@id": "1471a91f-c78e-43b4-808a-6c616294e71d#offset_25538_26623",
+      "offset_ini": 25538,
+      "offset_end": 26623,
+      "title": "Gegenstand der Abschlussprüfung"
+    },
+    {
+      "@id": "1471a91f-c78e-43b4-808a-6c616294e71d#offset_26624_27247",
+      "offset_ini": 26624,
+      "offset_end": 27247,
+      "title": "Beurteilung der Abschlussprüfung"
+    },
+    {
+      "@id": "1471a91f-c78e-43b4-808a-6c616294e71d#offset_27248_27831",
+      "offset_ini": 27248,
+      "offset_end": 27831,
+      "title": "Qualifikationsnachweis"
+    },
+    {
+      "@id": "1471a91f-c78e-43b4-808a-6c616294e71d#offset_27832_28839",
+      "offset_ini": 27832,
+      "offset_end": 28839,
+      "title": "Nichtantreten zur Abschlussprüfung"
+    },
+    {
+      "@id": "1471a91f-c78e-43b4-808a-6c616294e71d#offset_28840_29238",
+      "offset_ini": 28840,
+      "offset_end": 29238,
+      "title": "Wiederholen der Abschlussprüfung"
+    },
+    {
+      "@id": "1471a91f-c78e-43b4-808a-6c616294e71d#offset_29239_29676",
+      "offset_ini": 29239,
+      "offset_end": 29676,
+      "title": "Negative Beurteilung der Abschlussprüfung"
+    },
+    {
+      "@id": "1471a91f-c78e-43b4-808a-6c616294e71d#offset_29677_30637",
+      "offset_ini": 29677,
+      "offset_end": 30637,
+      "title": "Abschlussprüfungsprotokoll"
+    },
+    {
+      "@id": "1471a91f-c78e-43b4-808a-6c616294e71d#offset_30638_32245",
+      "offset_ini": 30638,
+      "offset_end": 32245,
+      "title": "Anpassungslehrgang"
+    },
+    {
+      "@id": "1471a91f-c78e-43b4-808a-6c616294e71d#offset_32246_33177",
+      "offset_ini": 32246,
+      "offset_end": 33177,
+      "title": "Eignungsprüfung"
+    },
+    {
+      "@id": "1471a91f-c78e-43b4-808a-6c616294e71d#offset_33178_33971",
+      "offset_ini": 33178,
+      "offset_end": 33971,
+      "title": "Zeugnis, Ausbildungsbestätigung, Bestätigung"
+    },
+    {
+      "@id": "1471a91f-c78e-43b4-808a-6c616294e71d#offset_33972_34158",
+      "offset_ini": 33972,
+      "offset_end": 34158,
+      "title": "Übergangsbestimmung"
+    },
+    {
+      "@id": "1471a91f-c78e-43b4-808a-6c616294e71d#offset_34159_34424",
+      "offset_ini": 34159,
+      "offset_end": 34424,
+      "title": "Außer-Kraft-Treten"
+    },
+    {
+      "@id": "1471a91f-c78e-43b4-808a-6c616294e71d#offset_34425_35322",
+      "offset_ini": 34425,
+      "offset_end": 35322,
+      "title": ""
+    },
+    {
+      "@id": "1471a91f-c78e-43b4-808a-6c616294e71d#offset_35323_37849",
+      "offset_ini": 35323,
+      "offset_end": 37849,
+      "title": ""
+    },
+    {
+      "@id": "1471a91f-c78e-43b4-808a-6c616294e71d#offset_37850_38861",
+      "offset_ini": 37850,
+      "offset_end": 38861,
+      "title": ""
+    },
+    {
+      "@id": "1471a91f-c78e-43b4-808a-6c616294e71d#offset_38862_39958",
+      "offset_ini": 38862,
+      "offset_end": 39958,
+      "title": ""
+    },
+    {
+      "@id": "1471a91f-c78e-43b4-808a-6c616294e71d#offset_0_191",
+      "offset_ini": 0,
+      "offset_end": 191
+    }
+  ]
+}

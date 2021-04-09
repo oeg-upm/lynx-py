@@ -1,0 +1,52 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/1292f544-9dec-4757-9afc-583465f3f158",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Übereinkommen (Nr. 21) über die Vereinfachung der Aufsicht über die Auswanderer an Bord von Schiffen – Aufhebung"
+    },
+    "hasAuthority": "BGBl. III Nr. 146/2018",
+    "id_local": "20010325",
+    "first_date_entry_in_force": "2018-10-01",
+    "version_date": "2018-10-01",
+    "url_consolidated": "http://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d20010325\u0026FassungVom\u003d2018-10-02",
+    "classifications": [
+      "69/02 Arbeitsrecht"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/1292f544-9dec-4757-9afc-583465f3f158/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/1292f544-9dec-4757-9afc-583465f3f158/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 545,
+  "text": "Zuletzt aktualisiert am 03.10.2018 Gesetzesnummer 20010325 Dokumentnummer NOR40208236Nach Mitteilung des Generaldirektors des Internationalen Arbeitsamtes wurde das von der 8. Internationalen Arbeitskonferenz in Genf am 5. Juni 1926 angenommene und von Österreich ratifizierte Übereinkommen (Nr. 21) über die Vereinfachung der Aufsicht über die Auswanderer an Bord von Schiffen (Kundmachung des Geltungsbereichs siehe BGBl. Nr. 219/1950) anlässlich der 107. Tagung der Internationalen Arbeitskonferenz durch Beschluss vom 5. Juni 2018 aufgehoben.",
+  "parts": [
+    {
+      "@id": "1292f544-9dec-4757-9afc-583465f3f158#offset_85_545",
+      "offset_ini": 85,
+      "offset_end": 545,
+      "title": ""
+    },
+    {
+      "@id": "1292f544-9dec-4757-9afc-583465f3f158#offset_0_84",
+      "offset_ini": 0,
+      "offset_end": 84
+    }
+  ]
+}

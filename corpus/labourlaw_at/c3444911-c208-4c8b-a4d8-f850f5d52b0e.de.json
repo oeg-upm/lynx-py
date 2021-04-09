@@ -1,0 +1,47 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/c3444911-c208-4c8b-a4d8-f850f5d52b0e",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Schutz der Forderungen der Arbeitnehmer bei Zahlungsunfähigkeit ihres Arbeitgebers"
+    },
+    "hasAuthority": "BGBl. III Nr. 168/2013",
+    "id_local": "20008476",
+    "first_date_entry_in_force": "2013-06-20",
+    "version_date": "2013-06-20",
+    "url_consolidated": "http://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d20008476\u0026FassungVom\u003d2013-06-21",
+    "classifications": [
+      "69/02 Arbeitsrecht"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/c3444911-c208-4c8b-a4d8-f850f5d52b0e/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/c3444911-c208-4c8b-a4d8-f850f5d52b0e/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 1240,
+  "text": "Nach Mitteilungen des Generaldirektors des Internationalen Arbeitsamtes haben folgende weitere Staaten ihre Ratifikationsurkunden zum Übereinkommen (Nr. 173) über den Schutz der Forderungen der Arbeitnehmer bei Zahlungsunfähigkeit ihres Arbeitgebers (BGBl. III Nr. 49/1997) hinterlegt und hiebei erklärt, die Bestimmungen des Teils II und/oder Teils III anzunehmen: Staaten: Datum der Hinterlegung der Ratifikationsurkunde: Annahme des Teils: Albanien 3. Februar 2005 II Armenien 18. Mai 2005 II und III Botsuana 5. Juni 1997 II Bulgarien 28. September 2004 II und III1 Burkina Faso 11. Februar 1999 II Lettland 22. Februar 2002 III Madagaskar 3. Juni 1998 II Portugal 8. November 2012 II und III Russische Föderation 20. August 2012 II Sambia 25. Mai 1998 II Slowakei 24. September 1998 II Slowenien 8. Mai 2001 III Tschad 15. Dezember 2000 II Ukraine 1. März 2006 II ______________________ 1 Bulgarien hat die Verpflichtungen der Teile II und III mit nachstehenden Ausnahmen akzeptiert: 1) assoziierte Partner in der Handelskammer, 2) Mitglieder der Geschäftsführung und der Kontrollorgane der Handelstreibenden, 3) Ehegatten und Verwandte in direkter Nachfolgelinie des Handelstreibenden oder der unter Punkt 1 und 2 angeführten Personen.",
+  "parts": [
+    {
+      "@id": "c3444911-c208-4c8b-a4d8-f850f5d52b0e#offset_0_1240",
+      "offset_ini": 0,
+      "offset_end": 1240,
+      "title": ""
+    }
+  ]
+}

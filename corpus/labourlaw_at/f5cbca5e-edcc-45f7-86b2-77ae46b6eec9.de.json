@@ -1,0 +1,47 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/f5cbca5e-edcc-45f7-86b2-77ae46b6eec9",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Diskriminierung in Beschäftigung und Beruf"
+    },
+    "hasAuthority": "BGBl. III Nr. 157/2013",
+    "id_local": "20008480",
+    "first_date_entry_in_force": "2013-06-19",
+    "version_date": "2013-06-19",
+    "url_consolidated": "http://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d20008480\u0026FassungVom\u003d2013-06-20",
+    "classifications": [
+      "69/02 Arbeitsrecht"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/f5cbca5e-edcc-45f7-86b2-77ae46b6eec9/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/f5cbca5e-edcc-45f7-86b2-77ae46b6eec9/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 2211,
+  "text": "Nach Mitteilung des Generaldirektors des Internationalen Arbeitsamtes sind mit Stand vom 4. Jänner 2013 neben Österreich nachstehende Staaten Vertragsparteien des Übereinkommens (Nr. 111) über die Diskriminierung in Beschäftigung und Beruf (BGBl. Nr. 111/1973): Afghanistan, Ägypten, Albanien, Algerien, Angola, Antigua und Barbuda, Äquatorialguinea, Argentinien, Armenien, Aserbaidschan, Äthiopien, Australien, Bahamas, Bahrain, Bangladesch, Barbados, Belarus, Belgien, Belize, Benin, Bolivien, Bosnien und Herzegowina, Botsuana, Brasilien, Bulgarien, Burkina Faso, Burundi, Chile, China, Costa Rica, Côte d’Ivoire, Dänemark, Deutschland, Dominica, Dominikanische Republik, Dschibuti, Ecuador, El Salvador, Eritrea, Estland, Fidschi, Finnland, Frankreich, Gabun, Gambia, Georgien, Ghana, Grenada, Griechenland, Guatemala, Guinea, Guinea-Bissau, Guyana, Haiti, Honduras, Indien, Indonesien, Irak, Iran, Irland, Island, Israel, Italien, Jamaika, Jemen, Jordanien, Kambodscha, Kamerun, Kanada, Kap Verde, Kasachstan, Katar, Kenia, Kirgisistan, Kiribati, Kolumbien, Komoren, Kongo, Demokratische Republik Kongo, Republik Korea, Kroatien, Kuba, Kuwait, Demokratische Volksrepublik Laos, Lettland, Lesotho, Libanon, Liberia, Libyen, Litauen, Luxemburg, Madagaskar, Malawi, Malediven, Mali, Malta, Marokko, Mauretanien, Mauritius, die ehemalige jugoslawische Republik Mazedonien, Mexiko, Moldau, Mongolei, Montenegro, Mosambik, Namibia, Nepal, Neuseeland, Nicaragua, Niederlande, Niger, Nigeria, Norwegen, Pakistan, Panama, Papua-Neuguinea, Paraguay, Peru, Philippinen, Polen, Portugal, Ruanda, Rumänien, Russische Föderation, Salomonen, Sambia, Samoa, San Marino, São Tomé und Príncipe, Saudi-Arabien, Schweden, Schweiz, Senegal, Serbien, Seychellen, Sierra Leone, Simbabwe, Slowakei, Slowenien, Somalia, Spanien, Sri Lanka, St. Kitts und Nevis, St. Lucia, St. Vincent und die Grenadinen, Südafrika, Sudan, Südsudan, Swasiland, Syrien, Tadschikistan, Tansania, Togo, Trinidad und Tobago, Tschad, Tschechische Republik, Tunesien, Türkei, Turkmenistan, Uganda, Ukraine, Ungarn, Uruguay, Usbekistan, Vanuatu, Venezuela, Vereinigte Arabische Emirate, Vereinigtes Königreich, Vietnam, Zentralafrikanische Republik, Zypern.",
+  "parts": [
+    {
+      "@id": "f5cbca5e-edcc-45f7-86b2-77ae46b6eec9#offset_0_2211",
+      "offset_ini": 0,
+      "offset_end": 2211,
+      "title": ""
+    }
+  ]
+}

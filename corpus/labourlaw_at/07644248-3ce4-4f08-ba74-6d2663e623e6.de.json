@@ -1,0 +1,119 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/07644248-3ce4-4f08-ba74-6d2663e623e6",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "GO für den Beirat für Angelegenheiten des Kurwesens für den als Kurort anerkannten Kurbezirk mit der Bezeichnung „Kurzentrum Wien Oberlaa“"
+    },
+    "hasAuthority": "LGBl. Nr. 36/1987",
+    "id_local": "20000305",
+    "first_date_entry_in_force": "1987-08-25",
+    "version_date": "1987-08-25",
+    "url_consolidated": "http://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dLrW\u0026Gesetzesnummer\u003d20000305\u0026FassungVom\u003d1987-08-26",
+    "classifications": [
+      "60/40 Krankenbehandlung",
+      "60 Gesundheits- und Sozialrecht (S)"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/07644248-3ce4-4f08-ba74-6d2663e623e6/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/07644248-3ce4-4f08-ba74-6d2663e623e6/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 8416,
+  "text": "Präambel/Promulgationsklausel Auf Grund des § 18 a Abs. 9 des Wiener Heilvorkommen- und Kurortegesetzes, LGBl. für Wien Nr. 7/1961, in der Fassung der Gesetze LGBl. für Wien Nr. 37/1975, Nr. 29/1979, Nr. 28/1982 und Nr. 26/1987 wird verordnet:Aufgaben des Beirates § 1. (1) Dem Beirat obliegt die fachliche Beratung der zur Besorgung der Angelegenheiten des Kurwesens zuständigen Organe in wichtigen und grundsätzlichen Fragen des Kurwesens im Kurbezirk. (2) Der Beirat kann in wichtigen und grundsätzlichen Fragen des Kurwesens Empfehlungen abgeben.Zusammensetzung des Beirates § 2. (1) Der Beirat besteht aus a) einem Vertreter des 10. Wiener Gemeindebezirkes, der von der Bezirksvertretung ernannt wird; b) einem von der Kammer der gewerblichen Wirtschaft für Wien entsendeten Vertreter; c) einem von der Landwirtschaftskammer für Wien entsendeten Vertreter der Land- und Forstwirte im Kurbezirk, falls Gebiete land- oder forstwirtschaftlich genutzt werden; d) einem von der Ärztekammer für Wien entsendeten Vertreter der Ärzte, die im Kurbezirk ihren Berufssitz haben; e) einem von der Kammer für Arbeiter und Angestellte für Wien entsendeten Vertreter der Dienstnehmer in den örtlichen Kuranstalten oder Kureinrichtungen; f) zwei vom Bürgermeister entsendeten Vertretern des Magistrats; g) je einem Vertreter des Rechtsträgers jeder Kuranstalt oder Kureinrichtung (§ 19) sowie jeder Krankenanstalt im Kurbezirk. (2) Für jedes Mitglied des Beirates ist in gleicher Weise ein Ersatzmitglied zu bestellen. (3) Fallen sowohl ein Mitglied als auch dessen Ersatzmitglied aus, so ist für die restliche Dauer der Funktionsdauer ein neues Mitglied zu bestellen. Es ist vorzusorgen, daß für das Mitglied, das den Vorsitz des Beirates ausübt, immer ein Ersatzmitglied bestellt ist. (4) Die entsendende Stelle hat während der Funktionsdauer ein neues Mitglied (Ersatzmitglied) zu bestellen, wenn die Voraussetzungen nach Abs. 1 lit. c, d oder e nicht mehr gegeben sind; erforderlichenfalls hat sie ihre Tätigkeit im Beirat einzustellen. Die entsendende Stelle kann auch ein Mitglied (Ersatzmitglied) jederzeit abberufen und durch ein anderes ersetzen. (5) In den Fällen des Abs. 3 und 4 ist der Vorsitzende unverzüglich schriftlich in Kenntnis zu setzen. (6) Die Funktionsdauer des Beirates beträgt fünf Jahre. Sollten die Voraussetzungen zur Entsendung von Mitgliedern (Ersatzmitgliedern) nach Abs. 1 lit. c und g während der Funktionsdauer des Beirates eintreten, sind die entsendenden Stellen erst berechtigt, bei Beginn der nächsten Funktionsdauer Mitglieder (Ersatzmitglieder) in den Beirat zu entsenden.Vorsitzender des Beirates § 3. (1) Der Vertreter des Rechtsträgers der im Kurbezirk gelegenen Kuranstalt oder Kureinrichtung (§ 19 des Wiener Heilvorkommen- und Kurortegesetzes) ist Vorsitzender des Beirates. (2) Sind im Kurbezirk mehrere Kuranstalten oder Kureinrichtungen vorhanden, ist der Vorsitzende aus den Vertretern dieser Rechtsträger durch Wahl zu bestimmen. Zu einer Wahl ist die Anwesenheit von mindestens der Hälfte der Mitglieder und die einfache Stimmenmehrheit erforderlich. (3) Treten die Voraussetzungen nach Abs. 2 während der Funktionsdauer des Beirates ein, ist eine Wahl bei Beginn der nächsten Funktionsdauer des Beirates durchzuführen (§ 2 Abs. 6). Diese Wahl ist im Anschluß an die Konstituierung des Beirates durchzuführen und hat geheim durch Abgabe von Stimmzetteln zu erfolgen. Der bisherige Vorsitzende hat sämtliche Vorbereitungen für die Wahl zu treffen und für die Durchführung der Wahl vorzusorgen. (4) Im Falle der Verhinderung des Vorsitzenden hat das für ihn bestellte Ersatzmitglied die Funktion des Vorsitzenden auszuüben. (5) Dem Vorsitzenden obliegt die Führung der laufenden Geschäfte, die Vorbereitung der Sitzungen und die Besorgung der Kanzleigeschäfte.Konstituierung des Beirates § 4. (1) Der Beirat ist vom Vorsitzenden binnen vier Monaten nach Kundmachung dieser Geschäftsordnung einzuberufen. Diesem obliegt es, sämtliche Vorbereitungen für die konstituierende Sitzung durchzuführen und die Voraussetzungen zur Entsendung im Sinne des § 2 zu überprüfen. (2) Nach Ablauf der Funktionsdauer des Beirates ist der neue Beirat zu seiner konstituierenden Sitzung unverzüglich, spätestens jedoch binnen drei Monaten danach durch den bisherigen Vorsitzenden einzuberufen. Diesem obliegt es, sämtliche Vorbereitungen für die konstituierende Sitzung durchzuführen und die Voraussetzungen zur Entsendung im Sinne des § 2 zu überprüfen. (3) Die Einberufung hat schriftlich und mindestens zwei Wochen vor dem Sitzungstag zu erfolgen. Hinsichtlich der Zustellung der Einberufungen genügt es, wenn die Sendung rechtzeitig der Post zur Beförderung übergeben wird.Einberufung zu Sitzungen des Beirates § 5. (1) Der Beirat tritt nach Notwendigkeit, mindestens aber zweimal im Kalenderjahr, zusammen. (2) Die Einberufung erfolgt durch den Vorsitzenden. (3) Die Einberufung hat - Fälle der Dringlichkeit ausgenommen - schriftlich und mindestens zwei Wochen vor dem Sitzungstag zu erfolgen. Hinsichtlich der Zustellung der Einberufungen genügt es, wenn die Sendung rechtzeitig der Post zur Beförderung übergeben wird. Zugleich mit der Einberufung sind die Gegenstände der Tagesordnung bekanntzugeben. (4) Der Vorsitzende hat den Beirat unverzüglich, jedenfalls aber innerhalb von vier Wochen einzuberufen, wenn mindestens die Hälfte der Mitglieder dies durch schriftlichen Antrag verlangt.Verhinderung eines Mitgliedes des Beirates § 6. Ist ein Mitglied (§ 2) verhindert, seine Funktion auszuüben, so hat es dies unverzüglich dem Vorsitzenden mitzuteilen, welcher für die Dauer der Verhinderung das für das verhinderte Mitglied bestimmte Ersatzmitglied zur Vertretung einzuberufen hat.Beschlußfähigkeit des Beirates § 7. Der Beirat ist beschlußfähig, wenn sämtliche Mitglieder des Beirates ordnungsgemäß einberufen wurden und mindestens die Hälfte der Mitglieder zur Zeit der Beschlußfassung anwesend ist.Nichtöffentlichkeit der Sitzungen des Beirates § 8. Die Sitzungen des Beirates sind nicht öffentlich, sofern nicht der Beirat die Öffentlichkeit der Sitzungen im einzelnen Fall beschließt.Leitung der Sitzungen des Beirates § 9. (1) Der Vorsitzende eröffnet und schließt die Sitzungen, leitet die Verhandlungen, zieht den Sitzungen nach Bedarf Sachverständige zur Beratung bei und handhabt die Sitzungsordnung. (2) Mitgliedern des Beirates, die durch ihr Verhalten den ordnungsgemäßen Ablauf der Sitzung stören, kann der Vorsitzende nach vorheriger Mahnung längstens für die Dauer dieser Sitzung das Wort entziehen; erforderlichenfalls sind sie aus dem Sitzungssaal zu weisen. (3) Ist eine Sitzung öffentlich, so kann der Vorsitzende nach vorheriger Mahnung Zuhörer, die die Ruhe und Ordnung stören, aus dem Sitzungssaal weisen oder nötigenfalls den Sitzungssaal räumen lassen. (4) Falls andauernde Störungen eine geordnete Beratung unmöglich machen, kann der Vorsitzende die Sitzung auf unbestimmte Zeit unterbrechen oder auch schließen.Abstimmung § 10. (1) Zu einem gültigen Beschluß ist die Zustimmung von mehr als der Hälfte der anwesenden Mitglieder des Beirates erforderlich. Der Vorsitzende gibt seine Stimme als letzter ab. Entsteht dadurch Stimmengleichheit, gilt jene Meinung als angenommen, für die der Vorsitzende gestimmt hat. Abstimmungen sind nicht öffentlich. (2) Die Stimmabgabe erfolgt in der Regel durch das Erheben der Hand. Der Vorsitzende hat die Abstimmung durch Abgabe von Stimmzetteln anzuordnen, wenn dies von wenigstens der Hälfte der anwesenden Mitglieder verlangt wird. Bei der Abstimmung durch Abgabe von Stimmzetteln gilt ein Antrag bei Stimmengleichheit als abgelehnt.Niederschriften § 11. (1) Über die Sitzungen des Beirates ist eine Niederschrift aufzunehmen. Der Vorsitzende hat für die Abfassung der Niederschriften vorzusorgen. (2) Die Niederschrift ist in der nächsten Sitzung des Beirates zur Genehmigung vorzulegen. (3) Die vom Beirat genehmigte Niederschrift ist vom Vorsitzenden und zwei Mitgliedern zu unterfertigen. (4) Jedes Mitglied des Beirates ist berechtigt, eine Abschrift (Fotokopie) der Niederschrift über Verlangen zu erhalten. (5) Die Niederschriften sind vom Vorsitzenden aufzubewahren. Die Mitglieder des Beirates können in die Niederschriften Einsicht nehmen.Durchführung der Beschlüsse der Kurkommission § 12. Der Vorsitzende des Beirates hat für die Durchführung der ordnungsgemäß gefaßten Beschlüsse des Beirates zu sorgen.",
+  "parts": [
+    {
+      "@id": "07644248-3ce4-4f08-ba74-6d2663e623e6#offset_243_549",
+      "offset_ini": 243,
+      "offset_end": 549,
+      "title": "Aufgaben des Beirates"
+    },
+    {
+      "@id": "07644248-3ce4-4f08-ba74-6d2663e623e6#offset_550_2601",
+      "offset_ini": 550,
+      "offset_end": 2601,
+      "title": "Zusammensetzung des Beirates"
+    },
+    {
+      "@id": "07644248-3ce4-4f08-ba74-6d2663e623e6#offset_2602_3799",
+      "offset_ini": 2602,
+      "offset_end": 3799,
+      "title": "Vorsitzender des Beirates"
+    },
+    {
+      "@id": "07644248-3ce4-4f08-ba74-6d2663e623e6#offset_3800_4697",
+      "offset_ini": 3800,
+      "offset_end": 4697,
+      "title": "Konstituierung des Beirates"
+    },
+    {
+      "@id": "07644248-3ce4-4f08-ba74-6d2663e623e6#offset_4698_5418",
+      "offset_ini": 4698,
+      "offset_end": 5418,
+      "title": "Einberufung zu Sitzungen des Beirates"
+    },
+    {
+      "@id": "07644248-3ce4-4f08-ba74-6d2663e623e6#offset_5419_5714",
+      "offset_ini": 5419,
+      "offset_end": 5714,
+      "title": "Verhinderung eines Mitgliedes des Beirates"
+    },
+    {
+      "@id": "07644248-3ce4-4f08-ba74-6d2663e623e6#offset_5715_5934",
+      "offset_ini": 5715,
+      "offset_end": 5934,
+      "title": "Beschlußfähigkeit des Beirates"
+    },
+    {
+      "@id": "07644248-3ce4-4f08-ba74-6d2663e623e6#offset_5935_6122",
+      "offset_ini": 5935,
+      "offset_end": 6122,
+      "title": "Nichtöffentlichkeit der Sitzungen des Beirates"
+    },
+    {
+      "@id": "07644248-3ce4-4f08-ba74-6d2663e623e6#offset_6123_6971",
+      "offset_ini": 6123,
+      "offset_end": 6971,
+      "title": "Leitung der Sitzungen des Beirates"
+    },
+    {
+      "@id": "07644248-3ce4-4f08-ba74-6d2663e623e6#offset_6972_7633",
+      "offset_ini": 6972,
+      "offset_end": 7633,
+      "title": "Abstimmung"
+    },
+    {
+      "@id": "07644248-3ce4-4f08-ba74-6d2663e623e6#offset_7634_8249",
+      "offset_ini": 7634,
+      "offset_end": 8249,
+      "title": "Niederschriften"
+    },
+    {
+      "@id": "07644248-3ce4-4f08-ba74-6d2663e623e6#offset_8250_8416",
+      "offset_ini": 8250,
+      "offset_end": 8416,
+      "title": "Durchführung der Beschlüsse der Kurkommission"
+    },
+    {
+      "@id": "07644248-3ce4-4f08-ba74-6d2663e623e6#offset_0_242",
+      "offset_ini": 0,
+      "offset_end": 242
+    }
+  ]
+}

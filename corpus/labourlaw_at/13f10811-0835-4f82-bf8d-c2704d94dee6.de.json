@@ -1,0 +1,116 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/13f10811-0835-4f82-bf8d-c2704d94dee6",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Wiener Heimhilfeeinrichtungengesetz"
+    },
+    "hasAuthority": "LGBl. Nr. 08/2008 zuletzt geändert durch LGBl. Nr. 49/2018 ",
+    "nick": [
+      "WHEG"
+    ],
+    "id_local": "20000253",
+    "first_date_entry_in_force": "2014-01-01",
+    "version_date": "2018-09-28",
+    "url_consolidated": "http://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dLrW\u0026Gesetzesnummer\u003d20000253\u0026FassungVom\u003d2018-09-29",
+    "classifications": [
+      "60 Gesundheits- und Sozialrecht (S)",
+      "60/10 Angelegenheiten der Sozialhilfe"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/13f10811-0835-4f82-bf8d-c2704d94dee6/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/13f10811-0835-4f82-bf8d-c2704d94dee6/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 12820,
+  "text": "Präambel/Promulgationsklausel Der Wiener Landtag hat beschlossen: Im RIS seit 23.05.2014 Zuletzt aktualisiert am 08.10.2018 Gesetzesnummer 20000253 Dokumentnummer LWI40004720Anwendungsbereich § 1. Dieses Gesetz findet Anwendung auf Einrichtungen, die Heimhilfe oder Aus- und Fortbildung für Heimhelferinnen und Heimhelfer durchführen, sofern diese Einrichtungen nicht in den Anwendungsbereich des Gesetzes über die Regelung der Sozialhilfe – Wiener Sozialhilfegesetz – WSHG, LGBl. für Wien Nr. 11/1973, des Wiener Wohn- und Pflegeheimgesetzes – WWPG, LGBl. für Wien Nr. 15/2005, des Gesetzes über die Hilfe für Behinderte (Wiener Behindertengesetz – WBHG), LGBl. für Wien Nr. 16/1986 oder des Wiener Krankenanstaltengesetzes 1987 – Wr. KAG, LGBl. für Wien Nr. 23/1987, in der jeweils geltenden Fassung fallen.Behördliche Aufsicht § 2. Einrichtungen, die Heimhilfe oder Aus- und Fortbildung für Heimhelferinnen und Heimhelfer durchführen, unterliegen der behördlichen Aufsicht. Aufsichtsbehörde ist der Magistrat.Betriebsanzeige § 3. (1) Die Betreiberin oder der Betreiber einer Einrichtung, die Heimhilfe oder Aus- und Fortbildung für Heimhelferinnen und Heimhelfer durchzuführen beabsichtigt, hat die Aufnahme der Tätigkeit der Aufsichtsbehörde mindestens drei Monate vorher anzuzeigen. (2) Wird die Aufnahme eines Betriebs, der Heimhilfe durchführt, angezeigt, sind folgende Unterlagen anzuschließen: 1. Angaben über die Betreiberin oder den Betreiber und die für sie oder ihn handelnden Personen, 2. Nachweis der Vertrauenswürdigkeit der Betreiberin oder des Betreibers und der für die Einrichtung handelnden Personen, 3. Betriebs- und Leistungsbeschreibung inklusive Betreuungskonzept und 4. Personalkonzept, aus dem insbesondere hervorgeht, dass qualifiziertes Personal im erforderlichen Ausmaß zur Verfügung steht. (3) Wird die Aufnahme eines Aus- und Fortbildungsbetriebs angezeigt, sind der Anzeige folgende Unterlagen anzuschließen: 1. Angaben über die Betreiberin oder den Betreiber und die für sie oder ihn handelnden Personen, 2. Angaben über die Ausbildungseinrichtung und Leitung der Ausbildung, 3. Nachweis der Vertrauenswürdigkeit der Betreiberin oder des Betreibers und der für die Einrichtung handelnden Personen, 4. Nachweise über die fachliche und pädagogische Qualifikation der Leitung und der vorgesehenen Lehrpersonen, 5. Nachweis über das Bestehen geeigneter Schulungsräumlichkeiten, 6. Nachweis über die Möglichkeit der Durchführung der praktischen Ausbildung und 7. detaillierter Lehrplan und Nachweis der erforderlichen Lehr- und Unterrichtsmittel. (4) Die Aufnahme des Betriebs ist zu untersagen, wenn auf Grund der Anzeige und der vorgelegten Unterlagen nicht nachgewiesen ist, dass eine fachgerechte Durchführung der angezeigten Tätigkeit (Heimhilfe oder Aus- und Fortbildung) sichergestellt ist. (5) Die Aufnahme der angezeigten Tätigkeit ist zulässig, wenn der Magistrat die Betriebsaufnahme nicht innerhalb von drei Monaten nach Einlangen der Anzeige und aller erforderlichen Unterlagen untersagt. (6) Gegen Bescheide des Magistrats nach Abs. 4 kann Beschwerde an das Verwaltungsgericht Wien erhoben werden.Pflichten der Betreiberin und des Betreibers der Einrichtung § 4. Die Betreiberin oder der Betreiber der Einrichtung ist verpflichtet, 1. die der Verantwortung des Heimhilfeberufs entsprechende Qualität der Aus- und Fortbildung oder Berufsausübung sicherzustellen. Die Betreiberin oder der Betreiber hat insbesondere dafür Sorge zu tragen, dass qualifiziertes Personal und notwendige Betriebsmittel im erforderlichen Ausmaß zur Verfügung stehen, 2. die Einstellung, die Übergabe des Betriebes an eine andere Betreiberin oder einen anderen Betreiber, die Änderung des Namens der Betreiberin, des Betreibers oder der Einrichtung, die Verlegung der Betriebsstätte, die Verlegung des Sitzes der Betreiberin oder des Betreibers und die Änderung in der Leitung der Aufsichtsbehörde anzuzeigen, 3. die gemäß § 3 Abs. 2 und 3 erforderlichen Unterlagen auf dem aktuellen Stand zu halten und in der Einrichtung jederzeit zur Einsicht für die Aufsichtsbehörde bereitzuhalten und 4. zu gewährleisten, dass den Heimhelferinnen und Heimhelfern die für die Fortbildung erforderliche Zeit (16 Stunden in einem Zeitraum von zwei Jahren) eingeräumt wird.Ausübung der Aufsicht § 5. (1) Die Aufsicht ist regelmäßig dahingehend auszuüben, dass die der Verantwortung des Heimhilfeberufs entsprechende Qualität der Berufsausübung oder Aus- und Fortbildung sichergestellt ist. Insbesondere ist zu überprüfen, ob das erforderliche qualifizierte Personal und die notwendigen Betriebsmittel sichergestellt sind. (2) Die Betreiberin oder der Betreiber der Einrichtung ist verpflichtet, die zur Ausübung der Aufsicht notwendigen Auskünfte zu erteilen, die Räumlichkeiten und sonstige Anlagen der Einrichtung betreten und Einsicht in die Unterlagen nehmen zu lassen. Die Aufsichtbehörde ist im Rahmen der Aufsicht berechtigt, von der Einrichtung betreute Personen aufzusuchen und zu den erfolgten Betreuungsleistungen zu befragen. (3) Die Ergebnisse der Überprüfung sind der Betreiberin oder dem Betreiber der Einrichtung mitzuteilen. (4) Werden bei der Überprüfung einer Einrichtung Mängel festgestellt, hat der Magistrat der Betreiberin oder dem Betreiber die Behebung der Mängel unter Setzung einer angemessenen Frist aufzutragen. (5) Der Magistrat hat den Betrieb der Einrichtung ganz oder teilweise zu untersagen, wenn 1. schwerwiegende Mängel vorliegen, die nicht behebbar sind oder zu deren Behebung die Betreiberin oder der Betreiber nicht bereit ist oder 2. schwerwiegende Mängel trotz Erteilung eines Auftrages nach Abs. 4 nicht behoben wurden. (6) Ein nach Abs. 5 erlassener Bescheid ist wieder aufzuheben, wenn der Grund für die Untersagung weggefallen ist. (7) Gegen Bescheide des Magistrats nach Abs. 4 und 5 kann Beschwerde an das Verwaltungsgericht Wien erhoben werden.Auskunftspflicht und Datenschutz § 6. (1) Die Aufsichtsbehörde hat dem nach § 34 Wiener Sozialhilfegesetz – WSHG zuständigen Sozialhilfeträger zum Zweck der Gewährung von sozialen Diensten über das Vorliegen, die Art und das Ausmaß von im Rahmen der Aufsichtsführung festgestellten Mängeln Auskunft zu erteilen. (2) Bescheide nach § 5 Abs. 4 und 5 sowie Beschwerdevorentscheidungen und Entscheidungen des Verwaltungsgerichtes Wien sind von der Aufsichtsbehörde dem nach § 34 Wiener Sozialhilfegesetz – WSHG zuständigen Sozialhilfeträger in Abschrift zur Kenntnis zu bringen. (3) Zur Sicherung der Zwecke nach Abs. 1 hat der nach § 34 Wiener Sozialhilfegesetz – WSHG zuständige Sozialhilfeträger Vorkehrungen zu treffen, die den Schutz der Geheimhaltungsinteressen der betroffenen Personen im Sinne des § 1 Abs. 2 Datenschutzgesetz – DSG, BGBl. I Nr. 165/1999 in der Fassung BGBl. I Nr. 120/2017, sicherstellen.Ausbildung § 7. (1) Die Zulassung zur Ausbildung erfolgt durch die Leitung der Ausbildung. Voraussetzung für die Zulassung ist 1. die erfolgreiche Absolvierung der allgemeinen Schulpflicht, 2. die Vollendung des 18. Lebensjahres, 3. die für die Erfüllung der Berufspflichten erforderliche gesundheitliche Eignung und Vertrauenswürdigkeit entsprechend § 3 Abs. 3 und 4 des Wiener Sozialbetreuungsberufegesetzes – WSBBG in der jeweils geltenden Fassung sowie 4. ausreichende Kenntnis der deutschen Sprache. (2) Von der Voraussetzung der erfolgreichen Absolvierung der Schulpflicht kann im Einzelfall abgesehen werden, wenn die Person ein solches Maß an Allgemeinbildung nachweist, das erwarten lässt, dass sie dem theoretischen Unterricht folgen kann. (3) Die Ausbildung zur Heimhelferin und zum Heimhelfer erfolgt nach den Bestimmungen des Wiener Sozialbetreuungsberufegesetzes – WSBBG in der jeweils geltenden Fassung. (4) Die Ausbildung ist mit einer kommissionellen Prüfung abzuschließen. Über die Zulassung zur Abschlussprüfung entscheidet die Leitung der Ausbildung. Personen, die die Ausbildung erfolgreich absolviert haben, sind zur Abschlussprüfung zuzulassen. Die Betreiberin oder der Betreiber einer Ausbildungseinrichtung hat eine Prüfungskommission zur Abnahme der Abschlussprüfung einzurichten. Die Prüfungskommission besteht aus einer fachlich geeigneten Vertreterin oder einem fachlich geeigneten Vertreter des Magistrats, die oder der den Vorsitz führt, der Leitung der Ausbildung, drei Vertreterinnen oder Vertretern des Lehrpersonals, die von der Leitung der Ausbildung bestellt werden und einer fachkundigen Vertreterin oder einem fachkundigen Vertreter der gesetzlichen Interessensgemeinschaft der Dienstnehmerinnen und Dienstnehmer. Für jedes Mitglied der Kommission ist ein Ersatzmitglied zu bestellen. Die Kommission entscheidet mit einfacher Stimmenmehrheit. Bei Stimmengleichheit entscheidet die Stimme vom Vorsitz. (5) Nähere Bestimmungen über die Ausbildung und Prüfung werden durch Verordnung der Landesregierung getroffen. Diese regelt insbesondere: 1. das Mindeststundenausmaß und die Lehrziele für die einzelnen Wissensgebiete sowie die Gliederung der praktischen Ausbildung, 2. die Leistungsbeurteilung während der Ausbildung und bei der kommissionellen Abschlussprüfung sowie die Prüfungsgegenstände und die Form der Zeugnisse, 3. die Qualifikation der Vortragenden, 4. die kommissionelle Abschlussprüfung.Fortbildung § 8. (1) Die Fortbildung muss auf die Inhalte der Ausbildung abgestimmt sein und eine Vertiefung, Aktualisierung und Spezialisierung der Fähigkeiten, Fertigkeiten und Kenntnisse ermöglichen sowie die neuesten Entwicklungen und Erkenntnisse in der Heimhilfe vermitteln. (2) Die Betreiberin oder der Betreiber der Fortbildungseinrichtung hat eine schriftliche Bestätigung über Umfang und Inhalt sowie erfolgreiche Absolvierung der Fortbildung auszustellen.Strafbestimmungen § 9. Eine Verwaltungsübertretung, die mit Geldstrafe bis zu 3 600 EUR zu bestrafen ist, begeht, wer als Betreiberin oder als Betreiber einer Einrichtung nach diesem Gesetz 1. eine nicht entsprechend dem Wiener Sozialbetreuungsberufegesetz – WSBBG in der geltenden Fassung qualifizierte Person als Heimhelferin oder Heimhelfer einsetzt, 2. eine Heimhelferin oder einen Heimhelfer zu Tätigkeiten einsetzt, zu denen die Heimhelferin oder der Heimhelfer nicht berechtigt ist, 3. entgegen § 4 Z 4 der Heimhelferin oder dem Heimhelfer die für die Fortbildung erforderliche Zeit nicht einräumt, 4. entgegen § 3 Abs. 1 die Betriebsanzeige nicht rechtzeitig erstattet, 5. entgegen § 3 Abs. 1 eine Einrichtung ohne Betriebsanzeige führt, 6. den Organen des Magistrats die Wahrnehmung der behördlichen Aufsicht nicht ermöglicht oder erheblich erschwert, insbesondere indem sie oder er entgegen § 5 Abs. 2 das Betreten der Räumlichkeiten und sonstiger Anlagen nicht gestattet, ihrer oder seiner Auskunftspflicht nicht nachkommt oder keine Einsicht in die Unterlagen gewährt, 7. ihrer oder seiner Verpflichtung gemäß § 4 Z 2 nicht nachkommt, 8. ihrer oder seiner Verpflichtung gemäß § 4 Z 3, die gemäß § 3 Abs. 2 und 3 erforderlichen Unterlagen auf aktuellem Stand zu halten und in der Einrichtung jederzeit zur Einsicht für die Aufsichtsbehörde bereitzuhalten, nicht nachkommt, 9. trotz Aufforderung durch die Aufsichtsbehörde einen Mangel nicht innerhalb der gemäß § 5 Abs. 4 gesetzten Frist behebt oder 10. trotz Untersagung des Betriebes gemäß § 5 Abs. 5 durch die Aufsichtsbehörde die Einrichtung weiter betreibt.Übergangsbestimmungen § 10. (1) Betreiberinnen oder Betreiber von Einrichtungen im Sinne des § 1, die zum Zeitpunkt des In-Kraft-Tretens dieses Gesetzes bereits bestehen, haben spätestens ein Jahr nach In-Kraft-Treten dieses Gesetzes die gemäß § 3 Abs. 2 und 3 erforderlichen Unterlagen in der Einrichtung jederzeit zur Einsicht für die Aufsichtsbehörde bereitzuhalten. (2) Betreiber, die Personen beschäftigen, die nach dem Gesetz über das Berufsbild, die Aus- und Fortbildung sowie die Durchführung der Heimhilfe (Wiener Heimhilfegesetz – WHHG), LGBl. für Wien Nr. 23/1997, zur Führung der Berufsbezeichnung „Heimhelferin“ berechtigt sind, dürfen diese über den 26. Juli 2009 hinaus nur unter der Voraussetzung beschäftigen, dass die von diesen absolvierte Ausbildung der Ausbildung nach dem Gesetz über Sozialbetreuungsberufe in Wien – Wiener Sozialbetreuungsberufegesetz – WSBBG in der geltenden Fassung in Umfang und Inhalt gleichwertig ist und die Qualifikationsunterschiede ausgeglichen wurden. Die entsprechenden Qualifikationsnachweise sind ab dem 26. Juli 2009 in der Einrichtung, in der die Heimhelferinnen und Heimhelfer beschäftigt sind, jederzeit zur Einsicht für die Aufsichtbehörde bereitzuhalten.Außer-Kraft-Treten § 11. Das Gesetz über das Berufsbild, die Aus- und Fortbildung sowie die Durchführung der Heimhilfe (Wiener Heimhilfegesetz – WHHG), LGBl. für Wien Nr. 23/1997 in der Fassung LGBl. für Wien Nr. 46/2004, tritt mit In-Kraft-Treten dieses Gesetzes außer Kraft.",
+  "parts": [
+    {
+      "@id": "13f10811-0835-4f82-bf8d-c2704d94dee6#offset_174_808",
+      "offset_ini": 174,
+      "offset_end": 808,
+      "title": ""
+    },
+    {
+      "@id": "13f10811-0835-4f82-bf8d-c2704d94dee6#offset_809_1011",
+      "offset_ini": 809,
+      "offset_end": 1011,
+      "title": ""
+    },
+    {
+      "@id": "13f10811-0835-4f82-bf8d-c2704d94dee6#offset_1012_3139",
+      "offset_ini": 1012,
+      "offset_end": 3139,
+      "title": ""
+    },
+    {
+      "@id": "13f10811-0835-4f82-bf8d-c2704d94dee6#offset_3140_4275",
+      "offset_ini": 3140,
+      "offset_end": 4275,
+      "title": ""
+    },
+    {
+      "@id": "13f10811-0835-4f82-bf8d-c2704d94dee6#offset_4276_5894",
+      "offset_ini": 4276,
+      "offset_end": 5894,
+      "title": ""
+    },
+    {
+      "@id": "13f10811-0835-4f82-bf8d-c2704d94dee6#offset_5895_6804",
+      "offset_ini": 5895,
+      "offset_end": 6804,
+      "title": ""
+    },
+    {
+      "@id": "13f10811-0835-4f82-bf8d-c2704d94dee6#offset_6805_9242",
+      "offset_ini": 6805,
+      "offset_end": 9242,
+      "title": ""
+    },
+    {
+      "@id": "13f10811-0835-4f82-bf8d-c2704d94dee6#offset_9243_9708",
+      "offset_ini": 9243,
+      "offset_end": 9708,
+      "title": ""
+    },
+    {
+      "@id": "13f10811-0835-4f82-bf8d-c2704d94dee6#offset_9709_11331",
+      "offset_ini": 9709,
+      "offset_end": 11331,
+      "title": ""
+    },
+    {
+      "@id": "13f10811-0835-4f82-bf8d-c2704d94dee6#offset_11332_12544",
+      "offset_ini": 11332,
+      "offset_end": 12544,
+      "title": ""
+    },
+    {
+      "@id": "13f10811-0835-4f82-bf8d-c2704d94dee6#offset_12545_12820",
+      "offset_ini": 12545,
+      "offset_end": 12820,
+      "title": ""
+    },
+    {
+      "@id": "13f10811-0835-4f82-bf8d-c2704d94dee6#offset_0_173",
+      "offset_ini": 0,
+      "offset_end": 173
+    }
+  ]
+}

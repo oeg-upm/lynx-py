@@ -1,0 +1,101 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/9ce73235-4f12-4745-ae97-2209e68c9fb8",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Kautionsschutzgesetz"
+    },
+    "hasAuthority": "BGBl. Nr. 229/1937",
+    "id_local": "10008102",
+    "first_date_entry_in_force": "1937-07-15",
+    "version_date": "2002-01-01",
+    "url_consolidated": "http://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d10008102\u0026FassungVom\u003d2002-01-01",
+    "classifications": [
+      "60/04 Arbeitsrecht allgemein"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/9ce73235-4f12-4745-ae97-2209e68c9fb8/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/9ce73235-4f12-4745-ae97-2209e68c9fb8/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 4514,
+  "text": "§ 1. (1) Ein Dienstgeber darf sich von seinem Dienstnehmer oder für diesen von einem Dritten eine Kaution nur zur Sicherung von Schadenersatzansprüchen bestellen lassen, die ihm gegen den Dienstnehmer aus dem Dienstverhältnis erwachsen können. Als Kaution können nur bestellt werden: a) Einlagebücher, bei denen Rückzahlungen nur gegen Abgabe der Unterschrift und Erbringung des Nämlichkeitsnachweises des Kautionsbestellers erfolgen dürfen; b) Bargeld, Pretiosen, Effekten oder andere Vermögenswerte, die derart bei einem Kreditinstitut hinterlegt werden, daß über allfällige Zinsen oder Gewinnanteile der Kautionsbesteller, im übrigen aber über das Depot der Kautionsbesteller nur im Einvernehmen mit dem Kautionsberechtigten verfügen kann; c) Bürgschaften; d) Kautionshypotheken; e) Kautions(Veruntreuungs)versicherungspolizzen. (2) Die Bestellung einer Kaution bedarf der Schriftform.§ 2. (1) Der Kautionsberechtigte ist – vorbehaltlich für den Kautionsbesteller günstigerer vertragsmäßiger Bestimmungen – verpflichtet, die Kaution binnen vier Wochen nach Auflösung des Dienstverhältnisses, wenn der Dienstnehmer aber zur Rechnungslegung verpflichtet ist, binnen vier Wochen nach gelegter Rechnung freizugeben. (2) Die Bestimmung des Absatzes 1 gilt nicht, soweit die Kaution mit Einverständnis des Kautionsbestellers zur Deckung eines entstandenen Schadens verwendet wird oder der Dienstgeber innerhalb der im Absatz 1 bezeichneten oder der vereinbarten kürzeren Frist Schadenersatzansprüche gerichtlich geltend macht.§ 3. Der Abschluß oder die Aufrechterhaltung eines Dienstvertrages darf vom Dienstgeber nicht davon abhängig gemacht werden, daß dem Dienstgeber vom Dienstnehmer oder einem Dritten ein Darlehen gewährt wird oder daß der Dienstnehmer oder ein Dritter sich mit einer Geldeinlage an dem Unternehmen des Dienstgebers als stiller Gesellschafter beteiligt.§ 4. Rechtsgeschäfte, die den Bestimmungen des § 1, sowie Verträge über Darlehen oder Geschäftsbeteiligungen, die den Bestimmungen des § 3 widersprechen, sind nichtig. Das auf Grund solcher Rechtsgeschäfte und Verträge Geleistete kann jederzeit zurückgefordert werden.§ 5. (1) Es ist verboten, in Druckwerken oder auf andere Art eine Ankündigung über eine offene Stelle zu veröffentlichen, worin der Abschluß eines Dienstvertrages von der Leistung einer Kaution in einer nach diesem Gesetze nicht zulässigen Art oder von der Gewährung eines Darlehens oder von einer Beteiligung an dem Unternehmen des Dienstgebers mit einer Geldeinlage als stiller Gesellschafter abhängig gemacht wird. (2) Es ist ferner verboten, eine Ankündigung über eine offene Stelle, worin der Abschluß eines Dienstvertrages von dem Besitz von Vermögen oder von der Leistung einer nach diesem Gesetze zulässigen Kaution abhängig gemacht wird, ohne Angabe des Vor- und Zunamens (der Firma) und der Anschrift des Dienstgebers, insbesondere bloß unter Chiffreanschrift oder unter Anschrift von Vermittlungsstellen (Anzeigenbureaus, Stellenvermittlungen und dergleichen), in Druckwerken oder auf andere Art zu veröffentlichen.§ 7. (1) Wer sich entgegen den Bestimmungen des § 1 eine Kaution bestellen lässt oder den Bestimmungen der §§ 2, 3 und 5 zuwiderhandelt, begeht eine Verwaltungsübertretung und ist unbeschadet einer allfälligen strafgerichtlichen Verfolgung von der Bezirksverwaltungsbehörde mit einer Geldstrafe bis zu 290 Euro zu bestrafen. (2) Der Versuch ist strafbar.§ 8. (1) Unter Dienstverträgen versteht dieses Gesetz auch Lehr-, Praktikanten- und Volontärverträge. (2) Dieses Gesetz findet auf die Arbeitsverhältnisse der Heimarbeiter und der Zwischen(Stück)meister (§ 1, lit. a und b, des Gesetzes über die Regelung der Arbeits- und Lohnverhältnisse in der Heimarbeit), StGBl. Nr. 140/1918) sinngemäße Anwendung.§ 9. Die Vorschriften des § 35 des Angestelltengesetzes, BGBl. Nr. 292/1921, des § 36 und des § 37, Absatz 1, des Gutsangestelltengesetzes, BGBl. Nr. 538/1923, werden aufgehoben; die Vorschriften des § 19 der Hausbesorgerordnung, BGBl. Nr. 878/1922, bleiben unberührt.§ 10. Mit der Vollziehung dieses Bundesgesetzes sind je nach dem Gegenstande der Bundesminister für soziale Verwaltung und der Bundesminister für Justiz, ersterer im Einvernehmen mit dem Bundeskanzler (dem gemäß Artikel 91 Absatz 4 der Verfassung 1934 zuständigen Bundesminister), betraut.§ 11. § 7 Abs. 1 in der Fassung des Bundesgesetzes BGBl. I Nr. 98/2001 tritt mit 1. Jänner 2002 in Kraft und ist auf Sachverhalte anzuwenden, die sich nach dem 31. Dezember 2001 ereignen.",
+  "parts": [
+    {
+      "@id": "9ce73235-4f12-4745-ae97-2209e68c9fb8#offset_0_887",
+      "offset_ini": 0,
+      "offset_end": 887,
+      "title": ""
+    },
+    {
+      "@id": "9ce73235-4f12-4745-ae97-2209e68c9fb8#offset_888_1522",
+      "offset_ini": 888,
+      "offset_end": 1522,
+      "title": ""
+    },
+    {
+      "@id": "9ce73235-4f12-4745-ae97-2209e68c9fb8#offset_1523_1872",
+      "offset_ini": 1523,
+      "offset_end": 1872,
+      "title": ""
+    },
+    {
+      "@id": "9ce73235-4f12-4745-ae97-2209e68c9fb8#offset_1873_2140",
+      "offset_ini": 1873,
+      "offset_end": 2140,
+      "title": ""
+    },
+    {
+      "@id": "9ce73235-4f12-4745-ae97-2209e68c9fb8#offset_2141_3066",
+      "offset_ini": 2141,
+      "offset_end": 3066,
+      "title": ""
+    },
+    {
+      "@id": "9ce73235-4f12-4745-ae97-2209e68c9fb8#offset_3067_3420",
+      "offset_ini": 3067,
+      "offset_end": 3420,
+      "title": ""
+    },
+    {
+      "@id": "9ce73235-4f12-4745-ae97-2209e68c9fb8#offset_3421_3770",
+      "offset_ini": 3421,
+      "offset_end": 3770,
+      "title": ""
+    },
+    {
+      "@id": "9ce73235-4f12-4745-ae97-2209e68c9fb8#offset_3771_4038",
+      "offset_ini": 3771,
+      "offset_end": 4038,
+      "title": ""
+    },
+    {
+      "@id": "9ce73235-4f12-4745-ae97-2209e68c9fb8#offset_4039_4327",
+      "offset_ini": 4039,
+      "offset_end": 4327,
+      "title": ""
+    },
+    {
+      "@id": "9ce73235-4f12-4745-ae97-2209e68c9fb8#offset_4328_4514",
+      "offset_ini": 4328,
+      "offset_end": 4514,
+      "title": ""
+    }
+  ]
+}

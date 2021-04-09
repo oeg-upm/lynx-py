@@ -1,0 +1,98 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/f95553fb-0dc5-456e-90e5-1b3f18b14823",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Wiener Frühförderungsgesetz"
+    },
+    "hasAuthority": "Landesregierung Wien",
+    "nick": [
+      "WFfG"
+    ],
+    "id_local": "20000262",
+    "first_date_entry_in_force": "2014-01-01",
+    "version_date": "2019-06-28",
+    "url_consolidated": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dLrW\u0026Gesetzesnummer\u003d20000262\u0026FassungVom\u003d2014-01-01",
+    "classifications": [
+      "60/20 Jugendschutz und Jugendwohlfahrt, Kindertagesheimwesen",
+      "60 Gesundheits- und Sozialrecht (S)"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/f95553fb-0dc5-456e-90e5-1b3f18b14823/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/f95553fb-0dc5-456e-90e5-1b3f18b14823/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 7565,
+  "text": "Bundesland Wien Änderung LGBl. Nr. 27/2013 LGBl. Nr. 42/2016 LGBl. Nr. 24/2019 LGBl. Nr. 33/2019 Präambel/Promulgationsklausel Der Wiener Landtag hat beschlossen: Im RIS seit 23.05.2014Zielsetzung § 1. Um allen Kindern beste Bildungsmöglichkeiten und Startchancen in das weitere Bildungs- und spätere Berufsleben unabhängig von ihrer sozioökonomischen Herkunft zu bieten, sollen Kinder im letzten Jahr vor der Schulpflicht zum Besuch von geeigneten elementaren Bildungseinrichtungen verpflichtet werden.Begriffsbestimmungen § 2. Im Sinne dieses Gesetzes 1. ist eine geeignete elementare Bildungseinrichtung a) ein gemäß dem Wiener Kindergartengesetz – WKGG, LGBl. für Wien Nr. 17/2003, in der jeweils geltenden Fassung, bewilligter Kindergarten, b) ein Übungskindergarten, der einer öffentlichen Schule zum Zwecke lehrplanmäßig vorgesehener Übungen eingegliedert ist, oder c) eine gemäß dem Wiener Tagesbetreuungsgesetz – WTBG, LGBl. für Wien Nr. 73/2001, in der jeweils geltenden Fassung, bewilligte Kindergruppe, sofern diese Einrichtung nach dem Wiener Bildungsplan (Anlage 1), dem Bundesländerübergreifenden BildungsRahmenPlan für elementare Bildungseinrichtungen in Österreich (Anlage 2), dem Werte- und Orientierungsleitfaden (Anlage 3), dem Leitfaden zur sprachlichen Förderung am Übergang vom Kindergarten in die Grundschule (Anlage 4) sowie dem Modul für das letzte Jahr in elementaren Bildungseinrichtungen (Anlage 5) arbeitet 2. entspricht das verpflichtende Kindergartenjahr dem Unterrichtsjahr im Sinne des § 56 Wiener Schulgesetz – WrSchG, LGBl. für Wien Nr. 20/1976, in der jeweils geltenden Fassung.Umfang der Besuchspflicht § 3. (1) Der Besuch der geeigneten elementaren Bildungseinrichtung hat während des gesamten verpflichtenden Kindergartenjahres im Ausmaß von mindestens 20 Stunden an mindestens vier Tagen pro Woche zu erfolgen. Die Besuchspflicht beginnt mit dem 6. September 2010. (2) Zum Besuch sind jene Kinder verpflichtet, die vor dem 1. September des jeweiligen Kalenderjahres das 5. Lebensjahr vollendet und ihren Hauptwohnsitz in Wien haben. Die Erziehungsberechtigten sind verpflichtet, dafür zu sorgen, dass ihre Kinder die Besuchspflicht erfüllen. (3) Das Fernbleiben ist nur im Falle einer gerechtfertigten Verhinderung des Kindes zulässig. Diese liegt insbesondere bei Erkrankung des Kindes oder der Erziehungsberechtigten, Urlaub im Ausmaß von höchstens fünf Wochen innerhalb des verpflichtenden Kindergartenjahres sowie außergewöhnlichen Ereignissen vor. Die Erziehungsberechtigten haben Verhinderungen der elementaren Bildungseinrichtung zu melden. (4) Von den Erfordernissen des WKGG, des WTBG sowie der Verordnungen, die auf Grund dieser Gesetze ergangen sind, kann in begründeten Ausnahmefällen abgesehen werden, wenn dies zur Sicherstellung der Umsetzung der Besuchspflicht unumgänglich notwendig ist. Der Träger der geeigneten elementaren Bildungseinrichtung hat das Vorliegen eines begründeten Ausnahmefalles und das Absehen von der Einhaltung dieser Bestimmungen der Behörde unverzüglich anzuzeigen. Liegen die Voraussetzungen für das Absehen von der Einhaltung dieser Bestimmungen nicht vor, hat die Behörde dies mit Bescheid festzustellen.Ausnahmen von der Besuchspflicht § 4. (1) Von der Besuchspflicht gemäß § 3 ausgenommen sind Kinder, 1. die vorzeitig die Schule besuchen (§ 7 Schulpflichtgesetz 1985, BGBl. Nr. 76, in der Fassung BGBl. I Nr. 113/2006), 2. denen auf Grund einer Behinderung, aus medizinischen Gründen oder auf Grund eines besonderen sonderpädagogischen Förderbedarfes der Besuch nicht zugemutet werden kann, 3. denen auf Grund der Entfernung zwischen Wohnort und nächstgelegener geeigneter elementarer Bildungseinrichtung der Besuch nicht zugemutet werden kann, 4. deren Betreuung durch eine Tagesmutter oder einen Tagesvater im Sinne des WTBG erfolgt, wenn der Leitfaden für die häusliche Betreuung sowie die Betreuung durch Tageseltern (Anlage 6) und der Werte- und Orientierungsleitfaden (Anlage 3) eingehalten werden, 5. deren Betreuung durch häusliche Erziehung erfolgt, wenn der Leitfaden für die häusliche Betreuung sowie die Betreuung durch Tageseltern (Anlage 6) und der Werte- und Orientierungsleitfaden (Anlage 3) eingehalten werden, oder 6. die eine elementare Bildungseinrichtung außerhalb Wiens besuchen. (2) Bei Vorliegen eines Ausnahmegrundes gemäß Abs. 1 Z 2 bis 6 haben die Erziehungsberechtigten diesen der Behörde bis spätestens 30. Juni vor Beginn des kommenden verpflichtenden Kindergartenjahres anzuzeigen. Wird das Vorliegen eines Ausnahmegrundes angezeigt, obwohl die Voraussetzungen dafür nicht vorliegen, so hat die Behörde dies mit Bescheid festzustellen. (3) entfällt; LGBl. für Wien Nr. 24/2019 vom 9.5.2019Datenverwendung § 5. (1) Zum Zweck der Überprüfung der Einhaltung der Besuchspflicht ist von der Behörde mit Hilfe der automationsunterstützten Datenverarbeitung ein Verzeichnis derjenigen Kinder zu führen, die der Besuchspflicht unterliegen und ihren Hauptwohnsitz in Wien haben. Dieses Verzeichnis hat folgende Daten zu enthalten: 1. Vor- und Nachnamen des Kindes und der Erziehungsberechtigten 2. Geburtsdatum und Geschlecht des Kindes 3. Wohnadresse des Kindes und der Erziehungsberechtigten. Die für die Erstellung der Schulpflichtmatrik gemäß § 16 Schulpflichtgesetz 1985 BGBl. Nr. 76/1985 idF BGBl. I Nr. 101/2018 zuständige Stelle ist ermächtigt und verpflichtet, die im Zuge der Erstellung der Schulpflichtmatrik verarbeiteten Daten der besuchspflichtigen Kinder der Behörde zu übermitteln.. (2) Die Träger der geeigneten elementaren Bildungseinrichtungen sind verpflichtet, folgende Daten der besuchspflichtigen Kinder zum Nachweis der Erfüllung der Besuchspflicht automationsunterstützt zu verarbeiten und an die Behörde zu übermitteln: 1. Vor- und Nachnamen des Kindes und der Erziehungsberechtigten 2. Geburtsdatum und Geschlecht des Kindes 3. Wohnadresse des Kindes und der Erziehungsberechtigten 4. Anwesenheitszeiten 5. Ein- und Austrittsdatum. Diese Daten sind von der Behörde zum Nachweis der Erfüllung der Besuchspflicht automationsunterstützt zu verarbeiten. (3) Die Behörde hat zum Nachweis der berechtigten Nichterfüllung der Besuchspflicht die Daten gemäß Abs. 1 derjenigen Kinder, die gemäß § 4 von der Besuchspflicht ausgenommen sind, zu ermitteln und automationsunterstützt zu verarbeiten. Zu diesem Zweck sind die Daten über die Schuleinschreibung und den vorzeitigen Schulbesuch (§ 4 Abs. 1 Z 1) von der zuständigen Stelle an die Behörde zu übermitteln. (4) Zur Sicherstellung des beitragsfreien Besuches im Sinne des Art. 6 der Vereinbarung gemäß Art. 15a B-VG zwischen dem Bund und den Ländern über die Elementarpädagogik für die Kindergartenjahre 2018/19 bis 2021/22 sind die Träger der elementaren Bildungseinrichtungen und die Behörde ermächtigt, die gemäß Abs. 1 bis 3 verarbeiteten Daten der im Magistrat zuständigen Stelle zum Zwecke der Gewährung von Förderungen zu übermitteln. Die zur Gewährung von Förderungen im Magistrat zuständige Stelle ist ermächtigt, diese Daten automationsunterstützt zu verarbeiten.Behörden und Rechtsmittel § 6. (1) Behörde im Sinne dieses Gesetzes ist der Magistrat als Bezirksverwaltungsbehörde. (2) Über Beschwerden gegen Bescheide, die die Behörde auf Grund dieses Gesetzes erlässt, entscheidet das Verwaltungsgericht Wien.Strafbestimmungen § 7. Die Nichterfüllung der in § 3 festgelegten Besuchspflicht stellt eine Verwaltungsübertretung dar und ist mit einer Geldstrafe bis zu 440 Euro zu bestrafen.In-Kraft-Treten § 8. Dieses Gesetz tritt mit dem der Kundmachung folgenden Tag in Kraft.",
+  "parts": [
+    {
+      "@id": "f95553fb-0dc5-456e-90e5-1b3f18b14823#offset_185_502",
+      "offset_ini": 185,
+      "offset_end": 502,
+      "title": "Zielsetzung"
+    },
+    {
+      "@id": "f95553fb-0dc5-456e-90e5-1b3f18b14823#offset_503_1614",
+      "offset_ini": 503,
+      "offset_end": 1614,
+      "title": "Begriffsbestimmungen"
+    },
+    {
+      "@id": "f95553fb-0dc5-456e-90e5-1b3f18b14823#offset_1615_3187",
+      "offset_ini": 1615,
+      "offset_end": 3187,
+      "title": "Umfang der Besuchspflicht"
+    },
+    {
+      "@id": "f95553fb-0dc5-456e-90e5-1b3f18b14823#offset_3188_4706",
+      "offset_ini": 3188,
+      "offset_end": 4706,
+      "title": "Ausnahmen von der Besuchspflicht"
+    },
+    {
+      "@id": "f95553fb-0dc5-456e-90e5-1b3f18b14823#offset_4707_7053",
+      "offset_ini": 4707,
+      "offset_end": 7053,
+      "title": "Datenverwendung"
+    },
+    {
+      "@id": "f95553fb-0dc5-456e-90e5-1b3f18b14823#offset_7054_7299",
+      "offset_ini": 7054,
+      "offset_end": 7299,
+      "title": "Behörden und Rechtsmittel"
+    },
+    {
+      "@id": "f95553fb-0dc5-456e-90e5-1b3f18b14823#offset_7300_7477",
+      "offset_ini": 7300,
+      "offset_end": 7477,
+      "title": "Strafbestimmungen"
+    },
+    {
+      "@id": "f95553fb-0dc5-456e-90e5-1b3f18b14823#offset_7478_7565",
+      "offset_ini": 7478,
+      "offset_end": 7565,
+      "title": "In-Kraft-Treten"
+    },
+    {
+      "@id": "f95553fb-0dc5-456e-90e5-1b3f18b14823#offset_0_184",
+      "offset_ini": 0,
+      "offset_end": 184
+    }
+  ]
+}

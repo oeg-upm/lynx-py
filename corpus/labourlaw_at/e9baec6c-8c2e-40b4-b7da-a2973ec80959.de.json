@@ -1,0 +1,59 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/e9baec6c-8c2e-40b4-b7da-a2973ec80959",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Verwendung von Erlösen veräußerter Ehrengeschenke"
+    },
+    "hasAuthority": "BGBl. II Nr. 123/2013",
+    "id_local": "20008401",
+    "first_date_entry_in_force": "2013-05-07",
+    "version_date": "2013-05-07",
+    "url_consolidated": "http://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d20008401\u0026FassungVom\u003d2013-05-08",
+    "classifications": [
+      "63/03 Vertragsbedienstetengesetz 1948",
+      "60/01 Arbeitsvertragsrecht"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/e9baec6c-8c2e-40b4-b7da-a2973ec80959/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/e9baec6c-8c2e-40b4-b7da-a2973ec80959/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 775,
+  "text": "Präambel/Promulgationsklausel Auf Grund des § 59 Abs. 4 des Beamten-Dienstrechtsgesetzes 1979 (BDG 1979), BGBl. Nr. 333/1979, und des § 5 Abs. 1 Vertragsbedienstetengesetzes 1948 (VBG), BGBl. Nr. 86/1948, jeweils zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 120/2012, wird verordnet:§ 1. Vereinnahmte Erlöse aus Veräußerungen von Ehrengeschenken, die Bediensteten im Bereich des Bundesministeriums für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft übergeben wurden, sind nach Anhörung des jeweils zuständigen Personalvertretungsorgans für karitative Zwecke oder zur Linderung von Notlagen zu verwenden, in die Bedienstete aus dem Bereich der vereinnahmenden Dienstbehörde unverschuldet geraten sind.§ 2. Auf Grund des § 1 erwächst niemandem ein Rechtsanspruch.",
+  "parts": [
+    {
+      "@id": "e9baec6c-8c2e-40b4-b7da-a2973ec80959#offset_290_714",
+      "offset_ini": 290,
+      "offset_end": 714,
+      "title": ""
+    },
+    {
+      "@id": "e9baec6c-8c2e-40b4-b7da-a2973ec80959#offset_715_775",
+      "offset_ini": 715,
+      "offset_end": 775,
+      "title": ""
+    },
+    {
+      "@id": "e9baec6c-8c2e-40b4-b7da-a2973ec80959#offset_0_289",
+      "offset_ini": 0,
+      "offset_end": 289
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/72a957c7-750d-4dc6-a065-f6f6dfc44c54",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Soziale Sicherheit – Durchführung (Spanien)"
+    },
+    "hasAuthority": "BGBl. Nr. 306/1983",
+    "id_local": "10008532",
+    "first_date_entry_in_force": "1983-06-30",
+    "version_date": "1983-06-30",
+    "url_consolidated": "http://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d10008532\u0026FassungVom\u003d1983-07-01",
+    "classifications": [
+      "69/03 Soziale Sicherheit"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/72a957c7-750d-4dc6-a065-f6f6dfc44c54/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/72a957c7-750d-4dc6-a065-f6f6dfc44c54/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 10310,
+  "text": "Ratifikationstext Die Vereinbarung tritt gemäß ihrem Art. 18 am 1. Juli 1983 in Kraft. Präambel/Promulgationsklausel Auf Grund des Artikels 35 Absatz 1 des Abkommens zwischen der Republik Österreich und Spanien über Soziale Sicherheit vom 6. November 1981 *) – im folgenden als Abkommen bezeichnet – haben die zuständigen Behörden zur Durchführung des Abkommens folgendes vereinbart: _____________________ *) Kundgemacht in BGBl. 305/1983ABSCHNITT I ALLGEMEINE BESTIMMUNGEN Artikel 1 Begriffsbestimmungen In dieser Vereinbarung werden die im Abkommen angeführten Ausdrücke in der dort festgelegten Bedeutung verwendet.Artikel 2 Verbindungsstellen (1) Verbindungsstellen nach Artikel 36 des Abkommens sind in Österreich für die Kranken-, Unfall- und Pensionsversicherung der Hauptverband der österreichischen Sozialversicherungsträger, für die Arbeitslosenversicherung das Landesarbeitsamt Wien, für die Familienbeihilfe das Bundesministerium für Finanzen; in Spanien die Nationale Anstalt für Soziale Sicherheit. (2) Den Verbindungsstellen obliegen die in dieser Vereinbarung festgelegten Aufgaben. Bei Durchführung des Abkommens können sie miteinander sowie mit den beteiligten Personen oder deren Beauftragten unmittelbar in Verbindung treten. Sie haben einander bei Durchführung des Abkommens zu unterstützen.ABSCHNITT II DURCHFüHRUNG DER BESTIMMUNGEN ÜBER DIE ANZUWENDENDEN RECHTSVORSCHRIFTEN Artikel 3 Entsendungen In den Fällen des Artikels 7 Absatz 1 des Abkommens ist die Weitergeltung der Rechtsvorschriften des Entsendestaates zu bescheinigen. Die Bescheinigung ist in Österreich vom Träger der Krankenversicherung, in Spanien von der Nationalen Anstalt für Soziale Sicherheit auszustellen.ABSCHNITT III DURCHFÜHRUNG DER BESONDEREN BESTIMMUNGEN ÜBER DIE EINZELNEN LEISTUNGSARTEN Kapitel 1 Leistungen bei Krankheit, Mutterschaft und Tod (Sterbegeld) Artikel 4 Zusammenrechnung der Versicherungszeiten Für die Anwendung des Artikels 10 des Abkommens durch einen Träger eines Vertragsstaates hat die betreffende Person eine Bescheinigung über die nach den Rechtsvorschriften des anderen Vertragsstaates in Betracht kommenden Versicherungszeiten vorzulegen. Die Bescheinigung ist in Österreich vom Träger der Krankenversicherung, in Spanien von der Nationalen Anstalt für Soziale Sicherheit auszustellen.Artikel 5 Gewährung von Sachleistungen bei vorübergehendem Aufenthalt (1) Für die Anwendung des Artikels 11 Absatz 1 des Abkommens ist im Fall eines vorübergehenden Aufenthaltes dem nach Artikel 14 des Abkommens in Betracht kommenden Träger zum Nachweis des Anspruches eine Bescheinigung des zuständigen Trägers vorzulegen. (2) Der Träger des Aufenthaltsortes hat die Krankenkontrolle so durchzuführen, als handle es sich um einen eigenen Versicherten, und hat den zuständigen Träger vom Ergebnis der Kontrolle zu unterrichten. (3) Wird Krankenhauspflege gewährt, so hat der nach Artikel 14 des Abkommens in Betracht kommende Träger dem zuständigen Träger unverzüglich den Tag der Aufnahme in das Krankenhaus und die voraussichtliche Dauer des Aufenthaltes sowie den Tag der Entlassung anzuzeigen. (4) Für die Anwendung des Artikels 11 Absatz 2 des Abkommens ist eine Liste der Körperersatzstücke, größeren Hilfsmittel und anderen Sachleistungen von erheblicher Bedeutung dieser Vereinbarung angeschlossen. Sind solche Leistungen wegen unbedingter Dringlichkeit gewährt worden, so hat der im Artikel 14 genannte Träger dies unverzüglich dem zuständigen Träger mitzuteilen.Artikel 6 Gewährung von Sachleistungen bei dauerndem Aufenthalt (1) Für die Anwendung des Artikels 11 Absatz 1 des Abkommens haben im Fall eines dauernden Aufenthaltes die betroffenen Personen sich bei dem nach Artikel 14 des Abkommens in Betracht kommenden Träger eintragen zu lassen. Zum Nachweis des Anspruchs ist eine Bescheinigung des zuständigen Trägers vorzulegen, die solange gilt, bis der Träger des Aufenthaltsortes eine Mitteilung des zuständigen Trägers über ihren Widerruf erhalten hat. Der Träger des Aufenthaltsortes hat den zuständigen Träger über jede Eintragung zu benachrichtigen. (2) Absatz 1 ist auf die nach Artikel 13 Absatz 1 zweiter Satz und Absatz 2 des Abkommens betroffenen Personen sowie gegebenenfalls auf deren Familienangehörige entsprechend anzuwenden. (3) In den Fällen des Absatzes 1 ist Artikel 5 Absatz 4 entsprechend anzuwenden.Kapitel 2 Leistungen bei Alter, Invalidität und an Hinterbliebene Artikel 7 Bearbeitung der Leistungsanträge (1) Die zuständigen Träger haben einander unverzüglich über einen Leistungsantrag, auf den Abschnitt III Kapitel 2 in Verbindung mit Artikel 38 Absatz 2 des Abkommens anzuwenden ist, zu unterrichten. (2) Die zuständigen Träger haben in der Folge einander auch die sonstigen für einen Leistungsfeststellung erheblichen Tatsachen, gegebenenfalls unter Beifügung ärztlicher Gutachten, mitzuteilen. (3) Die Bestätigung der in den Formblättern eingetragenen Personalangaben ersetzt die übermittlung von Originaldokumenten. (4) Die zuständigen Träger haben einander über die Entscheidungen im Feststellungsverfahren zu unterrichten.Artikel 8 Zahlung von Pensionen Die zuständigen Träger haben Leistungen bei Alter, Invalidität und an Hinterbliebene direkt an die Anspruchsberechtigten zu zahlen.Artikel 9 Statistiken Die zuständigen Träger haben der für sie in Betracht kommenden Verbindungsstelle eine jährlich zu erstellende Statistik über die in den anderen Vertragsstaat nach Artikel 8 vorgenommenen Zahlungen zu übermitteln. Diese Statistiken sind von den Verbindungsstellen auszutauschen.Kapitel 3 Leistungen bei Arbeitsunfällen und Berufskrankheiten Artikel 10 Gewährung von Sachleistungen In den Fällen des Artikels 22 Absatz 1 des Abkommens sind die Artikel 5 und 6 entsprechend anzuwenden.Artikel 11 Zahlung von Renten, Statistiken Auf Renten sind die Artikel 8 und 9 entsprechend anzuwenden.Kapitel 4 Leistungen bei Arbeitslosigkeit Artikel 12 Zusammenrechnung der Versicherungszeiten (1) In den Fällen des Artikels 24 des Abkommens legt der Betreffende dem in Betracht kommenden Träger eine Bescheinigung über die Versicherungszeiten vor, die er nach den Rechtsvorschriften des anderen Vertragsstaates zurückgelegt hat. (2) Die Bescheinigung wird auf Antrag des Betreffenden von dem im Artikel 4 bezeichneten Träger ausgestellt. (3) Hat der Betreffende eine Bescheinigung nach Artikel 4 bereits vorgelegt, so hat der in Betracht kommende Träger den Träger, dem diese Bescheinigung vorgelegt wurde, um Bekanntgabe der dort nachgewiesenen Versicherungszeiten zu ersuchen. (4) Legt der Betreffende die Bescheinigung nach Absatz 1 nicht vor, so kann der in Betracht kommende Träger des einen Vertragsstaates den zuständigen Träger des anderen Vertragsstaates um Ausstellung und übersendung der Bescheinigung ersuchen.Kapitel 5 Familienbeihilfen Artikel 13 Nachweis der Wartezeiten Zum Nachweis zurückgelegter Wartezeiten gemäß Artikel 27 des Abkommens haben die zuständigen Träger entsprechende Bescheinigungen auszustellen, aus denen der Zeitpunkt und die Dauer jener Zeiten ersichtlich sind, die in ihrem Gebiet zurückgelegt wurden.Artikel 14 Familienstandsbescheinigungen (1) Für die Erlangung der Familienbeihilfen haben in Österreich die Finanzämter und in Spanien die Nationale Anstalt für Soziale Sicherheit Bescheinigungen auszustellen, aus denen die persönlichen Daten des Dienstnehmers und seiner Kinder, für die Familienbeihilfen beansprucht werden, hervorgehen. Diese Bescheinigungen haben auch den Ort des ständigen Aufenthaltes der Kinder, ihren Familienstand und ein allfälliges eigenes Einkommen der Kinder zu beinhalten. (2) Diese Bescheinigungen haben eine Gültigkeit von einem Jahr ab ihrer Ausstellung.Artikel 15 Bescheinigung über gewährte Familienbeihilfen Der zuständige Träger jedes Vertragsstaates stellt auf Verlangen eine Bescheinigung über die von ihm gewährten Familienbeihilfen aus, sofern die Bescheinigung erforderlich ist, um in dem anderen Vertragsstaat einen Anspruch auf Familienbeihilfen geltend zu machen. Diese Bescheinigung hat zu enthalten: a) die Vor- und Zunamen der Kinder, für welche Familienbeihilfen gewährt wurden, b) den Zeitraum, für welchen Familienbeihilfen gewährt werden, und c) den Betrag der gewährten Familienbeihilfen.ABSCHNITT IV FINANZIELLE BESTIMMUNGEN Artikel 16 Für die Durchführung der Artikel 15 und 22 Absatz 3 des Abkommens ist der Anspruch auf Erstattung der Kosten von Sachleistungen nach Abschluß des Leistungsfalles oder für jedes Kalenderhalbjahr geltend zu machen und binnen zwei Monaten nach Eingang der Forderung zu erfüllen.ABSCHNITT V SCHLUSSBESTIMMUNGEN Artikel 17 Formblätter Soweit in dieser Vereinbarung Bescheinigungen vorgesehen sind, werden die entsprechenden Formblätter von den in Betracht kommenden Verbindungsstellen festgelegt.Artikel 18 Inkrafttreten Diese Vereinbarung tritt gleichzeitig mit dem Abkommen in Kraft. GESCHEHEN zu Wien, am 8. April 1983 in zwei Urschriften in deutscher und spanischer Sprache, wobei beide Texte in gleicher Weise authentisch sind.ANLAGE Liste der Körperersatzstücke, größeren Hilfsmittel und anderen Sachleistungen von erheblicher Bedeutung (Artikel 5 Absatz 4) 1. Körperersatzstücke, orthopädische Apparate und Stützapparate einschließlich gewebebespannter orthopädischer Korsette nebst Ergänzungsteilen, Zubehör und Werkzeugen; 2. orthopädische Maßschuhe, gegebenenfalls mit dem dazugehörigen Normalschuh (nicht orthopädisch); 3. Kiefer- und Gesichtsplastiken, Perücken; 4. Modellabdrucke (Nachbildungen der verschiedenen Körperteile), die benutzt werden, um die unter den Ziffern 1 bis 3 genannten Gegenstände richtig anzupassen; 5. Kunstaugen, Kontaktschalen, Vergrößerungsbrillen und Fernrohrbrillen; 6. Hörgeräte, namentlich akustische und phonetische Geräte; 7. Zahnersatz (festsitzender und herausnehmbarer) und Verschlußprothesen der Mundhöhle; 8. Krankenfahrzeuge, Rollstühle sowie andere mechanische Fortbewegungsmittel; 9. Erneuerung der unter den Ziffern 1 bis 8 genannten Gegenstände; 10. Blindenführhunde; 11. ärztliche Behandlung und Pflege in Genesungs- und Erholungsheimen sowie Heilstätten; 12. Maßnahmen der medizinischen und beruflichen Wiedereingliederung; 13. alle übrigen Heilbehelfe, Hilfsmittel und ähnliches, deren Anschaffungskosten in Österreich 5 000 Schilling, in Spanien 25 000 Peseten übersteigen.",
+  "parts": [
+    {
+      "@id": "72a957c7-750d-4dc6-a065-f6f6dfc44c54#offset_438_617",
+      "offset_ini": 438,
+      "offset_end": 617,
+      "title": "Begriffsbestimmungen"
+    },
+    {
+      "@id": "72a957c7-750d-4dc6-a065-f6f6dfc44c54#offset_618_1311",
+      "offset_ini": 618,
+      "offset_end": 1311,
+      "title": "Verbindungsstellen"
+    },
+    {
+      "@id": "72a957c7-750d-4dc6-a065-f6f6dfc44c54#offset_1312_1699",
+      "offset_ini": 1312,
+      "offset_end": 1699,
+      "title": "Entsendungen"
+    },
+    {
+      "@id": "72a957c7-750d-4dc6-a065-f6f6dfc44c54#offset_1700_2309",
+      "offset_ini": 1700,
+      "offset_end": 2309,
+      "title": "Zusammenrechnung der Versicherungszeiten"
+    },
+    {
+      "@id": "72a957c7-750d-4dc6-a065-f6f6dfc44c54#offset_2310_3481",
+      "offset_ini": 2310,
+      "offset_end": 3481,
+      "title": "Gewährung von Sachleistungen bei vorübergehendem Aufenthalt"
+    },
+    {
+      "@id": "72a957c7-750d-4dc6-a065-f6f6dfc44c54#offset_3482_4347",
+      "offset_ini": 3482,
+      "offset_end": 4347,
+      "title": "Gewährung von Sachleistungen bei dauerndem Aufenthalt"
+    },
+    {
+      "@id": "72a957c7-750d-4dc6-a065-f6f6dfc44c54#offset_4348_5082",
+      "offset_ini": 4348,
+      "offset_end": 5082,
+      "title": "Bearbeitung der Leistungsanträge"
+    },
+    {
+      "@id": "72a957c7-750d-4dc6-a065-f6f6dfc44c54#offset_5083_5245",
+      "offset_ini": 5083,
+      "offset_end": 5245,
+      "title": "Zahlung von Pensionen"
+    },
+    {
+      "@id": "72a957c7-750d-4dc6-a065-f6f6dfc44c54#offset_5246_5544",
+      "offset_ini": 5246,
+      "offset_end": 5544,
+      "title": "Statistiken"
+    },
+    {
+      "@id": "72a957c7-750d-4dc6-a065-f6f6dfc44c54#offset_5545_5749",
+      "offset_ini": 5545,
+      "offset_end": 5749,
+      "title": "Gewährung von Sachleistungen"
+    },
+    {
+      "@id": "72a957c7-750d-4dc6-a065-f6f6dfc44c54#offset_5750_5852",
+      "offset_ini": 5750,
+      "offset_end": 5852,
+      "title": "Zahlung von Renten, Statistiken"
+    },
+    {
+      "@id": "72a957c7-750d-4dc6-a065-f6f6dfc44c54#offset_5853_6775",
+      "offset_ini": 5853,
+      "offset_end": 6775,
+      "title": "Zusammenrechnung der Versicherungszeiten"
+    },
+    {
+      "@id": "72a957c7-750d-4dc6-a065-f6f6dfc44c54#offset_6776_7092",
+      "offset_ini": 6776,
+      "offset_end": 7092,
+      "title": "Nachweis der Wartezeiten"
+    },
+    {
+      "@id": "72a957c7-750d-4dc6-a065-f6f6dfc44c54#offset_7093_7680",
+      "offset_ini": 7093,
+      "offset_end": 7680,
+      "title": "Familienstandsbescheinigungen"
+    },
+    {
+      "@id": "72a957c7-750d-4dc6-a065-f6f6dfc44c54#offset_7681_8234",
+      "offset_ini": 7681,
+      "offset_end": 8234,
+      "title": "Bescheinigung über gewährte Familienbeihilfen"
+    },
+    {
+      "@id": "72a957c7-750d-4dc6-a065-f6f6dfc44c54#offset_8235_8558",
+      "offset_ini": 8235,
+      "offset_end": 8558,
+      "title": ""
+    },
+    {
+      "@id": "72a957c7-750d-4dc6-a065-f6f6dfc44c54#offset_8559_8774",
+      "offset_ini": 8559,
+      "offset_end": 8774,
+      "title": "Formblätter"
+    },
+    {
+      "@id": "72a957c7-750d-4dc6-a065-f6f6dfc44c54#offset_8775_9010",
+      "offset_ini": 8775,
+      "offset_end": 9010,
+      "title": "Inkrafttreten"
+    },
+    {
+      "@id": "72a957c7-750d-4dc6-a065-f6f6dfc44c54#offset_9011_10310",
+      "offset_ini": 9011,
+      "offset_end": 10310,
+      "title": ""
+    },
+    {
+      "@id": "72a957c7-750d-4dc6-a065-f6f6dfc44c54#offset_0_437",
+      "offset_ini": 0,
+      "offset_end": 437
+    }
+  ]
+}

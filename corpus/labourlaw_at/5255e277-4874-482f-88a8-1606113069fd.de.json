@@ -1,0 +1,47 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/5255e277-4874-482f-88a8-1606113069fd",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Soziale Sicherheit (Inkrafttreten)"
+    },
+    "hasAuthority": "BGBl. Nr. 464/1994",
+    "id_local": "10008908",
+    "first_date_entry_in_force": "1994-06-23",
+    "version_date": "1994-06-23",
+    "url_consolidated": "http://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d10008908\u0026FassungVom\u003d1994-06-24",
+    "classifications": [
+      "69/03 Soziale Sicherheit"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/5255e277-4874-482f-88a8-1606113069fd/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/5255e277-4874-482f-88a8-1606113069fd/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 842,
+  "text": "Die als Anlage zum Bundesgesetz über die Regelung der Beziehungen im Bereich der Sozialen Sicherheit im Verhältnis zur Provinz Quebec (BGBl. Nr. 551/1993) angeschlossene Vereinbarung zwischen der Regierung der Republik Österreich und der Regierung von Quebec im Bereich der Sozialen Sicherheit wurde am 9. Dezember 1993 von Dr. Josef Schuh für die Regierung der Republik Österreich und von Denis Bedard für die Regierung von Quebec unterzeichnet. Die Notifikationen gemäß Art. 24 Abs. 1 der Vereinbarung erfolgten am 9. Dezember 1993 bzw. 2. März 1994; die Vereinbarung tritt gemäß ihrem Art. 24 Abs. 1 mit 1. Juni 1994 in Kraft. Gleichzeitig mit der Vereinbarung wurde nachstehende Verwaltungsvereinbarung abgeschlossen, die gemäß ihrem Art. 8 gleichfalls mit 1. Juni 1994 in Kraft tritt: (Anm.: wird als eigene Rechtsvorschrift dokumentiert)",
+  "parts": [
+    {
+      "@id": "5255e277-4874-482f-88a8-1606113069fd#offset_0_842",
+      "offset_ini": 0,
+      "offset_end": 842,
+      "title": ""
+    }
+  ]
+}

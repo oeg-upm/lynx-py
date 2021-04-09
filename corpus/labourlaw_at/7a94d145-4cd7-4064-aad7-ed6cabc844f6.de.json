@@ -1,0 +1,122 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/7a94d145-4cd7-4064-aad7-ed6cabc844f6",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Jungfamilienfondsgesetz"
+    },
+    "hasAuthority": "BKA (Bundeskanzleramt)",
+    "nick": [
+      "JFFG"
+    ],
+    "id_local": "20010734",
+    "first_date_entry_in_force": "2019-07-30",
+    "version_date": "2019-07-31",
+    "date_no_longer_in_force": "2027-12-31",
+    "url_consolidated": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d20010734\u0026FassungVom\u003d2019-08-01",
+    "classifications": [
+      "60/02 Arbeitnehmerschutz"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/7a94d145-4cd7-4064-aad7-ed6cabc844f6/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/7a94d145-4cd7-4064-aad7-ed6cabc844f6/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 5079,
+  "text": "Anmerkung Vgl. die Änderungen durch das Sozialversicherungs-Organisationsgesetz – SV-OG, BGBl. I Nr. 100/2018Jungfamilienfonds § 1. (1) Zum Zweck des Ausgleichs von Rückforderungen nach dem Kinderbetreuungsgeldgesetz (KBGG), BGBl. I Nr. 103/2001, welche alleine aus dem Versäumen der Vorlagefrist für den Nachweis nach § 8 Abs. 1 Z 2 KBGG resultieren, ist bei der Sozialversicherungsanstalt der gewerblichen Wirtschaft ein Jungfamilienfonds einzurichten. (2) Der Jungfamilienfonds ist mit 1 010 813,48 € dotiert. Dieser Betrag ist binnen 14 Tagen ab dem der Kundmachung folgenden Tag aus dem Unterstützungsfonds nach § 44 Gewerbliches Sozialversicherungsgesetz (GSVG), BGBl. Nr. 684/1978 in Verbindung mit § 356 Abs. 3 GSVG idF BGBl. I Nr. 2/2015 auf ein von der Sozialversicherungsanstalt der gewerblichen Wirtschaft einzurichtendes Konto zu überweisen. (3) In Angelegenheiten dieses Bundesgesetzes ist die Sozialversicherungsanstalt der gewerblichen Wirtschaft bzw. deren Rechtsnachfolgerin zuständig. (4) Die Sozialversicherungsanstalt der gewerblichen Wirtschaft bzw. deren Rechtsnachfolgerin hat die ihr nach diesem Bundesgesetz übertragenen Aufgaben im übertragenen Wirkungsbereich nach den Weisungen der Bundesministerin für Arbeit, Soziales, Gesundheit und Konsumentenschutz zu vollziehen.Zuwendung aus dem Jungfamilienfonds § 2. (1) Die Zuwendung aus dem Jungfamilienfonds kann auf Ansuchen des betroffenen Elternteils gewährt werden, wenn eine Leistung nach § 1 KBGG für ein von 1. Jänner 2012 bis 28. Februar 2017 geborenes Kind bezogen wurde und ausschließlich aufgrund des Versäumens der Vorlagefrist nach § 8 Abs 1 Z 2 KBGG zurückgezahlt wurde oder zurückzuzahlen ist. (2) Ansuchen nach Abs. 1 haben schriftlich bis zum 31. Dezember 2025 einzulangen. (3) Abs. 1 und 2 gelten sinngemäß auch für Personen im Sinne der §§ 12 und 13 KBGG.Richtlinien § 3. Die Abwicklung von Zuwendungen aus dem Jungfamilienfonds hat nach Maßgabe der hierfür vom Vorstand der Sozialversicherungsanstalt der gewerblichen Wirtschaft zu erlassenden Fonds-Richtlinien zu erfolgen.Mitwirkungspflichten § 4. (1) Die Krankenversicherungsträger sowie die Niederösterreichische Gebietskrankenkasse als Kompetenzzentrum Kinderbetreuungsgeld haben bei der Vollziehung dieses Bundesgesetzes mitzuwirken. (2) Die Krankenversicherungsträger sowie die Niederösterreichische Gebietskrankenkasse als Kompetenzzentrum Kinderbetreuungsgeld haben der Sozialversicherungsanstalt der gewerblichen Wirtschaft bzw. deren Rechtsnachfolgerin alle für die Abwicklung der Zuwendung (§ 2) erforderlichen Daten zu übermitteln und die notwendigen Auskünfte zu erteilen.Rechtsanspruch und Rechtspersönlichkeit § 5. (1) Auf die Gewährung einer Zuwendung aus dem Jungfamilienfonds besteht kein Rechtsanspruch. Die Zuwendung kann bis zur Ausschöpfung des Jungfamilienfonds gewährt werden. (2) Dieser Fonds besitzt keine Rechtspersönlichkeit.Deckung des Aufwandes § 6. Die Mittel des Jungfamilienfonds sind zweckgebunden für den Aufwand und die Abwicklung der Zuwendungen aus dem Jungfamilienfonds. Der Jungfamilienfonds hat der Sozialversicherungsanstalt der gewerblichen Wirtschaft bzw. deren Rechtsnachfolgerin die nachgewiesenen, erforderlichen und zuordenbaren Aufwendungen für die Zuwendungen, die Verfahrenskosten, die Zustellgebühren, den entsprechenden Anteil an den Verwaltungsaufwendungen sowie die sonstigen Aufwendungen für die Abwicklung und Vollziehung nach diesem Bundesgesetz zu ersetzen.Steuerbefreiung § 7. Die Zuwendung aus dem Jungfamilienfonds ist von der Einkommensteuer befreit und gehört auch nicht zur Bemessungsgrundlage für sonstige Abgaben und öffentlich-rechtliche Beiträge.Verweisungen § 8. Soweit in diesem Bundesgesetz auf Bestimmungen anderer Bundesgesetze verwiesen wird, sind diese, soweit nicht ausdrücklich anderes bestimmt ist, in der jeweils geltenden Fassung anzuwenden.Daten § 9. Verantwortliche gemäß Art. 4 Z 7 der Verordnung (EU) Nr. 679/2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz- Grundverordnung), ABl. Nr. L 119 vom 27.04.2016 S 1 (DSGVO) ist die Hauptstelle der Sozialversicherungsanstalt der gewerblichen Wirtschaft bzw. deren Rechtsnachfolgerin. Die datenschutzrechtlichen Bestimmungen des Allgemeinen Sozialversicherungsgesetzes (ASVG), BGBl. Nr. 189/1955 und des GSVG sind auf dieses Bundesgesetz sinngemäß anzuwenden.Rücküberweisung von Mitteln § 10. Zum Zeitpunkt des Außer-Kraft-Tretens nicht verbrauchte Mittel nach § 1 Abs. 2 sind an den Unterstützungsfonds der Sozialversicherungsanstalt der Selbständigen nach § 11 Selbständigen- Sozialversicherungsgesetz (SVSG), BGBl. I Nr. 100/2018, zu überweisen, wobei § 11 Abs. 2 und 3 SVSG nicht zur Anwendung gelangen.Vollzug § 11. Mit der Vollziehung dieses Bundesgesetzes ist die Bundesministerin für Arbeit, Soziales, Gesundheit und Konsumentenschutz betraut.Inkrafttreten § 12. Dieses Bundesgesetz tritt mit dem der Kundmachung folgenden Tag in Kraft und mit Ablauf des 31. Dezember 2027 außer Kraft.",
+  "parts": [
+    {
+      "@id": "7a94d145-4cd7-4064-aad7-ed6cabc844f6#offset_109_1296",
+      "offset_ini": 109,
+      "offset_end": 1296,
+      "title": "Jungfamilienfonds"
+    },
+    {
+      "@id": "7a94d145-4cd7-4064-aad7-ed6cabc844f6#offset_1297_1847",
+      "offset_ini": 1297,
+      "offset_end": 1847,
+      "title": "Zuwendung aus dem Jungfamilienfonds"
+    },
+    {
+      "@id": "7a94d145-4cd7-4064-aad7-ed6cabc844f6#offset_1848_2067",
+      "offset_ini": 1848,
+      "offset_end": 2067,
+      "title": "Richtlinien"
+    },
+    {
+      "@id": "7a94d145-4cd7-4064-aad7-ed6cabc844f6#offset_2068_2629",
+      "offset_ini": 2068,
+      "offset_end": 2629,
+      "title": "Mitwirkungspflichten"
+    },
+    {
+      "@id": "7a94d145-4cd7-4064-aad7-ed6cabc844f6#offset_2630_2897",
+      "offset_ini": 2630,
+      "offset_end": 2897,
+      "title": "Rechtsanspruch und Rechtspersönlichkeit"
+    },
+    {
+      "@id": "7a94d145-4cd7-4064-aad7-ed6cabc844f6#offset_2898_3460",
+      "offset_ini": 2898,
+      "offset_end": 3460,
+      "title": "Deckung des Aufwandes"
+    },
+    {
+      "@id": "7a94d145-4cd7-4064-aad7-ed6cabc844f6#offset_3461_3659",
+      "offset_ini": 3461,
+      "offset_end": 3659,
+      "title": "Steuerbefreiung"
+    },
+    {
+      "@id": "7a94d145-4cd7-4064-aad7-ed6cabc844f6#offset_3660_3866",
+      "offset_ini": 3660,
+      "offset_end": 3866,
+      "title": "Verweisungen"
+    },
+    {
+      "@id": "7a94d145-4cd7-4064-aad7-ed6cabc844f6#offset_3867_4445",
+      "offset_ini": 3867,
+      "offset_end": 4445,
+      "title": "Daten"
+    },
+    {
+      "@id": "7a94d145-4cd7-4064-aad7-ed6cabc844f6#offset_4446_4793",
+      "offset_ini": 4446,
+      "offset_end": 4793,
+      "title": "Rücküberweisung von Mitteln"
+    },
+    {
+      "@id": "7a94d145-4cd7-4064-aad7-ed6cabc844f6#offset_4794_4937",
+      "offset_ini": 4794,
+      "offset_end": 4937,
+      "title": "Vollzug"
+    },
+    {
+      "@id": "7a94d145-4cd7-4064-aad7-ed6cabc844f6#offset_4938_5079",
+      "offset_ini": 4938,
+      "offset_end": 5079,
+      "title": "Inkrafttreten"
+    },
+    {
+      "@id": "7a94d145-4cd7-4064-aad7-ed6cabc844f6#offset_0_108",
+      "offset_ini": 0,
+      "offset_end": 108
+    }
+  ]
+}

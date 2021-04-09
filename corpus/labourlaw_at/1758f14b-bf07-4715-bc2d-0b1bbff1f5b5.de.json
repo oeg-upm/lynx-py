@@ -1,0 +1,71 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/1758f14b-bf07-4715-bc2d-0b1bbff1f5b5",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Pflegegebührenverordnung-Sonderleistungen"
+    },
+    "hasAuthority": "Landesregierung Wien",
+    "id_local": "20000623",
+    "first_date_entry_in_force": "2021-01-01",
+    "version_date": "2021-01-01",
+    "url_consolidated": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dLrW\u0026Gesetzesnummer\u003d20000623\u0026FassungVom\u003d2021-01-01",
+    "classifications": [
+      "60/40 Krankenbehandlung",
+      "60 Gesundheits- und Sozialrecht (S)"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/1758f14b-bf07-4715-bc2d-0b1bbff1f5b5/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/1758f14b-bf07-4715-bc2d-0b1bbff1f5b5/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 6901,
+  "text": "Bundesland Wien Präambel/Promulgationsklausel Gemäß § 46 Abs. 1 Wiener Krankenanstaltengesetz 1987 – Wr. KAG, LGBl. für Wien Nr. 23, zuletzt geändert durch das Landesgesetz LGBl. für Wien Nr. 19/2020, wird verordnet: Im RIS seit 03.02.2021Pflegegebühren-Zusatzleistungen § 1. Für die nachstehenden öffentlichen Krankenanstalten werden die Pflegegebühren für Zusatzleistungen, die im Rahmen eines stationären Aufenthaltes im Zuge eines operativen Eingriffes (sofern dieser in einem medizinisch fachlichen Zusammenhang steht und eine Kostentragung durch einen Sozialversicherungsträger erfolgt) erbracht werden, für die allgemeine Gebührenklasse wie folgt festgesetzt: 1. Universitätsklinikum AKH Wien und alle anderen Wiener städtischen Krankenanstalten: 1.1 Narbenkorrektur in Lokalanästhesie 435,02 Euro 1.2 Ohrenanlegeplastik einseitig 749,29 Euro 1.3 Ohrenanlegeplastik beidseitig 1.694,52 Euro 1.4 Blepharoplastik des Oberlides einseitig 1.211,75 Euro 1.5 Blepharoplastik der Unterlider beidseitig 3.081,80 Euro 1.6 Höckerabtragung Nase 917,88 Euro 1.7 Nasenspitzenkorrektur 998,71 Euro 1.8 Oberschenkelstraffung innen beidseitig 2.297,67 Euro 1.9 Mastopexie beidseitig ohne Prothese 2.716,86 Euro 1.10 Mastopexie einseitig ohne Prothese 1.820,36 Euro 1.11 Mastopexie beidseitig mit Prothese 5.032,48 Euro 1.12 Mastopexie einseitig mit Prothese 2.828,76 Euro 1.13 Mammaaugmentation beidseitig (inklusive Implantat) 3.682,30 Euro 1.14 Mammaaugmentation einseitig (inklusive Implantat) 2.076,24 Euro 1.15 Narbenkorrektur 640,10 Euro 1.16 Fettabsaugung (Liposuction) Bauch 940,17 Euro 1.17 Fettabsaugung (Liposuction) Oberschenkel innen beidseitig 1.266,94 Euro 1.18 Fettabsaugung (Liposuction) Kinn 629,05 Euro 1.19 Oberarmstraffung beidseitig 1.734,47 Euro 1.20 Vasektomie (während eines anderen skrotalen Eingriffs) 229,14 Euro 1.21 Xanthelasmen der Augenlider 656,56 Euro 1.22 Tubenligatur in Erweiterung eines indizierten offenen oder laparoskopischen gynäkologischen Eingriffs 116,85 Euro 1.23 Tubenligatur post partum 668,22 Euro 2. Hanusch-Krankenhaus: 2.1 Höckerabtragung Nase 917,88 Euro 2.2 Tubenligatur in Erweiterung eines indizierten offenen oder laparoskopischen gynäkologischen Eingriffs 116,85 Euro 2.3 Tubenligatur post partum 668,22 EuroPflegegebühren-Wunschleistungen § 2. (1) Für die nachstehenden öffentlichen Krankenanstalten werden die Pflegegebühren für Wunschleistungen für die allgemeine Gebührenklasse wie folgt festgesetzt: 1. Universitätsklinikum AKH Wien und alle anderen Wiener städtischen Krankenanstalten: 1.1 Narbenkorrektur in Lokalanästhesie 435,02 Euro 1.2 Ohrenanlegeplastik einseitig 932,30 Euro 1.3 Ohrenanlegeplastik beidseitig 1.877,53 Euro 1.4 Blepharoplastik des Oberlides einseitig 1.394,76 Euro 1.5 Blepharoplastik der Unterlider beidseitig 3.264,81 Euro 1.6 Abdominoplastik (Bauchstraffung) 3.954,19 Euro 1.7 Circumcision (beim Knaben)/Religiöse Beschneidung 737,24 Euro 1.8 Höckerabtragung Nase 1.100,89 Euro 1.9 Nasenspitzenkorrektur 1.181,72 Euro 1.10 Oberschenkelstraffung innen beidseitig 2.480,68 Euro 1.11 Mastopexie beidseitig ohne Prothese 2.899,87 Euro 1.12 Mastopexie einseitig ohne Prothese 2.003,37 Euro 1.13 Mastopexie beidseitig mit Prothese 5.215,49 Euro 1.14 Mastopexie einseitig mit Prothese 3.011,77 Euro 1.15 Mammaaugmentation beidseitig (inklusive Implantat) 3.865,31 Euro 1.16 Mammaaugmentation einseitig (inklusive Implantat) 2.259,25 Euro 1.17 Narbenkorrektur 823,11 Euro 1.18 Fettabsaugung (Liposuction) Bauch 1.123,18 Euro 1.19 Fettabsaugung (Liposuction) Oberschenkel innen beidseitig 1.449,95 Euro 1.20 Fettabsaugung (Liposuction) Kinn 812,06 Euro 1.21 Oberarmstraffung beidseitig 1.917,48 Euro 1.22 Schamlippenkorrektur 1.319,07 Euro 1.23 Vasektomie 700,48 Euro 1.24 Vasovasostomie 3.768,98 Euro 1.25 Xanthelasmen der Augenlider 656,56 Euro 1.26 Laparoskopische Tubenligatur 1.355,12 Euro 2. Hanusch-Krankenhaus: 2.1 Vasektomie 700,48 Euro 2.2 Laparoskopische Tubenligatur 1.355,12 Euro (2) Zusätzlich zu den in Abs. 1 festgesetzten Tarifen werden folgende Gebühren für den Aufenthalt in der Krankenanstalt festgesetzt: 1. Universitätsklinikum AKH Wien und alle anderen Wiener städtischen Krankenanstalten: für den Aufenthalt in der Krankenanstalt pro Tag 752,00 Euro 2. Hanusch-Krankenhaus: für den Aufenthalt in der Krankenanstalt pro Tag 952,00 EuroAmbulatoriumsbeiträge-Wunschleistungen § 3. (1) Für die nachstehend angeführte öffentliche Krankenanstalt werden die Ambulatoriumsbeiträge für Wunschleistungen wie folgt festgesetzt: Klinik Favoriten: 1. Reisemedizinische Beratung 44,00 Euro 2. Impfung Cholera 63,56 Euro 3. Impfung Diphterie/Tetanus/Pertussis 32,04 Euro 4. Impfung Diphterie/Tetanus/Pertussis/Polio 37,73 Euro 5. Impfung Diphterie/Tetanus/Polio 28,47 Euro 6. Impfung FSME Erwachsene 25,83 Euro 7. Impfung FSME Kinder 25,83 Euro 8. Impfung Gelbfieber 53,30 Euro 9. Impfung Grippe ab 65 Jahren/bis 65 Jahre 16,79 Euro 10. Impfung Hämophilus 48,14 Euro 11. Impfung Hepatitis A ab 16 Jahren 48,87 Euro 12. Impfung Hepatitis A bis 15 Jahre 38,91 Euro 13. Impfung Hepatitis A und B Erwachsene 71,29 Euro 14. Impfung Hepatitis A und B Kinder 48,03 Euro 15. Impfung Hepatitis A und Typhus 74,34 Euro 16. Impfung Hepatitis B Erwachsene 44,85 Euro 17. Impfung Hepatitis B Kinder 27,11 Euro 18. Impfung HPV Gebärmutterhals/Feigwarzen 181,07 Euro 19. Impfung Japan B Enzephalitis 103,18 Euro 20. Impfung Masern Mumps Röteln 29,25 Euro 21. Impfung Meningokokken ACWY 44,49 Euro 22. Impfung Pneumokokken 13 88,24 Euro 23. Impfung Pneumokokken 23 35,45 Euro 24. Impfung Polio 24,43 Euro 25. Impfung Tetanus Diphterie 14,34 Euro 26. Impfung Tollwut 78,77 Euro 27. Impfung Typhus 33,48 Euro 28. Impfung Varizellen 55,90 Euro 29. Insektenschutz Haut/Kleidung 9,21 Euro 30. Malariaprophylaxe AtoPro 31,16 Euro 31. Malariaprophylaxe Doxycyclin 4,88 Euro 32. Malariaprophylaxe Lariam 25,17 Euro 33. Impfung Meningokokken B 120,63 Euro (2) Zusätzlich zu den in Abs. 1 festgesetzten Tarifen wird in der Klinik Favoriten einmalig pro ambulantem Besuch und nur bei tatsächlich durchgeführter Impfung, unabhängig davon, wie viele Impfungen bei diesem ambulanten Besuch verabreicht werden, ein Impfhonorar in der Höhe von 10,44 Euro verrechnet. (3) Für die nachstehend angeführten öffentlichen Krankenanstalten werden die Ambulatoriumsbeiträge für Wunschleistungen der Pränatalmedizin wie folgt festgesetzt: Klinik Floridsdorf und Klinik Donaustadt: 1. NIPT/Trisomie 555,16 Euro 2. NIPT/Trisomie+DGS 593,01 Euro 3. NIPT/Mikrodeletionen 682,25 EuroInkrafttreten § 4. (1) Diese Verordnung tritt mit 1. Jänner 2021 in Kraft. (2) Mit Ablauf des 31. Dezember 2020 tritt die Verordnung der Wiener Landesregierung betreffend die Festsetzung der Pflegegebühren der allgemeinen Gebührenklasse der Wiener öffentlichen Krankenanstalten für Sonderleistungen (Pflegegebührenverordnung-Sonderleistungen), LGBl. für Wien Nr. 66/2019, außer Kraft.",
+  "parts": [
+    {
+      "@id": "1758f14b-bf07-4715-bc2d-0b1bbff1f5b5#offset_239_2256",
+      "offset_ini": 239,
+      "offset_end": 2256,
+      "title": "Pflegegebühren-Zusatzleistungen"
+    },
+    {
+      "@id": "1758f14b-bf07-4715-bc2d-0b1bbff1f5b5#offset_2257_4329",
+      "offset_ini": 2257,
+      "offset_end": 4329,
+      "title": "Pflegegebühren-Wunschleistungen"
+    },
+    {
+      "@id": "1758f14b-bf07-4715-bc2d-0b1bbff1f5b5#offset_4330_6517",
+      "offset_ini": 4330,
+      "offset_end": 6517,
+      "title": "Ambulatoriumsbeiträge-Wunschleistungen"
+    },
+    {
+      "@id": "1758f14b-bf07-4715-bc2d-0b1bbff1f5b5#offset_6518_6901",
+      "offset_ini": 6518,
+      "offset_end": 6901,
+      "title": "Inkrafttreten"
+    },
+    {
+      "@id": "1758f14b-bf07-4715-bc2d-0b1bbff1f5b5#offset_0_238",
+      "offset_ini": 0,
+      "offset_end": 238
+    }
+  ]
+}

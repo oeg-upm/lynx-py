@@ -1,0 +1,42 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/23fd1012-31f4-4374-99b9-199561d8cbb0",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Oö. Arbeitsmittelverordnung für die Land- und Forstwirtschaft"
+    },
+    "hasAuthority": "BKA (Bundeskanzleramt)",
+    "nick": [
+      "Oö. AMVO-LF"
+    ],
+    "id_local": "20010924",
+    "first_date_entry_in_force": "2020-01-01",
+    "version_date": "2020-01-01",
+    "url_consolidated": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d20010924\u0026FassungVom\u003d2020-01-01",
+    "classifications": [
+      "60/01 Arbeitsvertragsrecht"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/23fd1012-31f4-4374-99b9-199561d8cbb0/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/23fd1012-31f4-4374-99b9-199561d8cbb0/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 3446,
+  "text": "Beachte Diese Rechtsvorschrift gilt in ihrer Fassung vom 31. Dezember 2019 für das Land Oberösterreich als Verordnung des Bundes, soweit sie „Arbeiterrecht sowie Arbeiter- und Angestelltenschutz, soweit es sich um land- und forstwirtschaftliche Arbeiter und Angestellte handelt“ (Art. 11 Abs. 1 Z 9 B-VG, BGBl. Nr. 1/1930, in der Fassung des Bundesgesetzes BGBl. I Nr. 14/2019) regelt; soweit diese Fassung (allenfalls) den Bestimmungen des Bundes-Verfassungsgesetzes betreffend die Zuständigkeit der Behörden widerspricht, gilt sie als „sinngemäß geändert“ (Art. 151 Abs. 63 Z 4 B-VG). Änderung LGBlOÖ. Nr. 64/2010 [CELEX-Nr. 32009L0104] BGBl. I Nr. 14/2019 (NR: GP XXVI RV 301 AB 463 S. 57. BR: AB 10104 S. 888.) Präambel/Promulgationsklausel Auf Grund des § 95 Abs. 1 und 2 Z 5 der Oö. Landarbeitsordnung 1989, LGBl. Nr. 25, zuletzt geändert durch das Landesgesetz LGBl. Nr. 4/2006, wird verordnet: INHALTSVERZEICHNIS 1. ABSCHNITT ALLGEMEINE BESTIMMUNGEN § 1 Anwendungsbereich § 2 Begriffsbestimmungen § 3 Sicherheits- und Gesundheitsanforderungen § 4 Information § 5 Unterweisung § 6 Prüfpflichten § 7 Abnahmeprüfung § 8 Wiederkehrende Prüfung § 9 Prüfung nach außergewöhnlichen Ereignissen § 10 Prüfung nach Aufstellung § 11 Prüfbefund, Prüfplan § 12 Aufstellung § 13 Funktionskontrolle von Schutzeinrichtungen § 14 Erprobung § 15 Verwendung § 16 Wartung § 17 Besondere Arbeiten (Einstellung, Wartung, Instandhaltung, Reinigung) 2. ABSCHNITT BESONDERE REGELUNGEN FÜR DIE BENUTZUNG BESTIMMTER ARBEITSMITTEL § 18 Arbeitsmittel zum Heben von Lasten § 19 Krane § 20 Fahrzeughebebühnen, Hubtische, Ladebordwände § 21 Heben von Dienstnehmerinnen und Dienstnehmern § 22 Arbeitskörbe § 23 Selbstfahrende Arbeitsmittel, Ladevorrichtungen § 24 Programmgesteuerte Arbeitsmittel § 25 Bearbeitungsmaschinen § 26 Geräte für autogenes Schweißen, Schneiden und verwandte Verfahren § 27 Stetigförderer § 28 Handwerkzeuge § 29 Bolzensetzgeräte § 30 Kompressoranlagen § 31 Zentrifugen § 32 Verbrennungskraftmaschinen § 33 Fahrbewilligung 3. ABSCHNITT LEITERN UND GERÜSTE § 34 Allgemeine Bestimmungen über Leitern § 35 Fest verlegte Leitern § 36 Anlegeleitern § 37 Stehleitern § 38 Mechanische Leitern § 39 Strickleitern § 40 Gerüste 4. ABSCHNITT BESCHAFFENHEIT VON ARBEITSMITTELN § 41 Ergonomie von Arbeitsmitteln § 42 Steuersysteme von Arbeitsmitteln § 43 Gefahrenstellen an Arbeitsmitteln § 44 Gefahren, die von Arbeitsmitteln ausgehen können § 45 Ein- und Ausschaltvorrichtungen § 46 Not-Halt-Befehlsgeräte § 47 Standplätze, Aufstiege § 48 Feuerungsanlagen § 49 Leitungen und Armaturen § 50 Behälter § 51 Silos und Bunker für Schüttgüter und Gärfutter § 52 Gülle- und Jauchegruben, Güllelagunen § 53 Beschaffenheit von Arbeitsmitteln zum Heben von Lasten oder Dienstnehmerinnen und Dienstnehmer § 54 Beschaffenheit von selbstfahrenden Arbeitsmitteln § 54a Arbeitsplätze auf selbstfahrenden Arbeitsmitteln § 54b Überroll- und Kippschutz bei selbstfahrenden Arbeitsmitteln § 55 Beschaffenheit von Türen und Toren § 56 Beschaffenheit von Fahrtreppen und Fahrsteigen § 57 Beschaffenheit von Schleifmaschinen § 58 Beschaffenheit von Pressen, Stanzen und kraftbetriebenen Tafelscheren § 59 Beschaffenheit von Kompressoren § 60 Beschaffenheit von Geräten für autogenes Schweißen, Schneiden und verwandte Verfahren § 61 Beschaffenheit von Bolzensetzgeräten 5. ABSCHNITT SCHLUSS- UND ÜBERGANGSBESTIMMUNGEN § 62 In-Kraft-Treten § 63 Übergangsbestimmungen § 64 Verweise"
+}

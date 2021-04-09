@@ -1,0 +1,70 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/d25a2480-ddb6-401f-9285-505c6d2eba15",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Zulassung von Ausnahmen von der Wochenend- und Feiertagsruhe im Zusammenhang mit besonderen Schutzmaßnahmen zur Verhinderung der Verbreitung von COVID-19"
+    },
+    "hasAuthority": "BKA (Bundeskanzleramt)",
+    "id_local": "20011374",
+    "first_date_entry_in_force": "2020-11-28",
+    "version_date": "2020-11-28",
+    "url_consolidated": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d20011374\u0026FassungVom\u003d2020-11-28",
+    "classifications": [
+      "60/02 Arbeitnehmerschutz"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/d25a2480-ddb6-401f-9285-505c6d2eba15/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/d25a2480-ddb6-401f-9285-505c6d2eba15/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 1835,
+  "text": "Präambel/Promulgationsklausel Auf Grund des § 12 Abs. 1 Z 1 des Arbeitsruhegesetzes, BGBl. Nr. 144/1983, zuletzt geändert durch BGBl. I Nr. 22/2019, wird verordnet:§ 1. Im Zusammenhang mit besonderen Schutzmaßnahmen zur Verhinderung der Verbreitung von COVID-19 und zur Verhinderung eines Zusammenbruchs der medizinischen Versorgung dürfen Arbeitnehmer/innen über die in der Anlage zur Arbeitsruhegesetz-Verordnung, BGBl. Nr. 149/1984, zuletzt geändert durch BGBl. II Nr. 98/2019, sowie in Kollektivverträgen enthaltenen Ausnahmen hinaus während der Wochenend- und Feiertagsruhe mit folgenden Tätigkeiten beschäftigt werden: 1. Lieferservice im Lebensmittelhandel (einschließlich Lieferservice von Verkaufsstellen von Lebensmittelproduzenten) sowie von Drogerien und Drogeriemärkten an Samstagen bis 22 Uhr a) Entgegennahme, Bearbeitung und Weiterleitung von Bestellungen; b) Kommissionieren von Waren; c) Übergabe der Waren an Zusteller/innen. 2. Güterbeförderung an Samstagen bis 22 Uhr Zustellung von beim Lieferservice des Lebensmittelhandels (einschließlich Lieferservice von Verkaufsstellen von Lebensmittelproduzenten) sowie von Drogerien und Drogeriemärkten bestellten Waren zu den Kund/innen.§ 2. (1) Arbeiten, die im unmittelbaren Zusammenhang mit den zugelassenen Arbeiten stehen oder ohne die diese nicht durchführbar wären, sind zugelassen, soweit sie nicht vor oder nach der Wochenend- oder Feiertagsruhe vorgenommen werden können. (2) Die Zahl der beschäftigten Arbeitnehmer/innen ist auf das unbedingt notwendige Ausmaß zu beschränken.§ 3. Übertretungen dieser Verordnung werden gemäß § 27 des Arbeitsruhegesetzes, BGBl. Nr. 144/1983, bestraft.§ 4. § 1 tritt mit Ablauf des 31. Dezember 2020 außer Kraft. Diese Bestimmungen sind jedoch weiterhin auf Sachverhalte anzuwenden, die sich vor diesem Zeitpunkt ereignet haben.",
+  "parts": [
+    {
+      "@id": "d25a2480-ddb6-401f-9285-505c6d2eba15#offset_164_1200",
+      "offset_ini": 164,
+      "offset_end": 1200,
+      "title": ""
+    },
+    {
+      "@id": "d25a2480-ddb6-401f-9285-505c6d2eba15#offset_1201_1550",
+      "offset_ini": 1201,
+      "offset_end": 1550,
+      "title": ""
+    },
+    {
+      "@id": "d25a2480-ddb6-401f-9285-505c6d2eba15#offset_1551_1659",
+      "offset_ini": 1551,
+      "offset_end": 1659,
+      "title": ""
+    },
+    {
+      "@id": "d25a2480-ddb6-401f-9285-505c6d2eba15#offset_1660_1835",
+      "offset_ini": 1660,
+      "offset_end": 1835,
+      "title": ""
+    },
+    {
+      "@id": "d25a2480-ddb6-401f-9285-505c6d2eba15#offset_0_163",
+      "offset_ini": 0,
+      "offset_end": 163
+    }
+  ]
+}

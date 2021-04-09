@@ -1,0 +1,39 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/0e45f01a-68f2-479f-acf2-a1db04ca6378",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Vorarlberger Gesetz über die Gemeindevermittlungsämter"
+    },
+    "hasAuthority": "BKA (Bundeskanzleramt)",
+    "id_local": "20010845",
+    "first_date_entry_in_force": "2020-01-01",
+    "version_date": "2020-01-01",
+    "url_consolidated": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d20010845\u0026FassungVom\u003d2020-01-01",
+    "classifications": [
+      "60/01 Arbeitsvertragsrecht"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/0e45f01a-68f2-479f-acf2-a1db04ca6378/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/0e45f01a-68f2-479f-acf2-a1db04ca6378/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 713,
+  "text": "Beachte Diese Rechtsvorschrift gilt in ihrer Fassung vom 31. Dezember 2019 für das Land Vorarlberg als Bundesgesetz, soweit sie die „außergerichtliche Vermittlung von Streitigkeiten in den Angelegenheiten des Zivilrechtswesens und des Strafrechtswesens“ (Art. 10 Abs. 1 Z 6 B-VG, BGBl. Nr. 1/1930, in der Fassung des Bundesgesetzes BGBl. I Nr. 14/2019) regelt; soweit diese Fassung (allenfalls) den Bestimmungen des Bundes-Verfassungsgesetzes betreffend die Zuständigkeit der Behörden widerspricht, gilt sie als „sinngemäß geändert“ (Art. 151 Abs. 63 Z 4 B-VG). Änderung LGBlVbg. Nr. 105/1920 LGBlVbg. Nr. 2/1930 BGBl. I Nr. 14/2019 (BG) (NR: GP XXVI RV 301 AB 463 S. 57. BR: AB 10104 S. 888.) LGBlVbg. Nr. 62/2019"
+}

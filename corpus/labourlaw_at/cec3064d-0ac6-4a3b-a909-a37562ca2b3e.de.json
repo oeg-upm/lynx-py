@@ -1,0 +1,52 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/cec3064d-0ac6-4a3b-a909-a37562ca2b3e",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Protokoll über Zusammenarbeit (Rumänien)"
+    },
+    "hasAuthority": "BKA (Bundeskanzleramt)",
+    "id_local": "20006476",
+    "first_date_entry_in_force": "2009-05-07",
+    "version_date": "2009-05-07",
+    "url_consolidated": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d20006476\u0026FassungVom\u003d2009-05-08",
+    "classifications": [
+      "69/02 Arbeitsrecht"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/cec3064d-0ac6-4a3b-a909-a37562ca2b3e/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/cec3064d-0ac6-4a3b-a909-a37562ca2b3e/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 6714,
+  "text": "Sprachen Rumänisch Ratifikationstext Das Protokoll ist gemäß dessen Art. 7 mit 8. Mai 2009 in Kraft getreten.Das Ministerium für Arbeit, Familie und Gleichstellung Rumäniens und das Bundesministerium für Wirtschaft und Arbeit der Republik Österreich, nachstehend die „Parteien“ genannt, haben – unter Berücksichtigung des gegenseitigen Interesses an der Entwicklung freundschaftlicher Beziehungen und Zusammenarbeit im Bereich des Arbeitsmarktes und der Arbeitsbeziehungen, und – in der Erkenntnis, dass es wichtig ist, die wirtschaftliche und die soziale Entwicklung in beiden Ländern durch diese Zusammenarbeit zu fördern, folgendes vereinbart: a) die Entwicklung der gegenseitigen Zusammenarbeit zwecks Austausch von Erkenntnissen, Erfahrungen, Analysen und Empfehlungen zwischen den Parteien, und wenn angemessen, zwischen anderen entsprechenden Institutionen aus dem Arbeitsmarktbereich, zu unterstützen; b) Informationen auf dem Gebiet der Arbeitsmarktpolitik, der Arbeitsbeziehungen, der Prozesse derEntscheidungsfindung in diesem Umfeld, der Arbeitsgesetzgebung, der Struktur und der Dienstleistungen indiesen Bereichen in ihren Staaten auf nationaler, regionaler und lokaler Ebene, auszutauschen; c) im Rahmen von europäischen oder anderen internationalen Programmen mitzuarbeiten. 1. Die Parteien haben folgende Prioritätsbereiche der Zusammenarbeit aufgeführt: A) Arbeitsmarkt, und da insbesondere: – Entwicklung von Politiken für die optimale Funktionsweise des Arbeitsmarktes (z. B. Arbeitslosenversicherung, Wechselwirkung zwischen der Arbeitsmarktpolitik und dem System der sozialen Sicherheit, Förderung der beruflichen Fort- und Weiterbildung, Erhöhung der Flexibilität des Arbeitsmarktes, Verbesserung des Zuganges zum Arbeitsmarkt). – Management und Organisation für effektives Funktionieren der zuständigen Institutionen auf dem Arbeitsmarkt auf den jeweiligen Ebenen einschließlich IT-gestützter Verfahrensprozesse bzw. Datenbereitstellung und -analyse; – Ausarbeitung von Methoden der Organisation, Management und finanzieller Verwaltung sowie von inhaltlichen Ressourcen für arbeitsmarktpolitisch relevante Initiativen, die durch EU-Programme kofinanziert sind, wie insbesondere dem Europäischen Sozialfonds (ESF) und dem Europäischen Fonds für Regionale Entwicklung (EFRE) im Bereich Arbeitsmarktpolitik; – Anwendung der Praxis aktiver Arbeitsmarktpolitiken, inklusiv auf lokaler Ebene, mit Betonung der Einbeziehung von spezifischen Problemgruppen auf dem Arbeitsmarkt; – Entwicklung der aktiven Arbeitsmarktpolitik. B) Arbeitsrecht und Arbeitsinspektion, und insbesondere: – weitere Entwicklung der Arbeitsgesetzgebung im Kontext der Europäischen Union; – Kontrolle der Einhaltung der Arbeitsgesetzgebung betreffend die Gewährleistung von gesundheitsfördernden und sicheren Arbeitsbedingungen und die Durchsetzung der Arbeitsrechtsnormen; – die Entsendung von ArbeitnehmerInnen; – die Rechte der ArbeitnehmerInnen bei der Schließung bzw. Transferierung von Betrieben; – Arbeitszeit; – neue Arbeitsformen, die eine Flexibilisierung des Arbeitsmarktes ermöglichen. C) Chancengleichheit für Frauen und Männer, und insbesondere: – Anpassung der Gesetze, die die Chancengleichheit für Frauen und Männer sichern, an die EU-Richtlinien; – Festigung und effektives Funktionieren eines Mechanismus zum Schutz der Chancengleichheit für Frauen und Männer; – die Weiterentwicklung von Politiken zur Vereinbarkeit von Beruf und Familie; – die Entwicklung von Instrumenten und deren Implemetierung für eine umfassende Verankerung des Prinzips der Chancengleichheit in der Politik bzw. in Programmen auf nationaler Ebene (gender mainstreaming); – die Entwicklung von Forschungstechniken, von Monitoring und Evaluierung bezüglich der Methoden für die Verankerung des Prinzips der Chancengleichheit; – die Ausarbeitung und die Einführung von entsprechenden Kennzahlen für die Budgetpolitik; – die Entwicklung eines Dialogs mit den Sozialpartner bzw. Massenmedien bezüglich der Durchsetzung der Gleichstellung (Art des Dialogs, Zusammenarbeitsmethoden). D) Nach Bedarf der beiden PartnerInnen soll es auch möglich sein, andere Zusammenarbeitsbereiche aufzunehmen. 2. Diese Zusammenarbeit wird in Form von – Informationsaustausch in Form von schriftlichen Materialien, Dokumenten und Veröffentlichungen sowie Workshops – gegenseitige Beratungen von Experten – Beteiligung an Konferenzen, die in beiden Staaten organisiert werden sowie – Schulungsprogrammen für die Mitarbeiter der verantwortlichen Institutionen der Parteien erfolgen. 3. Die Parteien vereinbaren, dieses Protokoll auf Grund von gemeinsam erarbeiteten, genehmigten sowie unterzeichneter jährlichen Programmen, nach den jeweiligen finanziellen und organisatorischen Möglichkeiten beider Parteien, umzusetzen. 4. Im Rahmen dieser Programme für den Expertenaustausch zwischen den Parteien wird aus praktischen Erwägungen Englisch als Arbeitssprache gewählt. 5. Hinsichtlich der finanziellen Bedingungen vereinbaren die Parteien, dass alle Kosten, verbunden mit Reise und Aufenthalt der von ihnen beauftragten Experten, von der entsendenden Partei übernommen werden, es sei denn, dass etwas anderes vereinbart wurde. Die empfangende Partei übernimmt die Organisation und den Binnentransport. Die Finanzressourcen für die Verwirklichung der Zusammenarbeit werden von beiden Parteien nach den geltenden Verfahren in ihren nationalen Gesetzgebungen bzw. budgetären Regelungen festgelegt. Die spezifischen finanziellen Bedingungen für die Erfüllung der einzelnen Maßnahmen können in den gemeinsam vereinbarten jährlichen Arbeitsprogrammen laut Pkt. 3 festgelegt werden. 6. Für den Fall, dass Verpflichtungen aus Gründen, die außerhalb des Einflussbereiches der Parteien liegen, nicht erfüllt werden können, wird vereinbart, dass die andere Partei darüber schriftlich zu informieren ist. Es ist gemeinsam darüber zu entscheiden, ob die Erbringung der Leistung eingestellt wird oder ob eine Weiterführung möglich ist. 7. Nach Unterzeichnung durch beide Parteien tritt das Protokoll durch wechselseitige Notifizierung darüber, dass alle inneren Voraussetzungen gegeben sind, in Kraft. 8. Vorliegendes Protokoll ist gültig bis Ende 2010 und wird automatisch jeweils um ein Jahr verlängert, es sei den die Parteien entscheiden anders. 9. Die Parteien können dieses Protokoll jederzeit schriftlich, vor Ablauf der vereinbarten Gültigkeit, kündigen. In diesem Fall, verfällt die Gültigkeit dieses Protokolls sechs Monaten nach Zugang der Kündigung an die andere Seite. Unterzeichnet in Bukarest am 26. Juni 2008 in zwei originalen Exemplaren, jedes von ihnen in rumänischer und deutscher Sprache, wobei beide Exemplare in gleicher Weise Gültigkeit besitzen.",
+  "parts": [
+    {
+      "@id": "cec3064d-0ac6-4a3b-a909-a37562ca2b3e#offset_109_6714",
+      "offset_ini": 109,
+      "offset_end": 6714,
+      "title": ""
+    },
+    {
+      "@id": "cec3064d-0ac6-4a3b-a909-a37562ca2b3e#offset_0_108",
+      "offset_ini": 0,
+      "offset_end": 108
+    }
+  ]
+}

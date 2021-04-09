@@ -1,0 +1,53 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/73ce07a3-155d-4081-a2df-962b22acc2d2",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Feststellung der Ausgleichstaxe nach dem Behinderteneinstellungsgesetz für das Kalenderjahr 2021"
+    },
+    "hasAuthority": "BKA (Bundeskanzleramt)",
+    "id_local": "20011406",
+    "first_date_entry_in_force": "2020-12-19",
+    "version_date": "2020-12-19",
+    "date_no_longer_in_force": "2021-12-31",
+    "url_consolidated": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d20011406\u0026FassungVom\u003d2020-12-19",
+    "classifications": [
+      "68/01 Behinderteneinstellung"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/73ce07a3-155d-4081-a2df-962b22acc2d2/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/73ce07a3-155d-4081-a2df-962b22acc2d2/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 849,
+  "text": "Beachte Zwar nicht formell aufgehoben, aber aus dokumentalistischen Gründen wurde ein Außerkrafttretensdatum gesetzt (Anwendungszeitraum abgelaufen). Präambel/Promulgationsklausel Auf Grund des § 9 Abs. 2 des Behinderteneinstellungsgesetzes, BGBl. Nr. 22/1970, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 32/2018, wird verordnet:Die Höhe der gemäß § 9 Abs. 2 des Behinderteneinstellungsgesetzes zu entrichtenden Ausgleichstaxe beträgt für das Kalenderjahr 2021 für jede einzelne Person, die zu beschäftigen wäre, für Dienstgeberinnen und Dienstgeber mit 25 bis 99 Dienstnehmerinnen und Dienstnehmern monatlich 271 Euro, für Dienstgeberinnen und Dienstgeber mit 100 bis 399 Dienstnehmerinnen und Dienstnehmern monatlich 381 Euro und für Dienstgeberinnen und Dienstgeber mit 400 oder mehr Dienstnehmerinnen und Dienstnehmern monatlich 404 Euro.",
+  "parts": [
+    {
+      "@id": "73ce07a3-155d-4081-a2df-962b22acc2d2#offset_337_849",
+      "offset_ini": 337,
+      "offset_end": 849,
+      "title": ""
+    },
+    {
+      "@id": "73ce07a3-155d-4081-a2df-962b22acc2d2#offset_0_336",
+      "offset_ini": 0,
+      "offset_end": 336
+    }
+  ]
+}

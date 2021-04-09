@@ -1,0 +1,280 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/0901179f-a517-4060-b3e9-a06a92085aa0",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Übereinkommen (Nr. 81) über die Arbeitsaufsicht in Gewerbe und Handel"
+    },
+    "hasAuthority": "BGBl. Nr. 225/1949",
+    "id_local": "10008120",
+    "first_date_entry_in_force": "1950-04-30",
+    "version_date": "1950-04-30",
+    "url_consolidated": "http://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d10008120\u0026FassungVom\u003d1950-04-30",
+    "classifications": [
+      "69/02 Arbeitsrecht"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/0901179f-a517-4060-b3e9-a06a92085aa0/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/0901179f-a517-4060-b3e9-a06a92085aa0/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 23862,
+  "text": "Sonstige Textteile Nachdem das auf der Dreißigsten Internationalen Arbeitskonferenz in Genf angenommene Übereinkommen (Nr. 81) über die Arbeitsaufsicht in Gewerbe und Handel, welches also lautet: ... die verfassungsmäßige Genehmigung des Nationalrates erhalten hat, erklärt der Bundespräsident dieses Übereinkommen für ratifiziert und verspricht im Namen der Republik Österreich dessen gewissenhafte Erfüllung. Zu Urkund dessen ist die vorliegende Ratifikationsurkunde vom Bundespräsidenten unterfertigt, vom Bundeskanzler, vom Bundesminister für soziale Verwaltung und vom Bundesminister für die Auswärtigen Angelegenheiten gegengezeichnet und mit dem Staatssiegel der Republik Österreich versehen worden. Geschehen zu Wien, dem 13. April 1949. Ratifikationstext Die österreichische Ratifikationsurkunde wurde gemäß Artikel 32 des Übereinkommens am 30. April 1949 beim Generaldirektor des Internationalen Arbeitsamtes in Genf hinterlegt. Gemäß seinem Artikel 33, Abs. 3, wird daher das Übereinkommen für Österreich am 30. April 1950 Wirksamkeit erlangen. Präambel/Promulgationsklausel Die Allgemeine Konferenz der Internationalen Arbeitsorganisation, die vom Verwaltungsrate des Internationalen Arbeitsamtes nach Genf einberufen wurde und am 19. Juni 1947 zu ihrer 30. Tagung zusammengetreten ist, hat beschlossen, verschiedene Anträge anzunehmen, betreffend die Arbeitsaufsicht in Gewerbe und Handel, eine Frage, die den vierten Gegenstand ihrer Tagesordnung bildet, und hat dabei bestimmt, daß diese Anträge die Form eines internationalen Übereinkommens erhalten sollen. Die Konferenz nimmt heute, am 11. Juli 1947, das folgende Übereinkommen an, das als Übereinkommen über die Arbeitsaufsicht, 1947, bezeichnet wird.Teil I. - Die Arbeitsaufsicht im Gewerbe. Artikel 1 Jedes Mitglied der internationalen Arbeitsorganisation, für das dieses Übereinkommen in Kraft ist, hat eine Arbeitsaufsicht für die gewerblichen Betriebe zu unterhalten.Artikel 2 1. Die Arbeitsaufsicht für die gewerblichen Betriebe erfaßt alle Betriebe, in denen die Aufsichtsbeamten die Durchführung der gesetzlichen Vorschriften über die Arbeitsbedingungen und den Schutz der Arbeitnehmer bei der Ausführung ihrer Arbeit sicherzustellen haben. 2. Die Gesetzgebung kann von der Anwendung dieses Übereinkommens die Bergbaubetriebe und die Verkehrsbetriebe oder Teile solcher Betriebe ausnehmen.Artikel 3 1. Der Arbeitsaufsicht obliegt a) die Sicherstellung der Durchführung der gesetzlichen Vorschriften über die Arbeitsbedingungen und den Schutz der Arbeitnehmer bei der Ausführung ihrer Arbeit, wie der Vorschriften über Arbeitszeit, Löhne, Unfallverhütung, Gesundheitsschutz und Wohlfahrt, die Beschäftigung von Kindern und Jugendlichen und anderer damit in Zusammenhang stehender Angelegenheiten, soweit die Aufsichtsbeamten mit der Sicherstellung der Durchführung dieser Vorschriften betraut sind; b) die Belehrung der Arbeitgeber und der Arbeitnehmer durch technische Aufklärung und Ratschläge über die wirksamsten Mittel zur Einhaltung der gesetzlichen Vorschriften; c) die Verständigung der zuständigen Behörde von den durch die bestehenden gesetzlichen Vorschriften nicht ausdrücklich erfaßten Mängeln oder Mißbräuchen. 2. Werden den Aufsichtsbeamten weitere Aufgaben übertragen, so dürfen diese sie weder an der wirksamen Erfüllung ihrer Hauptaufgaben hindern, noch das Ansehen und die Unparteilichkeit irgendwie gefährden, deren die Aufsichtsbeamten in ihren Beziehungen zu den Arbeitgebern und den Arbeitnehmern bedürfen.Artikel 4 1. Soweit es mit den Verwaltungsgepflogenheiten des Mitgliedes vereinbar ist, hat die Arbeitsaufsicht der Aufsicht und Kontrolle durch eine Zentralbehörde zu unterstehen. 2. In Bundesstaaten kann als „Zentralbehörde” entweder eine Bundesbehörde oder eine Zentralbehörde eines Gliedes des Bundesstaates gelten.Artikel 5 Die zuständige Behörde hat geeignete Maßnahmen zu treffen zur Förderung: a) einer wirksamen Zusammenarbeit zwischen den Dienststellen der Arbeitsaufsicht einerseits und den auf ähnlichen Gebieten tätigen anderen Behörden und öffentlichen oder privaten Einrichtungen andererseits; b) der Zusammenarbeit zwischen den Aufsichtsbeamten sowie den Arbeitgebern und den Arbeitnehmern oder deren Verbänden.Artikel 6 Das Aufsichtspersonal hat aus öffentlichen Beamten zu bestehen, deren Stellung und Dienstverhältnisse ihnen Stetigkeit der Beschäftigung und Unabhängigkeit von Veränderungen in der Regierung und von unzulässigen äußeren Einflüssen verbürgen.Artikel 7 1. Vorbehaltlich der von der Gesetzgebung gegebenenfalls vorgesehenen Bedingungen für die Anstellung im öffentlichen Dienste hat die Anstellung der Aufsichtsbeamten ausschließlich auf Grund der Befähigung der Anwärter für die Erfüllung ihrer Aufgaben zu erfolgen. 2. Die Art der Feststellung dieser Befähigung wird von der zuständigen Behörde bestimmt. 3. Die Aufsichtsbeamten haben für die Erfüllung ihrer Aufgaben eine geeignete Ausbildung zu erhalten.Artikel 8 Zu Aufsichtsbeamten können sowohl Männer als auch Frauen bestellt werden. Wenn erforderlich, können den männlichen und den weiblichen Aufsichtsbeamten besondere Aufgaben zugewiesen werden.Artikel 9 Jedes Mitglied hat die Mitarbeit gründlich befähigter technischer Sachverständiger und Fachleute an der Aufsichtstätigkeit, einschließlich von Fachleuten auf den Gebieten der Heilkunde, des Ingenieurwesens, der Elektrotechnik und der Chemie, mittels der notwendigen Maßnahmen in der den nationalen Voraussetzungen am besten entsprechenden Weise zu sichern, um so die Durchführung der gesetzlichen Vorschriften über den Gesundheitsschutz und über die Sicherheit der Arbeitnehmer bei der Ausführung ihrer Arbeit zu gewährleisten und die Wirkungen von Herstellungsverfahren, Arbeitsstoffen und Arbeitsweisen auf die Gesundheit und die Sicherheit der Arbeitnehmer zu untersuchen.Artikel 10 Die Zahl der Aufsichtsbeamten muß ausreichen, um die wirksame Ausführung der Aufgaben der Arbeitsaufsicht zu gewährleisten und ist zu bestimmen unter angemessener Berücksichtigung: a) der Bedeutung der von den Aufsichtsbeamten auszuführenden Aufgaben, insbesondere i) der Zahl, der Natur, der Größe und des Standortes der unterstellten Betriebe; ii) der Zahl und der verschiedenen Arten der in diesen Betrieben beschäftigten Arbeitnehmer; iii) des Umfanges sowie der vielgestaltigen und verwickelten Beschaffenheit der gesetzlichen Vorschriften, deren Durchführung sicherzustellen ist; b) der den Aufsichtsbeamten zur Verfügung gestellten sachlichen Behelfe; c) der praktischen Voraussetzungen, unter denen Besichtigungen vorgenommen werden müssen, um wirksam zu sein.Artikel 11 1. Die zuständige Behörde trifft die notwendigen Maßnahmen, um die Aufsichtsbeamten zu versorgen mit a) örtlichen, entsprechend den dienstlichen Erfordernissen ausgestatteten und allen Beteiligten zugänglichen Amtsräumlichkeiten; b) den für die Ausführung ihrer Aufgaben erforderlichen Verkehrsmitteln, wenn zweckdienliche öffentliche Verkehrsmittel fehlen. 2. Die zuständige Behörde trifft die notwendigen Maßnahmen, um den Aufsichtsbeamten alle für die Ausführung ihrer Aufgaben notwendigen Reisekosten und sonstigen Nebenauslagen zu erstatten.Artikel 12 1. Die mit den erforderlichen Ausweisen versehenen Aufsichtsbeamten sind befugt: a) jederzeit bei Tag und bei Nacht jeden unterstellten Betrieb frei und unangemeldet zu betreten; b) bei Tag alle Räumlichkeiten zu betreten, von denen sie mit gutem Grund annehmen können, daß sie der Aufsicht unterstehen; c) alle ihnen notwendig erscheinenden Prüfungen, Feststellungen oder Erhebungen vorzunehmen, um sich von der strengen Einhaltung der gesetzlichen Vorschriften zu überzeugen, und insbesondere i) den Arbeitgeber oder das Personal des Betriebes allein oder in Gegenwart von Zeugen über alle die Durchführung der gesetzlichen Vorschriften betreffenden Angelegenheiten zu befragen; ii) die Vorlage aller durch die Gesetzgebung über die Arbeitsbedingungen vorgeschriebenen Bücher, Verzeichnisse oder sonstigen Unterlagen zur Nachprüfung ihrer Übereinstimmung mit den gesetzlichen Vorschriften zu verlangen und Abschriften dieser Unterlagen oder Auszüge aus ihnen anzufertigen; iii) das Anschlagen der gesetzlich vorgeschriebenen Bekanntmachungen anzuordnen; iv) Proben der verwendeten oder gehandhabten Stoffe und Substanzen zum Zwecke von Analysen zu entnehmen und mit sich zu nehmen; doch ist der Arbeitgeber oder sein Vertreter von der Entnahme oder Mitnahme von Stoffen oder Substanzen für diesen Zweck zu verständigen. 2. Bei der Vornahme einer Besichtigung hat der Aufsichtsbeamte dem Arbeitgeber oder dessen Vertreter von seiner Gegenwart Kenntnis zu geben, es sei denn, daß eine solche Verständigung seiner Ansicht nach die Wirksamkeit der Kontrolle beeinträchtigen könnte.Artikel 13 1. Die Aufsichtsbeamten sind befugt, Maßnahmen zur Behebung der festgestellten Mängel einer Betriebsanlage, einer Einrichtung oder der Arbeitsverfahren zu veranlassen, die sie mit gutem Grund als gefährlich für die Gesundheit oder die Sicherheit der Arbeitnehmer erachten. 2. Um solche Maßnahmen veranlassen zu können, sind die Aufsichtsbeamten befugt, vorbehaltlich jedes etwaigen gesetzlichen Berufungsrechtes an eine Gerichts- oder Verwaltungsbehörde, anzuordnen oder anordnen zu lassen, daß a) jene Änderungen der Einrichtungen oder Anlagen innerhalb einer bestimmten Frist ausgeführt werden, die zur genauen Einhaltung der gesetzlichen Vorschriften über die Gesundheit und die Sicherheit der Arbeitnehmer notwendig sind; b) bei drohender Gefahr für die Gesundheit oder die Sicherheit der Arbeitnehmer sofort vollziehbare Maßnahmen getroffen werden. 3. Wenn das Verfahren nach Absatz 2 der Verwaltungs- oder Rechtsordnung des Mitgliedes nicht entspricht, sind die Aufsichtsbeamten befugt, bei der zuständigen Behörde die Verfügung von Anordnungen oder sofort vollziehbaren Maßnahmen zu beantragen.Artikel 14 Der Arbeitsaufsicht sind Betriebsunfälle und Berufskrankheiten in den Fällen und in der Art anzuzeigen, wie sie die Gesetzgebung vorschreibt.Artikel 15 Vorbehaltlich der durch die Gesetzgebung allenfalls vorgesehenen Ausnahmen gelten für die Aufsichtsbeamten folgende Vorschriften: a) Sie dürfen an den ihrer Aufsicht unterstellten Betrieben weder unmittelbar noch mittelbar beteiligt sein; b) Sie müssen unter Androhung geeigneter strafrechtlicher oder disziplinarischer Ahndung verpflichtet sein, selbst nach Ausscheiden aus dem Dienst, irgendwelche Fabrikations- oder Geschäftsgeheimnisse oder Arbeitsverfahren, die bei Ausübung ihrer Befugnisse zu ihrer Kenntnis kommen, nicht preiszugeben; c) Sie haben die Quelle jeder Beschwerde über einen bestehenden Mangel oder über eine Verletzung der gesetzlichen Vorschriften als unbedingt vertraulich zu behandeln und dürfen weder dem Arbeitgeber doch dessen Vertreter andeuten, daß eine Besichtigung durch eine Beschwerde veranlaßt worden ist.Artikel 16 Die Betriebe sind so oft und so gründlich zu besichtigen, als zur Sicherung einer wirksamen Durchführung der einschlägigen gesetzlichen Vorschriften notwendig ist.Artikel 17 1. Wer gesetzliche Vorschriften, mit deren Durchführung die Aufsichtsbeamten betraut sind, verletzt oder mißachtet, unterliegt sofortiger gesetzlicher Verfolgung ohne vorgängige Verwarnung. Die Gesetzgebung kann jedoch Ausnahmen für die Fälle vorsehen, in denen eine vorgängige Aufforderung zur Behebung von Mängeln oder zur Durchführung vorbeugender Maßnahmen zu erteilen ist. 2. Es bleibt dem freien Ermessen der Aufsichtsbeamten überlassen, an Stelle der Einleitung oder Beantragung der Strafverfolgung Verwarnungen oder Ratschläge zu erteilen.Artikel 18 Die Gesetzgebung hat angemessene Strafen gegen Übertretung der gesetzlichen Vorschriften, deren Durchführung von den Aufsichtsbeamten überwacht wird, und gegen die Behinderung der Aufsichtsbeamten bei der Ausführung ihrer Aufgaben vorzusehen und wirksam anzuwenden.Artikel 19 1. Die Aufsichtsbeamten oder die örtlichen Dienststellen der Arbeitsaufsicht sind verpflichtet, der zentralen Aufsichtsbehörde regelmäßig allgemeine Berichte über die Ergebnisse ihrer Aufsichtstätigkeit vorzulegen. 2. Diese Berichte sind in der von der Zentralbehörde vorgeschriebenen Weise zu verfassen und haben Gegenstände zu behandeln, die von ihr von Zeit zu Zeit festgesetzt werden. Sie sind mindestens so oft, wie es die Zentralbehörde vorschreibt, jedenfalls aber mindestens einmal im Jahr vorzulegen.Artikel 20 1. Die zentrale Aufsichtsbehörde veröffentlicht einen allgemeinen Jahresbericht über die Tätigkeit der ihr unterstellten Dienststellen der Arbeitsaufsicht. 2. Diese Jahresberichte sind innerhalb einer angemessenen Frist nach Schluß des Berichtsjahres, jedenfalls aber innerhalb von zwölf Monaten, zu veröffentlichen. 3. Ausfertigungen der Jahresberichte sind dem Generaldirektor des Internationalen Arbeitsamtes innerhalb einer angemessenen Frist nach ihrer Veröffentlichung, jedenfalls aber innerhalb von drei Monaten, zu übermitteln.Artikel 21 Der Jahresbericht der zentralen Aufsichtsbehörde hat die nachstehend angegebenen Gegenstände sowie alle sonstigen Fragen zu behandeln, die in den Wirkungsbereich dieser Behörde fallen: a) Gesetze und Verordnungen, für welche die Arbeitsaufsicht zuständig ist; b) Personal der Arbeitsaufsicht; c) Statistik der unterstellten Betriebe und Zahl der in ihnen beschäftigten Arbeitnehmer; d) Statistik der vorgenommenen Besichtigungen; e) Statistik der Übertretungen und auferlegten Strafen; f) Statistik der Betriebsunfälle; g) Statistik der Berufskrankheiten.Teil II. - Die Arbeitsaufsicht im Handel. Artikel 22 Jedes Mitglied der Internationalen Arbeitsorganisation, für das dieser Teil dieses Übereinkommens in Kraft ist, hat eine Arbeitsaufsicht für die Handelsbetriebe zu unterhalten.Artikel 23 Die Arbeitsaufsicht für die Handelsbetriebe erfaßt die Betriebe, in denen die Aufsichtsbeamten die Durchführung der gesetzlichen Vorschriften über die Arbeitsbedingungen und den Schutz der Arbeitnehmer bei der Ausführung ihrer Arbeit sicherzustellen haben.Artikel 24 Die Arbeitsaufsicht für die Handelsbetriebe hat den Bestimmungen der Artikel 3 bis 21 dieses Übereinkommens zu entsprechen, soweit diese anwendbar sind.Teil III. - Verschiedene Bestimmungen. Artikel 25 1. Jedes Mitglied der Internationalen Arbeitsorganisation, das dieses Übereinkommen ratifiziert, kann durch eine seiner Ratifikation beigefügte Erklärung den Teil II von der Ratifikation ausnehmen. 2. Jedes Mitglied, das eine solche Erklärung abgegeben hat, kann sie durch eine spätere Erklärung jederzeit widerrufen. 3. Jedes Mitglied, für das eine Erklärung nach Absatz 1 dieses Artikels in Kraft ist, hat in seinem Jahresbericht über die Durchführung dieses Übereinkommens den Stand seiner Gesetzgebung und Praxis in bezug auf die Bestimmungen des Teiles II dieses Übereinkommens anzugeben und mitzuteilen, inwieweit diesen Bestimmungen Folge gegeben worden ist oder die Absicht besteht, ihnen Folge zu geben.Artikel 26 In Fällen, in denen es zweifelhaft ist, ob ein Betrieb, ein Betriebsteil oder eine Betriebsabteilung unter dieses Übereinkommen fallen, entscheidet die zuständige Behörde.Artikel 27 In diesem Übereinkommen umfaßt der Ausdruck „gesetzliche Vorschriften” neben der Gesetzgebung auch die Schiedssprüche und die Gesamtarbeitsverträge mit Gesetzeskraft, deren Durchführung die Aufsichtsbeamten sicherzustellen haben.Artikel 28 Die Jahresberichte nach Artikel 22 der Verfassung der Internationalen Arbeitsorganisation haben eingehende Angaben über alle gesetzlichen Vorschriften zur Durchführung dieses Übereinkommens zu enthalten.Artikel 29 1. Umfaßt das Gebiet eines Mitgliedes ausgedehnte Landesteile, in denen die zuständige Behörde die Bestimmungen dieses Übereinkommens wegen der Spärlichkeit der Bevölkerung oder des Grades ihrer Entwicklung für undurchführbar hält, so kann sie diese Landesteile von der Durchführung des Übereinkommens entweder allgemein oder mit den ihr angemessen erscheinenden Ausnahmen in bezug auf bestimmte Betriebe oder Arbeiten befreien. 2. Jedes Mitglied hat in seinem ersten Jahresberichte, den es auf Grund von Artikel 22 der Verfassung der Internationalen Arbeitsorganisation über die Durchführung dieses Übereinkommens vorzulegen hat, alle Landesteile, für die es von diesem Artikel Gebrauch zu machen beabsichtigt, unter Angabe der Gründe hiefür zu bezeichnen. In der Folge darf kein Mitglied von diesem Artikel für andere als die in dieser Weise bezeichneten Landesteile Gebrauch machen. 3. Jedes Mitglied, das von den Bestimmungen dieses Artikels Gebrauch macht, hat in seinen späteren Jahresberichten die Landesteile zu bezeichnen, für die es auf das Recht verzichtet, von den Bestimmungen dieses Artikels Gebrauch zu machen.Artikel 30 1. Für die in Artikel 35 der Verfassung der Internationalen Arbeitsorganisation in der Fassung der Abänderungsurkunde von 1946 bezeichneten Gebiete, mit Ausnahme der Gebiete nach Absatz 4 und 5 des genannten Artikels in seiner neuen Fassung, hat jedes Mitglied der Organisation, das dieses Übereinkommen ratifiziert, dem Generaldirektor des Internationalen Arbeitsamtes so bald wie möglich nach der Ratifikation eine Erklärung zu übermitteln, welche die Gebiete bekanntgibt, a) für die es die Verpflichtung zur unveränderten Durchführung dieses Übereinkommens übernimmt; b) für die es die Verpflichtung zur Durchführung der Bestimmungen des Übereinkommens mit Abweichungen übernimmt, unter Angabe der Einzelheiten dieser Abweichungen; c) in denen dieses Übereinkommen nicht durchgeführt werden kann, und in diesem Falle die Gründe dafür; d) für die es sich die Entscheidung vorbehält. 2. Die Verpflichtungen nach Absatz 1 a) und b) dieses Artikels gelten als wesentlicher Bestandteil der Ratifikation und haben die Wirkung einer solchen. 3. Jedes Mitglied kann die in der ursprünglichen Erklärung nach Absatz 1 b), c) und d) dieses Artikels mitgeteilten Vorbehalte jederzeit durch eine spätere Erklärung ganz oder teilweise zurückziehen. 4. Jedes Mitglied kann dem Generaldirektor zu jedem Zeitpunkt, in dem das Übereinkommen nach Artikel 34 gekündigt werden kann, eine Erklärung übermitteln, durch die der Inhalt jeder früheren Erklärung in sonstiger Weise abgeändert und die in dem betreffenden Zeitpunkt in bestimmten Gebieten bestehende Lage angegeben wird.Artikel 31 1. Fällt der Gegenstand dieses Übereinkommens unter die Selbstregierungsbefugnisse eines außerhalb des Mutterlandes gelegenen Gebietes, so kann das für die internationalen Beziehungen dieses Gebietes verantwortliche Mitglied im Benehmen mit dessen Regierung dem Generaldirektor des Internationalen Arbeitsamtes eine Erklärung übermitteln, durch die es die Verpflichtungen aus diesem Übereinkommen im Namen des betreffenden Gebietes übernimmt. 2. Eine Erklärung, betreffend die Übernahme der Verpflichtungen aus diesem Übereinkommen, kann dem Generaldirektor des Internationalen Arbeitsamtes übermittelt werden a) von zwei oder mehr Mitgliedern der Organisation für ein ihnen gemeinsam unterstelltes Gebiet; b) von jeder nach der Charter der Vereinten Nationen oder auf Grund einer anderen Bestimmung für die Verwaltung eines Gebietes verantwortlichen internationalen Behörde, und zwar für das betreffende Gebiet. 3. In den dem Generaldirektor des Internationalen Arbeitsamtes nach den vorstehenden Absätzen dieses Artikels übermittelten Erklärungen ist anzugeben, ob das Übereinkommen in dem betreffenden Gebiet mit oder ohne Abweichungen durchgeführt wird; teilt die Erklärung mit, daß die Durchführung des Übereinkommens mit Abweichungen erfolgt, so sind die Einzelheiten dieser Abweichung anzugeben. 4. Das beteiligte Mitglied, die beteiligten Mitglieder oder die beteiligte internationale Behörde können jederzeit durch eine spätere Erklärung auf das Recht der Inanspruchnahme jeder in einer früheren Erklärung mitgeteilten Abweichung ganz oder teilweise verzichten. 5. Das beteiligte Mitglied, die beteiligten Mitglieder oder die beteiligte internationale Behörde können dem Generaldirektor zu jedem Zeitpunkt, in dem dieses Übereinkommen gemäß Artikel 34 gekündigt werden kann, eine Erklärung übermitteln, durch die der Inhalt jeder früheren Erklärung in sonstiger Weise abgeändert und die in dem betreffenden Zeitpunkte bestehende Lage in bezug auf die Durchführung dieses Übereinkommens angegeben wird.Teil IV. - Schlußbestimmungen. Artikel 32 Die förmlichen Ratifikationen dieses Übereinkommens sind dem Generaldirektor des Internationalen Arbeitsamtes zur Eintragung mitzuteilen.Artikel 33 1. Dieses Übereinkommen bindet nur diejenigen Mitglieder der Internationalen Arbeitsorganisation, deren Ratifikation durch den Generaldirektor eingetragen ist. 2. Es tritt in Kraft zwölf Monate nachdem die Ratifikationen zweier Mitglieder durch den Generaldirektor eingetragen worden sind. 3. In der Folge tritt dieses Übereinkommen für jedes Mitglied zwölf Monate nach der Eintragung seiner Ratifikation in Kraft.Artikel 34 1. Jedes Mitglied, das dieses Übereinkommen ratifiziert hat, kann es nach Ablauf von zehn Jahren, gerechnet von dem Tag, an dem es zum erstenmal in Kraft getreten ist, durch Anzeige an den Generaldirektor des Internationalen Arbeitsamtes kündigen. Die Kündigung wird von diesem eingetragen. Ihre Wirkung tritt erst ein Jahr nach der Eintragung ein. 2. Jedes Mitglied, das dieses Übereinkommen ratifiziert hat und innerhalb eines Jahres nach Ablauf des im vorigen Absatze genannten Zeitraumes von zehn Jahren von dem in diesem Artikel vorgesehenen Kündigungsrechte keinen Gebrauch macht, bleibt für einen weiteren Zeitraum von zehn Jahren gebunden. In der Folge kann es dieses Übereinkommen jeweils nach Ablauf eines Zeitraumes von zehn Jahren nach Maßgabe dieses Artikels kündigen.Artikel 35 1. Der Generaldirektor des Internationalen Arbeitsamtes gibt allen Mitgliedern der Internationalen Arbeitsorganisation Kenntnis von der Eintragung aller Ratifikationen, Erklärungen und Kündigungen, die ihm von den Mitgliedern der Organisation mitgeteilt werden. 2. Der Generaldirektor wird die Mitglieder der Organisation, wenn er ihnen von der Eintragung der zweiten Ratifikation, die ihm mitgeteilt wird, Kenntnis gibt, auf den Zeitpunkt aufmerksam machen, in dem dieses Übereinkommen in Kraft tritt.Artikel 36 Der Generaldirektor des Internationalen Arbeitsamtes übermittelt dem Generalsekretär der Vereinten Nationen zwecks Eintragung nach Artikel 102 der Charter der Vereinten Nationen vollständige Auskünfte über alle von ihm nach Maßgabe der vorangehenden Artikel eingetragenen Ratifikationen, Erklärungen und Kündigungen.Artikel 37 Der Verwaltungsrat des Internationalen Arbeitsamtes hat nach Inkrafttreten dieses Übereinkommens jeweils bei Ablauf eines Zeitraumes von zehn Jahren der Allgemeinen Konferenz einen Bericht über die Durchführung dieses Übereinkommens zu erstatten und darüber zu entscheiden, ob die Frage seiner gänzlichen oder teilweisen Abänderung auf die Tagesordnung der Konferenz gesetzt werden soll.Artikel 38 1. Nimmt die Konferenz ein neues Übereinkommen an, welches das vorliegende Übereinkommen ganz oder teilweise abändert, und sieht das neue Übereinkommen nichts anderes vor, so gelten folgende Bestimmungen: a) Die Ratifikation des neugefaßten Übereinkommens durch ein Mitglied schließt ohne weiteres die sofortige Kündigung des vorliegenden Übereinkommens in sich, ohne Rücksicht auf Artikel 34; Voraussetzung ist dabei, daß das neugefaßte Übereinkommen in Kraft getreten ist. b) Vom Zeitpunkte des Inkrafttretens des neugefaßten Übereinkommens an kann das vorliegende Übereinkommen von den Mitgliedern nicht mehr ratifiziert werden. 2. Indessen bleibt das vorliegende Übereinkommen nach Form und Inhalt jedenfalls in Kraft für die Mitglieder, die dieses, aber nicht das neugefaßte Übereinkommen ratifiziert haben.Artikel 39 Der englische und der französische Wortlaut dieses Übereinkommens sind in gleicher Weise maßgebend.",
+  "parts": [
+    {
+      "@id": "0901179f-a517-4060-b3e9-a06a92085aa0#offset_1720_1940",
+      "offset_ini": 1720,
+      "offset_end": 1940,
+      "title": "Artikel 1"
+    },
+    {
+      "@id": "0901179f-a517-4060-b3e9-a06a92085aa0#offset_1941_2365",
+      "offset_ini": 1941,
+      "offset_end": 2365,
+      "title": "Artikel 2"
+    },
+    {
+      "@id": "0901179f-a517-4060-b3e9-a06a92085aa0#offset_2366_3504",
+      "offset_ini": 2366,
+      "offset_end": 3504,
+      "title": "Artikel 3"
+    },
+    {
+      "@id": "0901179f-a517-4060-b3e9-a06a92085aa0#offset_3505_3823",
+      "offset_ini": 3505,
+      "offset_end": 3823,
+      "title": "Artikel 4"
+    },
+    {
+      "@id": "0901179f-a517-4060-b3e9-a06a92085aa0#offset_3824_4231",
+      "offset_ini": 3824,
+      "offset_end": 4231,
+      "title": "Artikel 5"
+    },
+    {
+      "@id": "0901179f-a517-4060-b3e9-a06a92085aa0#offset_4232_4482",
+      "offset_ini": 4232,
+      "offset_end": 4482,
+      "title": "Artikel 6"
+    },
+    {
+      "@id": "0901179f-a517-4060-b3e9-a06a92085aa0#offset_4483_4946",
+      "offset_ini": 4483,
+      "offset_end": 4946,
+      "title": "Artikel 7"
+    },
+    {
+      "@id": "0901179f-a517-4060-b3e9-a06a92085aa0#offset_4947_5144",
+      "offset_ini": 4947,
+      "offset_end": 5144,
+      "title": "Artikel 8"
+    },
+    {
+      "@id": "0901179f-a517-4060-b3e9-a06a92085aa0#offset_5145_5829",
+      "offset_ini": 5145,
+      "offset_end": 5829,
+      "title": "Artikel 9"
+    },
+    {
+      "@id": "0901179f-a517-4060-b3e9-a06a92085aa0#offset_5830_6608",
+      "offset_ini": 5830,
+      "offset_end": 6608,
+      "title": "Artikel 10"
+    },
+    {
+      "@id": "0901179f-a517-4060-b3e9-a06a92085aa0#offset_6609_7165",
+      "offset_ini": 6609,
+      "offset_end": 7165,
+      "title": "Artikel 11"
+    },
+    {
+      "@id": "0901179f-a517-4060-b3e9-a06a92085aa0#offset_7166_8755",
+      "offset_ini": 7166,
+      "offset_end": 8755,
+      "title": "Artikel 12"
+    },
+    {
+      "@id": "0901179f-a517-4060-b3e9-a06a92085aa0#offset_8756_9867",
+      "offset_ini": 8756,
+      "offset_end": 9867,
+      "title": "Artikel 13"
+    },
+    {
+      "@id": "0901179f-a517-4060-b3e9-a06a92085aa0#offset_9868_10019",
+      "offset_ini": 9868,
+      "offset_end": 10019,
+      "title": "Artikel 14"
+    },
+    {
+      "@id": "0901179f-a517-4060-b3e9-a06a92085aa0#offset_10020_10869",
+      "offset_ini": 10020,
+      "offset_end": 10869,
+      "title": "Artikel 15"
+    },
+    {
+      "@id": "0901179f-a517-4060-b3e9-a06a92085aa0#offset_10870_11043",
+      "offset_ini": 10870,
+      "offset_end": 11043,
+      "title": "Artikel 16"
+    },
+    {
+      "@id": "0901179f-a517-4060-b3e9-a06a92085aa0#offset_11044_11601",
+      "offset_ini": 11044,
+      "offset_end": 11601,
+      "title": "Artikel 17"
+    },
+    {
+      "@id": "0901179f-a517-4060-b3e9-a06a92085aa0#offset_11602_11877",
+      "offset_ini": 11602,
+      "offset_end": 11877,
+      "title": "Artikel 18"
+    },
+    {
+      "@id": "0901179f-a517-4060-b3e9-a06a92085aa0#offset_11878_12397",
+      "offset_ini": 11878,
+      "offset_end": 12397,
+      "title": "Artikel 19"
+    },
+    {
+      "@id": "0901179f-a517-4060-b3e9-a06a92085aa0#offset_12398_12943",
+      "offset_ini": 12398,
+      "offset_end": 12943,
+      "title": "Artikel 20"
+    },
+    {
+      "@id": "0901179f-a517-4060-b3e9-a06a92085aa0#offset_12944_13509",
+      "offset_ini": 12944,
+      "offset_end": 13509,
+      "title": "Artikel 21"
+    },
+    {
+      "@id": "0901179f-a517-4060-b3e9-a06a92085aa0#offset_13510_13738",
+      "offset_ini": 13510,
+      "offset_end": 13738,
+      "title": "Artikel 22"
+    },
+    {
+      "@id": "0901179f-a517-4060-b3e9-a06a92085aa0#offset_13739_14005",
+      "offset_ini": 13739,
+      "offset_end": 14005,
+      "title": "Artikel 23"
+    },
+    {
+      "@id": "0901179f-a517-4060-b3e9-a06a92085aa0#offset_14006_14168",
+      "offset_ini": 14006,
+      "offset_end": 14168,
+      "title": "Artikel 24"
+    },
+    {
+      "@id": "0901179f-a517-4060-b3e9-a06a92085aa0#offset_14169_14930",
+      "offset_ini": 14169,
+      "offset_end": 14930,
+      "title": "Artikel 25"
+    },
+    {
+      "@id": "0901179f-a517-4060-b3e9-a06a92085aa0#offset_14931_15112",
+      "offset_ini": 14931,
+      "offset_end": 15112,
+      "title": "Artikel 26"
+    },
+    {
+      "@id": "0901179f-a517-4060-b3e9-a06a92085aa0#offset_15113_15352",
+      "offset_ini": 15113,
+      "offset_end": 15352,
+      "title": "Artikel 27"
+    },
+    {
+      "@id": "0901179f-a517-4060-b3e9-a06a92085aa0#offset_15353_15566",
+      "offset_ini": 15353,
+      "offset_end": 15566,
+      "title": "Artikel 28"
+    },
+    {
+      "@id": "0901179f-a517-4060-b3e9-a06a92085aa0#offset_15567_16702",
+      "offset_ini": 15567,
+      "offset_end": 16702,
+      "title": "Artikel 29"
+    },
+    {
+      "@id": "0901179f-a517-4060-b3e9-a06a92085aa0#offset_16703_18274",
+      "offset_ini": 16703,
+      "offset_end": 18274,
+      "title": "Artikel 30"
+    },
+    {
+      "@id": "0901179f-a517-4060-b3e9-a06a92085aa0#offset_18275_20295",
+      "offset_ini": 18275,
+      "offset_end": 20295,
+      "title": "Artikel 31"
+    },
+    {
+      "@id": "0901179f-a517-4060-b3e9-a06a92085aa0#offset_20296_20474",
+      "offset_ini": 20296,
+      "offset_end": 20474,
+      "title": "Artikel 32"
+    },
+    {
+      "@id": "0901179f-a517-4060-b3e9-a06a92085aa0#offset_20475_20899",
+      "offset_ini": 20475,
+      "offset_end": 20899,
+      "title": "Artikel 33"
+    },
+    {
+      "@id": "0901179f-a517-4060-b3e9-a06a92085aa0#offset_20900_21691",
+      "offset_ini": 20900,
+      "offset_end": 21691,
+      "title": "Artikel 34"
+    },
+    {
+      "@id": "0901179f-a517-4060-b3e9-a06a92085aa0#offset_21692_22204",
+      "offset_ini": 21692,
+      "offset_end": 22204,
+      "title": "Artikel 35"
+    },
+    {
+      "@id": "0901179f-a517-4060-b3e9-a06a92085aa0#offset_22205_22531",
+      "offset_ini": 22205,
+      "offset_end": 22531,
+      "title": "Artikel 36"
+    },
+    {
+      "@id": "0901179f-a517-4060-b3e9-a06a92085aa0#offset_22532_22929",
+      "offset_ini": 22532,
+      "offset_end": 22929,
+      "title": "Artikel 37"
+    },
+    {
+      "@id": "0901179f-a517-4060-b3e9-a06a92085aa0#offset_22930_23752",
+      "offset_ini": 22930,
+      "offset_end": 23752,
+      "title": "Artikel 38"
+    },
+    {
+      "@id": "0901179f-a517-4060-b3e9-a06a92085aa0#offset_23753_23862",
+      "offset_ini": 23753,
+      "offset_end": 23862,
+      "title": "Artikel 39"
+    },
+    {
+      "@id": "0901179f-a517-4060-b3e9-a06a92085aa0#offset_0_1719",
+      "offset_ini": 0,
+      "offset_end": 1719
+    }
+  ]
+}

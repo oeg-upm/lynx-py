@@ -1,0 +1,52 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/17fafcb2-845e-4d8d-9a9a-3be970948f8b",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Soziale Sicherheit – Kündigung (Nordmazedonien)"
+    },
+    "hasAuthority": "BKA (Bundeskanzleramt)",
+    "id_local": "10009012",
+    "first_date_entry_in_force": "1996-07-19",
+    "version_date": "1996-07-19",
+    "url_consolidated": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d10009012\u0026FassungVom\u003d1996-07-20",
+    "classifications": [
+      "69/03 Soziale Sicherheit"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/17fafcb2-845e-4d8d-9a9a-3be970948f8b/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/17fafcb2-845e-4d8d-9a9a-3be970948f8b/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 1004,
+  "text": "Sonstige Textteile Der Nationalrat hat beschlossen: Die nachstehende Kündigung wird genehmigt.KÜNDIGUNG Der Bundespräsident erklärt im Namen der Republik Österreich das am 19. November 1965 unterzeichnete und zwischen der Republik Österreich und der Ehemaligen jugoslawischen Republik Mazedonien weiterangewendete „Abkommen zwischen der Republik Österreich und der Sozialistischen Föderativen Republik Jugoslawien über Soziale Sicherheit *)“ vom 19. November 1965 in der Fassung des Zusatzabkommens vom 19. März 1979 **) und des zweiten Zusatzabkommens vom 11. Mai 1988 ***) gemäß seinem Artikel 48 zum 30. September 1996 für gekündigt. Die vom Bundespräsidenten am 27. Juni 1996 unterzeichnete und vom Bundeskanzler gegengezeichnete Kündigungsurkunde wurde am 28. Juni 1996 einem Vertreter der Botschaft der Ehemaligen jugoslawischen Republik Mazedonien in Wien übergeben. __________________ *) Kundgemacht in BGBl. Nr. 289/1966 **) Kundgemacht in BGBl. Nr. 81/1980 ***) Kundgemacht in BGBl. Nr. 269/1989",
+  "parts": [
+    {
+      "@id": "17fafcb2-845e-4d8d-9a9a-3be970948f8b#offset_94_1004",
+      "offset_ini": 94,
+      "offset_end": 1004,
+      "title": ""
+    },
+    {
+      "@id": "17fafcb2-845e-4d8d-9a9a-3be970948f8b#offset_0_93",
+      "offset_ini": 0,
+      "offset_end": 93
+    }
+  ]
+}

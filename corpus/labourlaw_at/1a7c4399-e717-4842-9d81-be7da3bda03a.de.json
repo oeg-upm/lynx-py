@@ -1,0 +1,83 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/1a7c4399-e717-4842-9d81-be7da3bda03a",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Festsetzung des zu entrichtenden Behandlungsbeitrags für Patienten der allgemeinen Gebührenklasse, die ihren Wohnsitz nicht in Wien haben"
+    },
+    "hasAuthority": "LGBl. Nr. 53/1991",
+    "id_local": "20000285",
+    "first_date_entry_in_force": "2002-01-01",
+    "version_date": "2002-01-01",
+    "url_consolidated": "http://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dLrW\u0026Gesetzesnummer\u003d20000285\u0026FassungVom\u003d2002-01-01",
+    "classifications": [
+      "60/40 Krankenbehandlung",
+      "60 Gesundheits- und Sozialrecht (S)"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/1a7c4399-e717-4842-9d81-be7da3bda03a/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/1a7c4399-e717-4842-9d81-be7da3bda03a/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 3363,
+  "text": "Präambel/Promulgationsklausel Auf Grund des § 51 a Abs. 2 des Wiener Krankenanstaltengesetzes 1987, LGBl. für Wien Nr. 23/1987, zuletzt geändert durch das Landesgesetz LGBl. für Wien Nr. 74/1990, wird verordnet: Im RIS seit 14.05.2014 Zuletzt aktualisiert am 26.05.2017 Gesetzesnummer 20000285 Dokumentnummer LWI40005358§ 1. (1) Für Patienten der allgemeinen Gebührenklasse, die ihren ordentlichen Wohnsitz nicht in Wien haben und für deren Anstaltspflege Pflegegebührenersätze von einem Sozialversicherungsträger an den Krankenanstaltenträger zu leisten sind (sozialversicherte Patienten), wird der Behandlungsbeitrag pro Pflegetag nach Maßgabe des Abs. 2 und des § 3 wie folgt festgesetzt: 1. Krankenhaus Lainz Wilhelminenspital Franz-Josef-Spital Krankenhaus Rudolfstiftung Elisabeth-Spital Allgemeine Poliklinik Krankenhaus Floridsdorf Sophien-Spital Pulmologisches Zentrum Orthopädisches Krankenhaus Gersthof Semmelweis-Frauenklinik Neurologisches Krankenhaus Rosenhügel Neurologisches Krankenhaus Maria-Theresien-Schlössel Preyer\u0027sches Kinderspital Mautner Markhof\u0027sches Kinderspital Kinderklinik Glanzing 231,10 Euro 2. Allgemeines Krankenhaus (einschließlich St. Anna-Kinderspital) 457,11 Euro 3. Psychiatrisches Krankenhaus Baumgartner Höhe (ausgenommen die Behandlung von auf Grund von Straftaten freiheitsbeschränkten Patienten der 8. Medizinischen Abteilung im Pavillon 23), Psychiatrisches Krankenhaus Ybbs a. d. Donau 212,93 Euro 4. Hanusch-Krankenhaus 267,44 Euro 5. Orthopädisches Spital (Speising) 231,10 Euro (2) Die im Abs. 1 genannten Beträge verringern sich um den Kostenbeitrag gemäß § 46 a Wr. KAG, soweit ein solcher zu leisten ist.§ 2. Für Patienten der allgemeinen Gebührenklasse, die ihren ordentlichen Wohnsitz nicht in Wien haben und für deren Anstaltspflege keine Pflegegebührenersätze von einem Sozialversicherungsträger an den Krankenanstaltenträger zu leisten sind (nicht sozialversicherte Patienten einschließlich der Sozialhilfefälle), wird der Behandlungsbeitrag pro Pflegetag nach Maßgabe des § 3 wie folgt festgesetzt: 1. Krankenanstalten gemäß § 1 Abs. 1 Z 1 16,71 Euro 2. Krankenanstalten gemäß § 1 Abs. 1 Z 2 43,60 Euro 3. Krankenanstalten gemäß § 1 Abs. 1 Z 3 49,42 Euro 4. Krankenanstalt gemäß § 1 Abs. 1 Z 4 53,05 Euro 5. Krankenanstalt gemäß § 1 Abs. 1 Z 5 16,71 Euro§ 3. Den Beträgen gemäß §§ 1 und 2 ist die Umsatzsteuer in Höhe von 10 vH hinzuzurechnen.§ 4. Sofern die von den Sozialversicherungsträgern zu leistenden Pflegegebührenersätze den Betrag von 87,35 Euro in den Fällen des § 1 Abs. 1 Z 1, 2, 4 und 5 bzw. den Betrag von 45,20 Euro in den Fällen des § 1 Abs. 1 Z 3 übersteigen, sind die Mehrbeträge von Beträgen gemäß § 1 Abs. 1 in Abzug zu bringen.§ 5. Ergibt sich nach Ausfertigung einer Zahlungsaufforderung (§ 54 Wr. KAG) ein Grund zur Änderung gemäß § 4, dann ist eine neue Zahlungsaufforderung auszufertigen; mit der Neuausfertigung verliert die frühere Zahlungsausfertigung ihre Wirksamkeit.§ 6. (1) Diese Verordnung tritt mit 1. Jänner 1992 in Kraft. (2) Mit Ablauf des 31. Dezember 1991 verliert die Verordnung der Wiener Landesregierung betreffend die Festsetzung des für Patienten der allgemeinen Gebührenklasse, die ihren ordentlichen Wohnsitz nicht in Wien haben, für die Wiener öffentlichen Krankenanstalten zu entrichtenden Behandlungsbeitrages, LGBl. für Wien Nr. 19/1991, ihre Wirksamkeit.",
+  "parts": [
+    {
+      "@id": "1a7c4399-e717-4842-9d81-be7da3bda03a#offset_320_1655",
+      "offset_ini": 320,
+      "offset_end": 1655,
+      "title": ""
+    },
+    {
+      "@id": "1a7c4399-e717-4842-9d81-be7da3bda03a#offset_1656_2311",
+      "offset_ini": 1656,
+      "offset_end": 2311,
+      "title": ""
+    },
+    {
+      "@id": "1a7c4399-e717-4842-9d81-be7da3bda03a#offset_2312_2400",
+      "offset_ini": 2312,
+      "offset_end": 2400,
+      "title": ""
+    },
+    {
+      "@id": "1a7c4399-e717-4842-9d81-be7da3bda03a#offset_2401_2706",
+      "offset_ini": 2401,
+      "offset_end": 2706,
+      "title": ""
+    },
+    {
+      "@id": "1a7c4399-e717-4842-9d81-be7da3bda03a#offset_2707_2955",
+      "offset_ini": 2707,
+      "offset_end": 2955,
+      "title": ""
+    },
+    {
+      "@id": "1a7c4399-e717-4842-9d81-be7da3bda03a#offset_2956_3363",
+      "offset_ini": 2956,
+      "offset_end": 3363,
+      "title": ""
+    },
+    {
+      "@id": "1a7c4399-e717-4842-9d81-be7da3bda03a#offset_0_319",
+      "offset_ini": 0,
+      "offset_end": 319
+    }
+  ]
+}

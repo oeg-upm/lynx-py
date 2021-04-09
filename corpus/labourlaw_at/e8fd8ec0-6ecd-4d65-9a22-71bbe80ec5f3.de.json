@@ -1,0 +1,42 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/e8fd8ec0-6ecd-4d65-9a22-71bbe80ec5f3",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "NÖ Arbeitsstätten in der Land- und Forstwirtschaft"
+    },
+    "hasAuthority": "BKA (Bundeskanzleramt)",
+    "nick": [
+      "NÖ LFW ASt-VO"
+    ],
+    "id_local": "20010966",
+    "first_date_entry_in_force": "2020-01-01",
+    "version_date": "2020-01-01",
+    "url_consolidated": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d20010966\u0026FassungVom\u003d2020-01-01",
+    "classifications": [
+      "60/01 Arbeitsvertragsrecht"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/e8fd8ec0-6ecd-4d65-9a22-71bbe80ec5f3/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/e8fd8ec0-6ecd-4d65-9a22-71bbe80ec5f3/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 2864,
+  "text": "Beachte Diese Rechtsvorschrift gilt in ihrer Fassung vom 31. Dezember 2019 für das Land Niederösterreich als Verordnung des Bundes, soweit sie „Arbeiterrecht sowie Arbeiter- und Angestelltenschutz, soweit es sich um land- und forstwirtschaftliche Arbeiter und Angestellte handelt“ (Art. 11 Abs. 1 Z 9 B-VG, BGBl. Nr. 1/1930, in der Fassung des Bundesgesetzes BGBl. I Nr. 14/2019) regelt; soweit diese Fassung (allenfalls) den Bestimmungen des Bundes-Verfassungsgesetzes betreffend die Zuständigkeit der Behörden widerspricht, gilt sie als „sinngemäß geändert“ (Art. 151 Abs. 63 Z 4 B-VG). Änderung LGBlNÖ. Nr. 9020/11-1 BGBl. I Nr. 14/2019 (NR: GP XXVI RV 301 AB 463 S. 57. BR: AB 10104 S. 888.) Präambel/Promulgationsklausel Die NÖ Landesregierung hat am 7. Dezember 2010 aufgrund des § 239 Abs. 1 der NÖ Landarbeitsordnung 1973, LGBl. 9020–27, verordnet: Inhaltsverzeichnis Abschnitt 1 Geltungsbereich § 1 Anwendungsbereich § 2 Sprachliche Gleichbehandlung Abschnitt 2 Allgemeine Bestimmungen für Arbeitsstätten § 3 Verkehrswege § 4 Ausgänge § 5 Stiegen § 6 Beleuchtung und Belüftung von Räumen § 7 Fußböden, Wände und Decken § 8 Türen und Tore § 9 Fenster, Lichtkuppeln und Glasdächer § 10 Sicherheitsbeleuchtung und Orientierungshilfen § 11 Lagerungen § 12 Gefahrenbereiche § 13 Alarmeinrichtungen § 14 Prüfungen § 15 Information der Dienstnehmer § 16 Barrierefreie Gestaltung von Arbeitsstätten Abschnitt 3 Sicherung der Flucht § 17 Grundsätzliche Bestimmungen § 18 Fluchtwege, gesicherte Fluchtbereiche, Notausgänge § 19 Abmessungen von Fluchtwegen und Notausgängen § 20 Anforderungen an Fluchtwege § 21 Anforderungen an Notausgänge § 22 Anforderungen an gesicherte Fluchtbereiche § 23 Stiegenhaus Abschnitt 4 Anforderungen an Arbeitsräume § 24 Raumhöhe in Arbeitsräumen § 25 Bodenfläche und Luftraum § 26 Lichteintrittsflächen und Sichtverbindung § 27 Natürliche Lüftung § 28 Mechanische Be- und Entlüftung § 29 Raumklima in Arbeitsräumen § 30 Künstliche Beleuchtung in Arbeitsräumen § 31 Abweichende Regelungen für bestimmte Arbeitsräume § 32 Abweichende Regelungen für Container und ähnliche Einrichtungen Abschnitt 5 Sanitäre Vorkehrungen und Sozialeinrichtungen § 33 Trink- und Waschwasser § 34 Toiletten § 35 Waschplätze, Waschräume, Duschen § 36 Kleiderkästen und Umkleideräume § 37 Aufenthalts- und Bereitschaftsräume § 38 Wohnräume § 39 Benutzbarkeit von sanitären Vorkehrungen und Sozialeinrichtungen Abschnitt 6 Erste Hilfe und Brandschutz § 40 Mittel für die Erste Hilfe § 41 Ersthelfer § 42 Sanitätsräume § 43 Löschhilfen § 44 Brandschutzbeauftragte und Brandschutzwarte § 44a Für die Evakuierung der Dienstnehmer und für die Brandbekämpfung zuständige Personen § 45 Brandschutzgruppe § 46 Maßnahmen bei erhöhtem Brandschutz Abschnitt 7 Übergangsbestimmungen und umgesetzte EG-Richtlinien § 47 Übergangsbestimmungen § 48 Umgesetzte EU-Richtlinien"
+}

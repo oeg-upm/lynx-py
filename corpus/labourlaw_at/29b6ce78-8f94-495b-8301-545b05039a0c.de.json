@@ -1,0 +1,70 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/29b6ce78-8f94-495b-8301-545b05039a0c",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Heimarbeitstariffür Knopfwaren und deren Adjustierung, ausgenommen Zwirnknöpfe, durch Heimarbeiterinnen und Heimarbeiter"
+    },
+    "hasAuthority": "BKA (Bundeskanzleramt)",
+    "id_local": "20011308",
+    "first_date_entry_in_force": "2020-06-30",
+    "version_date": "2020-06-30",
+    "url_consolidated": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d20011308\u0026FassungVom\u003d2020-07-01",
+    "classifications": [
+      "60/04 Arbeitsrecht allgemein"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/29b6ce78-8f94-495b-8301-545b05039a0c/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/29b6ce78-8f94-495b-8301-545b05039a0c/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 1536,
+  "text": "Präambel/Promulgationsklausel Das Bundeseinigungsamt beim Bundesministerium für Arbeit, Familie und Jugend ist gemäß § 34 Abs. 1 Heimarbeitsgesetz 1960, BGBl. Nr. 105/1961, in der Fassung des Bundesgesetzes BGBl. I Nr. 61/2018 ermächtigt, auf Antrag einer kollektivvertragsfähigen Körperschaft der Arbeitnehmerinnen und Arbeitnehmer Heimarbeitstarife zu erlassen. Das Bundeseinigungsamt beim Bundesministerium für Arbeit, Familie und Jugend hat mit Beschluss vom 13. Oktober 2020 nach Durchführung einer Senatsverhandlung nachstehenden Heimarbeitstarif erlassen:Heimarbeitstarif für Knopfwaren und deren Adjustierung, ausgenommen Zwirnknöpfe, durch Heimarbeiterinnen und Heimarbeiter H 9/2020/VIII/38/7 Geltungsbereich § 1. a) Räumlich: für das Bundesgebiet Österreich. b) Fachlich: für Knopfwaren und deren Adjustierung, ausgenommen Zwirnknöpfe, soweit diese Tätigkeit nicht in einen anderen Erzeugungszweig fällt und nicht bereits in einem Heimarbeitsgesamtvertrag oder Heimarbeitstarif geregelt ist. c) Persönlich: für alle Auftraggeberinnen und Auftraggeber, die für die unter b) angeführten Arbeiten Heimarbeiterinnen und Heimarbeiter beschäftigen.Entgelte § 2. Die Stückentgelte der in Heimarbeit Beschäftigten sind mit einem Stundenlohn von 9,78 € zu berechnen.Heimarbeitszuschlag § 3. Auf die so errechneten Stückentgelte erhalten die in Heimarbeit Beschäftigten einen gesondert auszuweisenden Heimarbeitszuschlag von 10%.Wirksamkeitsbeginn § 4. Der Wirksamkeitsbeginn dieses Heimarbeitstarifes wird mit 1. Juli 2020 festgesetzt.",
+  "parts": [
+    {
+      "@id": "29b6ce78-8f94-495b-8301-545b05039a0c#offset_562_1152",
+      "offset_ini": 562,
+      "offset_end": 1152,
+      "title": "Geltungsbereich"
+    },
+    {
+      "@id": "29b6ce78-8f94-495b-8301-545b05039a0c#offset_1153_1267",
+      "offset_ini": 1153,
+      "offset_end": 1267,
+      "title": "Entgelte"
+    },
+    {
+      "@id": "29b6ce78-8f94-495b-8301-545b05039a0c#offset_1268_1429",
+      "offset_ini": 1268,
+      "offset_end": 1429,
+      "title": "Heimarbeitszuschlag"
+    },
+    {
+      "@id": "29b6ce78-8f94-495b-8301-545b05039a0c#offset_1430_1536",
+      "offset_ini": 1430,
+      "offset_end": 1536,
+      "title": "Wirksamkeitsbeginn"
+    },
+    {
+      "@id": "29b6ce78-8f94-495b-8301-545b05039a0c#offset_0_561",
+      "offset_ini": 0,
+      "offset_end": 561
+    }
+  ]
+}

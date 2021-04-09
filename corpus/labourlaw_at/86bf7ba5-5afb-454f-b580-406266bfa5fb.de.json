@@ -1,0 +1,100 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/86bf7ba5-5afb-454f-b580-406266bfa5fb",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Soziale Sicherheit – Durchführung (USA)"
+    },
+    "hasAuthority": "BGBl. Nr. 512/1991",
+    "id_local": "10008773",
+    "first_date_entry_in_force": "1991-11-01",
+    "version_date": "1991-11-01",
+    "url_consolidated": "http://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d10008773\u0026FassungVom\u003d1991-11-01",
+    "classifications": [
+      "69/03 Soziale Sicherheit"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/86bf7ba5-5afb-454f-b580-406266bfa5fb/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/86bf7ba5-5afb-454f-b580-406266bfa5fb/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 4999,
+  "text": "Ratifikationstext Die Verwaltungsvereinbarung tritt gemäß ihrem Art. 9 mit 1. November 1991 in Kraft. Präambel/Promulgationsklausel Auf Grund des Artikels 16 Absatz 1 des heute geschlossenen Abkommens zwischen der Republik Österreich und den Vereinigten Staaten von Amerika im Bereich der Sozialen Sicherheit *) – im folgenden Abkommen genannt – haben die zuständigen Behörden, und zwar für die Republik Österreich der Bundesminister für Arbeit und Soziales, für die Vereinigten Staaten von Amerika der Minister für Gesundheit und Sozialdienste, folgendes vereinbart: ___________________ *) Kundgemacht in BGBl. Nr. 511/1991ABSCHNITT I ALLGEMEINE BESTIMMUNGEN Artikel 1 Die in dieser Verwaltungsvereinbarung verwendeten Ausdrücke haben dieselbe Bedeutung wie im Abkommen.Artikel 2 Die nach Artikel 17 des Abkommens eingerichteten Verbindungsstellen haben die zur Durchführung des Abkommens und dieser Verwaltungsvereinbarung erforderlichen gemeinsamen Verfahren und Formblätter festzulegen.ABSCHNITT II BESTIMMUNGEN ÜBER DEN VERSICHERUNGSSCHUTZ Artikel 3 (1) Sind die Rechtsvorschriften eines Vertragsstaates nach den Artikeln 6 bis 8 des Abkommens anzuwenden, so hat der Träger dieses Vertragsstaates über Antrag des Dienstgebers oder des selbständig Erwerbstätigen eine Bescheinigung darüber auszustellen, daß für den Dienstnehmer oder den selbständig Erwerbstätigen diese Rechtsvorschriften gelten. Diese Bescheinigung gilt als Nachweis, daß die betreffende Person von den Rechtsvorschriften des anderen Vertragsstaates befreit ist. (2) Die Bescheinigungen nach Absatz 1 sind auszustellen a) in Österreich vom zuständigen Träger der Krankenversicherung; b) in den Vereinigten Staaten von der Verwaltung der Sozialen Sicherheit. (3) Der Träger eines Vertragsstaates, der eine Bescheinigung nach Absatz 1 ausstellt, hat der Verbindungsstelle des anderen Vertragsstaates eine Kopie der Bescheinigung zu übermitteln, soweit die Verbindungsstellen dies festlegen.ABSCHNITT III BESTIMMUNGEN ÜBER LEISTUNGEN Artikel 4 (1) Der Träger eines Vertragsstaates, bei dem ein Antrag auf Leistungen nach Artikel 21 des Abkommens zuerst eingebracht wird, hat dies unverzüglich dem zuständigen Träger des anderen Vertragsstaates unmittelbar oder über die Verbindungsstelle dieses Vertragsstaates mitzuteilen und ihm alle für die Bearbeitung des Antrages erforderlichen Nachweise und Auskünfte zu erteilen. (2) Der zuständige Träger eines Vertragsstaates, der einen zuerst bei einem Träger des anderen Vertragsstaates eingebrachten Antrag erhält, hat unverzüglich dem zuständigen Träger dieses Vertragsstaates alle für die Bearbeitung des Antrages erforderlichen Nachweise und Auskünfte zu erteilen. (3) Der zuständige Träger eines Vertragsstaates, bei dem ein Antrag auf Leistungen eingebracht wurde, hat die Richtigkeit der Angaben zur Person des Antragstellers und seiner Familienangehörigen zu bestätigen. Die zu bestätigenden Angaben sind von den Verbindungsstellen festzulegen. (4) Der zuständige Träger der Vereinigten Staaten hat dem zuständigen österreichischen Träger auf dessen Ersuchen die dem Antragsteller gegebenenfalls gewährten Leistungen mitzuteilen.ABSCHNITT IV VERSCHIEDENE BESTIMMUNGEN Artikel 5 Entsprechend den nach Artikel 2 zu vereinbarenden Maßnahmen hat der zuständige Träger eines Vertragsstaates auf Ersuchen des zuständigen Trägers des anderen Vertragsstaates zur Anwendung des Abkommens die verfügbaren Auskünfte betreffend den Antrag einer Person zu übermitteln.Artikel 6 Der Träger eines Vertragsstaates, der einen Antrag, eine Erklärung oder ein schriftliches Rechtsmittel nach Artikel 21 des Abkommens erhält, hat das Schriftstück mit dem Eingangsdatum zu versehen und dem zuständigen Träger des anderen Vertragsstaates unmittelbar oder über die Verbindungsstelle dieses Vertragsstaates zu übermitteln.Artikel 7 Die Verbindungsstellen der beiden Vertragsstaaten haben Statistiken über die nach dem Abkommen an die Berechtigten vorgenommenen Zahlungen auszutauschen. Diese Statistiken sind jährlich in einer festzulegenden Form zu übermitteln.Artikel 8 (1) Bei Ersuchen um Verwaltungshilfe nach Artikel 18 des Abkommens sind die den diese Hilfe leistenden Trägern entstandenen Kosten mit Ausnahme der laufenden Personal- und Verwaltungskosten zu ersetzen. (2) Auf Ersuchen hat der Träger eines Vertragsstaates dem Träger des anderen Vertragsstaates alle ihm zur Verfügung stehenden ärztlichen Angaben und Unterlagen betreffend die Erwerbsunfähigkeit des Antragstellers oder des Berechtigten kostenlos zu übermitteln. (3) Der Träger eines Vertragsstaates hat die nach Absatz 1 geschuldeten Beträge nach Vorlage einer detaillierten Kostenaufstellung durch den Träger des anderen Vertragsstaates zu ersetzen.Artikel 9 Diese Verwaltungsvereinbarung tritt gleichzeitig mit dem Abkommen in Kraft und bleibt solange wie das Abkommen in Kraft. GESCHEHEN zu Wien, am 13. Juli 1990 in zwei Urschriften in deutscher und englischer Sprache, wobei beide Texte in gleicher Weise authentisch sind.",
+  "parts": [
+    {
+      "@id": "86bf7ba5-5afb-454f-b580-406266bfa5fb#offset_624_770",
+      "offset_ini": 624,
+      "offset_end": 770,
+      "title": "Artikel 1"
+    },
+    {
+      "@id": "86bf7ba5-5afb-454f-b580-406266bfa5fb#offset_771_989",
+      "offset_ini": 771,
+      "offset_end": 989,
+      "title": "Artikel 2"
+    },
+    {
+      "@id": "86bf7ba5-5afb-454f-b580-406266bfa5fb#offset_990_1960",
+      "offset_ini": 990,
+      "offset_end": 1960,
+      "title": "Artikel 3"
+    },
+    {
+      "@id": "86bf7ba5-5afb-454f-b580-406266bfa5fb#offset_1961_3151",
+      "offset_ini": 1961,
+      "offset_end": 3151,
+      "title": "Artikel 4"
+    },
+    {
+      "@id": "86bf7ba5-5afb-454f-b580-406266bfa5fb#offset_3152_3477",
+      "offset_ini": 3152,
+      "offset_end": 3477,
+      "title": "Artikel 5"
+    },
+    {
+      "@id": "86bf7ba5-5afb-454f-b580-406266bfa5fb#offset_3478_3820",
+      "offset_ini": 3478,
+      "offset_end": 3820,
+      "title": "Artikel 6"
+    },
+    {
+      "@id": "86bf7ba5-5afb-454f-b580-406266bfa5fb#offset_3821_4060",
+      "offset_ini": 3821,
+      "offset_end": 4060,
+      "title": "Artikel 7"
+    },
+    {
+      "@id": "86bf7ba5-5afb-454f-b580-406266bfa5fb#offset_4061_4722",
+      "offset_ini": 4061,
+      "offset_end": 4722,
+      "title": "Artikel 8"
+    },
+    {
+      "@id": "86bf7ba5-5afb-454f-b580-406266bfa5fb#offset_4723_4999",
+      "offset_ini": 4723,
+      "offset_end": 4999,
+      "title": "Artikel 9"
+    },
+    {
+      "@id": "86bf7ba5-5afb-454f-b580-406266bfa5fb#offset_0_623",
+      "offset_ini": 0,
+      "offset_end": 623
+    }
+  ]
+}

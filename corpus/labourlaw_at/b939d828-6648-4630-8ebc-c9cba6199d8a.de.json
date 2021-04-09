@@ -1,0 +1,77 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/b939d828-6648-4630-8ebc-c9cba6199d8a",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Festsetzung des Entgeltes, des Materialkostenersatzes und des Sperrgeldes für Hausbesorger und Hausbesorgerinnen"
+    },
+    "hasAuthority": "LGBl. Nr. 63/2010",
+    "id_local": "20000257",
+    "first_date_entry_in_force": "2011-01-21",
+    "version_date": "2011-01-21",
+    "url_consolidated": "http://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dLrW\u0026Gesetzesnummer\u003d20000257\u0026FassungVom\u003d2011-01-21",
+    "classifications": [
+      "60 Gesundheits- und Sozialrecht (S)",
+      "60/10 Angelegenheiten der Sozialhilfe"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/b939d828-6648-4630-8ebc-c9cba6199d8a/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/b939d828-6648-4630-8ebc-c9cba6199d8a/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 1951,
+  "text": "Präambel/Promulgationsklausel Auf Grund der §§ 7, 8 und 10 des Hausbesorgergesetzes, BGBl. Nr. 16/1970, in der Fassung BGBl. I Nr. 44/2000, wird verordnet:Entgelt § 1. Das monatliche Entgelt für Hausbesorger und Hausbesorgerinnen wird für die nach den §§ 3 und 4 Abs. 1 des Hausbesorgergesetzes zu erbringenden Dienstleistungen wie folgt festgesetzt: 1. bei Wohnungen je Quadratmeter Nutzfläche 0,2220 Euro, 2. bei anderen Räumlichkeiten je Quadratmeter Nutzfläche 0,2220 Euro, 3. für die Reinigung der Gehsteige und deren Bestreuung bei Glatteis je Quadratmeter Gehsteigfläche 0,4004 Euro. Die Erhöhungen betragen gegenüber der Verordnung des Landeshauptmannes, LGBl. für Wien Nr. 69/2009, für die Ziffern 1. 2,04 vH, 2. 2,04 vH, 3. 2,02 vH.Materialkostenersatz § 2. Als Ersatz für die Kosten der Beschaffung der zu den Reinigungsarbeiten im Sinne des § 4 Abs. 1 Z 1 lit. a bis d des Hausbesorgergesetzes erforderlichen Materialien wird eine Vergütung in Form eines Zuschlages zu dem Entgelt gemäß § 1 Z 1 und 2 im Ausmaß von 15 vH festgesetzt. Dieser Zuschlag ist kein Bestandteil des Entgeltes.Rundungsbestimmung § 3. Die sich aus dem Inhalt nach § 1 sowie dem Zuschlag nach § 2 ergebende Summe ist bei Beträgen, die einen halben Cent nicht übersteigen, auf den nächstniedrigeren ganzen Cent abzurunden, bei Beträgen, die einen halben Cent übersteigen, auf den nächsthöheren ganzen Cent aufzurunden.Sperrgeld § 4. Wer in der vorgeschriebenen Sperrzeit die Dienste des Hausbesorgers bzw. der Hausbesorgerin oder des bestellten Vertreters bzw. der bestellten Vertreterin zum Öffnen des Tores in Anspruch nimmt, hat an den Hausbesorger bzw. die Hausbesorgerin (Vertreter bzw. Vertreterin) für das Öffnen des Tores vor Mitternacht 4,00 Euro, nach Mitternacht 4,50 Euro, zu entrichten.In-Kraft-Treten § 5. Diese Verordnung tritt am 1. Jänner 2011 in Kraft. Gleichzeitig tritt die Verordnung des Landeshauptmannes, LGBl. für Wien Nr. 69/2009, außer Kraft.",
+  "parts": [
+    {
+      "@id": "b939d828-6648-4630-8ebc-c9cba6199d8a#offset_155_741",
+      "offset_ini": 155,
+      "offset_end": 741,
+      "title": "Entgelt"
+    },
+    {
+      "@id": "b939d828-6648-4630-8ebc-c9cba6199d8a#offset_742_1096",
+      "offset_ini": 742,
+      "offset_end": 1096,
+      "title": "Materialkostenersatz"
+    },
+    {
+      "@id": "b939d828-6648-4630-8ebc-c9cba6199d8a#offset_1097_1401",
+      "offset_ini": 1097,
+      "offset_end": 1401,
+      "title": "Rundungsbestimmung"
+    },
+    {
+      "@id": "b939d828-6648-4630-8ebc-c9cba6199d8a#offset_1402_1782",
+      "offset_ini": 1402,
+      "offset_end": 1782,
+      "title": "Sperrgeld"
+    },
+    {
+      "@id": "b939d828-6648-4630-8ebc-c9cba6199d8a#offset_1783_1951",
+      "offset_ini": 1783,
+      "offset_end": 1951,
+      "title": "In-Kraft-Treten"
+    },
+    {
+      "@id": "b939d828-6648-4630-8ebc-c9cba6199d8a#offset_0_154",
+      "offset_ini": 0,
+      "offset_end": 154
+    }
+  ]
+}

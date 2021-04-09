@@ -1,0 +1,47 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/659dcd24-0b9a-481b-9d6c-fc023ac80641",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Beschäftigungspolitik"
+    },
+    "hasAuthority": "BGBl. III Nr. 161/2013",
+    "id_local": "20008482",
+    "first_date_entry_in_force": "2013-06-19",
+    "version_date": "2013-06-19",
+    "url_consolidated": "http://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d20008482\u0026FassungVom\u003d2013-06-20",
+    "classifications": [
+      "69/02 Arbeitsrecht"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/659dcd24-0b9a-481b-9d6c-fc023ac80641/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/659dcd24-0b9a-481b-9d6c-fc023ac80641/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 1447,
+  "text": "Nach Mitteilung des Generaldirektors des Internationalen Arbeitsamtes sind mit Stand vom 11. Februar 2013 neben Österreich nachstehende Staaten Vertragsparteien des Übereinkommens (Nr. 122) über die Beschäftigungspolitik (BGBl. Nr. 355/1972): Albanien, Algerien, Antigua und Barbuda, Armenien, Aserbaidschan, Australien, Barbados, Belarus, Belgien, Bolivien, Bosnien und Herzegowina, Brasilien, Bulgarien, Burkina Faso, Chile, China, Costa Rica, Dänemark, Deutschland, Dominikanische Republik, Dschibuti, Ecuador, El Salvador, Estland, Fidschi, Finnland, Frankreich, Gabun, Georgien, Griechenland, Guatemala, Guinea, Honduras, Indien, Irak, Iran, Irland, Island, Israel, Italien, Jamaika, Japan, Jemen, Jordanien, Kambodscha, Kamerun, Kanada, Kasachstan, Kirgisistan, Komoren, Republik Korea, Kroatien, Kuba, Lettland, Libanon, Libyen, Litauen, Madagaskar, Marokko, Mauretanien, die ehemalige jugoslawische Republik Mazedonien, Moldau, Mongolei, Montenegro, Mosambik, Neuseeland, Nicaragua, Niederlande, Norwegen, Panama, Papua-Neuguinea, Paraguay, Peru, Philippinen, Polen, Portugal, Ruanda, Rumänien, Russische Föderation, Sambia, Schweden, Schweiz, Senegal, Serbien, Slowakei, Slowenien, Spanien, St. Vincent und die Grenadinen, Sudan, Suriname, Tadschikistan, Thailand, Togo, Tschechische Republik, Tunesien, Türkei, Uganda, Ukraine, Ungarn, Uruguay, Usbekistan, Venezuela, Vereinigtes Königreich, Vietnam, Zentralafrikanische Republik, Zypern.",
+  "parts": [
+    {
+      "@id": "659dcd24-0b9a-481b-9d6c-fc023ac80641#offset_0_1447",
+      "offset_ini": 0,
+      "offset_end": 1447,
+      "title": ""
+    }
+  ]
+}

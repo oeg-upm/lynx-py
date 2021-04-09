@@ -1,0 +1,52 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/75603953-53d3-4d56-b6cf-f7bcc34bd049",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Notenwechsel zwischen Österreich und der Schweiz gemäß Art. 2 Abs. 4 der Vereinbarung über den Austausch von Gastarbeitnehmern"
+    },
+    "hasAuthority": "BGBl. Nr. 620/1978",
+    "id_local": "10008427",
+    "first_date_entry_in_force": "1978-12-23",
+    "version_date": "1978-12-23",
+    "url_consolidated": "http://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d10008427\u0026FassungVom\u003d1978-12-23",
+    "classifications": [
+      "69/04 Ausländerbeschäftigung"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/75603953-53d3-4d56-b6cf-f7bcc34bd049/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/75603953-53d3-4d56-b6cf-f7bcc34bd049/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 1658,
+  "text": "Präambel/Promulgationsklausel ______________ *) Kundgemacht in BGBl. Nr. 141/1956SCHWEIZERISCHE BOTSCHAFT Wien, den 1. Dezember 1978 Herr Bundesminister, Ich beehre mich, Ihnen auftragsgemäß vorzuschlagen, die Jahreskontingente der Gastarbeitnehmer gemäß Art. 2 Abs. 1 der Vereinbarung über den Austausch von Gastarbeitnehmern (Stagiaires) zwischen der Schweizerischen Eidgenossenschaft und der Republik Österreich vom 19. März 1956 von 50 auf 150 zu erhöhen. Falls die österreichische Seite mit diesem Vorschlag einverstanden ist, beehre ich mich des weiteren vorzuschlagen, daß meine Note und die österreichische Antwortnote eine Vereinbarung gemäß Art. 2 Abs. 4 der erwähnten Vereinbarung darstellt, die am 1. Jänner 1979 in Kraft tritt. Ich benütze diese Gelegenheit, um Ihnen, Herr Bundesminister, den Ausdruck meiner ausgezeichneten Hochachtung zu erneuern. Der schweizerische Botschafter: Rene Keller m. p. Herrn Dr. Gerhard Weißenberg Bundesminister für soziale Verwaltung Wien REPUBLIK ÖSTERREICH BUNDESMINISTERIUM FÜR SOZIALE VERWALTUNG BUNDESMINISTER DR. GERHARD WEISSENBERG Wien, den 1. Dezember 1978 Herr Botschafter, Ich bestätige den Empfang Ihrer Note vom 1. Dezember 1978, die wie folgt lautet: „Herr Bundesminister ... (es folgt der weitere Text der schweizerischen Eröffnungsnote) ... in Kraft tritt.“ Ich beehre mich, hiezu mitzuteilen, daß ich dem in der zitierten Note zum Ausdruck gekommenen Vorschlag zustimme. Ich benütze die Gelegenheit, um Ihnen, Herr Botschafter, den Ausdruck meiner ausgezeichneten Hochachtung zu erneuern. Weißenberg m. p. Seiner Exzellenz Herrn Rene Keller Botschafter der Schweizerischen Eidgenossenschaft Wien",
+  "parts": [
+    {
+      "@id": "75603953-53d3-4d56-b6cf-f7bcc34bd049#offset_81_1658",
+      "offset_ini": 81,
+      "offset_end": 1658,
+      "title": ""
+    },
+    {
+      "@id": "75603953-53d3-4d56-b6cf-f7bcc34bd049#offset_0_80",
+      "offset_ini": 0,
+      "offset_end": 80
+    }
+  ]
+}

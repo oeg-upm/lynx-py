@@ -1,0 +1,178 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/7bae4a0c-16f7-4d9b-9014-251ad5aadab2",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Soziale Sicherheit (Quebec)"
+    },
+    "hasAuthority": "BGBl. Nr. 551/1993",
+    "id_local": "10008874",
+    "first_date_entry_in_force": "1994-05-31",
+    "version_date": "1997-04-30",
+    "url_consolidated": "http://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d10008874\u0026FassungVom\u003d1997-05-01",
+    "classifications": [
+      "69/03 Soziale Sicherheit"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/7bae4a0c-16f7-4d9b-9014-251ad5aadab2/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/7bae4a0c-16f7-4d9b-9014-251ad5aadab2/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 22087,
+  "text": "Präambel/Promulgationsklausel Die Regierung der Republik Österreich und die Regierung von Quebec in dem Wunsche, auf dem Gebiet der Sozialen Sicherheit zusammenzuarbeiten, haben folgendes vereinbart:ABSCHNITT I ALLGEMEINE BESTIMMUNGEN Artikel 1 (1) In dieser Vereinbarung bedeuten die Ausdrücke a) „Rechtsvorschriften“ in bezug auf Österreich die Gesetze, Verordnungen und Satzungen, die sich auf die im Artikel 2 Absatz 1 Buchstabe a bezeichneten Zweige der Sozialen Sicherheit beziehen, in bezug auf Quebec das im Artikel 2 Absatz 1 Buchstabe b bezeichnete Gesetz und die Verordnungen hiezu; b) „Staatsangehöriger“ in bezug auf Österreich einen österreichischen Staatsbürger, in bezug auf Quebec einen kanadischen Staatsbürger, der sich in Quebec gewöhnlich aufhält oder, falls er sich dort nicht gewöhnlich aufhält, für den die im Artikel 2 Absatz 1 Buchstabe b bezeichneten Rechtsvorschriften gelten oder galten; c) „zuständige Behörde“ in bezug auf Österreich den Bundesminister für Arbeit und Soziales, in bezug auf Quebec den Minister, der mit der Durchführung der im Artikel 2 Absatz 1 Buchstabe b bezeichneten Rechtsvorschriften betraut ist; d) „Träger“ in bezug auf Österreich den Träger, dem die Durchführung der im Artikel 2 Absatz 1 Buchstabe a bezeichneten Rechtsvorschriften obliegt, in bezug auf Quebec das Amt oder die Einrichtung der die Anwendung der im Artikel 2 Absatz 1 Buchstabe b bezeichneten Rechtsvorschriften obliegt; e) „zuständiger Träger“ in bezug auf Österreich den nach den jeweils anzuwendenden Rechtsvorschriften zuständigen Träger, in bezug auf Quebec das Amt oder die Einrichtung, der die Anwendung der im Artikel 2 Absatz 1 Buchstabe b bezeichneten Rechtsvorschriften obliegt; f) „Versicherungszeiten“ in bezug auf Österreich Beitragszeiten, die nach den im Artikel 2 Absatz 1 Buchstabe a bezeichneten Rechtsvorschriften als Versicherungszeiten bestimmt oder anerkannt sind, sowie Zeiten, soweit sie nach diesen Rechtsvorschriften als den Versicherungszeiten gleichwertig anerkannt sind, in bezug auf Quebec ein Jahr, während dem nach den im Artikel 2 Absatz 1 Buchstabe b bezeichneten Rechtsvorschriften Beiträge entrichtet wurden oder eine Invaliditätspension gezahlt wurde, sowie ein als gleichwertig anerkanntes Jahr; g) „Geldleistung“ eine Pension oder eine andere Geldleistung einschließlich aller Erhöhungen. (2) In dieser Vereinbarung haben andere Ausdrücke die Bedeutung, die ihnen nach den anzuwendenden Rechtsvorschriften zukommt.Artikel 2 (1) Diese Vereinbarung bezieht sich a) in bezug auf Österreich i) auf die Rechtsvorschriften über die Pensionsversicherung mit Ausnahme der Sonderversicherung für das Notariat, ii) auf die Rechtsvorschriften über die Krankenversicherung und die Unfallversicherung hinsichtlich des Abschnittes II; b) in bezug auf Quebec auf das Gesetz über den Pensionsplan von Quebec und die Verordnungen hiezu. (2) Soweit die Absätze 3 und 4 nichts anderes bestimmen, findet diese Vereinbarung auch auf Rechtsvorschriften Anwendung, die die im Absatz 1 bezeichneten Rechtsvorschriften aufheben, ersetzen, ändern, ergänzen oder zusammenfassen. (3) Diese Vereinbarung berührt nicht andere Übereinkommen oder Vereinbarungen über Soziale Sicherheit einer Vertragspartei mit dritten Staaten, soweit sie nicht Versicherungslastregelungen enthalten. (4) Diese Vereinbarung findet auf Gesetze und Verordnungen hiezu, die die Rechtsvorschriften der Vertragsparteien auf neue Gruppen von Anspruchsberechtigten ausdehnen, nur Anwendung, wenn die beiden Vertragsparteien dies vereinbaren.Artikel 3 Diese Vereinbarung gilt a) für Personen, für die die Rechtsvorschriften einer oder beider Vertragsparteien gelten oder galten; b) für andere Personen, soweit diese ihre Rechte von den im Buchstaben a bezeichneten Personen ableiten.Artikel 4 (1) Soweit diese Vereinbarung nichts anderes bestimmt, stehen die Staatsangehörigen einer Vertragspartei bei Anwendung der Rechtsvorschriften der anderen Vertragspartei den Staatsangehörigen dieser Vertragspartei gleich. (2) Leistungen nach den Rechtsvorschriften einer Vertragspartei sind Staatsangehörigen der anderen Vertragspartei, die sich außerhalb des Gebietes der beiden Vertragsparteien gewöhnlich aufhalten, unter denselben Voraussetzungen und in demselben Umfang zu erbringen wie Staatsangehörigen der ersten Vertragspartei, die sich außerhalb des Gebietes der Vertragsparteien gewöhnlich aufhalten. (3) Absatz 1 berührt nicht die österreichischen Rechtsvorschriften betreffend a) die Mitwirkung der Versicherten und der Dienstgeber in den Organen der Träger und der Verbände sowie in der Rechtsprechung in der Sozialen Sicherheit; b) Versicherungslastregelungen in Übereinkommen mit dritten Staaten; c) die Versicherung der bei einer amtlichen österreichischen Vertretung in einem Drittstaat oder bei Mitgliedern einer solchen Vertretung beschäftigten Personen. (4) Absatz 1 gilt hinsichtlich der österreichischen Rechtsvorschriften über die Berücksichtigung von Kriegsdienstzeiten und diesen gleichgestellten Zeiten nur für Staatsangehörige im Sinne des Artikels 1 Absatz 1 Buchstabe b in bezug auf Quebec, die unmittelbar vor dem 13. März 1938 die österreichische Staatsangehörigkeit besaßen. (5) Hinsichtlich der Rechtsvorschriften von Quebec gelten die Absätze 1 und 2 ohne Rücksicht auf die Staatsangehörigkeit der in Betracht kommenden Personen. (6) Die Absätze 1 und 5 sind nicht dahingehend anzuwenden, die Anwendung des Artikels 7 Absatz 2 und des Artikels 8 Absatz 1 auf Personen auszudehnen, die nicht Staatsangehörige der in Betracht kommenden Vertragspartei sind.Artikel 5 (1) Soweit diese Vereinbarung nichts anderes bestimmt, gelten die Rechtsvorschriften einer Vertragspartei, nach denen der Anspruch oder die Zahlung von Geldleistungen vom gewöhnlichen Aufenthalt im Gebiet dieser Vertragspartei abhängt, nicht für a) die Staatsangehörigen der Vertragsparteien oder b) andere Personen, soweit diese ihre Rechte von einem Staatsangehörigen der Vertragsparteien ableiten, die sich im Gebiet der anderen Vertragspartei gewöhnlich aufhalten. (2) Hinsichtlich der Rechtsvorschriften von Quebec gilt Absatz 1 ohne Rücksicht auf die Staatsangehörigkeit der in Betracht kommenden Personen. (3) Hinsichtlich der österreichischen Rechtsvorschriften gilt Absatz 1 nicht in bezug auf die Ausgleichszulage.ABSCHNITT II BESTIMMUNGEN ÜBER DIE ANZUWENDENDEN RECHTSVORSCHRIFTEN Artikel 6 Soweit die Artikel 7 bis 9 nichts anderes bestimmen, gelten für eine Person, die im Gebiet einer Vertragspartei unselbständig oder selbständig erwerbstätig ist, hinsichtlich dieser Erwerbstätigkeit ausschließlich die Rechtsvorschriften dieser Vertragspartei. In bezug auf eine unselbständige Erwerbstätigkeit gilt dies auch dann, wenn sich der Sitz des Dienstgebers im Gebiet der anderen Vertragspartei befindet.Artikel 7 (1) Wird ein Dienstnehmer, für den die Rechtsvorschriften einer Vertragspartei gelten, von demselben Dienstgeber in das Gebiet der anderen Vertragspartei entsendet, so gelten hinsichtlich dieser Beschäftigung während der ersten 60 Kalendermonate ausschließlich die Rechtsvorschriften der ersten Vertragspartei, als wäre er in deren Gebiet beschäftigt. (2) Wird ein Staatsangehöriger einer Vertragspartei von einem Luftfahrtunternehmen dieser Vertragspartei in das Gebiet der anderen Vertragspartei entsendet, so ist Absatz 1 ohne die Einschränkung auf 60 Kalendermonate anzuwenden. (3) Würde eine Person, die sich im Gebiet einer Vertragspartei gewöhnlich aufhält, auf Grund ihrer selbständigen Erwerbstätigkeit der Pflichtversicherung nach den Rechtsvorschriften beider Vertragsparteien unterliegen, so gelten für diese Person ausschließlich die Rechtsvorschriften der Vertragspartei, in deren Gebiet sie sich gewöhnlich aufhält.Artikel 8 (1) Wird eine Person im öffentlichen Dienst einer Vertragspartei oder im Dienst einer anderen öffentlich-rechtlichen Körperschaft dieser Vertragspartei im Gebiet der anderen Vertragspartei beschäftigt, so gelten hinsichtlich dieser Beschäftigung die Rechtsvorschriften dieser Vertragspartei nur, wenn sie deren Staatsangehöriger ist oder sich in deren Gebiet gewöhnlich aufhält. Im letzteren Fall kann sie aber innerhalb von drei Monaten nach Beginn ihrer Beschäftigung wählen, daß für sie nur die Rechtsvorschriften der ersten Vertragspartei gelten, wenn sie deren Staatsangehöriger ist. (2) Absatz 1 gilt für Dienstnehmer eines Fremdenverkehrsbüros einer Vertragspartei im Gebiet der anderen Vertragspartei entsprechend. (3) Bei Anwendung dieses Artikels hat der in Betracht kommende Dienstgeber alle Vorschriften zu beachten, die für Dienstgeber nach den anzuwendenden Rechtsvorschriften gelten.Artikel 9 (1) Auf gemeinsamen Antrag des Dienstnehmers und des Dienstgebers oder auf Antrag eines selbständig Erwerbstätigen können die zuständigen Behörden beider Vertragsparteien einvernehmlich Ausnahmen von der Anwendung der Artikel 6 bis 8 unter Berücksichtigung der Art und der Umstände der Erwerbstätigkeit vorsehen. (2) Gelten für eine Person nach Absatz 1 die österreichischen Rechtsvorschriften, so sind diese Rechtsvorschriften so anzuwenden, als wäre sie im Gebiet Österreichs beschäftigt.ABSCHNITT III BESTIMMUNGEN ÜBER LEISTUNGEN Artikel 10 Hat eine Person nach den Rechtsvorschriften beider Vertragsparteien Versicherungszeiten erworben, so sind diese für den Erwerb eines Leistungsanspruches zusammenzurechnen, soweit sie nicht auf dieselbe Zeit entfallen.Teil 1 Leistungen nach den österreichischen Rechtsvorschriften Artikel 11 Beanspruchen eine Person, die nach den Rechtsvorschriften beider Vertragsparteien Versicherungszeiten erworben hat, oder ihre Hinterbliebenen Leistungen, so hat der zuständige österreichische Träger nach den österreichischen Rechtsvorschriften festzustellen, ob die betreffende Person unter Zusammenrechnung der Versicherungszeiten nach Artikel 10 und unter Berücksichtigung der folgenden Bestimmungen Anspruch auf die Leistung hat: a) Hängt nach den österreichischen Rechtsvorschriften die Gewährung bestimmter Leistungen von der Zurücklegung der Versicherungszeiten in einem Beruf, für den ein Sondersystem besteht, oder in einem bestimmten Beruf oder in einer bestimmten Beschäftigung ab, so sind für die Gewährung dieser Leistungen die nach den Rechtsvorschriften von Quebec zurückgelegten Versicherungszeiten nur zu berücksichtigen, wenn sie in einem entsprechenden System oder, wenn ein solches nicht besteht, im gleichen Beruf oder in der gleichen Beschäftigung zurückgelegt worden sind. b) Verlängern nach den österreichischen Rechtsvorschriften Zeiten der Pensionsgewährung den Zeitraum, in dem die Versicherungszeiten zurückgelegt sein müssen, so verlängert sich dieser Zeitraum auch durch entsprechende Zeiten der Pensionsgewährung nach den Rechtsvorschriften von Quebec. c) Ein Kalenderjahr, das am oder nach dem 1. Jänner 1966 beginnt und in dem Beiträge nach den Rechtsvorschriften von Quebec entrichtet wurden, gilt als zwölf Beitragsmonate nach den österreichischen Rechtsvorschriften.Artikel 12 (1) Besteht nach den österreichischen Rechtsvorschriften auch ohne Anwendung des Artikels 10 ein Leistungsanspruch, so hat der zuständige österreichische Träger die Leistung ausschließlich auf Grund der nach den österreichischen Rechtvorschriften (Anm.: richtig: Rechtsvorschriften) zu berücksichtigenden Versicherungszeiten festzustellen. (2) Besteht nach den österreichischen Rechtsvorschriften nur unter Anwendung des Artikels 10 ein Leistungsanspruch, so hat der zuständige österreichische Träger die Leistung ausschließlich auf Grund der nach den österreichischen Rechtsvorschriften zu berücksichtigenden Versicherungszeiten und unter Berücksichtigung der folgenden Bestimmungen festzustellen: a) Leistungen oder Leistungsteile, deren Betrag nicht von der Dauer der zurückgelegten Versicherungszeiten abhängig ist, gebühren im Verhältnis der nach den österreichischen Rechtsvorschriften für die Berechnung der Leistung zu berücksichtigenden Versicherungszeiten zu 30 Jahren, höchstens jedoch bis zur Höhe des vollen Betrages. b) Sind bei der Berechnung von Leistungen bei Invalidität oder an Hinterbliebene nach dem Eintritt des Versicherungsfalles liegende Zeiten zu berücksichtigen, so sind diese Zeiten nur im Verhältnis der nach den österreichischen Rechtsvorschriften für die Berechnung der Leistung zu berücksichtigenden Versicherungszeiten zu zwei Dritteln der vollen Kalendermonate von der Vollendung des 16. Lebensjahres der betreffenden Person bis zum Eintritt des Versicherungsfalles zu berücksichtigen, höchstens jedoch bis zum vollen Ausmaß. c) Buchstabe a gilt nicht i) hinsichtlich von Leistungen aus einer Höherversicherung, ii) hinsichtlich von einkommensabhängigen Leistungen zur Sicherstellung eines Mindesteinkommens. (3) Erreichen die nach den österreichischen Rechtsvorschriften für die Berechnung der Leistung zu berücksichtigenden Versicherungszeiten insgesamt nicht zwölf Monate und besteht auf Grund dieser Versicherungszeiten allein kein Leistungsanspruch nach den österreichischen Rechtsvorschriften, so ist nach diesen Rechtsvorschriften keine Leistung zu gewähren.Teil 2 Leistungen nach den Rechtsvorschriften von Quebec Artikel 15 (1) Erfüllt eine Person, für die die Rechtsvorschriften beider Vertragsparteien gelten, die Voraussetzungen für einen Anspruch auf Leistung nach den Rechtsvorschriften von Quebec für sich, für ihre Angehörigen oder Hinterbliebenen oder für andere Anspruchsberechtigte ohne Anwendung des Artikels 10, so hat der zuständige Träger von Quebec den Betrag der Leistungen nach den von ihm anzuwendenden Rechtsvorschriften festzustellen. (2) Erfüllt eine im Absatz 1 bezeichnete Person nicht die Voraussetzungen für einen Anspruch auf Leistung ohne Anwendung des Artikels 10, so hat der zuständige Träger von Quebec wie folgt vorzugehen: a) Ein Kalenderjahr mit mindestens drei Versicherungsmonaten nach den österreichischen Rechtsvorschriften gilt als ein Versicherungsjahr nach den österreichischen Rechtsvorschriften, soweit dieses Jahr in den nach den Rechtsvorschriften von Quebec festgelegten Beitragszeitraum fällt. b) Die nach Buchstabe a anerkannten Jahre sind nach Artikel 10 mit den nach den Rechtsvorschriften von Quebec zurückgelegten Versicherungszeiten zusammenzurechnen. (3) Hat eine Person auf Grund der Zusammenrechnung nach Absatz 2 Anspruch auf Leistung, so hat der zuständige Träger von Quebec den zu zahlenden Betrag wie folgt festzustellen: a) Der Betrag des einkommensbezogenen Leistungsteiles ist nach den Rechtsvorschriften von Quebec zu berechnen. b) Der feste Leistungsteil ist im Verhältnis der Zeiten, für die Beiträge nach den Rechtsvorschriften von Quebec entrichtet wurden, zu dem nach diesen Rechtsvorschriften festgelegten Beitragszeitraum festzustellen.ABSCHNITT IV VERSCHIEDENE BESTIMMUNGEN Artikel 16 (1) Die zuständigen Behörden der Vertragsparteien haben die zur Durchführung dieser Vereinbarung notwendigen Verwaltungsmaßnahmen in einer Verwaltungsvereinbarung zu regeln. (2) Die zuständigen Behörden der Vertragsparteien haben einander zu unterrichten a) über alle zur Anwendung dieser Vereinbarung getroffenen Maßnahmen, b) über alle die Anwendung dieser Vereinbarung berührenden Änderungen ihrer Rechtsvorschriften. (3) Für die Anwendung dieser Vereinbarung haben die Behörden und Träger der Vertragsparteien einander zu unterstützen und wie bei der Anwendung ihrer eigenen Rechtsvorschriften zu handeln. Diese Amtshilfe ist kostenlos. (4) Die Vorschriften einer Vertragspartei über die Verschwiegenheitspflicht sind auf Auskünfte über eine Person, die auf Grund dieser Vereinbarung übermittelt werden, anzuwenden. Solche Auskünfte sind ausschließlich für die Anwendung dieser Vereinbarung zu verwenden. (5) Die Träger und Behörden einer Vertragspartei dürfen die bei ihnen eingereichten Anträge und sonstigen Schriftstücke nicht deshalb zurückweisen, weil sie in der Amtssprache der anderen Vertragspartei abgefaßt sind. (6) Verlangt der zuständige Träger einer Vertragspartei, daß sich ein Antragsteller oder Berechtigter, der sich im Gebiet der anderen Vertragspartei aufhält, einer ärztlichen Untersuchung unterzieht, so ist diese auf Ersuchen dieses Trägers auf seine Kosten vom Träger der anderen Vertragspartei zu veranlassen oder durchzuführen.Artikel 17 Die zuständigen Behörden der Vertragsparteien haben zur Erleichterung der Durchführung dieser Vereinbarung, insbesondere zur Herstellung einer einfachen und raschen Verbindung zwischen den beiderseits in Betracht kommenden Trägern, Verbindungsstellen zu errichten. Die Verbindungsstellen sind in der Verwaltungsvereinbarung zu bezeichnen.Artikel 18 (1) Jede in den Rechtsvorschriften einer Vertragspartei vorgesehene Befreiung oder Ermäßigung von Steuern, Stempel-, Gerichts- oder Eintragungsgebühren für Schriftstücke oder Urkunden, die in Anwendung dieser Rechtsvorschriften vorzulegen sind, erstreckt sich auf die entsprechenden Schriftstücke und Urkunden, die in Anwendung dieser Vereinbarung oder der Rechtsvorschriften der anderen Vertragspartei vorzulegen sind. (2) Urkunden und Schriftstücke jeglicher Art, die in Anwendung dieser Vereinbarung vorgelegt werden müssen, bedürfen keiner Beglaubigung.Artikel 19 (1) Anträge, Erklärungen oder Rechtsmittel, die in Anwendung dieser Vereinbarung oder der Rechtsvorschriften einer Vertragspartei bei einer Behörde, einem Träger oder einer sonstigen zuständigen Einrichtung einer Vertragspartei eingereicht werden, sind als bei einer Behörde, einem Träger oder einer sonstigen zuständigen Einrichtung der anderen Vertragspartei eingereichte Anträge, Erklärungen oder Rechtsmittel anzusehen. (2) Ein nach den Rechtsvorschriften einer Vertragspartei nach dem Inkrafttreten dieser Vereinbarung gestellter Antrag auf eine Leistung gilt auch als Antrag auf eine entsprechende Leistung nach den Rechtsvorschriften der anderen Vertragspartei, wenn der Antragsteller bei der Antragstellung angibt, daß Versicherungszeiten nach den Rechtsvorschriften der anderen Vertragspartei zurückgelegt worden sind; dies gilt nicht, wenn der Antragsteller ausdrücklich beantragt, daß die Feststellung einer nach den Rechtsvorschriften einer Vertragspartei erworbenen Alters- oder Ruhestandspension aufgeschoben wird. (3) Anträge, Erklärungen oder Rechtsmittel, die in Anwendung der Rechtsvorschriften einer Vertragspartei innerhalb einer Frist bei einer Behörde, einem Träger oder einer sonstigen zuständigen Einrichtung dieser Vertragspartei einzureichen sind, können innerhalb der gleichen Frist bei der entsprechenden Stelle der anderen Vertragspartei eingereicht werden. (4) In den Fällen der Absätze 1 bis 3 hat die in Anspruch genommene Stelle diese Anträge, Erklärungen oder Rechtsmittel unverzüglich der entsprechenden zuständigen Stelle der anderen Vertragspartei zu übermitteln.Artikel 20 (1) Die nach dieser Vereinbarung leistungspflichtigen Träger einer Vertragspartei haben Leistungen mit befreiender Wirkung in der Währung dieser Vertragspartei zu erbringen. (2) Die Leistungen sind den Berechtigten ohne Abzüge für Verwaltungskosten, die sich aus der Auszahlung der Leistungen ergeben können, zu zahlen.Artikel 21 Jede Streitigkeit zwischen den beiden Vertragsparteien über die Auslegung oder Anwendung dieser Vereinbarung ist zum Gegenstand unmittelbarer Verhandlungen zwischen der zuständigen österreichischen Behörde und einer zu bezeichnenden Behörde von Quebec zu machen.ABSCHNITT V ÜBERGANGS- UND SCHLUSSBESTIMMUNGEN Artikel 22 (1) Diese Vereinbarung begründet keinen Anspruch auf Zahlung von Leistungen für die Zeit vor seinem Inkrafttreten. (2) Für die Feststellung des Anspruches auf Leistungen nach dieser Vereinbarung sind auch Versicherungszeiten zu berücksichtigen, die nach den Rechtsvorschriften einer Vertragspartei vor Inkrafttreten dieser Vereinbarung zurückgelegt worden sind. (3) Unbeschadet der Bestimmungen des Absatzes 1 gilt diese Vereinbarung hinsichtlich von Leistungen mit Ausnahme des Sterbegeldes auch für Versicherungsfälle, die vor ihrem Inkrafttreten eingetreten sind, soweit früher festgestellte Ansprüche nicht durch einmalige Leistungen abgegolten worden sind. In diesen Fällen sind Leistungen, die erst auf Grund dieser Vereinbarung gebühren, auf Antrag des Berechtigten nach den Bestimmungen dieser Vereinbarung festzustellen. Wird der Antrag auf Feststellung innerhalb von zwei Jahren nach dem Inkrafttreten dieser Vereinbarung eingebracht, so sind die Leistungen vom Inkrafttreten dieser Vereinbarung an zu gewähren, sonst von dem Tag an, der nach den Rechtsvorschriften jedes der beiden Vertragsparteien bestimmt wird. (4) Bei Anwendung des Artikels 7 Absatz 1 gilt eine zum Zeitpunkt des Inkrafttretens dieser Vereinbarung bereits entsendete Person als zu diesem Zeitpunkt entsendet.Artikel 23 Die einer Person, die aus politischen oder religiösen Gründen oder aus Gründen der Abstammung in ihren sozialversicherungsrechtlichen Verhältnissen einen Nachteil erlitten hat, nach den österreichischen Rechtsvorschriften zustehenden Rechte werden durch diese Vereinbarung nicht berührt.Artikel 24 (1) Diese Vereinbarung tritt am ersten Tag des dritten Monates nach Ablauf des Monates in Kraft, in dem die beiden Vertragsparteien einander durch Notifikation mitteilen, daß die innerstaatlichen Voraussetzungen für das Inkrafttreten dieser Vereinbarung vorliegen. (2) Diese Vereinbarung wird auf unbestimmte Zeit geschlossen. Sie kann von jeder Vertragspartei durch Notifikation an die andere Vertragspartei gekündigt werden. Diese Vereinbarung tritt sodann am 31. Dezember des der Notifikation folgenden Jahres außer Kraft. (3) Tritt diese Vereinbarung außer Kraft, so gelten ihre Bestimmungen für die bis dahin erworbenen Leistungsansprüche weiter; zur Regelung der auf Grund der Bestimmungen dieser Vereinbarung erworbenen Anwartschaften sind Verhandlungen zu führen. ZU URKUND DESSEN haben die Bevollmächtigten beider Vertragsparteien diese Vereinbarung unterzeichnet. GESCHEHEN zu xxxxxxxxxx, am xx. xxxxxxx in zwei Urschriften in deutscher und französischer Sprache, wobei beide Texte in gleicher Weise authentisch sind.",
+  "parts": [
+    {
+      "@id": "7bae4a0c-16f7-4d9b-9014-251ad5aadab2#offset_199_2477",
+      "offset_ini": 199,
+      "offset_end": 2477,
+      "title": "Artikel 1"
+    },
+    {
+      "@id": "7bae4a0c-16f7-4d9b-9014-251ad5aadab2#offset_2478_3548",
+      "offset_ini": 2478,
+      "offset_end": 3548,
+      "title": "Artikel 2"
+    },
+    {
+      "@id": "7bae4a0c-16f7-4d9b-9014-251ad5aadab2#offset_3549_3789",
+      "offset_ini": 3549,
+      "offset_end": 3789,
+      "title": "Artikel 3"
+    },
+    {
+      "@id": "7bae4a0c-16f7-4d9b-9014-251ad5aadab2#offset_3790_5587",
+      "offset_ini": 3790,
+      "offset_end": 5587,
+      "title": "Artikel 4"
+    },
+    {
+      "@id": "7bae4a0c-16f7-4d9b-9014-251ad5aadab2#offset_5588_6321",
+      "offset_ini": 5588,
+      "offset_end": 6321,
+      "title": "Artikel 5"
+    },
+    {
+      "@id": "7bae4a0c-16f7-4d9b-9014-251ad5aadab2#offset_6322_6811",
+      "offset_ini": 6322,
+      "offset_end": 6811,
+      "title": "Artikel 6"
+    },
+    {
+      "@id": "7bae4a0c-16f7-4d9b-9014-251ad5aadab2#offset_6812_7751",
+      "offset_ini": 6812,
+      "offset_end": 7751,
+      "title": "Artikel 7"
+    },
+    {
+      "@id": "7bae4a0c-16f7-4d9b-9014-251ad5aadab2#offset_7752_8659",
+      "offset_ini": 7752,
+      "offset_end": 8659,
+      "title": "Artikel 8"
+    },
+    {
+      "@id": "7bae4a0c-16f7-4d9b-9014-251ad5aadab2#offset_8660_9159",
+      "offset_ini": 8660,
+      "offset_end": 9159,
+      "title": "Artikel 9"
+    },
+    {
+      "@id": "7bae4a0c-16f7-4d9b-9014-251ad5aadab2#offset_9160_9430",
+      "offset_ini": 9160,
+      "offset_end": 9430,
+      "title": "Artikel 10"
+    },
+    {
+      "@id": "7bae4a0c-16f7-4d9b-9014-251ad5aadab2#offset_9431_11005",
+      "offset_ini": 9431,
+      "offset_end": 11005,
+      "title": "Artikel 11"
+    },
+    {
+      "@id": "7bae4a0c-16f7-4d9b-9014-251ad5aadab2#offset_11006_13115",
+      "offset_ini": 11006,
+      "offset_end": 13115,
+      "title": "Artikel 12"
+    },
+    {
+      "@id": "7bae4a0c-16f7-4d9b-9014-251ad5aadab2#offset_13116_14765",
+      "offset_ini": 13116,
+      "offset_end": 14765,
+      "title": "Artikel 15"
+    },
+    {
+      "@id": "7bae4a0c-16f7-4d9b-9014-251ad5aadab2#offset_14766_16272",
+      "offset_ini": 14766,
+      "offset_end": 16272,
+      "title": "Artikel 16"
+    },
+    {
+      "@id": "7bae4a0c-16f7-4d9b-9014-251ad5aadab2#offset_16273_16621",
+      "offset_ini": 16273,
+      "offset_end": 16621,
+      "title": "Artikel 17"
+    },
+    {
+      "@id": "7bae4a0c-16f7-4d9b-9014-251ad5aadab2#offset_16622_17189",
+      "offset_ini": 16622,
+      "offset_end": 17189,
+      "title": "Artikel 18"
+    },
+    {
+      "@id": "7bae4a0c-16f7-4d9b-9014-251ad5aadab2#offset_17190_18800",
+      "offset_ini": 17190,
+      "offset_end": 18800,
+      "title": "Artikel 19"
+    },
+    {
+      "@id": "7bae4a0c-16f7-4d9b-9014-251ad5aadab2#offset_18801_19130",
+      "offset_ini": 18801,
+      "offset_end": 19130,
+      "title": "Artikel 20"
+    },
+    {
+      "@id": "7bae4a0c-16f7-4d9b-9014-251ad5aadab2#offset_19131_19403",
+      "offset_ini": 19131,
+      "offset_end": 19403,
+      "title": "Artikel 21"
+    },
+    {
+      "@id": "7bae4a0c-16f7-4d9b-9014-251ad5aadab2#offset_19404_20751",
+      "offset_ini": 19404,
+      "offset_end": 20751,
+      "title": "Artikel 22"
+    },
+    {
+      "@id": "7bae4a0c-16f7-4d9b-9014-251ad5aadab2#offset_20752_21049",
+      "offset_ini": 20752,
+      "offset_end": 21049,
+      "title": "Artikel 23"
+    },
+    {
+      "@id": "7bae4a0c-16f7-4d9b-9014-251ad5aadab2#offset_21050_22087",
+      "offset_ini": 21050,
+      "offset_end": 22087,
+      "title": "Artikel 24"
+    },
+    {
+      "@id": "7bae4a0c-16f7-4d9b-9014-251ad5aadab2#offset_0_198",
+      "offset_ini": 0,
+      "offset_end": 198
+    }
+  ]
+}

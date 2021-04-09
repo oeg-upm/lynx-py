@@ -1,0 +1,83 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/5c78b743-8a4e-4a04-9891-1b5e67680296",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Pflegegebührenverordnung"
+    },
+    "hasAuthority": "Landesregierung Wien",
+    "id_local": "20000621",
+    "first_date_entry_in_force": "2021-01-01",
+    "version_date": "2021-01-01",
+    "url_consolidated": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dLrW\u0026Gesetzesnummer\u003d20000621\u0026FassungVom\u003d2021-01-01",
+    "classifications": [
+      "60/40 Krankenbehandlung",
+      "60 Gesundheits- und Sozialrecht (S)"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/5c78b743-8a4e-4a04-9891-1b5e67680296/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/5c78b743-8a4e-4a04-9891-1b5e67680296/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 5725,
+  "text": "Bundesland Wien Änderung LGBl. Nr. 3/2021 Präambel/Promulgationsklausel Gemäß §§ 44a Abs. 1, 46 Abs. 1 und 51 Abs. 2 Wiener Krankenanstaltengesetz 1987 – Wr. KAG, LGBl. für Wien Nr. 23, zuletzt geändert durch das Landesgesetz LGBl. für Wien Nr. 19/2020, wird verordnet: Im RIS seit 01.02.2021Pflegegebühren § 1. (1) Gemäß § 46 Abs. 1 Wr. KAG wird für die nachstehenden öffentlichen Krankenanstalten die Pflegegebühr pro Pflegetag und Patientin oder Patient für die allgemeine Gebührenklasse wie folgt festgesetzt: 1. Universitätsklinikum AKH Wien (einschließlich St. Anna Kinderspital Zentrum für Kinder- und Jugendheilkunde) 1.397 Euro 2. alle anderen Wiener städtischen Kliniken (ausgenommen Therapiezentrum Ybbs) sowie Orthopädisches Spital Speising 945 Euro 3. Hanusch-Krankenhaus 1.322 Euro (2) Die gemäß § 46 Abs. 1 Wr. KAG kostendeckend ermittelte Pflegegebühr wird wie folgt festgestellt: 1. Universitätsklinikum AKH Wien (einschließlich St. Anna Kinderspital Zentrum für Kinder- und Jugendheilkunde) 1.397,97 Euro 2. alle anderen Wiener städtischen Kliniken (ausgenommen Therapiezentrum Ybbs) sowie Orthopädisches Spital Speising 945,91 Euro 3. Hanusch-Krankenhaus 1.322,52 Euro (3) Für die Behandlung im halbstationären Bereich in psychiatrischen Abteilungen wird pro Tag und Patienten oder Patientin gemäß § 46 Abs. 1 Wr. KAG die Pflegegebühr wie folgt festgesetzt: 1. Universitätsklinikum AKH Wien (einschließlich St. Anna Kinderspital Zentrum für Kinder- und Jugendheilkunde) 349 Euro 2. alle anderen Wiener städtischen Kliniken (ausgenommen Therapiezentrum Ybbs) 236 Euro (4) Für die Behandlung im halbstationären Bereich in psychiatrischen Abteilungen wird pro Tag und Patienten oder Patientin gemäß § 46 Abs. 1 Wr. KAG die kostendeckend ermittelte Pflegegebühr wie folgt festgestellt: 1. Universitätsklinikum AKH Wien (einschließlich St. Anna Kinderspital Zentrum für Kinder- und Jugendheilkunde) 349,49 Euro 2. alle anderen Wiener städtischen Kliniken (ausgenommen Therapiezentrum Ybbs) 236,48 EuroFremde Staatsangehörige § 2. (1) Bei Aufnahme fremder Staatsangehöriger in die in § 1 genannten öffentlichen Krankenanstalten sind, ausgenommen in Fällen gemäß § 51 Abs. 3 Wr. KAG, die tatsächlich erwachsenden Untersuchungs- und Behandlungskosten gemäß § 51 Wr. KAG zu bezahlen. (2) Nicht zum Personenkreis gemäß Abs. 1 zählen zudem fremde Staatsangehörige, die sich im Allgemeinen Krankenhaus der Stadt Wien einer radiochirurgischen Behandlung mit der „GAMMA-UNIT“, einer Cochlearimplantat-Behandlung, einer Matrix-assistierten Knorpelzelltransplantation, einer Nervus-Vagus-Stimulation, einer SIRT-Therapie, einer XOFIGO-Therapie, einer Behandlung mit dem Univentrikulären Herzunterstützungssystem, einer Lungentransplantation (Doppellunge), einer Implantation einer Aortenklappe (TAVI) oder eines katheterbasierten Verfahrens zur Behandlung einer Mitralklappeninsuffizienz (Mitraclip) unterziehen und auf die die Verordnung der Wiener Landesregierung über die Festsetzung der von fremden Staatsangehörigen zu entrichtenden tatsächlichen Untersuchungs- und Behandlungskosten für kostenintensive Untersuchungs- und Behandlungsfälle im Universitätsklinikum AKH Wien, LGBl. für Wien Nr. 2/2021, anzuwenden ist.§ 3. (1) Die tatsächlich erwachsenden Untersuchungs- und Behandlungskosten für fremde Staatsangehörige werden gemäß § 51 Abs. 2 Wr. KAG pro Pflegetag und Patientin oder Patient für die allgemeine Gebührenklasse wie folgt festgesetzt: 1. Universitätsklinikum AKH Wien (einschließlich St. Anna Kinderspital Zentrum für Kinder- und Jugendheilkunde) 1.758 Euro 2. alle anderen Wiener städtischen Kliniken (ausgenommen Therapiezentrum Ybbs) und Orthopädisches Spital Speising 1.151 Euro 3. Hanusch-Krankenhaus 1.443 Euro (2) Bei Inanspruchnahme der Sonderklasse durch Patientinnen oder Patienten gemäß § 2 Abs. 1 gelten die Bestimmungen des § 1 und § 3 der Verordnung der Wiener Landesregierung betreffend die Festsetzung der Sondergebühren und die Feststellung der als kostendeckend ermittelten Sondergebühren für die Wiener öffentlichen Krankenanstalten (Sondergebührenverordnung), LGBl. für Wien Nr. 4/2021 in der geltenden Fassung.Begleitpersonen § 4. (1) Die Pflegegebühr für Begleitpersonen (§ 37 Abs. 2 Wr. KAG) wird gemäß § 44a Abs. 1 Wr. KAG für die Wiener öffentlichen Krankenanstalten (ausgenommen Therapiezentrum Ybbs) wie folgt festgesetzt: 1. Nächtigungsgebühr einschließlich Frühstück je Nächtigung für Begleitpersonen von Patientinnen und Patienten a) zwischen dem vollendeten dritten bis zum vollendeten sechsten Lebensjahr 15,70 Euro b) zwischen dem vollendeten sechsten bis zum vollendeten zehnten Lebensjahr 31,40 Euro c) zwischen dem vollendeten zehnten bis zum vollendeten fünfzehnten Lebensjahr 44,50 Euro d) ab dem vollendeten fünfzehnten Lebensjahr 52,40 Euro 2. Verköstigungsgebühr (Pauschale für die Mahlzeiten eines jeden Tages, ausgenommen das Frühstück) 16,90 Euro (2) Zu den in Abs. 1 genannten Gebühren ist die gesetzliche Umsatzsteuer zu verrechnen.Unterrichtsfälle § 5. Gemäß § 46 Abs. 1 Wr. KAG wird für Patientinnen und Patienten gemäß § 43 Bundesgesetz über Krankenanstalten und Kuranstalten (KAKuG), BGBl. Nr. 1/1957, in der Fassung BGBl. I Nr. 136/2020, die Pflegegebühr pro Pflegetag und Patientin oder Patienten für die allgemeine Gebührenklasse in Höhe von 1.384 Euro inklusive der gesetzlichen Umsatzsteuer festgesetzt.Inkrafttreten § 6. (1) Diese Verordnung tritt mit 1. Jänner 2021 in Kraft. (2) Mit Ablauf des 31. Dezember 2020 tritt die Verordnung der Wiener Landesregierung betreffend die Festsetzung der Pflegegebühren der allgemeinen Gebührenklasse der Wiener öffentlichen Krankenanstalten (Pflegegebührenverordnung), LGBl. für Wien Nr. 9/2020, außer Kraft.",
+  "parts": [
+    {
+      "@id": "5c78b743-8a4e-4a04-9891-1b5e67680296#offset_292_2014",
+      "offset_ini": 292,
+      "offset_end": 2014,
+      "title": "Pflegegebühren"
+    },
+    {
+      "@id": "5c78b743-8a4e-4a04-9891-1b5e67680296#offset_2015_3223",
+      "offset_ini": 2015,
+      "offset_end": 3223,
+      "title": "Fremde Staatsangehörige"
+    },
+    {
+      "@id": "5c78b743-8a4e-4a04-9891-1b5e67680296#offset_3224_4153",
+      "offset_ini": 3224,
+      "offset_end": 4153,
+      "title": ""
+    },
+    {
+      "@id": "5c78b743-8a4e-4a04-9891-1b5e67680296#offset_4154_5000",
+      "offset_ini": 4154,
+      "offset_end": 5000,
+      "title": "Begleitpersonen"
+    },
+    {
+      "@id": "5c78b743-8a4e-4a04-9891-1b5e67680296#offset_5001_5380",
+      "offset_ini": 5001,
+      "offset_end": 5380,
+      "title": "Unterrichtsfälle"
+    },
+    {
+      "@id": "5c78b743-8a4e-4a04-9891-1b5e67680296#offset_5381_5725",
+      "offset_ini": 5381,
+      "offset_end": 5725,
+      "title": "Inkrafttreten"
+    },
+    {
+      "@id": "5c78b743-8a4e-4a04-9891-1b5e67680296#offset_0_291",
+      "offset_ini": 0,
+      "offset_end": 291
+    }
+  ]
+}

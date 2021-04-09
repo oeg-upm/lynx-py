@@ -1,0 +1,64 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/47e61ea3-838b-4721-abcf-fa02bffd3573",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Soziale Sicherheit – Zusatzabkommen (Finnland)"
+    },
+    "hasAuthority": "BGBl. Nr. 15/1994",
+    "id_local": "10008893",
+    "first_date_entry_in_force": "1994-01-01",
+    "version_date": "1994-01-01",
+    "url_consolidated": "http://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d10008893\u0026FassungVom\u003d1994-01-01",
+    "classifications": [
+      "69/03 Soziale Sicherheit"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/47e61ea3-838b-4721-abcf-fa02bffd3573/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/47e61ea3-838b-4721-abcf-fa02bffd3573/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 2581,
+  "text": "Sonstige Textteile Der Nationalrat hat beschlossen: Der Abschluß des nachstehenden Staatsvertrages wird genehmigt. Ratifikationstext Der Notenwechsel gemäß Art. III Abs. 1 des Zusatzabkommens erfolgte am 4. Mai bzw. 18. August 1993; das Zusatzabkommen tritt gemäß seinem Art. III Abs. 2 mit 1. Jänner 1994 in Kraft. Präambel/Promulgationsklausel Die Republik Österreich und die Republik Finnland, in dem Wunsche, das Abkommen vom 11. Dezember 1985 über Soziale Sicherheit *) – im folgenden Abkommen genannt – zu ändern, sind wie folgt übereingekommen: ____________________ *) Kundgemacht in BGBl. Nr. 349/1987Artikel I In diesem Zusatzabkommen bedeuten die Ausdrücke 1. „EWR-Abkommen“ das Abkommen vom 2. Mai 1992 zwischen der Europäischen Gemeinschaft und ihren Mitgliedstaaten sowie den Mitgliedstaaten der Europäischen Freihandelsassoziation über den Europäischen Wirtschaftsraum; 2. „Verordnung“ die Verordnung (EWG) Nr. 1408/71 des Rates über die Anwendung der Systeme der Sozialen Sicherheit auf Arbeitnehmer, Selbständige sowie deren Familienangehörige, die innerhalb der Gemeinschaft zu- und abwandern, einschließlich der jeweils geltenden Änderungen und Anpassungen; 3. „Durchführungsverordnung“ die Verordnung (EWG) Nr. 574/72 des Rates über die Durchführung der Verordnung (EWG) 1408/71 über die Anwendung der Systeme der Sozialen Sicherheit auf Arbeitnehmer, Selbständige sowie deren Familienangehörige, die innerhalb der Gemeinschaft zu- und abwandern, einschließlich der jeweils geltenden Änderungen und Anpassungen.Artikel II (1) Soweit Absatz 2 nichts anderes bestimmt, tritt das Abkommen samt Schlußprotokoll ab dem Inkrafttreten des EWR-Abkommens im Verhältnis zwischen Österreich und Finnland in bezug auf Personen außer Kraft, auf die die Verordnung und die Durchführungsverordnung zu diesem Zeitpunkt oder später anwendbar werden. (2) Artikel 4 des Abkommens und Punkt II des Schlußprotokolls zum Abkommen sind auf Personen, die in einem Drittstaat wohnen, weiter anzuwenden.Artikel III (1) Die beiden Vertragsstaaten tauschen auf diplomatischem Weg Noten aus, die bescheinigen, daß alle für das Inkrafttreten dieses Zusatzabkommens erforderlichen Voraussetzungen vorliegen. (2) Dieses Zusatzabkommen tritt an dem Tag in Kraft, an dem das EWR-Abkommen im Verhältnis zwischen Österreich und Finnland in Kraft tritt. ZU URKUND DESSEN haben die Bevollmächtigten beider Vertragsstaaten dieses Zusatzabkommen unterzeichnet. GESCHEHEN zu Wien, am 9. März 1993, in zwei Urschriften in deutscher und finnischer Sprache, wobei beide Texte gleichermaßen authentisch sind.",
+  "parts": [
+    {
+      "@id": "47e61ea3-838b-4721-abcf-fa02bffd3573#offset_609_1529",
+      "offset_ini": 609,
+      "offset_end": 1529,
+      "title": "Artikel I"
+    },
+    {
+      "@id": "47e61ea3-838b-4721-abcf-fa02bffd3573#offset_1530_1995",
+      "offset_ini": 1530,
+      "offset_end": 1995,
+      "title": "Artikel II"
+    },
+    {
+      "@id": "47e61ea3-838b-4721-abcf-fa02bffd3573#offset_1996_2581",
+      "offset_ini": 1996,
+      "offset_end": 2581,
+      "title": "Artikel III"
+    },
+    {
+      "@id": "47e61ea3-838b-4721-abcf-fa02bffd3573#offset_0_608",
+      "offset_ini": 0,
+      "offset_end": 608
+    }
+  ]
+}

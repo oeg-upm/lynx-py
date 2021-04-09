@@ -1,0 +1,256 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/4e8173c4-5d6f-49f6-a053-169a01e16f7e",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Soziale Sicherheit (Slowakei)"
+    },
+    "hasAuthority": "BGBl. III Nr. 60/2003",
+    "id_local": "20002778",
+    "first_date_entry_in_force": "2003-05-31",
+    "version_date": "2003-05-31",
+    "url_consolidated": "http://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d20002778\u0026FassungVom\u003d2003-06-01",
+    "classifications": [
+      "69/03 Soziale Sicherheit"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/4e8173c4-5d6f-49f6-a053-169a01e16f7e/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/4e8173c4-5d6f-49f6-a053-169a01e16f7e/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 34387,
+  "text": "Sonstige Textteile Der Nationalrat hat beschlossen: Der Abschluss des nachstehenden Staatsvertrages wird genehmigt. Ratifikationstext Die vom Bundespräsidenten unterzeichnete und vom Bundeskanzler gegengezeichnete Ratifikationsurkunde wurde am 27. März 2003 ausgetauscht; das Abkommen tritt gemäß seinem Art. 35 Abs. 2 mit 1. Juni 2003 in Kraft. Präambel/Promulgationsklausel Die Republik Österreich und die Slowakische Republik, von dem Wunsche geleitet, die gegenseitigen Beziehungen zwischen den beiden Staaten auf dem Gebiete der sozialen Sicherheit zu regeln, sind übereingekommen, folgendes Abkommen zu schließen:ABSCHNITT I ALLGEMEINE BESTIMMUNGEN Artikel 1 Begriffsbestimmungen (1) In diesem Abkommen bedeuten die Ausdrücke a) „Rechtsvorschriften“ die Gesetze, Verordnungen und sonstigen allgemein rechtsetzenden Akte, die sich auf die in Artikel 2 Absatz 1 bezeichneten Zweige der sozialen Sicherheit beziehen; b) „zuständige Behörde“ in Bezug auf die Republik Österreich die Bundesminister, die mit der Anwendung der in Artikel 2 Absatz 1 Buchstabe a angeführten Rechtsvorschriften betraut sind, in Bezug auf die Slowakische Republik die Ministerien, die mit der Anwendung der in Artikel 2 Absatz 1 Buchstabe b angeführten Rechtsvorschriften betraut sind; c) „Träger“ die Einrichtung oder die Behörde, der die Durchführung der in Artikel 2 Absatz 1 bezeichneten Rechtsvorschriften oder eines Teiles davon obliegt; d) „zuständiger Träger“ den Träger, bei dem eine Person im Zeitpunkt des Antrages auf Leistung versichert ist oder gegen den sie einen Anspruch auf Leistungen hat oder noch hätte, wenn sie sich im Gebiet des Vertragsstaates, in dem sie zuletzt versichert war, aufhalten würde; e) „Wohnort“ den Ort des gewöhnlichen Aufenthaltes; f) „Aufenthalt“ den vorübergehenden Aufenthalt; g) „Versicherungszeiten“ Beitragszeiten, Beschäftigungszeiten und gleichgestellte Zeiten, die nach den Rechtsvorschriften jedes der beiden Vertragsstaaten als solche gelten; h) „Geldleistung“, „Rente“ oder „Pension“ eine Geldleistung, Rente oder Pension einschließlich aller ihrer Teile aus öffentlichen Mitteln, aller Zuschläge, Anpassungsbeträge und Zulagen sowie Kapitalabfindungen und Zahlungen, die als Beitragserstattungen geleistet werden. (2) In diesem Abkommen haben andere Ausdrücke die Bedeutung, die ihnen nach den betreffenden Rechtsvorschriften zukommt.Artikel 2 Sachlicher Geltungsbereich (1) Dieses Abkommen bezieht sich a) auf die österreichischen Rechtsvorschriften über 1. die Krankenversicherung, 2. die Unfallversicherung, 3. die Pensionsversicherung mit Ausnahme der Sonderversicherung für das Notariat, 4. das Arbeitslosengeld; b) auf die slowakischen Rechtsvorschriften über 1. die Krankenversicherung, 2. die Gesundheitsversicherung, 3. die Rentenversicherung mit Ausnahme der Regelungen über die beitragsfreie Berücksichtigung von Beschäftigungen im Ausland, 4. die arbeitsrechtlichen Beziehungen, 5. die Beschäftigung. (2) Dieses Abkommen bezieht sich auch auf alle Rechtsvorschriften, welche die in Absatz 1 bezeichneten Rechtsvorschriften zusammenfassen, ändern oder ergänzen.Artikel 3 Persönlicher Geltungsbereich Dieses Abkommen gilt a) für Personen, für die die Rechtsvorschriften eines oder beider Vertragsstaaten gelten oder galten; b) für andere Personen, soweit diese ihre Rechte von den in Buchstabe a bezeichneten Personen ableiten.Artikel 4 Gleichbehandlung (1) Bei Anwendung der Rechtsvorschriften eines Vertragsstaates stehen, soweit dieses Abkommen nichts anderes bestimmt, dessen Staatsangehörigen die Staatsangehörigen des anderen Vertragsstaates gleich. (2) Absatz 1 berührt nicht a) die Rechtsvorschriften der beiden Vertragsstaaten betreffend die Mitwirkung der Versicherten und der Dienstgeber in den Organen der Träger und der Verbände sowie in der Rechtsprechung im Bereich der sozialen Sicherheit; b) Versicherungslastregelungen in zwischenstaatlichen Verträgen der Vertragsstaaten mit anderen Staaten; c) die Rechtsvorschriften der beiden Vertragsstaaten betreffend die Versicherung der bei einer amtlichen Vertretung eines der beiden Vertragsstaaten in Drittstaaten oder bei Mitgliedern einer solchen Vertretung beschäftigten Personen. (3) Absatz 1 gilt hinsichtlich der österreichischen Rechtsvorschriften über die Berücksichtigung von Kriegsdienstzeiten oder diesen gleichgestellten Zeiten nur für slowakische Staatsangehörige, die unmittelbar vor dem 13. März 1938 die österreichische Staatsangehörigkeit besaßen.Artikel 5 Gebietsgleichstellung (1) Soweit dieses Abkommen nichts anderes bestimmt, dürfen Pensionen, Renten und andere Geldleistungen mit Ausnahme der Leistungen bei Arbeitslosigkeit, auf die nach den Rechtsvorschriften eines Vertragsstaates Anspruch besteht, nicht deshalb gekürzt, geändert, zum Ruhen gebracht, entzogen oder beschlagnahmt werden, weil der Berechtigte im Gebiet des anderen Vertragsstaates wohnt. (2) Absatz 1 berührt nicht a) die Ausgleichszulage nach den österreichischen Rechtsvorschriften, b) die Sozialpension, die Ehefraupension und die Erhöhung der Pension auf Grund der einzigen Einkommensquelle nach den slowakischen Rechtsvorschriften.ABSCHNITT II BESTIMMUNGEN ÜBER DIE ANZUWENDENDEN RECHTSVORSCHRIFTEN Artikel 6 Allgemeine Regelung (1) Die Versicherungspflicht einer erwerbstätigen Person richtet sich, soweit die Artikel 7 und 8 nichts anderes bestimmen, nach den Rechtsvorschriften des Vertragsstaates, in dessen Gebiet die Erwerbstätigkeit ausgeübt wird. Dies gilt bei Ausübung einer unselbständigen Erwerbstätigkeit auch dann, wenn sich der Wohnort des Dienstnehmers oder der Sitz des Dienstgebers im Gebiet des anderen Vertragsstaates befindet. (2) Für Beamte und ihnen gleichgestellte Personen gelten die Rechtsvorschriften des Vertragsstaates, bei dessen Verwaltung sie beschäftigt sind.Artikel 7 Besondere Regelungen (1) Wird ein Dienstnehmer von einem Unternehmen mit Sitz im Gebiet eines der Vertragsstaaten in das Gebiet des anderen Vertragsstaates entsendet, so sind bis zum Ende des 24. Kalendermonates nach dieser Entsendung die Rechtsvorschriften des ersten Vertragsstaates weiter anzuwenden, als wäre er noch in dessen Gebiet beschäftigt. (2) Wird ein Dienstnehmer eines Luftfahrtunternehmens mit dem Sitz im Gebiet eines Vertragsstaates aus dessen Gebiet in das Gebiet des anderen Vertragsstaates entsendet, so sind die Rechtsvorschriften des ersten Vertragsstaates weiter anzuwenden, als wäre er noch in dessen Gebiet beschäftigt. (3) Die Besatzung eines Seeschiffes sowie andere nicht nur vorübergehend auf einem Seeschiff beschäftigte Personen unterliegen den Rechtsvorschriften des Vertragsstaates, dessen Flagge das Schiff führt.Artikel 8 Diplomatisches und konsularisches Personal (1) Für Mitglieder der diplomatischen Vertretungen oder konsularischen Dienststellen und für private Hausangestellte im Dienst von Mitgliedern dieser Vertretungen oder Dienststellen, die in das Gebiet des anderen Vertragsstaates entsendet werden, gelten die Rechtsvorschriften des Vertragsstaates, aus dem sie entsendet werden. (2) Für die in Absatz 1 bezeichneten Dienstnehmer, die nicht entsendet sind, gelten die Rechtsvorschriften des Vertragsstaates, in dessen Gebiet sie beschäftigt sind. Soweit sie Staatsangehörige des anderen Vertragsstaates sind, können sie jedoch binnen drei Monaten nach Beginn der Beschäftigung die Anwendung der Rechtsvorschriften des anderen Vertragsstaates wählen.Artikel 9 Ausnahmen (1) Auf gemeinsamen Antrag des Dienstnehmers und seines Dienstgebers können die zuständigen Behörden der beiden Vertragsstaaten einvernehmlich Ausnahmen von den Artikeln 6 bis 8 vereinbaren, wobei auf die Art und die Umstände der Beschäftigung Bedacht zu nehmen ist. (2) Gelten für einen Dienstnehmer nach Absatz 1 die Rechtsvorschriften des einen Vertragsstaates, obwohl er die Beschäftigung im Gebiet des anderen Vertragsstaates ausübt, so sind die Rechtsvorschriften so anzuwenden, als ob er diese Beschäftigung im Gebiet des ersten Vertragsstaates ausüben würde.ABSCHNITT III BESONDERE BESTIMMUNGEN Kapitel 1 Krankheit und Mutterschaft Artikel 10 Zusammenrechnung der Versicherungszeiten Hat eine Person nach den Rechtsvorschriften beider Vertragsstaaten Versicherungszeiten erworben, so sind diese für den Erwerb eines Leistungsanspruches und die Dauer der Leistungsgewährung zusammenzurechnen, soweit sie nicht auf dieselbe Zeit entfallen.Artikel 11 Sach- und Geldleistungen (1) Eine Person, die die nach den Rechtsvorschriften eines Vertragsstaates für den Leistungsanspruch erforderlichen Voraussetzungen erfüllt und sich in Ausübung ihrer Erwerbstätigkeit im Gebiet des anderen Vertragsstaates aufhält, sowie die sie begleitenden Familienangehörigen haben Anspruch auf Sachleistungen zu Lasten des zuständigen Trägers vom Träger des Aufenthaltsortes nach den für diesen Träger geltenden Rechtsvorschriften, als ob sie bei diesem versichert wären, wenn ihr Zustand sofort die Gewährung solcher Leistungen erforderlich macht. (2) Im Falle des Absatzes 1 hängt die Gewährung von Körperersatzstücken, größeren Hilfsmitteln und anderen Sachleistungen von erheblicher Bedeutung davon ab, dass der zuständige Träger hiezu seine Zustimmung gibt. Die Zustimmung ist nicht erforderlich, wenn die Gewährung der Leistung nicht aufgeschoben werden kann, ohne das Leben oder die Gesundheit der betreffenden Person ernsthaft zu gefährden. (3) Im Falle des Absatzes 1 sind die Geldleistungen vom zuständigen Träger nach den für ihn geltenden Rechtsvorschriften zu gewähren. (4) Die Absätze 1 bis 3 sind auch auf österreichische Versicherte und deren Familienangehörigen, die die nach den österreichischen Rechtsvorschriften für den Leistungsanspruch erforderlichen Voraussetzungen erfüllen und sich im Gebiet der Slowakischen Republik aufhalten, entsprechend anzuwenden. (5) Für die Anwendung des Absatzes 1 gilt als Familienangehöriger nach den slowakischen Rechtsvorschriften der gegenüber der betreffenden Person unterhaltsberechtigte Ehegatte oder unterhaltsberechtigte Kinder unter 25 Jahren. (6) Absatz 1 gilt entsprechend für Personen, die im Gebiet der Slowakischen Republik wohnen und Schüler oder Studenten nach den österreichischen Rechtsvorschriften sind, wenn sie in das Gebiet der Slowakischen Republik in der Regel täglich, mindestens aber einmal wöchentlich zurückkehren.Artikel 12 Träger des Aufenthaltsortes In den Fällen des Artikels 11 werden die Sachleistungen gewährt in der Republik Österreich von der für den Aufenthaltsort der betreffenden Person in Betracht kommenden Gebietskrankenkasse, in der Slowakischen Republik von der Allgemeinen Gesundheitsversicherungsanstalt oder der nach den slowakischen Rechtsvorschriften bestimmten Einrichtung.Artikel 13 Kostenerstattung (1) Der zuständige Träger erstattet dem Träger, der die Sachleistungen gewährt hat, die nach Artikel 11 aufgewendeten Beträge mit Ausnahme der Verwaltungskosten. (2) Die zuständigen Behörden können zur verwaltungsmäßigen Vereinfachung vereinbaren, dass für alle Fälle oder für bestimmte Gruppen von Fällen anstelle von Einzelabrechnungen der Aufwendungen Pauschalzahlungen treten.Kapitel 2 Arbeitsunfälle und Berufskrankheiten Artikel 14 Berufskrankheiten Sehen die Rechtsvorschriften eines Vertragsstaates vor, dass Leistungen für eine Berufskrankheit nur gewährt werden, wenn die Tätigkeit, welche die Krankheit verursachen kann, während einer Mindestdauer ausgeübt wurde, so berücksichtigt der zuständige Träger dieses Vertragsstaates, soweit erforderlich, die Zeiten der Ausübung einer solchen Tätigkeit, während derer die Rechtsvorschriften des anderen Vertragsstaates galten.Artikel 15 Entschädigung von Berufskrankheiten (1) Wäre eine Berufskrankheit nach den Rechtsvorschriften beider Vertragsstaaten zu entschädigen, so sind Leistungen mit Ausnahme der Renten im Falle sklerogener Pneumokoniose nur nach den Rechtsvorschriften des Vertragsstaates zu gewähren, in dessen Gebiet zuletzt eine Beschäftigung ausgeübt wurde, die geeignet ist, eine solche Berufskrankheit zu verursachen, sofern die betreffende Person die nach diesen Rechtsvorschriften vorgesehenen Voraussetzungen erfüllt. (2) Im Falle sklerogener Pneumokoniose hat der zuständige Träger jedes Vertragsstaates nur jenen Teil der Rente zu gewähren, der dem Verhältnis der Dauer der nach den Rechtsvorschriften dieses Vertragsstaates nach Artikel 17 Absatz 1 zu berücksichtigenden Versicherungszeiten zur Gesamtdauer der nach den Rechtsvorschriften der beiden Vertragsstaaten zu berücksichtigenden Versicherungszeiten entspricht. (3) Bezog oder bezieht eine Person, die sich eine Berufskrankheit zugezogen hat, Leistungen zu Lasten eines Trägers eines Vertragsstaates und beansprucht sie, nachdem sie auch eine Tätigkeit nach den Rechtsvorschriften des anderen Vertragsstaates ausgeübt hat, welche eine Berufskrankheit verursachen kann, wegen Verschlimmerung Leistungen von einem Träger des anderen Vertragsstaates, so trägt der Träger des ersten Vertragsstaates weiterhin die Kosten der Leistungen ohne Berücksichtigung der Verschlimmerung nach den für ihn geltenden Rechtsvorschriften. Der zuständige Träger des zweiten Vertragsstaates gewährt eine Leistung in der Höhe des Unterschiedsbetrages zwischen der nach der Verschlimmerung geschuldeten Leistung und der Leistung, die vor der Verschlimmerung nach den für ihn geltenden Rechtsvorschriften geschuldet worden wäre, wenn die Krankheit nach diesen Rechtsvorschriften eingetreten wäre. (4) Die Gewährung von Leistungen nach Kapitel 3 bleibt unberührt.Artikel 16 Sach- und Geldleistungen Für eine Person, die wegen eines Arbeitsunfalles oder einer Berufskrankheit Anspruch auf Leistungen nach den Rechtsvorschriften eines Vertragsstaates hat, gelten die Artikel 11 bis 13 entsprechend.Kapitel 3 Alter, Invalidität und Tod (Pensionen) Artikel 17 Zusammenrechnung der Versicherungszeiten (1) Hängt nach den Rechtsvorschriften eines Vertragsstaates der Erwerb, die Aufrechterhaltung oder das Wiederaufleben eines Leistungsanspruches von der Zurücklegung von Versicherungszeiten ab, so hat der zuständige Träger dieses Vertragsstaates, soweit erforderlich, die nach den Rechtsvorschriften des anderen Vertragsstaates zurückgelegten Versicherungszeiten zu berücksichtigen, als wären es nach den von ihm anzuwendenden Rechtsvorschriften zurückgelegte Versicherungszeiten, soweit sie nicht auf dieselbe Zeit entfallen. (2) Hängt nach den Rechtsvorschriften eines Vertragsstaates die Gewährung bestimmter Leistungen von der Zurücklegung der Versicherungszeiten in einem Beruf, für den ein Sondersystem besteht, oder in einem bestimmten Beruf oder in einer bestimmten Beschäftigung ab, so sind für die Gewährung dieser Leistungen die nach den Rechtsvorschriften des anderen Vertragsstaates zurückgelegten Versicherungszeiten nur zu berücksichtigen, wenn sie in einem entsprechenden System oder, wenn ein solches nicht besteht, im gleichen Beruf oder in der gleichen Beschäftigung zurückgelegt worden sind.Artikel 18 Versicherungszeiten unter einem Jahr (1) Erreichen die Versicherungszeiten, die nach den Rechtsvorschriften eines Vertragsstaates zu berücksichtigen sind, insgesamt nicht zwölf Monate für die Berechnung der Leistung, so wird nach diesen Rechtsvorschriften keine Leistung gewährt. Dies gilt nicht, wenn nach diesen Rechtsvorschriften ein Leistungsanspruch allein auf Grund dieser Versicherungszeiten besteht. (2) Die in Absatz 1 erster Satz genannten Versicherungszeiten sind von dem Träger des anderen Vertragsstaates für den Erwerb, die Aufrechterhaltung und das Wiederaufleben eines Leistungsanspruches und dessen Ausmaß so zu berücksichtigen, als wären es nach den von ihm anzuwendenden Rechtsvorschriften zurückgelegte Versicherungszeiten.Teil 1 Leistungen nach den österreichischen Rechtsvorschriften Artikel 19 Feststellung der Leistungsansprüche Beanspruchen eine Person, die nach den Rechtsvorschriften beider Vertragsstaaten Versicherungszeiten erworben hat, oder ihre Hinterbliebenen Leistungen, so hat der zuständige österreichische Träger nach den österreichischen Rechtsvorschriften festzustellen, ob die betreffende Person unter Zusammenrechnung der Versicherungszeiten nach Artikel 17 und unter Berücksichtigung der folgenden Bestimmungen Anspruch auf Leistung hat: a) Verlängern nach den österreichischen Rechtsvorschriften Zeiten der Pensionsgewährung den Zeitraum, in dem die Versicherungszeiten zurückgelegt sein müssen, so verlängert sich dieser Zeitraum auch durch entsprechende Zeiten der Pensionsgewährung nach den slowakischen Rechtsvorschriften. b) Die in Tagen ausgedrückten Versicherungszeiten nach den slowakischen Rechtsvorschriften sind in Monate umzurechnen, wobei 30 Tage einem Monat entsprechen; Resttage gelten hiebei als ein ganzer Monat.Artikel 20 Berechnung der Leistungen (1) Besteht nach den österreichischen Rechtsvorschriften auch ohne Anwendung des Artikels 17 ein Leistungsanspruch, so hat der zuständige österreichische Träger die Leistung ausschließlich auf Grund der nach den österreichischen Rechtsvorschriften zu berücksichtigenden Versicherungszeiten festzustellen. (2) Besteht nach den österreichischen Rechtsvorschriften nur unter Anwendung des Artikels 17 ein Leistungsanspruch, so hat der zuständige österreichische Träger die Leistung ausschließlich auf Grund der nach den österreichischen Rechtsvorschriften zur berücksichtigenden Versicherungszeiten sowie unter Berücksichtigung der folgenden Bestimmungen festzustellen: a) Leistungen oder Leistungsteile, deren Betrag nicht von der Dauer der zurückgelegten Versicherungszeiten abhängig ist, gebühren im Verhältnis der nach den österreichischen Rechtsvorschriften für die Berechnung der Leistung zu berücksichtigenden Versicherungszeiten zu 30 Jahren, höchstens jedoch bis zur Höhe des vollen Betrages. b) Sind bei der Berechnung von Leistungen bei Invalidität oder an Hinterbliebene nach dem Eintritt des Versicherungsfalles liegende Zeiten zu berücksichtigen, so sind diese Zeiten nur im Verhältnis der nach den österreichischen Rechtsvorschriften für die Berechnung der Leistung zu berücksichtigenden Versicherungszeiten zu zwei Dritteln der vollen Kalendermonate von der Vollendung des 16. Lebensjahres der betreffenden Person bis zum Eintritt des Versicherungsfalles zu berücksichtigen, höchstens jedoch bis zum vollen Ausmaß. c) Buchstabe a gilt nicht 1. hinsichtlich von Leistungen aus einer Höherversicherung, 2. hinsichtlich von einkommensabhängigen Leistungen oder Leistungsteilen zur Sicherstellung eines Mindesteinkommens.Teil 2 Leistungen nach den slowakischen Rechtsvorschriften Artikel 21 Feststellung der Leistungsansprüche und Berechnung der Leistungen (1) Hat eine Person oder ihre Hinterbliebenen nach den slowakischen Rechtsvorschriften einen Anspruch auf eine Leistung allein auf Grund von Versicherungszeiten, die sie nach den slowakischen Rechtsvorschriften zurückgelegt hat, so hat der slowakische Träger diese Leistung ohne Rücksicht auf die Dauer der nach den österreichischen Rechtsvorschriften zurückgelegten Versicherungszeiten zu berechnen. (2) Hat eine Person oder ihre Hinterbliebenen einen Anspruch auf eine Leistung nach den slowakischen Rechtsvorschriften nur unter Berücksichtigung der nach den Rechtsvorschriften beider Vertragsstaaten zurückgelegten Versicherungszeiten, ist die Leistung wie folgt festzustellen: a) Der slowakische Träger hat zunächst festzustellen, ob nach seinen Rechtsvorschriften die betreffende Person unter Berücksichtigung der Zusammenrechnung der Versicherungszeiten die Voraussetzungen für den Leistungsanspruch erfüllt. b) Besteht nach Buchstabe a ein Anspruch auf eine Leistung, hat der slowakische Träger zunächst den theoretischen Betrag der Leistung zu berechnen, die der Person zustehen würde, wenn alle nach den Rechtsvorschriften beider Vertragsstaaten zurückgelegten Versicherungszeiten nach den slowakischen Rechtsvorschriften zu berücksichtigen wären. c) Auf Grund des theoretischen Betrages der Leistung ist vom Träger eine Leistung in der Höhe des Betrags zu berechnen, der dem Verhältnis der nach den slowakischen Rechtsvorschriften tatsächlich zurückgelegten Versicherungszeiten zu der nach den Rechtsvorschriften beider Vertragsstaaten zurückgelegten Gesamtversicherungszeit entspricht. (3) Kann der slowakische Träger die Höhe der Leistung nur unter Berücksichtigung der nach den slowakischen Rechtsvorschriften zurückgelegten Versicherungszeiten berechnen, ist Absatz 2 nicht anzuwenden. (4) Das durchschnittliche Monatsgehalt, das erforderlich ist, um die Höhe der Leistung festzulegen, ist nach den slowakischen Rechtsvorschriften zu berechnen. (5) Wird dem Bezieher einer Leistung aus der slowakischen Rentenversicherung gleichzeitig eine Leistung anderer Art aus der österreichischen Sozialversicherung oder nach anderen innerstaatlichen österreichischen Gesetzen gezahlt, hat keine Verminderung der Leistung aus der slowakischen Rentenversicherung wegen Zusammentreffens der Leistungen zu erfolgen.Kapitel 4 Arbeitslosigkeit Artikel 22 Zusammenrechnung der Versicherungszeiten (1) Nach den Rechtsvorschriften eines Vertragsstaates zurückgelegte Versicherungszeiten sind für den Anspruch auf Leistungen bei Arbeitslosigkeit nach den Rechtsvorschriften des anderen Vertragsstaates zu berücksichtigen, sofern der Arbeitslose in dem Vertragsstaat, in dem er den Anspruch auf eine solche Leistung geltend macht, in den letzten zwölf Monaten vor Beantragung dieser Leistung insgesamt mindestens 26 Wochen ohne Verletzung der Vorschriften über die Beschäftigung von Ausländern als Arbeitnehmer versichert war. (2) Die in Absatz 1 festgelegte Voraussetzung der Mindestbeschäftigungszeit von 26 Wochen gilt nicht für Arbeitslose, deren Beschäftigung für längere Zeit in Aussicht genommen war, jedoch früher als nach 26 Wochen ohne ihr Verschulden geendet hat, oder welche die Staatsangehörigkeit des Vertragsstaates besitzen, in dem sie die Leistung beantragen.Artikel 23 Bezugsdauer Die Bezugsdauer wird um die Zeit gemindert, in der der Arbeitslose im anderen Vertragsstaat innerhalb der letzten zwölf Monate vor dem Tag der Antragstellung bereits eine Leistung bei Arbeitslosigkeit bezogen hat.ABSCHNITT IV VERSCHIEDENE BESTIMMUNGEN Artikel 24 Aufgaben der zuständigen Behörden, Amts- und Rechtshilfe (1) Die zuständigen Behörden werden die zur Durchführung dieses Abkommens notwendigen Verwaltungsmaßnahmen in einer Vereinbarung regeln. (2) Die zuständigen Behörden der beiden Vertragsstaaten unterrichten einander a) über alle zur Anwendung dieses Abkommens getroffenen Maßnahmen; b) über alle die Anwendung dieses Abkommens berührenden Änderungen ihrer Rechtsvorschriften. (3) Bei der Anwendung dieses Abkommens haben die Behörden und Träger der Vertragsstaaten einander zu unterstützen und wie bei der Anwendung ihrer eigenen Rechtsvorschriften zu handeln. Diese Amtshilfe ist kostenlos. (4) Die Träger und Behörden der Vertragsstaaten können zwecks Anwendung dieses Abkommens miteinander sowie mit beteiligten Personen oder deren Beauftragten unmittelbar in Verbindung treten. (5) Die Träger und Behörden eines Vertragsstaates dürfen die bei ihnen eingereichten Anträge und sonstige Schriftstücke nicht deshalb zurückweisen, weil sie in der Amtssprache des anderen Vertragsstaates abgefasst sind. (6) Ärztliche Untersuchungen, die in Durchführung der Rechtsvorschriften nur eines Vertragsstaates vorgenommen werden und Personen betreffen, die sich im Gebiet des anderen Vertragsstaates aufhalten oder dort wohnen, werden auf Ersuchen des zuständigen Trägers zu seinen Lasten vom Träger des Aufenthalts- oder Wohnortes veranlasst. Werden ärztliche Untersuchungen in Durchführung der Rechtsvorschriften der beiden Vertragsstaaten durchgeführt, werden sie vom Träger des Aufenthalts- oder Wohnortes der betreffenden Person zu seinen Lasten veranlasst. (7) Für die gerichtliche Rechtshilfe gelten die jeweiligen auf die Rechtshilfe in bürgerlichen Rechtssachen anwendbaren Bestimmungen.Artikel 25 Verbindungsstellen Die zuständigen Behörden haben zur Erleichterung der Durchführung dieses Abkommens, insbesondere zur Herstellung einer einfachen und raschen Verbindung zwischen den Trägern der Vertragsstaaten, Verbindungsstellen zu errichten.Artikel 26 Befreiung von Steuern und Beglaubigungen (1) Jede in den Vorschriften eines Vertragsstaates vorgesehene Befreiung oder Ermäßigung von Steuern, Stempel-, Gerichts- oder Eintragungsgebühren für Schriftstücke oder Urkunden, die in Anwendung dieser Rechtsvorschriften vorzulegen sind, wird auf die entsprechenden Schriftstücke und Urkunden erstreckt, die in Anwendung dieses Abkommens oder der Rechtsvorschriften des anderen Vertragsstaates vorzulegen sind. (2) Urkunden, Dokumente und Schriftstücke jeglicher Art, die in Anwendung dieses Abkommens vorgelegt werden müssen, bedürfen keiner Beglaubigung.Artikel 27 Datenschutz (1) Werden personenbezogene Daten auf Grund dieses Abkommens oder der Vereinbarung zu seiner Durchführung zwischen den Behörden oder den Trägern der beiden Vertragsstaaten übermittelt, so gilt für diese Datenübermittlung das Datenschutzrecht des übermittelnden Vertragsstaates. Für jede Weiterleitung sowie für Speicherung, Veränderung und Löschung durch den Empfängerstaat gilt das Datenschutzrecht des Empfängerstaates. Der Empfängerstaat hat dabei bemüht zu sein, im Wesentlichen ein Schutzniveau sicherzustellen, das dem im Einzelfall im übermittelnden Vertragsstaat anwendbaren Schutzniveau entspricht. (2) Die Verwendung der personenbezogenen Daten zu anderen Zwecken als denen der sozialen Sicherheit darf nur mit dem Einverständnis der betroffenen Person erfolgen.Artikel 28 Einreichung von Schriftstücken (1) Anträge, Erklärungen oder Rechtsmittel, die in Anwendung dieses Abkommens oder der Rechtsvorschriften eines Vertragsstaates bei einer Behörde, einem Träger oder einer sonstigen zuständigen Einrichtung eines Vertragsstaates eingereicht werden, sind als bei einer Behörde, einem Träger oder einer sonstigen zuständigen Einrichtung des anderen Vertragsstaates eingereichte Anträge, Erklärungen oder Rechtsmittel anzusehen. (2) Ein nach den Rechtsvorschriften des einen Vertragsstaates gestellter Antrag auf eine Leistung gilt auch als Antrag auf eine entsprechende Leistung nach den Rechtsvorschriften des anderen Vertragsstaates, die unter Berücksichtigung dieses Abkommens in Betracht kommt; dies gilt nicht, wenn der Antragsteller ausdrücklich beantragt, dass die Feststellung einer nach den Rechtsvorschriften eines Vertragsstaates erworbenen Leistung bei Alter aufgeschoben wird. (3) Anträge, Erklärungen oder Rechtsmittel, die in Anwendung der Rechtsvorschriften eines Vertragsstaates innerhalb einer bestimmten Frist bei einer Behörde, einem Träger oder einer sonstigen zuständigen Einrichtung dieses Vertragsstaates einzureichen sind, können innerhalb der gleichen Frist bei der entsprechenden Stelle des anderen Vertragsstaates eingereicht werden. (4) In den Fällen der Absätze 1 bis 3 übermittelt die in Anspruch genommene Stelle diese Anträge, Erklärungen oder Rechtsmittel entweder unmittelbar oder durch Vermittlung der Verbindungsstellen der Vertragsstaaten unverzüglich an die entsprechende zuständige Stelle des anderen Vertragsstaates.Artikel 29 Zahlungsverkehr (1) Die nach diesem Abkommen leistungspflichtigen Träger können Leistungen an Berechtigte im anderen Vertragsstaat mit befreiender Wirkung in der für sie innerstaatlich maßgebenden Währung erbringen. (2) Die in diesem Abkommen vorgesehenen Erstattungen haben in der Währung des Vertragsstaates zu erfolgen, in dem der Träger, der die Leistungen gewährt hat, seinen Sitz hat. (3) Überweisungen auf Grund dieses Abkommens werden nach Maßgabe der Vereinbarungen vorgenommen, die auf diesem Gebiet in den beiden Vertragsstaaten im Zeitpunkt der Überweisung gelten.Artikel 30 Vollstreckungsverfahren (1) Die vollstreckbaren Bescheide und Rückstandsausweise (Urkunden) der Träger oder der Behörden eines Vertragsstaates über Beiträge und sonstige Forderungen aus der sozialen Sicherheit werden im anderen Vertragsstaat anerkannt. (2) Die Anerkennung darf nur versagt werden, wenn sie der öffentlichen Ordnung des Vertragsstaates widerspricht, in dem die Entscheidung oder die Urkunde anerkannt werden soll. (3) Die nach Absatz 1 anerkannten vollstreckbaren Entscheidungen und Urkunden werden im anderen Vertragsstaat vollstreckt. Das Vollstreckungsverfahren richtet sich nach den Rechtsvorschriften, die in dem Vertragsstaat, in dessen Gebiet vollstreckt werden soll, für die Vollstreckung der in diesem Vertragsstaat erlassenen entsprechenden Entscheidungen und Urkunden gelten. Die Ausfertigung der Entscheidung oder der Urkunde muss mit der Bestätigung ihrer Vollstreckbarkeit (Vollstreckungsklausel) versehen sein.Artikel 31 Verrechnung von Vorschüssen Hat ein Träger eines Vertragsstaates einen Vorschuss gezahlt, so kann die auf denselben Zeitraum entfallende Nachzahlung einer entsprechenden Leistung, auf die nach den Rechtsvorschriften des anderen Vertragsstaates Anspruch besteht, einbehalten werden. Hat der Träger des einen Vertragsstaates für eine Zeit, für die der Träger des anderen Vertragsstaates nachträglich eine entsprechende Leistung zu erbringen hat, eine höhere als die gebührende Leistung gezahlt, so gilt der diese Leistung übersteigende Betrag bis zur Höhe des nachzuzahlenden Betrages als Vorschuss im Sinne des ersten Satzes.Artikel 32 Schadenersatz (1) Hat eine Person, die nach den Rechtsvorschriften eines Vertragsstaates Leistungen für einen Schaden zu erhalten hat, der im Gebiet des anderen Vertragsstaates eingetreten ist, nach dessen Vorschriften gegen einen Dritten Anspruch auf Ersatz des Schadens, so geht der Ersatzanspruch auf den Träger des ersten Vertragsstaates nach den für ihn geltenden Rechtsvorschriften über. (2) Stehen Ersatzansprüche hinsichtlich gleichartiger Leistungen aus demselben Schadensfall sowohl einem Träger des einen Vertragsstaates als auch einem Träger des anderen Vertragsstaates zu, so kann der Dritte die nach Absatz 1 auf die beiden Träger übergegangenen Ansprüche mit befreiender Wirkung durch Zahlung an den einen oder anderen Träger befriedigen. Im Innenverhältnis sind die Träger anteilig im Verhältnis der von Ihnen zu erbringenden Leistungen ausgleichspflichtig.Artikel 33 Streitbeilegung Streitigkeiten zwischen den Vertragsstaaten über die Auslegung oder Anwendung dieses Abkommens sollen, soweit möglich, durch die zuständigen Behörden der Vertragsstaaten beigelegt werden.ABSCHNITT V ÜBERGANGS- UND SCHLUSSBESTIMMUNGEN Artikel 34 Übergangsbestimmungen (1) Dieses Abkommen begründet keinen Anspruch auf Zahlung von Leistungen für die Zeit vor seinem In-Kraft-Treten. (2) Für die Feststellung des Anspruches auf Leistungen nach diesem Abkommen werden auch Versicherungszeiten berücksichtigt, die nach den Rechtsvorschriften eines Vertragsstaates vor In-Kraft-Treten dieses Abkommens zurückgelegt worden sind. (3) Bei Anwendung des Absatzes 2 gelten vor dem 27. November 1961 im Gebiet der Slowakischen Republik zurückgelegte Versicherungszeiten, die nach den österreichischen Rechtsvorschriften über Leistungsansprüche und Anwartschaften in der Pensionsversicherung auf Grund von Beschäftigungen im Ausland als Versicherungszeiten zu berücksichtigen sind, ausschließlich als österreichische Versicherungszeiten. (4) Vorbehaltlich des Absatzes 1 gilt dieses Abkommen auch für Versicherungsfälle, die vor seinem Inkrafttreten eingetreten sind, soweit nicht früher festgestellte Ansprüche durch Kapitalzahlungen abgegolten worden sind. (5) Leistungen, die erst auf Grund dieses Abkommens gebühren, sind auf Antrag des Berechtigten vom In-Kraft-Treten dieses Abkommens an festzustellen. Wird der Antrag binnen zwei Jahren nach dem In-Kraft-Treten dieses Abkommens eingebracht, so sind die Leistungen vom In-Kraft-Treten dieses Abkommens an zu gewähren, sonst von dem Tag an, der nach den Rechtsvorschriften jedes der beiden Vertragsstaaten bestimmt ist. (6) Leistungen, die vor dem In-Kraft-Treten des Abkommens festgestellt wurden, sind nicht neu festzustellen. (7) Absatz 6 gilt jedoch nicht in jenen Fällen, in denen in einer nach den slowakischen Rechtsvorschriften festgestellten Leistung im Gebiet der Republik Österreich zurückgelegte Beschäftigungszeiten beitragsfrei als slowakische Versicherungszeiten berücksichtigt wurden und diese Beschäftigungszeiten nach Absatz 5 in einer österreichischen Leistung als österreichische Versicherungszeiten zu berücksichtigen sind. In diesen Fällen ist die slowakische Leistung nach den Bestimmungen dieses Abkommens neu festzustellen. Ist die Summe der so errechneten slowakischen Leistung und der österreichischen Leistung niedriger als die vorher gebührende slowakische Leistung, hat der slowakische Träger die errechnete Leistung um einen entsprechenden Unterschiedsbetrag zu erhöhen. (8) In den Fällen des Absatzes 7 ist Artikel 31 entsprechend anzuwenden.Artikel 35 Geltungsdauer (1) Dieses Abkommen ist zu ratifizieren. Die Ratifikationsurkunden sind so bald wie möglich in Wien auszutauschen. (2) Dieses Abkommen tritt, soweit im Folgenden nichts Anderes bestimmt wird, am ersten Tag des dritten Monats nach Ablauf des Monats in Kraft, in dem die Ratifikationsurkunden ausgetauscht werden. (3) Artikel 11 ist in Bezug auf die nach den slowakischen Rechtsvorschriften versicherten Personen, die ihre Erwerbstätigkeit im Gebiet der Republik Österreich ausüben, und die sie begleitenden Familienangehörigen sowie die im Gebiet der Slowakischen Republik wohnenden Schüler und Studenten frühestens ab dem Monatsersten anzuwenden, nach dem die slowakische Seite auf diplomatischem Weg mitgeteilt hat, dass die innerstaatlichen Voraussetzungen für seine Anwendung vorliegen 1). (4) Dieses Abkommen wird auf unbestimmte Zeit geschlossen. Jeder Vertragsstaat kann es unter Einhaltung einer Frist von drei Monaten zum Ende eines Kalenderjahres schriftlich auf diplomatischem Weg kündigen. (5) Im Falle der Kündigung gelten die Bestimmungen dieses Abkommens für erworbene Ansprüche weiter. ZU URKUND DESSEN haben die Bevollmächtigten der beiden Vertragsstaaten dieses Abkommen unterzeichnet und mit Siegeln versehen. GESCHEHEN zu Bratislava, am 21. Dezember 2001 in zwei Urschriften, jede in deutscher und slowakischer Sprache, wobei beide Texte in gleicher Weise authentisch sind. ___________________ 1) Diese Mitteilung ist bis zur Kundmachung des Abkommens noch nicht erfolgt.",
+  "parts": [
+    {
+      "@id": "4e8173c4-5d6f-49f6-a053-169a01e16f7e#offset_619_2367",
+      "offset_ini": 619,
+      "offset_end": 2367,
+      "title": "Begriffsbestimmungen"
+    },
+    {
+      "@id": "4e8173c4-5d6f-49f6-a053-169a01e16f7e#offset_2368_3105",
+      "offset_ini": 2368,
+      "offset_end": 3105,
+      "title": "Sachlicher Geltungsbereich"
+    },
+    {
+      "@id": "4e8173c4-5d6f-49f6-a053-169a01e16f7e#offset_3106_3370",
+      "offset_ini": 3106,
+      "offset_end": 3370,
+      "title": "Persönlicher Geltungsbereich"
+    },
+    {
+      "@id": "4e8173c4-5d6f-49f6-a053-169a01e16f7e#offset_3371_4469",
+      "offset_ini": 3371,
+      "offset_end": 4469,
+      "title": "Gleichbehandlung"
+    },
+    {
+      "@id": "4e8173c4-5d6f-49f6-a053-169a01e16f7e#offset_4470_5133",
+      "offset_ini": 4470,
+      "offset_end": 5133,
+      "title": "Gebietsgleichstellung"
+    },
+    {
+      "@id": "4e8173c4-5d6f-49f6-a053-169a01e16f7e#offset_5134_5793",
+      "offset_ini": 5134,
+      "offset_end": 5793,
+      "title": "Allgemeine Regelung"
+    },
+    {
+      "@id": "4e8173c4-5d6f-49f6-a053-169a01e16f7e#offset_5794_6650",
+      "offset_ini": 5794,
+      "offset_end": 6650,
+      "title": "Besondere Regelungen"
+    },
+    {
+      "@id": "4e8173c4-5d6f-49f6-a053-169a01e16f7e#offset_6651_7400",
+      "offset_ini": 6651,
+      "offset_end": 7400,
+      "title": "Diplomatisches und konsularisches Personal"
+    },
+    {
+      "@id": "4e8173c4-5d6f-49f6-a053-169a01e16f7e#offset_7401_7986",
+      "offset_ini": 7401,
+      "offset_end": 7986,
+      "title": "Ausnahmen"
+    },
+    {
+      "@id": "4e8173c4-5d6f-49f6-a053-169a01e16f7e#offset_7987_8365",
+      "offset_ini": 7987,
+      "offset_end": 8365,
+      "title": "Zusammenrechnung der Versicherungszeiten"
+    },
+    {
+      "@id": "4e8173c4-5d6f-49f6-a053-169a01e16f7e#offset_8366_10300",
+      "offset_ini": 8366,
+      "offset_end": 10300,
+      "title": "Sach- und Geldleistungen"
+    },
+    {
+      "@id": "4e8173c4-5d6f-49f6-a053-169a01e16f7e#offset_10301_10682",
+      "offset_ini": 10301,
+      "offset_end": 10682,
+      "title": "Träger des Aufenthaltsortes"
+    },
+    {
+      "@id": "4e8173c4-5d6f-49f6-a053-169a01e16f7e#offset_10683_11090",
+      "offset_ini": 10683,
+      "offset_end": 11090,
+      "title": "Kostenerstattung"
+    },
+    {
+      "@id": "4e8173c4-5d6f-49f6-a053-169a01e16f7e#offset_11091_11591",
+      "offset_ini": 11091,
+      "offset_end": 11591,
+      "title": "Berufskrankheiten"
+    },
+    {
+      "@id": "4e8173c4-5d6f-49f6-a053-169a01e16f7e#offset_11592_13485",
+      "offset_ini": 11592,
+      "offset_end": 13485,
+      "title": "Entschädigung von Berufskrankheiten"
+    },
+    {
+      "@id": "4e8173c4-5d6f-49f6-a053-169a01e16f7e#offset_13486_13718",
+      "offset_ini": 13486,
+      "offset_end": 13718,
+      "title": "Sach- und Geldleistungen"
+    },
+    {
+      "@id": "4e8173c4-5d6f-49f6-a053-169a01e16f7e#offset_13719_14929",
+      "offset_ini": 13719,
+      "offset_end": 14929,
+      "title": "Zusammenrechnung der Versicherungszeiten"
+    },
+    {
+      "@id": "4e8173c4-5d6f-49f6-a053-169a01e16f7e#offset_14930_15683",
+      "offset_ini": 14930,
+      "offset_end": 15683,
+      "title": "Versicherungszeiten unter einem Jahr"
+    },
+    {
+      "@id": "4e8173c4-5d6f-49f6-a053-169a01e16f7e#offset_15684_16713",
+      "offset_ini": 15684,
+      "offset_end": 16713,
+      "title": "Feststellung der Leistungsansprüche"
+    },
+    {
+      "@id": "4e8173c4-5d6f-49f6-a053-169a01e16f7e#offset_16714_18480",
+      "offset_ini": 16714,
+      "offset_end": 18480,
+      "title": "Berechnung der Leistungen"
+    },
+    {
+      "@id": "4e8173c4-5d6f-49f6-a053-169a01e16f7e#offset_18481_20931",
+      "offset_ini": 18481,
+      "offset_end": 20931,
+      "title": "Feststellung der Leistungsansprüche und Berechnung der Leistungen"
+    },
+    {
+      "@id": "4e8173c4-5d6f-49f6-a053-169a01e16f7e#offset_20932_21885",
+      "offset_ini": 20932,
+      "offset_end": 21885,
+      "title": "Zusammenrechnung der Versicherungszeiten"
+    },
+    {
+      "@id": "4e8173c4-5d6f-49f6-a053-169a01e16f7e#offset_21886_22121",
+      "offset_ini": 21886,
+      "offset_end": 22121,
+      "title": "Bezugsdauer"
+    },
+    {
+      "@id": "4e8173c4-5d6f-49f6-a053-169a01e16f7e#offset_22122_23914",
+      "offset_ini": 22122,
+      "offset_end": 23914,
+      "title": "Aufgaben der zuständigen Behörden, Amts- und Rechtshilfe"
+    },
+    {
+      "@id": "4e8173c4-5d6f-49f6-a053-169a01e16f7e#offset_23915_24170",
+      "offset_ini": 23915,
+      "offset_end": 24170,
+      "title": "Verbindungsstellen"
+    },
+    {
+      "@id": "4e8173c4-5d6f-49f6-a053-169a01e16f7e#offset_24171_24780",
+      "offset_ini": 24171,
+      "offset_end": 24780,
+      "title": "Befreiung von Steuern und Beglaubigungen"
+    },
+    {
+      "@id": "4e8173c4-5d6f-49f6-a053-169a01e16f7e#offset_24781_25575",
+      "offset_ini": 24781,
+      "offset_end": 25575,
+      "title": "Datenschutz"
+    },
+    {
+      "@id": "4e8173c4-5d6f-49f6-a053-169a01e16f7e#offset_25576_27170",
+      "offset_ini": 25576,
+      "offset_end": 27170,
+      "title": "Einreichung von Schriftstücken"
+    },
+    {
+      "@id": "4e8173c4-5d6f-49f6-a053-169a01e16f7e#offset_27171_27757",
+      "offset_ini": 27171,
+      "offset_end": 27757,
+      "title": "Zahlungsverkehr"
+    },
+    {
+      "@id": "4e8173c4-5d6f-49f6-a053-169a01e16f7e#offset_27758_28709",
+      "offset_ini": 27758,
+      "offset_end": 28709,
+      "title": "Vollstreckungsverfahren"
+    },
+    {
+      "@id": "4e8173c4-5d6f-49f6-a053-169a01e16f7e#offset_28710_29344",
+      "offset_ini": 28710,
+      "offset_end": 29344,
+      "title": "Verrechnung von Vorschüssen"
+    },
+    {
+      "@id": "4e8173c4-5d6f-49f6-a053-169a01e16f7e#offset_29345_30228",
+      "offset_ini": 29345,
+      "offset_end": 30228,
+      "title": "Schadenersatz"
+    },
+    {
+      "@id": "4e8173c4-5d6f-49f6-a053-169a01e16f7e#offset_30229_30442",
+      "offset_ini": 30229,
+      "offset_end": 30442,
+      "title": "Streitbeilegung"
+    },
+    {
+      "@id": "4e8173c4-5d6f-49f6-a053-169a01e16f7e#offset_30443_32872",
+      "offset_ini": 30443,
+      "offset_end": 32872,
+      "title": "Übergangsbestimmungen"
+    },
+    {
+      "@id": "4e8173c4-5d6f-49f6-a053-169a01e16f7e#offset_32873_34387",
+      "offset_ini": 32873,
+      "offset_end": 34387,
+      "title": "Geltungsdauer"
+    },
+    {
+      "@id": "4e8173c4-5d6f-49f6-a053-169a01e16f7e#offset_0_618",
+      "offset_ini": 0,
+      "offset_end": 618
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/7cd8b9cb-a8d1-4d49-ab74-53a7720746d3",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Soziale Sicherheit – Kostenerstattung (Liechtenstein)"
+    },
+    "hasAuthority": "BGBl. Nr. 61/1996",
+    "id_local": "10009002",
+    "first_date_entry_in_force": "1994-01-01",
+    "version_date": "1994-01-01",
+    "url_consolidated": "http://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d10009002\u0026FassungVom\u003d1994-01-01",
+    "classifications": [
+      "69/03 Soziale Sicherheit"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/7cd8b9cb-a8d1-4d49-ab74-53a7720746d3/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/7cd8b9cb-a8d1-4d49-ab74-53a7720746d3/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 5172,
+  "text": "Ratifikationstext Die Vereinbarung ist gemäß ihrem Artikel 6 Abs. 1 mit 1. Jänner 1994 wirksam geworden. Präambel/Promulgationsklausel Unter Bezugnahme auf Artikel 36 Absatz 3 und Artikel 63 Absatz 3 der Verordnung (EWG) Nr. 1408/71, in der Erwägung, die Abrechnung zwischen den Trägern der beiden Vertragsstaaten zu vereinfachen, haben die zuständigen Behörden der beiden Vertragsstaaten folgendes vereinbart:Artikel 1 (1) In dieser Vereinbarung bedeuten die Ausdrücke 1. „Verordnung“ die Verordnung (EWG) Nr. 1408/71 des Rates über die Anwendung der Systeme der sozialen Sicherheit auf Arbeitnehmer und Selbständige sowie deren Familienangehörige, die innerhalb der Gemeinschaft zu- und abwandern, in der zwischen den beiden Vertragsstaaten jeweils geltenden Fassung; 2. „Durchführungsverordnung“ die Verordnung (EWG) Nr. 574/72 des Rates über die Durchführung der Verordnung (EWG) Nr. 1408/71 über die Anwendung der Systeme der sozialen Sicherheit auf Arbeitnehmer und Selbständige sowie deren Familienangehörige, die innerhalb der Gemeinschaft zu- und abwandern, in der zwischen den beiden Vertragsstaaten jeweils geltenden Fassung. (2) In dieser Vereinbarung haben andere Ausdrücke die Bedeutung, die ihnen nach der Verordnung und der Durchführungsverordnung oder, soweit diese nichts anderes bestimmen, den innerstaatlichen Rechtsvorschriften zukommt.Artikel 2 Abweichend von Artikel 93 der Durchführungsverordnung erstattet der zuständige liechtensteinische Träger die Kosten der Sachleistungen, die a) den in Österreich wohnenden Rentenantragstellern, deren Familienangehörigen oder Hinterbliebenen nach Artikel 26 der Verordnung gewährt werden, auf der Grundlage des nach Artikel 95 der Durchführungsverordnung errechneten Pauschbetrages, b) den in Österreich wohnenden Familienangehörigen eines Arbeitslosen, der nicht in Österreich wohnt, nach Artikel 25 Absatz 3 der Verordnung gewährt werden, auf der Grundlage des nach Artikel 94 der Durchführungsverordnung errechneten Pauschbetrages.Artikel 3 (1) Abweichend von Artikel 93 der Durchführungsverordnung erstattet der zuständige liechtensteinische Träger in jenen Fällen, in denen nach Artikel 2 keine Kostenerstattung auf der Grundlage eines Pauschbetrages vorgesehen ist, die Kosten der durch einen österreichischen Träger gewährten Heilmittel durch den innerstaatlich in Österreich für die Leistungsaushilfe der Krankenversicherungsträger untereinander geltenden Pauschbetrag für Pensionisten und deren Familienangehörige beziehungsweise für sonstige Versicherte und deren Familienangehörige je Kalendervierteljahr. (2) Der Pauschbetrag nach Absatz 1 gilt so lange, als er auch bei Leistungsaushilfe der österreichischen Krankenversicherungsträger untereinander anzuwenden ist. Haben die österreichischen Krankenversicherungsträger von einem bestimmten Tag an einen anderen Pauschbetrag anzuwenden, teilt dies die österreichische Verbindungsstelle der liechtensteinischen Verbindungsstelle unverzüglich mit. Der neu festgesetzte Pauschbetrag gilt mit Wirkung von dem Tag an als vereinbart, ab dem der Pauschbetrag in Österreich angewendet wird.Artikel 4 Abweichend von Artikel 93 der Durchführungsverordnung erstattet der zuständige liechtensteinische Träger in jenen Fällen, in denen nach Artikel 2 keine Kostenerstattung auf der Grundlage eines Pauschbetrages vorgesehen ist, bei Anstaltspflege in Österreich anstelle der vorläufigen und endgültigen Pflegegebührenersätze sowie der vorläufigen und endgültigen Zuschläge auf Grund des Beitrages der österreichischen Versicherungsträger an den Krankenanstalten-Zusammenarbeitsfonds (KRAZAF-Zuschlag) einen Pauschbetrag, der wie folgt zu berechnen ist: Die für das in Betracht kommende Jahr anzuwendenden vorläufigen Pflegegebührenersätze sind mit jenem Hundertsatz zu erhöhen, der sich aus der Erhöhung oder Verminderung des vorläufigen Hundertsatzes des KRAZAF-Zuschlages um den Hundertsatz ergibt, der der Differenz zwischen den vorläufigen und endgültigen Pflegegebührenersätze sowie den vorläufigen und endgültigen KRAZAF-Zuschlägen des zweitvorangegangenen Kalenderjahres entspricht.Artikel 5 In jenen Fällen, in denen nach Artikel 2 eine Erstattung durch Pauschbeträge anstelle der nach Artikel 93 der Durchführungsverordnung vorgesehenen Erstattung in Höhe des tatsächlichen Betrages festgelegt ist, gilt der Träger des Wohnortes der in Betracht kommenden Person hinsichtlich dieser Person als zuständiger Träger. Im Falle des Artikels 26 der Verordnung gilt dies auch für Familienangehörige, die außerhalb dieses Vertragsstaates wohnen.Artikel 6 (1) Diese Vereinbarung tritt an dem Tag der Unterzeichnung in Kraft und wird mit dem Tag wirksam, an dem die Verordnung im Verhältnis zwischen Österreich und Liechtenstein in Kraft getreten ist. Soweit vor der Unterzeichnung dieser Vereinbarung eine Kostenerstattung nach den Artikeln 93 bis 96 der Durchführungsverordnung bereits durchgeführt worden ist, hat es dabei sein Bewenden. (2) Diese Vereinbarung wird auf unbestimmte Zeit geschlossen. Jeder Vertragsstaat kann sie unter Einhaltung einer Frist von drei Monaten schriftlich kündigen. Geschehen zu Wien, am 14. Dezember 1995 in zwei Urschriften.",
+  "parts": [
+    {
+      "@id": "7cd8b9cb-a8d1-4d49-ab74-53a7720746d3#offset_410_1356",
+      "offset_ini": 410,
+      "offset_end": 1356,
+      "title": "Artikel 1"
+    },
+    {
+      "@id": "7cd8b9cb-a8d1-4d49-ab74-53a7720746d3#offset_1357_1998",
+      "offset_ini": 1357,
+      "offset_end": 1998,
+      "title": "Artikel 2"
+    },
+    {
+      "@id": "7cd8b9cb-a8d1-4d49-ab74-53a7720746d3#offset_1999_3109",
+      "offset_ini": 1999,
+      "offset_end": 3109,
+      "title": "Artikel 3"
+    },
+    {
+      "@id": "7cd8b9cb-a8d1-4d49-ab74-53a7720746d3#offset_3110_4103",
+      "offset_ini": 3110,
+      "offset_end": 4103,
+      "title": "Artikel 4"
+    },
+    {
+      "@id": "7cd8b9cb-a8d1-4d49-ab74-53a7720746d3#offset_4104_4559",
+      "offset_ini": 4104,
+      "offset_end": 4559,
+      "title": "Artikel 5"
+    },
+    {
+      "@id": "7cd8b9cb-a8d1-4d49-ab74-53a7720746d3#offset_4560_5172",
+      "offset_ini": 4560,
+      "offset_end": 5172,
+      "title": "Artikel 6"
+    },
+    {
+      "@id": "7cd8b9cb-a8d1-4d49-ab74-53a7720746d3#offset_0_409",
+      "offset_ini": 0,
+      "offset_end": 409
+    }
+  ]
+}

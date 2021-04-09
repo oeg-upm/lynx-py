@@ -1,0 +1,42 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/eaf6b47d-3b6b-4df4-be51-1f3dd9d1e09d",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Wiener Arbeitsstättenverordnung in der Land- und Forstwirtschaft"
+    },
+    "hasAuthority": "BKA (Bundeskanzleramt)",
+    "nick": [
+      "Wr. AStV Land- und Forstwirtschaft"
+    ],
+    "id_local": "20011015",
+    "first_date_entry_in_force": "2020-01-01",
+    "version_date": "2020-01-01",
+    "url_consolidated": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d20011015\u0026FassungVom\u003d2020-01-01",
+    "classifications": [
+      "60/01 Arbeitsvertragsrecht"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/eaf6b47d-3b6b-4df4-be51-1f3dd9d1e09d/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/eaf6b47d-3b6b-4df4-be51-1f3dd9d1e09d/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 3042,
+  "text": "Beachte Diese Rechtsvorschrift gilt in ihrer Fassung vom 31. Dezember 2019 für das Land Wien als Verordnung des Bundes, soweit sie „Arbeiterrecht sowie Arbeiter- und Angestelltenschutz, soweit es sich um land- und forstwirtschaftliche Arbeiter und Angestellte handelt“ (Art. 11 Abs. 1 Z 9 B-VG, BGBl. Nr. 1/1930, in der Fassung des Bundesgesetzes BGBl. I Nr. 14/2019) regelt; soweit diese Fassung (allenfalls) den Bestimmungen des Bundes-Verfassungsgesetzes betreffend die Zuständigkeit der Behörden widerspricht, gilt sie als „sinngemäß geändert“ (Art. 151 Abs. 63 Z 4 B-VG). Änderung LGBlW. Nr. 10/2010 [CELEX-Nr.: 389L0391] LGBlW. Nr. 15/2016 LGBlW. Nr. 48/2018 BGBl. I Nr. 14/2019 (NR: GP XXVI RV 301 AB 463 S. 57. BR: AB 10104 S. 888.) Präambel/Promulgationsklausel Auf Grund der §§ 85 bis 85k und 85l Abs. 2 der Wiener Landarbeitsordnung 1990 – Wr. LAO 1990, LGBl. für Wien Nr. 33, zuletzt geändert durch das Gesetz LGBl. für Wien Nr. 46/2002, wird verordnet: Inhaltsverzeichnis §  1. Anwendungsbereich §  2. Begriffsbestimmung 1. Abschnitt Allgemeine Bestimmungen für Arbeitsstätten §  3. Verkehrswege §  4. Ausgänge §  5. Stiegen §  6. Beleuchtung und Belüftung von Räumen §  7. Fußböden, Wände und Decken §  8. Türen und Tore §  9. Fenster, Lichtkuppeln und Glasdächer § 10. Sicherheitsbeleuchtung und Orientierungshilfen § 11. Lagerungen § 12. Gefahrenbereiche § 13. Alarmeinrichtungen § 14. Prüfungen § 15. Information der Dienstnehmer und Dienstnehmerinnen § 16. Barrierefreie Gestaltung von Arbeitsstätten 2. Abschnitt Sicherung der Flucht § 17. Grundsätzliche Bestimmungen § 18. Fluchtwege, gesicherte Fluchtbereiche, Notausgänge § 19. Abmessungen von Fluchtwegen und Notausgängen § 20. Anforderungen an Fluchtwege § 21. Anforderungen an Notausgänge § 22. Anforderungen an gesicherte Fluchtbereiche § 23. Stiegenhaus 3. Abschnitt Anforderungen an Arbeitsräume § 24. Raumhöhe in Arbeitsräumen § 25. Bodenfläche und Luftraum § 26. Lichteintrittsflächen und Sichtverbindung § 27. Natürliche Lüftung § 28. Mechanische Be- und Entlüftung § 29. Raumklima in Arbeitsräumen § 30. Künstliche Beleuchtung in Arbeitsräumen § 31. Abweichende Regelungen für bestimmte Arbeitsräume § 32. Abweichende Regelungen für Container und ähnliche Einrichtungen 4. Abschnitt Sanitäre Vorkehrungen und Sozialeinrichtungen § 33. Trink- und Waschwasser § 34. Toiletten § 35. Waschplätze, Waschräume, Duschen § 36. Kleiderkästen und Umkleideräume § 37. Aufenthalts- und Bereitschaftsräume § 38. Wohnräume § 39. Benutzbarkeit von sanitären Vorkehrungen und Sozialeinrichtungen 5. Abschnitt Erste Hilfe und Brandschutz § 40. Mittel für die Erste Hilfe § 41. Erst-Helfer und Erst-Helferinnen § 42. Sanitätsräume § 43. Löschhilfen § 44. Brandschutzbeauftragte, Brandschutzwarte und Brandschutzwartinnen § 45. entfällt; LGBl. Nr. 15/2016 vom 04.04.2016 § 45a. Brandschutzmaßnahmen § 46. Maßnahmen bei erhöhtem Brandschutz 6. Abschnitt Übergangs- und Schlussbestimmungen § 47. Übergangsbestimmungen § 48. Umsetzung von Gemeinschaftsrecht § 49. Schlussbestimmungen"
+}

@@ -1,0 +1,83 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/977e7891-1a85-4707-b80a-e55e8c1cc4eb",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Vereinbarung gemäß Artikel 15a B-VG über die Kinder- und Jugendhilfe"
+    },
+    "hasAuthority": "Landesregierung Wien",
+    "id_local": "20000588",
+    "first_date_entry_in_force": "2020-01-01",
+    "version_date": "2020-01-01",
+    "url_consolidated": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dLrW\u0026Gesetzesnummer\u003d20000588\u0026FassungVom\u003d2020-01-01",
+    "classifications": [
+      "60/20 Jugendschutz und Jugendwohlfahrt, Kindertagesheimwesen",
+      "60 Gesundheits- und Sozialrecht (S)"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/977e7891-1a85-4707-b80a-e55e8c1cc4eb/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/977e7891-1a85-4707-b80a-e55e8c1cc4eb/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 3679,
+  "text": "Bundesland Wien Präambel/Promulgationsklausel Der Wiener Landtag hat am 27. Juni 2019 den Abschluss nachstehender Vereinbarung gemäß § 139 Abs. 2 der Wiener Stadtverfassung genehmigt: Vereinbarung gemäß Artikel 15a B-VG über die Kinder- und Jugendhilfe Der Bund, vertreten durch die Bundesregierung, sowie die Länder Burgenland, Kärnten, Niederösterreich, Oberösterreich, Salzburg, Steiermark, Tirol, Vorarlberg und Wien, jeweils vertreten durch den Landeshauptmann bzw. die Landeshauptfrau, – im Folgenden Vertragsparteien genannt – sind übereingekommen, gemäß Art. 15a Abs. 1 des Bundes-Verfassungsgesetzes nachstehende Vereinbarung zu schließen: Im RIS seit 16.12.2019Artikel 1 Zielsetzungen Die gegenständliche Vereinbarung ist vom gemeinsamen Bestreben der Vertragsparteien getragen, die Kinder- und Jugendhilfe in Österreich einheitlich zu gestalten, gemeinsame Standards festzulegen und diese im Sinne der primären, sekundären und tertiären Prävention und der Kinderrechte weiterzuentwickeln.Artikel 3 Aufgaben des Bundes (1) Der Bund verpflichtet sich, die in § 37 (Mitteilungen bei Verdacht der Kindeswohlgefährdung), § 38 (Amtshilfe), § 39 (Mitteilungen zur Ermittlung von Einkommensverhältnissen), § 40 (Datenverarbeitung), § 41 (Befreiung von der Pflicht zur Entrichtung öffentlicher Abgaben), § 42 (Vereinbarungen mit dem Kinder- und Jugendhilfeträger), § 43 (Gerichtliches Verfahren zur Festlegung des Kostenersatzes) und § 44 (Befugnis zur Beurkundung und Beglaubigung) B-KJHG 2013 enthaltenen Bestimmungen bundesgesetzlich zu regeln. (2) Weiters verpflichtet sich der Bund, bei der Erstellung und Veröffentlichung einer bundesweiten Statistik der Kinder- und Jugendhilfe mitzuwirken, Kinderschutzforschung in Verbindung mit dem Gesundheitsbereich zu betreiben sowie weiterhin seinen Berichtspflichten gegenüber internationalen Gremien nachzukommen.Artikel 4 Weiterentwicklung der Standards in der Kinder- und Jugendhilfe Die Länder verpflichten sich, bei Änderungen der dieser Vereinbarung zugrundeliegenden Umstände, insbesondere bei Vorliegen von neuen wissenschaftlichen Erkenntnissen und Expertisen aus Fachkreisen im Bereich der Kinder- und Jugendhilfe, Verhandlungen über eine Anpassung dieser Vereinbarung aufzunehmen mit dem Ziel, eine geänderte Vereinbarung rechtzeitig in Kraft zu setzen und allenfalls notwendige Änderungen der betreffenden Vorschriften rechtzeitig vorzunehmen. Jedes Land kann die Aufnahme solcher Verhandlungen verlangen. Eine Änderung dieser Vereinbarung ist nur im Einvernehmen aller Vertragsparteien zulässig.Artikel 5 Inkrafttreten (1) Wenn 1. die nach der Bundesverfassung erforderlichen Voraussetzungen für das Inkrafttreten erfüllt sind und 2. die Mitteilungen sämtlicher Länder über die Erfüllung der nach den Landesverfassungen erforderlichen Voraussetzungen für das Inkrafttreten beim Bundesministerium für Verfassung, Reformen, Deregulierung und Justiz eingelangt sind, tritt diese Vereinbarung mit dem ersten Tag des zweiten auf den Eintritt der Bedingungen gemäß Z 1 und 2 folgenden Monats in Kraft. (2) Das Bundesministerium für Verfassung, Reformen, Deregulierung und Justiz hat den Ländern die Erfüllung der Voraussetzungen nach Abs. 1 sowie den Zeitpunkt des Inkrafttretens mitzuteilen.Artikel 6 Geltungsdauer Diese Vereinbarung wird auf unbestimmte Zeit abgeschlossen. Diese Vereinbarung kann nur im Einvernehmen aller Vertragsparteien aufgelöst werden.Artikel 7 Urschrift Diese Vereinbarung wird in einer Urschrift ausgefertigt. Die Urschrift wird beim Bundesministerium für Verfassung, Reformen, Deregulierung und Justiz hinterlegt. Dieses hat allen Ländern beglaubigte Abschriften der Vereinbarung zu übermitteln.",
+  "parts": [
+    {
+      "@id": "977e7891-1a85-4707-b80a-e55e8c1cc4eb#offset_671_998",
+      "offset_ini": 671,
+      "offset_end": 998,
+      "title": ""
+    },
+    {
+      "@id": "977e7891-1a85-4707-b80a-e55e8c1cc4eb#offset_999_1863",
+      "offset_ini": 999,
+      "offset_end": 1863,
+      "title": ""
+    },
+    {
+      "@id": "977e7891-1a85-4707-b80a-e55e8c1cc4eb#offset_1864_2557",
+      "offset_ini": 1864,
+      "offset_end": 2557,
+      "title": ""
+    },
+    {
+      "@id": "977e7891-1a85-4707-b80a-e55e8c1cc4eb#offset_2558_3248",
+      "offset_ini": 2558,
+      "offset_end": 3248,
+      "title": ""
+    },
+    {
+      "@id": "977e7891-1a85-4707-b80a-e55e8c1cc4eb#offset_3249_3416",
+      "offset_ini": 3249,
+      "offset_end": 3416,
+      "title": ""
+    },
+    {
+      "@id": "977e7891-1a85-4707-b80a-e55e8c1cc4eb#offset_3417_3679",
+      "offset_ini": 3417,
+      "offset_end": 3679,
+      "title": ""
+    },
+    {
+      "@id": "977e7891-1a85-4707-b80a-e55e8c1cc4eb#offset_0_670",
+      "offset_ini": 0,
+      "offset_end": 670
+    }
+  ]
+}

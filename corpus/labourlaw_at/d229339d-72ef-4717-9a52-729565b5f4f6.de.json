@@ -1,0 +1,42 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/d229339d-72ef-4717-9a52-729565b5f4f6",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Wiener Verordnung elektromagnetische Felder in der Land- und Forstwirtschaft"
+    },
+    "hasAuthority": "BKA (Bundeskanzleramt)",
+    "nick": [
+      "Wr. VEMF Land- und Forstwirtschaft"
+    ],
+    "id_local": "20011022",
+    "first_date_entry_in_force": "2020-01-01",
+    "version_date": "2020-01-01",
+    "url_consolidated": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d20011022\u0026FassungVom\u003d2020-01-01",
+    "classifications": [
+      "60/01 Arbeitsvertragsrecht"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/d229339d-72ef-4717-9a52-729565b5f4f6/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/d229339d-72ef-4717-9a52-729565b5f4f6/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 1498,
+  "text": "Beachte Diese Rechtsvorschrift gilt in ihrer Fassung vom 31. Dezember 2019 für das Land Wien als Verordnung des Bundes, soweit sie „Arbeiterrecht sowie Arbeiter- und Angestelltenschutz, soweit es sich um land- und forstwirtschaftliche Arbeiter und Angestellte handelt“ (Art. 11 Abs. 1 Z 9 B-VG, BGBl. Nr. 1/1930, in der Fassung des Bundesgesetzes BGBl. I Nr. 14/2019) regelt; soweit diese Fassung (allenfalls) den Bestimmungen des Bundes-Verfassungsgesetzes betreffend die Zuständigkeit der Behörden widerspricht, gilt sie als „sinngemäß geändert“ (Art. 151 Abs. 63 Z 4 B-VG). Änderung LGBlW. Nr. 19/2017 [CELEX-Nr.: 32013L0035] BGBl. I Nr. 14/2019 (NR: GP XXVI RV 301 AB 463 S. 57. BR: AB 10104 S. 888.) Präambel/Promulgationsklausel Aufgrund § 88f Abs. 1 und § 88l Z 4 der Wiener Landarbeitsordnung 1990, LGBl. für Wien Nr. 33, zuletzt geändert durch das Gesetz LGBl. für Wien Nr. 13/2016, wird verordnet: Inhaltsverzeichnis § 1. Geltungsbereich § 2. Begriffsbestimmungen § 3. Expositionsgrenzwerte § 4. Auslösewerte § 5. Auslöse- und Expositionsgrenzwerte für schwangere und stillende Dienstnehmerinnen § 6. Bewertungen, Berechnungen und Messungen § 7. Ermittlung und Beurteilung der Gefahren, Festlegung von Maßnahmen (Arbeitsplatzevaluierung) § 8. Information, Unterweisung, Anhörung und Beteiligung der Dienstnehmerinnen und Dienstnehmer § 9. Maßnahmen und Maßnahmenprogramm § 10. Inhalt des Maßnahmenprogramms § 11. Persönliche Schutzausrüstung, Kennzeichnung § 12. Bezugnahme auf Richtlinien"
+}

@@ -1,0 +1,74 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/e0b15737-f03a-497a-b1b2-d41f79f1eb77",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Wiener Krankenanstaltenplan 2019 (WKAP 2019)"
+    },
+    "hasAuthority": "Landesregierung Wien",
+    "nick": [
+      "WKAP 2019"
+    ],
+    "id_local": "20000579",
+    "first_date_entry_in_force": "2019-04-01",
+    "version_date": "2019-04-01",
+    "url_consolidated": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dLrW\u0026Gesetzesnummer\u003d20000579\u0026FassungVom\u003d2019-04-02",
+    "classifications": [
+      "60/40 Krankenbehandlung",
+      "60 Gesundheits- und Sozialrecht (S)"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/e0b15737-f03a-497a-b1b2-d41f79f1eb77/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/e0b15737-f03a-497a-b1b2-d41f79f1eb77/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 1304,
+  "text": "Bundesland Wien Präambel/Promulgationsklausel Gemäß § 5a Abs. 1 Wiener Krankenanstaltengesetz 1987, LGBl. für Wien Nr. 23, zuletzt geändert durch das Gesetz LGBl. für Wien Nr. 49/2018, wird verordnet: Im RIS seit 01.04.2019Wiener Krankenanstaltenplan 2019 (WKAP 2019) Geltungsbereich § 1. (1) Der dieser Verordnung als Anlage angeschlossene Wiener Krankenanstaltenplan 2019 (WKAP 2019) gilt für Fondskrankenanstalten (§ 64a Abs. 1 Wiener Krankenanstaltengesetz 1987). (2) Hinsichtlich Nicht-Fondskrankenanstalten stellt der WKAP 2019 eine Empfehlung dar. (3) Die im Österreichischen Strukturplan Gesundheit (ÖSG) in der Fassung vom 29. Juni 2018 vorgesehenen Qualitätskriterien sind für Fondskrankenanstalten (§ 64a Abs. 1 Wiener Krankenanstaltengesetz 1987) verbindlich.Planungsgebiet § 2. Das Planungsgebiet des WKAP 2019 umfasst die Katasterfläche von Wien, wobei bestehende Wechselbeziehungen mit dem Umland von Wien in der Planung berücksichtigt sind.Inkrafttreten § 3. Diese Verordnung tritt mit dem der Kundmachung folgenden Tag in Kraft.Außerkrafttreten § 4. Mit Inkrafttreten dieser Verordnung tritt die Verordnung der Wiener Landesregierung, mit der der Wiener Krankenanstaltenplan 2013 (WKAP 2013) erlassen wird, LGBl. für Wien Nr. 17/2013 in der Fassung LGBl. für Wien Nr. 2/2017, außer Kraft.",
+  "parts": [
+    {
+      "@id": "e0b15737-f03a-497a-b1b2-d41f79f1eb77#offset_223_770",
+      "offset_ini": 223,
+      "offset_end": 770,
+      "title": "Geltungsbereich"
+    },
+    {
+      "@id": "e0b15737-f03a-497a-b1b2-d41f79f1eb77#offset_771_955",
+      "offset_ini": 771,
+      "offset_end": 955,
+      "title": "Planungsgebiet"
+    },
+    {
+      "@id": "e0b15737-f03a-497a-b1b2-d41f79f1eb77#offset_956_1044",
+      "offset_ini": 956,
+      "offset_end": 1044,
+      "title": "Inkrafttreten"
+    },
+    {
+      "@id": "e0b15737-f03a-497a-b1b2-d41f79f1eb77#offset_1045_1304",
+      "offset_ini": 1045,
+      "offset_end": 1304,
+      "title": "Außerkrafttreten"
+    },
+    {
+      "@id": "e0b15737-f03a-497a-b1b2-d41f79f1eb77#offset_0_222",
+      "offset_ini": 0,
+      "offset_end": 222
+    }
+  ]
+}

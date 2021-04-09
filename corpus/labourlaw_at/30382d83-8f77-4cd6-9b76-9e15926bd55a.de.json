@@ -1,0 +1,64 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/30382d83-8f77-4cd6-9b76-9e15926bd55a",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Erlassung eines Heimarbeitstarifs für Heimarbeiter/innen in der Schifflistickerei der Industrie und des Gewerbes"
+    },
+    "hasAuthority": "BGBl. II Nr. 376/2016",
+    "id_local": "20009726",
+    "first_date_entry_in_force": "2017-01-01",
+    "version_date": "2017-01-01",
+    "url_consolidated": "http://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d20009726\u0026FassungVom\u003d2017-01-01",
+    "classifications": [
+      "60/04 Arbeitsrecht allgemein"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/30382d83-8f77-4cd6-9b76-9e15926bd55a/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/30382d83-8f77-4cd6-9b76-9e15926bd55a/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 2115,
+  "text": "Präambel/Promulgationsklausel Das Bundeseinigungsamt beim Bundesministerium für Arbeit, Soziales und Konsumentenschutz ist gemäß § 34 Abs. 1 Heimarbeitsgesetz 1960, BGBl. Nr. 105/1961, in der Fassung des Bundesgesetzes BGBl. I Nr. 44/2016, ermächtigt, auf Antrag einer kollektivvertragsfähigen Körperschaft der Arbeitnehmer/innen Heimarbeitstarife zu erlassen. Das Bundeseinigungsamt beim Bundesministerium für Arbeit, Soziales und Konsumentenschutz hat mit Beschluss vom 5. Dezember 2016 nach Durchführung einer Senatsverhandlung nachstehenden Heimarbeitstarif erlassen:Heimarbeitstarif für Heimarbeiter/innen in der Schifflistickerei der Industrie und des Gewerbes H 12/2016/V/33/2 Geltungsbereich § 1. Dieser Heimarbeitstarif gilt: a) Räumlich: für das Bundesland Vorarlberg. b) Sachlich: für alle Heimarbeiten auf dem Gebiet der Schifflistickerei. c) Persönlich: für alle Auftraggeber/innen, die der Industrie und dem Gewerbe angehören und Heimarbeiten auf dem Gebiet der Schifflistickerei ausgeben, und für alle Heimarbeiter/innen, die solche Heimarbeiten übernehmen, sofern nicht für Auftraggeber/innen und Heimarbeiter/innen durch einschlägige Heimarbeitsgesamtverträge eine andere Regelung getroffen wurde.Wirksamkeitsbeginn und Geltungsdauer § 2. (1) Dieser Heimarbeitstarif gilt gemäß § 35 Abs. 1 des Heimarbeitsgesetzes für alle Aufträge, die ab 1. Jänner 2017 erteilt werden und gilt bis zu einer Aufhebung oder Abänderung gemäß § 36 Abs. 1 Heimarbeitsgesetz oder durch Heimarbeitsgesamtvertrag. (2) Die Stundenlöhne des Heimarbeitstarifes sind nur dann anzuwenden, wenn der Berechnung des Entgeltes für den Heimarbeitsauftrag nicht ein Stückentgelt, sondern nur ein Stundenlohn zugrunde gelegt wird.Tarifbestimmungen § 3. Schifflistickerei I. Stundenlöhne Nachsticken a) 8,25 € Nachsticken b) 7,45 € Ausschneiden 7,31 € Ausrüsten 7,33 € Für Ausrüstaufträge, bei denen Bügeln vorgesehen ist, wird der Stundenlohn um 0,43 € erhöht. Motive, Nähen und Wickeln 7,45 € Endeln, Zickzacknähen und Frillen 7,45 € Zäckeln von Ätzware 7,31 € Applikationen 7,45 € II. Zuschlag Für schwarze und marineblaue Ware 10%.",
+  "parts": [
+    {
+      "@id": "30382d83-8f77-4cd6-9b76-9e15926bd55a#offset_571_1213",
+      "offset_ini": 571,
+      "offset_end": 1213,
+      "title": "Geltungsbereich"
+    },
+    {
+      "@id": "30382d83-8f77-4cd6-9b76-9e15926bd55a#offset_1214_1711",
+      "offset_ini": 1214,
+      "offset_end": 1711,
+      "title": "Wirksamkeitsbeginn und Geltungsdauer"
+    },
+    {
+      "@id": "30382d83-8f77-4cd6-9b76-9e15926bd55a#offset_1712_2115",
+      "offset_ini": 1712,
+      "offset_end": 2115,
+      "title": "Tarifbestimmungen"
+    },
+    {
+      "@id": "30382d83-8f77-4cd6-9b76-9e15926bd55a#offset_0_570",
+      "offset_ini": 0,
+      "offset_end": 570
+    }
+  ]
+}

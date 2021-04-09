@@ -1,0 +1,47 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/240a248e-1b97-4ad6-a89c-4990c4d7e851",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Austausch von Kriegsbeschädigten für ärztliche Behandlung"
+    },
+    "hasAuthority": "BGBl. Nr. 261/1958",
+    "id_local": "10008174",
+    "first_date_entry_in_force": "1958-12-03",
+    "version_date": "1958-12-03",
+    "url_consolidated": "http://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d10008174\u0026FassungVom\u003d1958-12-03",
+    "classifications": [
+      "69/06 Kriegsopfer"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/240a248e-1b97-4ad6-a89c-4990c4d7e851/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/240a248e-1b97-4ad6-a89c-4990c4d7e851/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 395,
+  "text": "Nach Mitteilungen des Generalsekretariates des Europarates haben Luxemburg und die Niederlande das Abkommen über den Austausch von Kriegsbeschädigten zwischen den Mitgliedsländern des Europarates zum Zwecke der ärztlichen Behandlung, BGBl. Nr. 62/1958, ratifiziert. Das Abkommen ist gemäß seinem Artikel 8 für Luxemburg am 1. April 1958, für die Niederlande am 1. November 1958 in Kraft getreten.",
+  "parts": [
+    {
+      "@id": "240a248e-1b97-4ad6-a89c-4990c4d7e851#offset_0_395",
+      "offset_ini": 0,
+      "offset_end": 395,
+      "title": ""
+    }
+  ]
+}

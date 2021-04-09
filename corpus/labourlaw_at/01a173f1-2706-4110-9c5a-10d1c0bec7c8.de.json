@@ -1,0 +1,65 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/01a173f1-2706-4110-9c5a-10d1c0bec7c8",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Form der Ausweise für Behinderte"
+    },
+    "hasAuthority": "LGBl. Nr. 16/1975",
+    "id_local": "20000242",
+    "first_date_entry_in_force": "1975-03-01",
+    "version_date": "1975-03-01",
+    "url_consolidated": "http://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dLrW\u0026Gesetzesnummer\u003d20000242\u0026FassungVom\u003d1975-03-01",
+    "classifications": [
+      "60 Gesundheits- und Sozialrecht (S)",
+      "60/10 Angelegenheiten der Sozialhilfe"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/01a173f1-2706-4110-9c5a-10d1c0bec7c8/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/01a173f1-2706-4110-9c5a-10d1c0bec7c8/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 363,
+  "text": "Präambel/Promulgationsklausel Auf Grund des § 33 a des Wiener Behindertengesetzes, LGBl. für Wien Nr. 22/1966, in der Fassung der 2. Behindertengesetznovelle, LGBl. für Wien Nr. 10/1975, wird verordnet:ARTIKEL I Die Ausweise für Behinderte haben dem in der Anlage enthaltenen Muster zu entsprechen.ARTIKEL II Diese Verordnung tritt mit 1. März 1975 in Kraft.Anlage",
+  "parts": [
+    {
+      "@id": "01a173f1-2706-4110-9c5a-10d1c0bec7c8#offset_202_297",
+      "offset_ini": 202,
+      "offset_end": 297,
+      "title": ""
+    },
+    {
+      "@id": "01a173f1-2706-4110-9c5a-10d1c0bec7c8#offset_298_357",
+      "offset_ini": 298,
+      "offset_end": 357,
+      "title": ""
+    },
+    {
+      "@id": "01a173f1-2706-4110-9c5a-10d1c0bec7c8#offset_358_363",
+      "offset_ini": 358,
+      "offset_end": 363,
+      "title": ""
+    },
+    {
+      "@id": "01a173f1-2706-4110-9c5a-10d1c0bec7c8#offset_0_201",
+      "offset_ini": 0,
+      "offset_end": 201
+    }
+  ]
+}

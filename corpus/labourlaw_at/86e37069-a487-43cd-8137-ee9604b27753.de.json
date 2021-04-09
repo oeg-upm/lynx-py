@@ -1,0 +1,254 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/86e37069-a487-43cd-8137-ee9604b27753",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Wiener Heilvorkommen- und Kuranstaltengesetz"
+    },
+    "hasAuthority": "LGBl. Nr. 13/2007 zuletzt geändert durch LGBl. Nr. 49/2018 ",
+    "nick": [
+      "WHKG"
+    ],
+    "id_local": "20000303",
+    "first_date_entry_in_force": "2014-01-01",
+    "version_date": "2018-09-28",
+    "url_consolidated": "http://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dLrW\u0026Gesetzesnummer\u003d20000303\u0026FassungVom\u003d2018-09-29",
+    "classifications": [
+      "60/40 Krankenbehandlung",
+      "60 Gesundheits- und Sozialrecht (S)"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/86e37069-a487-43cd-8137-ee9604b27753/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/86e37069-a487-43cd-8137-ee9604b27753/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 38497,
+  "text": "Präambel/Promulgationsklausel Der Wiener Landtag hat beschlossen: Inhaltsverzeichnis 1. Abschnitt: Natürliche Heilvorkommen §  1 Begriffsbestimmungen §  2 Anerkennung §  3 Nutzung §  4 Bezeichnung §  5 Analysen §  6 Verbote §  7 Zurücknahme von Berechtigungen 2. Abschnitt: Kurorte §  8 Begriffsbestimmung §  9 Anerkennung § 10 Anerkennungsverfahren § 11 Bezeichnung § 12 Kurbezirk 3. Abschnitt: Kuranstalten § 13 Allgemeine Bestimmungen § 14 Betriebsbewilligung § 15 Änderungen § 16 Behördliche Maßnahmen § 17 Anstaltsordnung § 18 Ärztliche Leitung § 19 Hygienebeauftragte Person § 20 Sicherheitsbeauftragte Person § 21 Qualitätssicherung § 22 Arzneimittelvorrat § 23 Dokumentation § 24 Datenschutz § 25 Verschwiegenheitspflicht 4. Abschnitt: Strafbestimmungen § 26 Strafbestimmungen 5. Abschnitt: Schlussbestimmungen § 27 Rechtsmittel § 28 In- und Außer-Kraft-Treten § 29 Weitergeltung Anhänge: Anhang 1 bis 5 Im RIS seit 23.05.2014 Zuletzt aktualisiert am 08.10.2018 Gesetzesnummer 20000303 Dokumentnummer LWI400055311. ABSCHNITT Natürliche Heilvorkommen Begriffsbestimmungen § 1. (1) Natürliche Heilvorkommen (im Folgenden kurz Heilvorkommen genannt) sind ortsgebundene, natürliche Vorkommen, die auf Grund besonderer Eigenschaften und ohne Veränderung ihrer natürlichen Zusammensetzung eine wissenschaftlich anerkannte Heilwirkung ausüben oder erwarten lassen. Als Heilvorkommen gelten insbesondere Heilquellen, Heilpeloide und Heilfaktoren. (2) Heilquellen sind Quellen, deren Wässer auf Grund besonderer Eigenschaften und ohne jede Veränderung ihrer natürlichen Zusammensetzung eine wissenschaftlich anerkannte Heilwirkung ausüben oder erwarten lassen. (3) Heilpeloide (Heilmoor, -schlamm oder -schlick) sind durch geologische oder geologischbiologische Vorgänge entstandene Peloide, die in feinkörnigem Zustand mit Wasser vermischt und erwärmt bei Bädern, Packungen oder sonstiger Anwendung auf Grund besonderer Eigenschaften ohne weiteren Zusatz eine wissenschaftlich anerkannte Heilwirkung ausüben oder erwarten lassen. (4) Heilfaktoren sind natürliche Faktoren ortsbedingter Art, wie Klima, Lage, Höhe u. ä., die eine wissenschaftlich anerkannte Heilwirkung ausüben oder erwarten lassen.Anerkennung § 2. (1) Heilvorkommen sind durch den Magistrat auf Antrag der Eigentümerin, des Eigentümers oder sonstiger Nutzungsberechtigter des Heilvorkommens bei Vorliegen der Voraussetzungen der Abs. 2 bis 5 als solche anzuerkennen. (2) Eine Heilquelle ist als solche anzuerkennen, wenn nachgewiesen wird, 1. dass sie eine für die beabsichtigte therapeutische Anwendung hinreichende Ergiebigkeit besitzt; 2. dass das Quellwasser ohne Änderung seiner natürlichen Zusammensetzung eine wissenschaftlich anerkannte Heilwirkung ausübt oder erwarten lässt; 3. dass das Quellwasser die im Anhang 1 angeführte spezifische Beschaffenheit aufweist oder die im Anhang 1 angeführten pharmakologisch wirksamen Inhaltsstoffe in den dort angegebenen Mindestmengen enthält. (3) Ein Heilpeloid ist als solches anzuerkennen, wenn nachgewiesen wird, 1. dass es in einem für die beabsichtigte Verwendung ausreichenden natürlichen Lager vorhanden ist; 2. dass es solche physikalische, physikalisch-chemische oder chemische Eigenschaften besitzt, die für die beabsichtigte Heilwirkung nötig sind; 3. dass es ohne Veränderung seiner natürlichen Zusammensetzung eine wissenschaftlich anerkannte Heilwirkung ausübt oder erwarten lässt. (4) Für die Anerkennung natürlicher Grund- und Sickerwässer aus Mooren als Heilvorkommen ist neben den Voraussetzungen des Abs. 3 nachzuweisen, dass die Wässer aus einem anerkannten Moorlager stammen. (5) Ein sonstiges natürliches Vorkommen ist als Heilvorkommen anzuerkennen, wenn nachgewiesen wird, dass es ohne Veränderung seiner natürlichen Zusammensetzung oder Beschaffenheit eine wissenschaftlich anerkannte Heilwirkung ausübt oder erwarten lässt; insbesondere muss die radioaktive Luft für Inhalationen Radon (Rn) in der Mindestmenge entsprechend 37 Becquerel (Bq) pro Liter enthalten. (6) Die in Abs. 2 bis 5 geforderten Voraussetzungen sind von der Eigentümerin, vom Eigentümer oder von den sonstigen Nutzungsberechtigten des Heilvorkommens durch eine Analyse nach § 5 Abs. 3 und durch ein Gutachten von einer der im § 5 Abs. 2 angeführten Anstalten oder Sachverständigen nachzuweisen. Diese Nachweise dürfen im Zeitpunkt der Antragstellung nicht älter als sechs Monate sein. (7) Im Bescheid, mit dem ein Heilvorkommen anerkannt wird, sind die Auflagen vorzuschreiben, die nach den Erkenntnissen der balneologischen Wissenschaft erforderlich sind, um die Einhaltung der gesetzlichen Bestimmungen sicherzustellen. (8) Der Magistrat hat die Anerkennung eines Heilvorkommens unter der Internet-Adresse www.gemeinderecht.wien.at zu verlautbaren.Nutzung § 3. (1) Die Nutzung von Heilvorkommen bedarf einer Bewilligung des Magistrats. Die Bewilligung ist an das Vorliegen eines Antrags der Eigentümerin, des Eigentümers oder sonstiger Nutzungsberechtigter des Heilvorkommens gebunden. (2) Die Bewilligung zur Nutzung eines Heilvorkommens ist zu erteilen, wenn 1. die Anerkennung im Sinne des § 2 vorliegt; 2. die hygienisch und technisch einwandfreie Fassung der Heilquellen sowie die hygienisch und technisch einwandfreie Gewinnung beziehungsweise Aufbereitung der Produkte eines Heilvorkommens von der Antragstellerin oder vom Antragsteller nachgewiesen werden; 3. bei ortsgebundener Nutzung eines Heilvorkommens, insbesondere eines solchen mit Inhaltsstoffen flüchtiger oder leicht veränderlicher Natur, die für die Heilwirkung von Bedeutung sind, gewährleistet ist, dass auch am Ort der Anwendung die Mindestmenge im Sinne des § 2 Abs. 2 und 5 vorhanden ist; bei natürlichen Kohlensäurebädern muss wenigstens ein Gehalt von 700 mg freies Kohlendioxyd pro Kilogramm des badefertigen Wassers erreicht werden; 4. die beabsichtigten Indikationen und Anwendungsformen dem Stand der medizinischen Wissenschaften entsprechen. (3) Die in Abs. 2 Z 2 bis 4 geforderten Voraussetzungen sind von der Eigentümerin, vom Eigentümer oder von den sonstigen Nutzungsberechtigten des Heilvorkommens durch ein Gutachten von einer der im § 5 Abs. 2 angeführten Anstalten oder Sachverständigen nachzuweisen. Dieses Gutachten darf im Zeitpunkt der Antragstellung nicht älter als sechs Monate sein. (4) In der Bewilligung zur Nutzung eines Heilvorkommens sind die Auflagen vorzuschreiben, die nach den Erkenntnissen der balneologischen Wissenschaft erforderlich sind.Bezeichnung § 4. (1) Heilvorkommen sind im Anerkennungsbescheid nach § 2 und in der Nutzungsbewilligung nach § 3 unter Anführung eines eventuellen Eigennamens, der örtlichen Lage und der für die Heilwirkung des Vorkommens maßgeblichen Merkmale genau zu bezeichnen. (2) Nach den für die Heilwirkung maßgebenden Merkmalen von Heilquellen sind die im Anhang 2 angeführten Bezeichnungen zu unterscheiden.Analysen § 5. (1) Eigentümerinnen, Eigentümer oder sonstige Nutzungsberechtigte von Heilvorkommen haben mindestens alle fünf Jahre eine Analyse unter Berücksichtigung der charakterisierenden Bestandteile des Heilvorkommens durchführen zu lassen. (2) Mit der Durchführung der Analysen sind je nach Art des Heilvorkommens Anstalten oder Sachverständige der Fachgebiete Chemie, Pharmakologie, Balneologie, Radiumforschung, Klimatologie und Hygiene oder Bakteriologie zu betrauen. Anstalten, die nicht unter der Leitung einer balneologisch erfahrenen Ärztin oder eines balneologisch erfahrenen Arztes stehen, und Sachverständige, die nicht als balneologisch erfahrene Ärztinnen oder Ärzte anzusehen sind, haben die am Schluss der Analyse vorzunehmende Bewertung der Analysenbefunde unter Beiziehung einer medizinischen Expertin oder eines medizinischen Experten für Balneologie vorzunehmen. (3) Die Analyse hat jedenfalls zu enthalten: 1. bei Heilquellen die im Anhang 3 angeführten Angaben; 2. bei Heilpeloiden die im Anhang 4 angeführten Angaben; 3. bei sonstigen Heilvorkommen die im Anhang 5 angeführten Angaben. (4) Eigentümerinnen, Eigentümer oder sonstige Nutzungsberechtigte von Heilvorkommen haben die Analysenbefunde zur jederzeitigen Einsicht durch Organe des Magistrats bereit zu halten.Verbote § 6. (1) Jede Nutzung natürlicher Vorkommen als Heilvorkommen entgegen den Vorschriften dieses Gesetzes ist verboten. (2) Es ist verboten, für ein Heilvorkommen im öffentlichen Verkehr eine von der Bezeichnung nach § 4 abweichende Bezeichnung zu verwenden. (3) Jede irreführende und unsachliche Werbung, die Verwendung von Laienurteilen über Behandlungserfolge mit einem Heilvorkommen sowie die Erteilung von Anweisungen zur Selbstbehandlung von Krankheiten mittels der Produkte von Heilvorkommen sind verboten.Zurücknahme von Berechtigungen § 7. (1) Eine Anerkennung nach § 2 und eine Bewilligung nach § 3 sind vom Magistrat zurückzunehmen, wenn eine für die Anerkennung oder für die Erteilung der Bewilligung vorgeschriebene Voraussetzung weggefallen ist oder ein ursprünglich bestandener und noch fortdauernder Mangel nachträglich hervorkommt. (2) Eine Anerkennung nach § 2 und eine Bewilligung nach § 3 können vom Magistrat zurückgenommen werden, wenn sonstige schwerwiegende Mängel, die geeignet sind, die erwartete Heilwirkung zu beeinträchtigen, trotz Aufforderung innerhalb einer festgesetzten angemessenen Frist nicht behoben werden. (3) Der Magistrat hat die Zurücknahme der Anerkennung eines Heilvorkommens unter der Internet-Adresse www.gemeinderecht.wien.at zu verlautbaren.2. ABSCHNITT Kurorte Begriffsbestimmung § 8. Kurorte sind jene Teile des Stadtgebietes, in denen behördlich anerkannte Heilvorkommen ortsgebunden genutzt werden und in denen die hiefür erforderlichen Kureinrichtungen vorhanden sind.Anerkennung § 9. (1) Kurorte bedürfen einer Anerkennung durch die Landesregierung. Die Anerkennung hat einen Antrag der Gemeinde Wien zur Voraussetzung. (2) Als Kurort ist ein Gebiet anzuerkennen, wenn in ihm a) ein Heilvorkommen gemäß § 1 Abs. 1 vorhanden ist; b) die zur Ausnützung vorhandener Heilvorkommen erforderlichen Betriebs- beziehungsweise Aufbereitungsanlagen sowie die der Eigenart des Kurbetriebes entsprechenden und nötigenfalls den Heilzweck fördernden Einrichtungen vorhanden sind; c) die für die Sicherung des Kurerfolges nötigen allgemeinen hygienischen Voraussetzungen nachgewiesen werden, insbesondere auch gewährleistet sind: 1. die einwandfreie und ausreichende Trinkwasserversorgung sowie Beseitigung fester und flüssiger Abfallstoffe, 2. Maßnahmen gegen Rauch-, Staub- und Lärmbelästigung mit besonderer Berücksichtigung industrieller Abgase und industrieller Staubentwicklung, 3. die dauernde Anwesenheit mindestens einer Ärztin oder eines Arztes im Kurort, 4. die Sicherung der Arzneimittelversorgung im Kurort, 5. den hygienischen Anforderungen entsprechende Unterkunftsmöglichkeiten für die Kurgäste, 6. Maßnahmen gegen nachteilige Einwirkungen auf die Kurgäste durch den Verkehr, 7. das Vorhandensein ausreichender Grünflächen. (3) Über die Voraussetzungen des Abs. 2 hinaus ist die Anerkennung eines Gebietes als Luftkurort oder heilklimatischer Kurort an das Vorhandensein einer Klimastation und die Anlage von Promenadenwegen und Liegemöglichkeiten im Freien gebunden. Die Anerkennung als heilklimatischer Kurort hat außerdem auch den Nachweis des Vorhandenseins natürlicher, ortsgebundener klimatischer Faktoren (Reizfaktoren, Schonfaktoren, Reiz- und Schonfaktoren) zur Voraussetzung, die für bestimmte Krankheiten eine wissenschaftlich anerkannte Heilwirkung ausüben oder erwarten lassen, die Anerkennung eines Gebietes als Luftkurort, den Nachweis des Vorhandenseins natürlicher, ortsgebundener Faktoren (Lokalklima, Witterung, rauch- und staubarme Luft, entsprechende Verteilung der Niederschlagszeiten), die im Allgemeinen die Erhaltung oder Wiedererlangung der Gesundheit fördern und dadurch eine wissenschaftlich anerkannte Heilwirkung ausüben oder erwarten lassen.Anerkennungsverfahren § 10. (1) Die in § 9 Abs. 2 und 3 geforderten Voraussetzungen sind von der Gemeinde Wien als Antragstellerin durch ein schriftliches Sachverständigengutachten nachzuweisen. Hinsichtlich der Heilfaktoren ist eine Analyse (Anhang 5) beizubringen. Die Nachweise dürfen nicht älter als ein Jahr sein. (2) Im Anerkennungsverfahren nach § 9 ist ein Gutachten des Landeshauptmannes von Wien einzuholen, das zu dem Antrag vom Standpunkt der sanitären Aufsicht Stellung nimmt. (3) Im Anerkennungsbescheid sind jene Bedingungen und Auflagen vorzuschreiben, die nach den Erkenntnissen der medizinischen Wissenschaft erforderlich sind, um die Einhaltung der gesetzlichen Bestimmungen sicherzustellen. (4) Die Landesregierung hat die Anerkennung eines Kurortes unter der Internet-Adresse www.gemeinderecht.wien.at zu verlautbaren.Bezeichnung § 11. Kurorte dürfen nach Anerkennung durch die Landesregierung nach der Art des vorhandenen Heilvorkommens im öffentlichen Verkehr als Heilbad, heilklimatischer Kurort, Luftkurort oder mit einem sonstigen auf die Besonderheit des Heilvorkommens hinweisenden Wort, wie Thermalbad, Moorbad u. ä., bezeichnet werden.Kurbezirk § 12. (1) Wird ein Gebiet als Kurort anerkannt, so ist sein Umfang (Kurbezirk) von der Landesregierung durch Verordnung genau festzusetzen. (2) Der Kurbezirk eines Kurortes muss das gesamte Gebiet umfassen, dessen Einrichtungen der Nutzung eines Heilvorkommens dienen.3. ABSCHNITT Kuranstalten Allgemeine Bestimmungen § 13. (1) Kuranstalten sind Einrichtungen zur stationären oder ambulanten Anwendung von medizinischen Behandlungsarten, die sich aus einem ortsgebundenen Heilvorkommen oder dessen Produkten ergeben. (2) Neben den im Abs. 1 genannten Behandlungsarten ist in Kuranstalten auch die Anwendung von solchen Zusatztherapien zulässig, die zur Ergänzung der Kurbehandlung nach ärztlicher Anordnung angewendet werden und bei denen nach dem Stand der medizinischen Wissenschaft davon auszugehen ist, dass die ärztliche Aufsicht über den Betrieb ausreicht, um schädliche Wirkungen auf das Leben oder die Gesundheit der behandelten Personen auszuschließen. Die Behandlung im Rahmen von Zusatztherapien hat nach den Grundsätzen und anerkannten Methoden der medizinischen Wissenschaft zu erfolgen. (3) Produkte anderer Heilvorkommen dürfen im Rahmen von Zusatztherapien nur dann verwendet werden, wenn für diese Produkte allenfalls erforderliche Bewilligungen nach bundes- oder landesrechtlichen Vorschriften erteilt wurden.Betriebsbewilligung § 14. (1) Der Betrieb von Kuranstalten, die der Nutzung eines Heilvorkommens dienen, bedarf der Bewilligung des Magistrats. (2) Die Bewilligung zum Betrieb einer Kuranstalt ist zu erteilen, wenn 1. ein Heilvorkommen vorhanden ist, für das bereits eine Nutzungsbewilligung nach § 3 erteilt wurde; 2. das Eigentumsrecht oder sonstige Nutzungsrechte der Bewerberin oder des Bewerbers an der für die Kuranstalt in Aussicht genommenen Betriebsanlage nachgewiesen sind; 3. die für den unmittelbaren Betrieb der Kuranstalt erforderlichen medizinischen Apparate und technischen Einrichtungen vorhanden sind und die Betriebsanlage sowie alle medizinischen Apparate und technischen Einrichtungen den Sicherheitsvorschriften entsprechen; 4. die Bewerberin oder der Bewerber eine Person zur ärztlichen Leitung bestellt hat, die in Österreich zur selbstständigen Ausübung des ärztlichen Berufes berechtigt ist und durch hinreichende Kenntnisse auf dem Gebiet der Balneologie und Kurortemedizin fachlich geeignet ist; 5. die sonstige personelle Ausstattung dadurch gesichert ist, dass fachlich qualifizierte und befugte Personen entsprechend der Struktur und dem Aufgabenbereich der Kuranstalt in ausreichender Anzahl zur Verfügung stehen; 6. gegen die Bewerberin oder den Bewerber keine Bedenken, wie das Fehlen der Vertrauenswürdigkeit, bestehen; 7. allenfalls angebotene Zusatztherapien den Voraussetzungen des § 13 Abs. 2 entsprechen; 8. gegen die für den inneren Betrieb der Kuranstalt vorgesehene Anstaltsordnung keine Bedenken bestehen. (3) Die Bewerberin oder der Bewerber hat dem Ansuchen maßstabgerechte Baupläne sowie Bau- und Betriebsbeschreibungen in einfacher Ausfertigung anzuschließen. (4) In der Bewilligung sind die nach den Erfahrungen der medizinischen Wissenschaft zur Sicherstellung eines einwandfreien Kurbetriebes notwendigen Auflagen vorzuschreiben.Änderungen § 15. (1) Wesentliche räumliche Änderungen einer Kuranstalt sowie wesentliche Änderungen im Leistungsangebot, insbesondere Zusatztherapien, bedürfen einer Bewilligung des Magistrats. In diesem Verfahren sind die Vorschriften des § 14 sinngemäß anzuwenden. (2) Die Verpachtung oder der Übergang einer Kuranstalt auf einen anderen Rechtsträger ist dem Magistrat vier Wochen vor der beabsichtigten Verpachtung oder dem Übergang der Kuranstalt auf den anderen Rechtsträger anzuzeigen. (3) Der Magistrat hat die Verpachtung oder den Übergang auf den anderen Rechtsträger binnen vier Wochen ab Einlangen der Anzeige zu untersagen, wenn Bedenken im Sinne des § 14 Abs. 2 Z 6 gegen den anderen Rechtsträger bestehen.Behördliche Maßnahmen § 16. (1) Eine Betriebsbewilligung nach § 14 ist vom Magistrat zurückzunehmen, wenn eine für die Erteilung der Bewilligung vorgeschriebene Voraussetzung weggefallen ist oder ein ursprünglich bestandener und noch fortdauernder Mangel nachträglich hervorkommt. (2) Eine Betriebsbewilligung nach § 14 kann vom Magistrat zurückgenommen werden, wenn sonstige schwerwiegende Mängel, die geeignet sind, die erwartete Heilwirkung zu beeinträchtigen, trotz Aufforderung innerhalb einer angemessenen Frist nicht behoben werden. (3) Der Magistrat hat die Sperre von Kuranstalten zu verfügen, wenn 1. die Kuranstalt ohne die in §§ 14 oder 15 vorgeschriebene Bewilligung betrieben wird, 2. Auflagen des Bewilligungsbescheides nicht erfüllt sind, soweit dadurch ein gesicherter Betrieb der Kuranstalt nicht mehr gewährleistet ist oder 3. schwerwiegende Mängel vorliegen, die geeignet sind, das Leben oder die Gesundheit der Kurgäste zu gefährden. (4) Die Sperre nach Abs. 3 ist auf Antrag aufzuheben, sobald der Mangel behoben wurde.Anstaltsordnung § 17. (1) Der innere Betrieb einer Kuranstalt ist durch eine Anstaltsordnung zu regeln. Diese Anstaltsordnung hat jedenfalls zu enthalten: 1. Aufgaben und Einrichtungen der Kuranstalt; 2. Grundzüge der Verwaltung und der Betriebsform; 3. Angaben über den Rechtsträger und dessen Vertretung nach außen; 4. Dienstobliegenheiten der in der Kuranstalt beschäftigten Personen; 5. die der Aufsicht führenden ärztlichen Leitung zukommenden Aufgaben wie Erstellung des Kurplans und die damit zusammenhängenden Anfangs-, Zwischen- und Enduntersuchungen; 6. Aufstellung der sich aus dem ortsgebundenen Heilvorkommen oder dessen Produkten ergebenden Behandlungsarten und der angebotenen Zusatztherapien; 7. Maßnahmen der Qualitätssicherung; 8. Festlegung eines grundsätzlichen Rauchverbots in der Kuranstalt, wobei Zonen für Raucher vorgesehen werden können, die besonders zu kennzeichnen sind; 9. Richtlinien für den Aufenthalt von Patientinnen und Patienten, Begleitpersonen, Besucherinnen und Besuchern; 10. Informations- und Beschwerdemöglichkeiten. (2) Die Anstaltsordnung und jede wesentliche Änderung ist dem Magistrat vier Wochen vor der beabsichtigten Erlassung anzuzeigen. (3) Entspricht die Anstaltsordnung nicht dem Abs. 1, hat der Magistrat die Anstaltsordnung binnen vier Wochen ab Einlangen der Anzeige zu untersagen. (4) Die Anstaltsordnung ist im Eingangs- oder Kassenbereich der Kuranstalt so aufzulegen, dass sie für jedermann zugänglich ist.Ärztliche Leitung § 18. (1) Rechtsträger von Kuranstalten haben eine Person zur ärztlichen Leitung zu bestellen, die in Österreich zur selbstständigen Ausübung des ärztliche Berufes berechtigt ist und durch hinreichende Kenntnisse auf dem Gebiet der Balneologie und Kurortemedizin fachlich geeignet ist. Rechtsträger von Kuranstalten haben eine Person zur Stellvertretung der ärztlichen Leiterin oder des ärztlichen Leiters zu bestellen, welche über die gleiche fachliche Eignung wie die ärztliche Leiterin oder der ärztliche Leiter verfügt. (2) Rechtsträger von Kuranstalten haben jede Bestellung einer Person zur ärztlichen Leitung oder deren Stellvertretung dem Magistrat spätestens vier Wochen vor der beabsichtigten Bestellung anzuzeigen. Der Anzeige über die beabsichtigte Bestellung der zur ärztlichen Leitung bestellten Person oder deren Stellvertretung sind die Nachweise über die fachliche Eignung beizulegen. (3) Der Magistrat hat binnen vier Wochen ab Einlangen der Anzeige und der vollständigen Nachweise die Bestellung der ärztlichen Leiterin, des ärztlichen Leiters, deren Stellvertreterin/dessen Stellvertreterin oder deren Stellvertreters/dessen Stellvertreters zu untersagen, wenn die fachliche Eignung nicht gegeben ist.Hygienebeauftragte Person § 19. (1) Rechtsträger von Kuranstalten haben zur Wahrung der Belange der Hygiene eine fachlich geeignete hygienebeauftragte Person zu bestellen. Eine hygienebeauftragte Person ist fachlich geeignet, wenn sie durch entsprechende Schulung über hinreichende Kenntnisse auf dem Gebiet der Hygiene verfügt. Das zeitliche Ausmaß der Beschäftigung hat sich nach der Größe und dem Leistungsangebot der Kuranstalt zu richten. (2) Die hygienebeauftragte Person hat Maßnahmen zu setzen, die der Erkennung, Verhütung und Bekämpfung von Infektionen und der Gesunderhaltung dienen. Zur Durchführung dieser Maßnahmen hat die hygienebeauftragte Person einen Hygieneplan, der die Maßnahmen zur Erkennung, Verhütung und Bekämpfung von Infektionen beschreibt, zu erstellen. (3) Rechtsträger von Kuranstalten haben jede Bestellung einer hygienebeauftragten Person dem Magistrat spätestens vier Wochen vor der beabsichtigten Bestellung anzuzeigen. Der Anzeige über die beabsichtigte Bestellung der hygienebeauftragten Person sind die Nachweise über die fachliche Eignung beizulegen.Sicherheitsbeauftragte Person § 20. (1) Rechtsträger von Kuranstalten haben zur Wahrung der technischen Sicherheit und des einwandfreien Funktionierens der in der Kuranstalt verwendeten medizinisch-technischen Geräte und technischen Einrichtungen eine fachlich geeignete sicherheitsbeauftragte Person zu bestellen. Eine sicherheitsbeauftragte Person ist fachlich geeignet, wenn sie durch entsprechende Schulung über hinreichende Kenntnisse auf dem Gebiet der technischen Sicherheit verfügt. Das zeitliche Ausmaß der Beschäftigung hat sich nach der Größe und dem Leistungsangebot der Kuranstalt zu richten. (2) Die sicherheitsbeauftragte Person hat die medizinisch-technischen Geräte und die technischen Einrichtungen der Kuranstalt regelmäßig zu überprüfen und festgestellte Mängel zu beheben. Das zeitliche Intervall der Überprüfungen hat sich nach den maßgeblichen technischen und sicherheitstechnischen Vorschriften zu richten. (3) Rechtsträger von Kuranstalten haben jede Bestellung einer sicherheitsbeauftragten Person dem Magistrat spätestens vier Wochen vor der beabsichtigten Bestellung anzuzeigen. Der Anzeige über die beabsichtigte Bestellung der sicherheitsbeauftragten Person sind die Nachweise über die fachliche Eignung beizulegen.Qualitätssicherung § 21. (1) Rechtsträger von Kuranstalten haben für die Sicherung der Qualität ihrer Einrichtungen vorzusorgen. Die Maßnahmen sind so zu gestalten, dass sie den wissenschaftlich anerkannten Maßstäben der Qualitätssicherung entsprechen und regelmäßige vergleichende Prüfungen der Leistungsqualität ermöglichen. (2) Rechtsträger von Kuranstalten haben vorzusorgen, dass die Voraussetzungen für interne Maßnahmen der Qualitätssicherung geschaffen werden. Diese Maßnahmen haben die Struktur-, Prozess- und Ergebnisqualität zu umfassen. (3) Rechtsträger von Kuranstalten haben die Unterlagen über die gesetzten Maßnahmen der Qualitätssicherung in der Kuranstalt zur jederzeitigen Einsicht für Organe des Magistrats bereit zu halten.Arzneimittelvorrat § 22. (1) Rechtsträger von Kuranstalten haben die für die erste Hilfeleistung notwendigen Arzneimittel ständig vorrätig zu halten. (2) Der Arzneimittelvorrat ist von den Rechtsträgern von Kuranstalten fachgerecht zu verwahren.Dokumentation § 23. (1) Rechtsträger von Kuranstalten haben unter der Organisation der ärztlichen Leiterin oder des ärztlichen Leiters über jeden Kurgast zum Zwecke der Gesundheitsvorsorge und -behandlung eine Dokumentation zu führen. In der Dokumentation sind festzuhalten: 1. Vormerke über die Aufnahme und die Entlassung der Kurgäste, sowie im Fall der Ablehnung der Aufnahme die jeweils dafür maßgeblichen Gründe; 2. die Vorgeschichte der Erkrankung, der Zustand des Kurgastes zur Zeit der Aufnahme, der Kurverlauf, die angeordneten und erbrachten medizinischen, pflegerischen und therapeutischen Maßnahmen und Leistungen, die angewendeten Kurmittel, Aufklärung des Kurgastes, der Zustand des Kurgastes und die Art der Behandlung zum Zeitpunkt des Abganges. (2) Abschriften von Dokumentationen und von ärztlichen Äußerungen über den Gesundheitszustand von Kurgästen sind von den Rechtsträgern der Kuranstalten den Gerichten sowie den Verwaltungsbehörden in Angelegenheiten, in denen die Feststellung des Gesundheitszustandes für eine Entscheidung oder Verfügung im öffentlichen Interesse von Bedeutung ist, kostenlos zu übermitteln. Das Vorliegen des öffentlichen Interesses ist bei Anforderung einer Dokumentation anzuführen. Ferner sind den Sozialversicherungsträgern bzw. den von diesen beauftragten Sachverständigen, soweit dies zur Wahrnehmung ihrer Aufgaben erforderlich ist, sowie den einweisenden oder behandelnden Ärztinnen oder Ärzten über Anforderung kostenlos Abschriften von Dokumentationen und ärztlichen Äußerungen über den Gesundheitszustand von Kurgästen zu übermitteln. (3) Rechtsträger von Kuranstalten haben die Dokumentationen vertraulich zu führen und derart zu verwahren, dass eine Kenntnisnahme ihrer Inhalte durch unbefugte Personen ausgeschlossen ist. (4) Die Dokumentationen sind von den Rechtsträgern der Kuranstalten zehn Jahre nach Beendigung des Kuraufenthalts aufzubewahren. Bei Auflassung der Kuranstalt vor Ablauf der Aufbewahrungsfrist sind die Dokumentationen dem Magistrat zu übermitteln. Nach Ablauf der Aufbewahrungsfrist sind die Dokumentationen mit Ende des folgenden Kalenderjahres zu vernichten.Datenschutz § 24. Die Rechtsträger von Kuranstalten haben Vorkehrungen zu treffen, die den Schutz der Geheimhaltungsinteressen der betroffenen Personen im Sinne des § 1 Abs. 2 Datenschutzgesetz – DSG, BGBl. I Nr. 165/1999 in der Fassung BGBl. I Nr. 120/2017, sicherstellen.Verschwiegenheitspflicht § 25. (1) Die in Kuranstalten tätigen Personen sind zur Verschwiegenheit über alle ihnen in Ausübung ihres Berufes anvertrauten oder bekannt gewordenen Tatsachen und Geheimnisse verpflichtet. (2) Die Verschwiegenheitspflicht besteht nicht, wenn 1. nach gesetzlichen Vorschriften eine Meldung über den Gesundheitszustand bestimmter Personen vorgeschrieben ist, 2. Mitteilungen oder Befunde an Sozialversicherungsträger und Krankenfürsorgeanstalten oder sonstige Kostenträger zur Wahrnehmung der diesen übertragenen Aufgaben erforderlich sind, 3. die durch die Offenbarung der Tatsache betroffene Person von der Geheimhaltung entbunden hat, 4. die Offenbarung der Tatsache nach Art und Inhalt zum Schutz höherwertiger Interessen der öffentlichen Gesundheitspflege oder der Rechtspflege unbedingt erforderlich ist. (3) Den Kurgästen, deren gesetzlichen Vertretern oder den Personen, die von den Kurgästen als auskunftsberechtigt genannt wurden, sind alle Auskünfte über die von ihnen gesetzten Maßnahmen zu erteilen.3. ABSCHNITT Strafbestimmungen § 26. (1) Eine Verwaltungsübertretung begeht, sofern keine gerichtlich strafbare Handlung vorliegt, wer 1. nicht mindestens alle fünf Jahre eine Analyse nach § 5 Abs. 1 von den im § 5 Abs. 2 angeführten Anstalten oder Sachverständigen durchführen lässt oder die Analysenbefunde nicht zur jederzeitigen Einsicht durch Organe des Magistrats bereithält; 2. die im § 6 angeführten Verbote nicht einhält; 3. die Bestimmungen über die Anwendung von Zusatztherapien und Verwendung von Produkten anderer Heilvorkommen im Rahmen von Zusatztherapien nach § 13 Abs. 2 und 3 verletzt; 4. eine Kuranstalt ohne Betriebsbewilligung nach § 14 betreibt; 5. die mit Bescheid vorgeschriebenen Auflagen nicht einhält; 6. wesentliche räumliche Änderungen einer Kuranstalt oder wesentliche Änderungen im Leistungsangebot nach § 15 Abs. 1 ohne Bewilligung vornimmt; 7. die Verpachtung oder die Übertragung einer Kuranstalt auf einen anderen Rechtsträger nach § 15 Abs. 2 nicht anzeigt oder trotz Untersagung nach § 15 Abs. 3 vornimmt; 8. die Anstaltsordnung oder die wesentliche Änderung der Anstaltsordnung nach § 17 Abs. 2 nicht anzeigt oder die Anstaltsordnung trotz Untersagung nach § 17 Abs. 3 anwendet oder die Anstaltsordnung nach § 17 Abs. 4 nicht für jedermann zugänglich auflegt; 9. die Bestellung einer zur ärztlichen Leitung bestellten Person, einer Stellvertreterin oder eines Stellvertreters der zur ärztlichen Leitung bestellten Person nach § 18 Abs. 2 nicht anzeigt oder trotz Untersagung bestellt; 10. die Bestellung einer fachlich geeigneten hygienebeauftragten Person nach § 19 Abs. 3 nicht anzeigt; 11. die Bestellung einer fachlich geeigneten sicherheitsbeauftragten Person nach § 20 Abs. 3 nicht anzeigt; 12. die Verpflichtungen nach §§ 21 Abs. 3, 22, 23, 24 oder 25 Abs. 1 nicht einhält. (2) Wer eine Verwaltungsübertretung nach Abs. 1 begeht, ist vom Magistrat mit einer Geldstrafe bis zu 10.000 Euro, im Fall der Uneinbringlichkeit mit Ersatzfreiheitsstrafe bis zu zwei Wochen, zu bestrafen.4. ABSCHNITT Schlussbestimmungen Rechtsmittel § 27. Über Beschwerden gegen Bescheide des Magistrats erkennt das Verwaltungsgericht Wien.In- und Außer-Kraft-Treten § 28. (1) Dieses Gesetz tritt mit dem der Kundmachung folgenden Monatsersten in Kraft. (2) Mit In-Kraft-Treten dieses Gesetzes tritt das Gesetz über natürliche Heilvorkommen und Kurorte (Wiener Heilvorkommen- und Kurortegesetz), LGBl. für Wien Nr. 7/1961, zuletzt in der Fassung LGBl. für Wien Nr. 22/2000, außer Kraft. (3) Mit In-Kraft-Treten dieses Gesetzes tritt die Verordnung der Wiener Landesregierung, mit der die Geschäftsordnung für den Beirat für Angelegenheiten des Kurwesens für den als Kurort anerkannten Kurbezirk mit der Bezeichnung „Kurzentrum Wien Oberlaa“ erlassen wird, LGBl. für Wien Nr. 36/1987, außer Kraft.Weitergeltung § 29. Anerkennungen von Heilvorkommen und von Kurorten sowie Bewilligungen und Genehmigungen, die auf Grund des Gesetzes über natürliche Heilvorkommen und Kurorte (Wiener Heilvorkommen- und Kurortegesetz), LGBl. für Wien Nr. 7/1961, zuletzt in der Fassung LGBl. für Wien Nr. 22/2000, erteilt wurden, bleiben bestehen und gelten als Anerkennungen, Bewilligungen und Genehmigungen nach diesem Gesetz. Die Bestimmungen dieses Gesetzes finden auch auf solche Anerkennungen, Bewilligungen und Genehmigungen Anwendung.Anhang 1 Die für eine Heilquelle erforderliche spezifische Beschaffenheit des Quellwassers und die Mindestmengen pharmakologisch wirksamer Inhaltsstoffe sind (§ 2 Abs. 2 Z 3): a) eine dauernde Mindesttemperatur des Quellwassers an seiner Austrittsstelle aus dem Boden von 20º C oder b) ein Mindestgehalt an gelösten festen Stoffen von 1 g je kg des Quellwassers oder c) ein Mindestgehalt an natürlichem freien Kohlendioxyd von 250 mg je kg des Quellwassers für Trinkkuren beziehungsweise 1000 mg je kg des Quellwassers für Badekuren oder d) unabhängig von der Menge gelöster fester Stoffe ein Mindestgehalt an pharmakologisch besonders wirksamen Bestandteilen in folgenden Mengen: bei Eisenquellen: 10 mg/kg, bei Jodquellen: 1 mg/kg, bei Schwefelquellen: titrierbarem Schwefel: 1 mg/kg, bei Radonwässern: für Trinkkuren: Radon (Rn): entsprechend 3700 Becquerel (Bq)/kg, für Badekuren: Radon (Rn): entsprechend 370 Becquerel (Bq)/kg, bei Heilquellen mit anderen pharmakologisch besonders wirksamen Bestandteilen: jener Gehalt, der für eine Heilwirkung erforderlich ist.Anhang 2 Nach den für die Heilwirkung maßgebenden Merkmalen von Heilquellen sind folgende Bezeichnungen zu unterscheiden (§ 4 Abs. 2): a) Quellen mit mindestens 1 g gelöster fester Stoffe je kg des Wassers sind als Mineralwässer durch die Ionen, die mit mindestens 20 Millivalprozent (mval%) vertreten sind, zu bezeichnen. Hiebei sind zuerst die Kationen und dann die Anionen in der Reihenfolge fallenden Gehaltes anzuführen; b) Quellen mit einer konstanten Mindestaustrittstemperatur von 20º C sind als Thermen zu bezeichnen; c) Quellen mit pharmakologisch wirksamen Stoffen im Sinne des Anhangs 1 lit. d sind unabhängig von der Gesamtkonzentration mit dem Namen des betreffenden Inhaltsstoffes zu bezeichnen; Radonwässer, die den Voraussetzungen des Anhangs 1 lit. d entsprechen, können als radioaktive Wässer bezeichnet werden; d) Quellwässer mit einem Mindestgehalt an natürlichem freien Kohlendioxyd nach Anhang 1 lit. d sind je nach der Höhe des vorhandenen Mindestgehalts als Trinksäuerlinge oder als Säuerlinge zu bezeichnen; e) Kochsalzwässer, die mindestens je 240 Millival (mval) Natrium- und Chlorid-Ionen (mindestens 5.5 g Natrium- und 8.5 g Chloridionen) je kg des Wassers enthalten, können als Solequellen oder Solen bezeichnet werden.Anhang 3 Die Analyse für Heilquellen (§ 5 Abs. 3 Z 1) hat folgende Angaben zu enthalten: a) das Ergebnis einer Sinnesprüfung bei der Probenahme und im Laboratorium mit Angabe des Datums; b) das Ergebnis einer physikalischen und physikalisch-chemischen Untersuchung mit folgenden Angaben: Quellschüttung, Quelltemperatur, Lufttemperatur, Wetter und vorausgegangene Witterung, Luftdruck, pH-Wert (elektrometrisch an der Quelle bestimmt), elektrolytische Leitfähigkeit bei Quelltemperatur sowie bei 20º C, Dichte bei 20º C, Trockenrückstand bei 105º und 180º C, radioaktive Spurenstoffe Uran, Radium und Radon, Menge der gelösten und der frei aufsteigenden Quellgase sowie das Ergebnis einer spektralanalytischen Untersuchung auf Spurenelemente; c) das Ergebnis einer chemischen Untersuchung mit folgenden Angaben: mindestens die Ionen Kalium, Natrium, Ammonium, Calcium, Magnesium, Eisen, Mangan, Nitrit, Nitrat, Chlor, Sulfat und Hydrogencarbonat, gegebenenfalls sonstige, die Quelle charakterisierende Bestandteile, wie Jod, Hydrogensulfid in mg/kg, mval/kg und mval%; von nichtdissoziierten Bestandteilen Meta-Kieselsäure in mg/kg und mmol/kg; von Quellgasen freies Kohlendioxyd und, falls charakterisierend, Schwefelwasserstoff in mg/kg, mmol/kg und cm3/kg bezogen auf 0º C und 760 Torr; Summenbildung in den genannten Stoffgruppen; Zusammensetzung der frei aufsteigenden Quellgase, falls für die Quellnutzung wesentlich (zum Beispiel Nutzung zu Kohlensäure-Gasbädern); Kaliumpermanganatverbrauch; Charakteristik des Quellwassers; d) Angaben über den Gehalt der wertbestimmenden, balneo-therapeutisch maßgebenden Inhaltsstoffe am Orte des Gebrauchs (badefertig gefüllte Wanne, Trinkauslass, Inhalationsnebel); e) das Ergebnis einer biologischen Untersuchung über die am Heilwasserursprung in natürlicher Biozönose lebenden Mikroorganismen; f) das Ergebnis einer hygienisch-bakteriologischen Untersuchung; g) die Bewertung der Analysenbefunde und die Erörterung etwaiger seit der letzten vorausgegangenen Analyse eingetretener Veränderungen des Quellwassers.Anhang 4 Die Analyse für Heilpeloide (§ 5 Abs. 3 Z 2) hat folgende Angaben zu enthalten: a) eine kurze Ausführung der bisher von dem betreffenden Lager durchgeführten Untersuchungen; b) eine makroskopische Beschreibung des Heilpeloids mit folgenden Angaben: Farbe, Konsistenz, Homogenität, Geruch, gröbere Bestandteile, Zersetzungsgrad; c) das Ergebnis einer mikroskopischen Untersuchung mit folgenden Angaben: Zersetzungsgrad, charakteristische Pflanzenbestandteile, mineralische Substanz; d) das Ergebnis einer physikalischen Untersuchung mit folgenden Angaben: pH-Wert im Lager (elektrometrisch gemessen), Wassergehalt des naturfeuchten Heilpeloids, Wasserkapazität, Wassergehalt bei Normal- und Packungskonsistenz, Sedimentvolumen, bei Badetorfen auch Quellungsgrad, Dichte, spezifische Wärme, Wärmekapazität, Wärmeleitzahl, Wärmehaltung nach der Kugelmethode; e) das Ergebnis einer chemischen Untersuchung mit folgenden Angaben: allgemeine Zusammensetzung und Glühverlust, abgekürzte quantitative organische Gruppenanalyse auf Bitumina, lösliche Kohlenhydrate und Pektine, Cellulosen und Hemicellulosen, Huminsäuren sowie Lignine und Humine; Gehalt an anorganischen und organischen Stoffen im Wasserauszug 1 : 50 mit quantitativen Bestimmungen der Einzelbestandteile; f) das Ergebnis einer hygienisch-bakteriologischen Untersuchung; g) bei Badetorfen auch das Ergebnis einer Untersuchung des Moorwassers durch Sinnesprüfung bei der Probenahme und im Laboratorium mit Angabe des Datums und das Ergebnis sonstiger Untersuchungen des Moorwassers mit folgenden Angaben: pH-Wert (elektrometrisch womöglich im Lager bestimmt), elektrolytische Leitfähigkeit bei der Temperatur des Lagers und bei 20º C, Trockenrückstand bei 105º und 180º C, Glühverlust, Glührückstand, Kaliumpermanganatverbrauch, anorganische Bestandteile qualitativ, fallweise Calcium- und Magnesium-Ionen quantitativ; h) die Charakterisierung des Heilpeloids und dessen Beurteilung, ferner Hinweise für die Aufbereitung eines normalkonsistenten Heilpeloidbades beziehungsweise für die Aufbereitung von Packungen; i) die Bewertung der Analysenbefunde und die Erörterung etwaiger seit der letzten vorausgegangenen Untersuchung eingetretener Veränderungen.Anhang 5 Die Analyse für sonstige Heilvorkommen (§ 5 Abs. 3 Z 3) hat folgende Angaben zu enthalten: a) die Angabe des Datums der Probenahme beziehungsweise der Beobachtung; b) möglichst vollständige Angaben über die Zusammensetzung des Heilvorkommens beziehungsweise die Beschaffenheit der Heilfaktoren; c) gegebenenfalls Angaben über die Ergiebigkeit des Heilvorkommens beziehungsweise die zeitliche und räumliche Erstreckung der Heilfaktoren; d) die Bewertung der Befunde und die Erörterung etwaiger seit der letzten vorausgegangenen Untersuchung eingetretener Veränderungen; e) bei Badetorfen auch das Ergebnis einer Untersuchung des Moorwassers durch Sinnesprüfung bei der Probenahme und im Laboratorium mit Angabe des Datums und das Ergebnis sonstiger Untersuchungen des Moorwassers mit folgenden Angaben: elektrolytische Leitfähigkeit bei 20º C, pH-Wert (elektrometrisch womöglich im Lager bestimmt); f) die Bewertung der Analysenbefunde und die Erörterung etwaiger seit der letzten vorausgegangenen Untersuchung eingetretener Veränderungen.",
+  "parts": [
+    {
+      "@id": "86e37069-a487-43cd-8137-ee9604b27753#offset_1020_2197",
+      "offset_ini": 1020,
+      "offset_end": 2197,
+      "title": "Begriffsbestimmungen"
+    },
+    {
+      "@id": "86e37069-a487-43cd-8137-ee9604b27753#offset_2198_4761",
+      "offset_ini": 2198,
+      "offset_end": 4761,
+      "title": "Anerkennung"
+    },
+    {
+      "@id": "86e37069-a487-43cd-8137-ee9604b27753#offset_4762_6461",
+      "offset_ini": 4762,
+      "offset_end": 6461,
+      "title": "Nutzung"
+    },
+    {
+      "@id": "86e37069-a487-43cd-8137-ee9604b27753#offset_6462_6861",
+      "offset_ini": 6462,
+      "offset_end": 6861,
+      "title": "Bezeichnung"
+    },
+    {
+      "@id": "86e37069-a487-43cd-8137-ee9604b27753#offset_6862_8156",
+      "offset_ini": 6862,
+      "offset_end": 8156,
+      "title": "Analysen"
+    },
+    {
+      "@id": "86e37069-a487-43cd-8137-ee9604b27753#offset_8157_8675",
+      "offset_ini": 8157,
+      "offset_end": 8675,
+      "title": "Verbote"
+    },
+    {
+      "@id": "86e37069-a487-43cd-8137-ee9604b27753#offset_8676_9451",
+      "offset_ini": 8676,
+      "offset_end": 9451,
+      "title": "Zurücknahme von Berechtigungen"
+    },
+    {
+      "@id": "86e37069-a487-43cd-8137-ee9604b27753#offset_9452_9683",
+      "offset_ini": 9452,
+      "offset_end": 9683,
+      "title": "Begriffsbestimmung"
+    },
+    {
+      "@id": "86e37069-a487-43cd-8137-ee9604b27753#offset_9684_11889",
+      "offset_ini": 9684,
+      "offset_end": 11889,
+      "title": "Anerkennung"
+    },
+    {
+      "@id": "86e37069-a487-43cd-8137-ee9604b27753#offset_11890_12728",
+      "offset_ini": 11890,
+      "offset_end": 12728,
+      "title": "Anerkennungsverfahren"
+    },
+    {
+      "@id": "86e37069-a487-43cd-8137-ee9604b27753#offset_12729_13054",
+      "offset_ini": 12729,
+      "offset_end": 13054,
+      "title": "Bezeichnung"
+    },
+    {
+      "@id": "86e37069-a487-43cd-8137-ee9604b27753#offset_13055_13332",
+      "offset_ini": 13055,
+      "offset_end": 13332,
+      "title": "Kurbezirk"
+    },
+    {
+      "@id": "86e37069-a487-43cd-8137-ee9604b27753#offset_13333_14391",
+      "offset_ini": 13333,
+      "offset_end": 14391,
+      "title": "Allgemeine Bestimmungen"
+    },
+    {
+      "@id": "86e37069-a487-43cd-8137-ee9604b27753#offset_14392_16271",
+      "offset_ini": 14392,
+      "offset_end": 16271,
+      "title": "Betriebsbewilligung"
+    },
+    {
+      "@id": "86e37069-a487-43cd-8137-ee9604b27753#offset_16272_16990",
+      "offset_ini": 16272,
+      "offset_end": 16990,
+      "title": "Änderungen"
+    },
+    {
+      "@id": "86e37069-a487-43cd-8137-ee9604b27753#offset_16991_18031",
+      "offset_ini": 16991,
+      "offset_end": 18031,
+      "title": "Behördliche Maßnahmen"
+    },
+    {
+      "@id": "86e37069-a487-43cd-8137-ee9604b27753#offset_18032_19497",
+      "offset_ini": 18032,
+      "offset_end": 19497,
+      "title": "Anstaltsordnung"
+    },
+    {
+      "@id": "86e37069-a487-43cd-8137-ee9604b27753#offset_19498_20736",
+      "offset_ini": 19498,
+      "offset_end": 20736,
+      "title": "Ärztliche Leitung"
+    },
+    {
+      "@id": "86e37069-a487-43cd-8137-ee9604b27753#offset_20737_21824",
+      "offset_ini": 20737,
+      "offset_end": 21824,
+      "title": "Hygienebeauftragte Person"
+    },
+    {
+      "@id": "86e37069-a487-43cd-8137-ee9604b27753#offset_21825_23069",
+      "offset_ini": 21825,
+      "offset_end": 23069,
+      "title": "Sicherheitsbeauftragte Person"
+    },
+    {
+      "@id": "86e37069-a487-43cd-8137-ee9604b27753#offset_23070_23813",
+      "offset_ini": 23070,
+      "offset_end": 23813,
+      "title": "Qualitätssicherung"
+    },
+    {
+      "@id": "86e37069-a487-43cd-8137-ee9604b27753#offset_23814_24058",
+      "offset_ini": 23814,
+      "offset_end": 24058,
+      "title": "Arzneimittelvorrat"
+    },
+    {
+      "@id": "86e37069-a487-43cd-8137-ee9604b27753#offset_24059_26200",
+      "offset_ini": 24059,
+      "offset_end": 26200,
+      "title": "Dokumentation"
+    },
+    {
+      "@id": "86e37069-a487-43cd-8137-ee9604b27753#offset_26201_26473",
+      "offset_ini": 26201,
+      "offset_end": 26473,
+      "title": "Datenschutz"
+    },
+    {
+      "@id": "86e37069-a487-43cd-8137-ee9604b27753#offset_26474_27511",
+      "offset_ini": 26474,
+      "offset_end": 27511,
+      "title": "Verschwiegenheitspflicht"
+    },
+    {
+      "@id": "86e37069-a487-43cd-8137-ee9604b27753#offset_27512_29535",
+      "offset_ini": 27512,
+      "offset_end": 29535,
+      "title": "Strafbestimmungen"
+    },
+    {
+      "@id": "86e37069-a487-43cd-8137-ee9604b27753#offset_29536_29671",
+      "offset_ini": 29536,
+      "offset_end": 29671,
+      "title": "Rechtsmittel"
+    },
+    {
+      "@id": "86e37069-a487-43cd-8137-ee9604b27753#offset_29672_30327",
+      "offset_ini": 29672,
+      "offset_end": 30327,
+      "title": "In- und Außer-Kraft-Treten"
+    },
+    {
+      "@id": "86e37069-a487-43cd-8137-ee9604b27753#offset_30328_30853",
+      "offset_ini": 30328,
+      "offset_end": 30853,
+      "title": "Weitergeltung"
+    },
+    {
+      "@id": "86e37069-a487-43cd-8137-ee9604b27753#offset_30854_31921",
+      "offset_ini": 30854,
+      "offset_end": 31921,
+      "title": ""
+    },
+    {
+      "@id": "86e37069-a487-43cd-8137-ee9604b27753#offset_31922_33171",
+      "offset_ini": 31922,
+      "offset_end": 33171,
+      "title": ""
+    },
+    {
+      "@id": "86e37069-a487-43cd-8137-ee9604b27753#offset_33172_35230",
+      "offset_ini": 33172,
+      "offset_end": 35230,
+      "title": ""
+    },
+    {
+      "@id": "86e37069-a487-43cd-8137-ee9604b27753#offset_35231_37450",
+      "offset_ini": 35231,
+      "offset_end": 37450,
+      "title": ""
+    },
+    {
+      "@id": "86e37069-a487-43cd-8137-ee9604b27753#offset_37451_38497",
+      "offset_ini": 37451,
+      "offset_end": 38497,
+      "title": ""
+    },
+    {
+      "@id": "86e37069-a487-43cd-8137-ee9604b27753#offset_0_1019",
+      "offset_ini": 0,
+      "offset_end": 1019
+    }
+  ]
+}

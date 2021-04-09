@@ -1,0 +1,80 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/38e3c77a-8286-4cc8-952f-80ad14f74929",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Wiener Pflegekindergeldverordnung"
+    },
+    "hasAuthority": "Landesregierung Wien",
+    "nick": [
+      "WPKGVO"
+    ],
+    "id_local": "20000260",
+    "first_date_entry_in_force": "2014-01-30",
+    "version_date": "2021-01-01",
+    "url_consolidated": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dLrW\u0026Gesetzesnummer\u003d20000260\u0026FassungVom\u003d2014-01-30",
+    "classifications": [
+      "60/20 Jugendschutz und Jugendwohlfahrt, Kindertagesheimwesen",
+      "60 Gesundheits- und Sozialrecht (S)"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/38e3c77a-8286-4cc8-952f-80ad14f74929/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/38e3c77a-8286-4cc8-952f-80ad14f74929/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 1711,
+  "text": "Bundesland Wien Änderung LGBl. Nr. 47/2014 LGBl. Nr. 41/2015 LGBl. Nr. 57/2016 LGBl. Nr. 38/2017 LGBl. Nr. 56/2018 LGBl. Nr. 55/2019 LGBl. Nr. 9/2021 Präambel/Promulgationsklausel Auf Grund des § 44 Abs. 5 des Wiener Kinder- und Jugendhilfegesetzes 2013 – WKJHG 2013, LGBl. für Wien Nr. 51/2013, wird verordnet: Im RIS seit 26.05.2014Pflegekindergeld § 1. (1) Das Pflegekindergeld besteht aus Richtsätzen und Zuschlägen. Die Richtsätze betragen im Monat für ein Kind: – bis zum 6. Lebensjahr: EUR 515,– (Richtsatz 1) – vom 6. bis zum 10. Lebensjahr: EUR 535,– (Richtsatz 2) – vom 10. bis zum 15. Lebensjahr: EUR 550,– (Richtsatz 3) – ab dem 15. Lebensjahr: EUR 590,– (Richtsatz 4) – bei Krisenpflegeeltern: EUR 1070,– (Richtsatz 5). (2) Zusätzlich werden folgende Zuschläge gewährt: – Eine Sonderzahlung jeweils im Mai und im November in der Höhe des jeweiligen Richtsatzes; im Richtsatz 5 ist die Sonderzahlung bereits inkludiert. – Ein Bekleidungsbeitrag jeweils im März und im September in der Höhe des jeweiligen Richtsatzes; im Richtsatz 5 ist der Bekleidungsbeitrag bereits inkludiert. – Ein Zuschlag für besondere Bedürfnisse des Pflegekindes in der Höhe von bis zu 50 % des monatlichen Richtsatzes.§ 2. Das Pflegekindergeld fällt am Ersten des Monats in voller Höhe an; nur das Krisenpflegekindergeld wird monatlich anteilig ausbezahlt.§ 3. Pflegeeltern, die ihren gewöhnlichen Aufenthalt außerhalb von Wien haben, wird das Pflegekindergeld vom Wiener Kinder- und Jugendhilfeträger nach den Richtsätzen des jeweiligen Bundeslandes ausbezahlt.§ 4. Das Einkommen der Pflegekinder mindert das Pflegekindergeld nicht.In-Kraft-Treten § 5. Diese Verordnung tritt mit dem der Kundmachung folgenden Tag in Kraft.",
+  "parts": [
+    {
+      "@id": "38e3c77a-8286-4cc8-952f-80ad14f74929#offset_334_1205",
+      "offset_ini": 334,
+      "offset_end": 1205,
+      "title": "Pflegekindergeld"
+    },
+    {
+      "@id": "38e3c77a-8286-4cc8-952f-80ad14f74929#offset_1206_1343",
+      "offset_ini": 1206,
+      "offset_end": 1343,
+      "title": ""
+    },
+    {
+      "@id": "38e3c77a-8286-4cc8-952f-80ad14f74929#offset_1344_1549",
+      "offset_ini": 1344,
+      "offset_end": 1549,
+      "title": ""
+    },
+    {
+      "@id": "38e3c77a-8286-4cc8-952f-80ad14f74929#offset_1550_1620",
+      "offset_ini": 1550,
+      "offset_end": 1620,
+      "title": ""
+    },
+    {
+      "@id": "38e3c77a-8286-4cc8-952f-80ad14f74929#offset_1621_1711",
+      "offset_ini": 1621,
+      "offset_end": 1711,
+      "title": "In-Kraft-Treten"
+    },
+    {
+      "@id": "38e3c77a-8286-4cc8-952f-80ad14f74929#offset_0_333",
+      "offset_ini": 0,
+      "offset_end": 333
+    }
+  ]
+}

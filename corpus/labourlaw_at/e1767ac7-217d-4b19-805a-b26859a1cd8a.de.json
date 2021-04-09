@@ -1,0 +1,89 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/e1767ac7-217d-4b19-805a-b26859a1cd8a",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Geschäftsordnung der Schiedskommission nach dem Wiener Krankenanstaltengesetz"
+    },
+    "hasAuthority": "LGBl. Nr. 35/1985",
+    "id_local": "20000296",
+    "first_date_entry_in_force": "1985-06-11",
+    "version_date": "1985-06-11",
+    "url_consolidated": "http://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dLrW\u0026Gesetzesnummer\u003d20000296\u0026FassungVom\u003d1985-06-12",
+    "classifications": [
+      "60/40 Krankenbehandlung",
+      "60 Gesundheits- und Sozialrecht (S)"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/e1767ac7-217d-4b19-805a-b26859a1cd8a/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/e1767ac7-217d-4b19-805a-b26859a1cd8a/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 5175,
+  "text": "Präambel/Promulgationsklausel Auf Grund des § 37 a Abs. 17 des Wiener Krankenanstaltengesetzes, LGBl. für Wien Nr. 1/1958, zuletzt geändert durch das Gesetz vom 28. September 1984, LGBl. für Wien Nr. 50/1984, wird verordnet:Aufgaben der Schiedskommission und Einbringungsstelle § 1. (1) Der Schiedskommission obliegt die Entscheidung von Streitigkeiten gemäß § 36 Abs. 4 und gemäß § 36 Abs. 9 sowie die Entscheidung gemäß § 37 Abs. 1 des Wiener Krankenanstaltengesetzes, und zwar jeweils über Antrag eines hiezu Berechtigten. (2) Diese Anträge sind bei der Geschäftsstelle der Schiedskommission einzubringen.Senate § 2. (1) Die Schiedskommission entscheidet in Senaten, denen der aus dem Kreis der Richter des Aktivstandes des Oberlandesgerichtes Wien bestellte Vorsitzende und als Beisitzer a) das auf Vorschlag des Hauptverbandes der österreichischen Sozialversicherungsträger bestellte Mitglied und b) von den Mitgliedern gemäß § 37 a Abs. 2 Z 2 lit. b bis d des Wiener Krankenanstaltengesetzes dasjenige, das nach Art des am Streit beteiligten Krankenanstaltenträgers in Betracht kommt, angehören. (2) Die Aufgaben der Mitglieder sind im Falle ihrer Verhinderung von den für sie bestellten Ersatzmitgliedern wahrzunehmen.Aufgaben des Vorsitzenden § 3. Dem Vorsitzenden obliegt die Vorbereitung und Einberufung der Sitzungen, die Festsetzung der Tagesordnung, die Leitung der Beratungen und Abstimmungen sowie die Ausarbeitung der schriftlichen Ausfertigung und Unterfertigung der Entscheidungen.Einberufung der Sitzungen der Senate § 4. (1) Die Mitglieder des in Betracht kommenden Senates sind innerhalb von sechs Wochen nach Einbringung eines Antrages (§ 1) so rechtzeitig schriftlich und nachweislich unter Bekanntgabe der Tagesordnung unter Anschluß der Anträge zur Sitzung einzuberufen, daß der Senat innerhalb von weiteren vier Wochen zusammentreten kann. Für den Fall, daß ein Mitglied (Ersatzmitglied) erst zu bestellen ist, gelten diese Fristen ab seiner Bestellung. (2) Die in Betracht kommenden Ersatzmitglieder des Senates sind in gleicher Weise (Abs. 1) von der Einberufung zur Sitzung des Senates zu verständigen. (3) Die weiteren Sitzungen des Senates sind unter Bedachtnahme auf eine rasche Entscheidung festzusetzen. Die Sitzung ist schriftlich unter Bekanntgabe der Tagesordnung so rechtzeitig einzuberufen, daß die Ladung voraussichtlich spätestens zwei Wochen vor dem Sitzungstermin den Mitgliedern nachweislich zugestellt werden kann. Die in Betracht kommenden Ersatzmitglieder sind in gleicher Weise von der Einberufung zur Sitzung zu verständigen. (4) Im Falle der Verhinderung hat jedes Mitglied für seine Vetretung durch sein Ersatzmitglied selbst Sorge zu tragen und dies der Geschäftsstelle der Schiedskommission rechtzeitig bekanntzugeben.Sitzungen des Senates § 5. (1) Die Senate kommen ihren Aufgaben in Sitzungen nach. (2) Die Sitzungen der Senate sind nicht öffentlich. (3) Ein Senat ist beschlußfähig, wenn der Vorsitzende und die beiden Beisitzer anwesend sind. Die Beschlüsse werden mit einfacher Stimmenmehrheit gefaßt. Eine Stimmenthaltung ist nicht zulässig. Der Vorsitzende gibt seine Stimme als letzter ab (§ 37 a Abs. 15 und 16 des Wiener Krankenanstaltengesetzes). (4) Die für die Mitglieder eines Senates bestellten Ersatzmitglieder haben das Recht, auch außerhalb des Vertretungsfalles an den Sitzungen des Senates teilzunehmen; in diesem Fall können sie zu Beratungen zugezogen werden, dürfen sich jedoch an Abstimmungen nicht beteiligen. (5) Ein Senat kann beschließen, seinen Sitzungen Sachverständige und Auskunftspersonen beizuziehen. Der Vorsitzende hat das für die Beiziehung der Sachverständigen oder Auskunftspersonen Erforderliche zu veranlassen.Sitzungsprotokoll § 6. (1) Über jede Sitzung eines Senates ist ein Protokoll zu führen, das jedenfalls folgende Angaben zu enthalten hat: Ort und Zeit der Sitzung, die Feststellung der Beschlußfähigkeit, die Namen anwesender Mitglieder und Ersatzmitglieder und sonstiger teilnehmender Personen, die Anträge und die zusammengefaßten Ausführungen sowie alle gefaßten Beschlüsse. (2) Die Protokolle sind vom Vorsitzenden zu verfassen. Dieser kann zu seiner Unterstützung einen Protokollführer (§ 7 Abs. 2) heranziehen. Die Protokolle sind vom Vorsitzenden zu unterfertigen und spätestens zwei Wochen nach der Sitzung den Mitgliedern und Ersatzmitgliedern des Senates nachweislich zu übermitteln. (3) Eine Ergänzung oder Berichtigung des Protokolles ist nur vorzunehmen, wenn dies spätestens in der der Zustellung des Protokolles folgenden Sitzung von einem Mitglied verlangt wird und sich die Mehrheit der anwesenden Mitglieder nicht dagegen ausspricht.Geschäftsstelle der Schiedskommission § 7. (1) Die Geschäfte der Schiedskommission werden vom Magistrat der Stadt Wien unter der sachlichen Leitung des Vorsitzenden der Schiedskommission besorgt (Geschäftsstelle der Schiedskommission). (2) Die Geschäftsstelle hat auf Wunsch des Vorsitzenden für Sitzungen eines Senates einen Protokollführer aus dem Kreis der Bediensteten des Magistrats beizustellen. (3) Die Geschäftsstelle hat für die Ausfertigung der Bescheide und sonstigen Beschlüsse der Schiedskommission zu sorgen.",
+  "parts": [
+    {
+      "@id": "e1767ac7-217d-4b19-805a-b26859a1cd8a#offset_224_607",
+      "offset_ini": 224,
+      "offset_end": 607,
+      "title": "Aufgaben der Schiedskommission und Einbringungsstelle"
+    },
+    {
+      "@id": "e1767ac7-217d-4b19-805a-b26859a1cd8a#offset_608_1224",
+      "offset_ini": 608,
+      "offset_end": 1224,
+      "title": "Senate"
+    },
+    {
+      "@id": "e1767ac7-217d-4b19-805a-b26859a1cd8a#offset_1225_1498",
+      "offset_ini": 1225,
+      "offset_end": 1498,
+      "title": "Aufgaben des Vorsitzenden"
+    },
+    {
+      "@id": "e1767ac7-217d-4b19-805a-b26859a1cd8a#offset_1499_2770",
+      "offset_ini": 1499,
+      "offset_end": 2770,
+      "title": "Einberufung der Sitzungen der Senate"
+    },
+    {
+      "@id": "e1767ac7-217d-4b19-805a-b26859a1cd8a#offset_2771_3703",
+      "offset_ini": 2771,
+      "offset_end": 3703,
+      "title": "Sitzungen des Senates"
+    },
+    {
+      "@id": "e1767ac7-217d-4b19-805a-b26859a1cd8a#offset_3704_4653",
+      "offset_ini": 3704,
+      "offset_end": 4653,
+      "title": "Sitzungsprotokoll"
+    },
+    {
+      "@id": "e1767ac7-217d-4b19-805a-b26859a1cd8a#offset_4654_5175",
+      "offset_ini": 4654,
+      "offset_end": 5175,
+      "title": "Geschäftsstelle der Schiedskommission"
+    },
+    {
+      "@id": "e1767ac7-217d-4b19-805a-b26859a1cd8a#offset_0_223",
+      "offset_ini": 0,
+      "offset_end": 223
+    }
+  ]
+}

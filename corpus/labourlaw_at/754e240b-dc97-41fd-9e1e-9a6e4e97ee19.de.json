@@ -1,0 +1,47 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/754e240b-dc97-41fd-9e1e-9a6e4e97ee19",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Austausch von Kriegsbeschädigten für ärztliche Behandlung"
+    },
+    "hasAuthority": "BGBl. Nr. 14/1960",
+    "id_local": "10008182",
+    "first_date_entry_in_force": "1960-01-16",
+    "version_date": "1960-01-16",
+    "url_consolidated": "http://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d10008182\u0026FassungVom\u003d1960-01-16",
+    "classifications": [
+      "69/06 Kriegsopfer"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/754e240b-dc97-41fd-9e1e-9a6e4e97ee19/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/754e240b-dc97-41fd-9e1e-9a6e4e97ee19/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 350,
+  "text": "Nach einer Mitteilung des Generalsekretariates des Europarates hat die Türkei das Abkommen über den Austausch von Kriegsbeschädigten zwischen den Mitgliedsländern des Europarates zum Zwecke der ärztlichen Behandlung, BGBl. Nr. 62/1958, ratifiziert. Das Abkommen ist gemäß seinem Artikel 8 Absatz 2 für die Türkei am 1. November 1959 in Kraft getreten.",
+  "parts": [
+    {
+      "@id": "754e240b-dc97-41fd-9e1e-9a6e4e97ee19#offset_0_350",
+      "offset_ini": 0,
+      "offset_end": 350,
+      "title": ""
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/e55ecfc1-ddd2-45b9-8828-1676ac6eafe8",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Festsetzung des Mindestlohntarifs für Hausbesorgerinnen und Hausbesorger für Kärnten"
+    },
+    "hasAuthority": "BKA (Bundeskanzleramt)",
+    "id_local": "20011349",
+    "first_date_entry_in_force": "2021-01-01",
+    "version_date": "2021-01-01",
+    "url_consolidated": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d20011349\u0026FassungVom\u003d2021-01-01",
+    "classifications": [
+      "60/03 Kollektives Arbeitsrecht"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/e55ecfc1-ddd2-45b9-8828-1676ac6eafe8/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/e55ecfc1-ddd2-45b9-8828-1676ac6eafe8/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 7666,
+  "text": "Präambel/Promulgationsklausel Das Bundeseinigungsamt beim Bundesministerium für Arbeit, Familie und Jugend ist gemäß § 22 Abs. 1 Arbeitsverfassungsgesetz, BGBl. Nr. 22/1974, in der Fassung des Bundesgesetzes BGBl. I Nr. 23/2020 ermächtigt, auf Antrag einer kollektivvertragsfähigen Körperschaft den Mindestlohntarif festzusetzen, wenn für den betreffenden Wirtschaftszweig kein Kollektivvertrag wirksam ist. Das Bundeseinigungsamt beim Bundesministerium für Arbeit, Familie und Jugend hat mit Beschluss vom 17. November 2020 nach Durchführung einer Senatsverhandlung nachstehenden Mindestlohntarif festgesetzt:Mindestlohntarif für Hausbesorgerinnen und Hausbesorger – Kärnten M 10/2020/XXVI/99/10 Geltungsbereich § 1. Dieser Mindestlohntarif gilt: 1. Räumlich: für das Bundesland Kärnten; 2. persönlich und fachlich: für Hausbesorgerinnen und Hausbesorger, auf die das Hausbesorgergesetz, BGBl. Nr. 16/1970, Anwendung findet und deren Arbeitgeberinnen und Arbeitgeber, a) die in ihrer Eigenschaft als Arbeitgeberinnen und Arbeitgeber von Hausbesorgerinnen und Hausbesorgern nicht Mitglieder einer kollektivvertragsfähigen Körperschaft sind oder b) wenn diese nach Inkrafttreten des Mindestlohntarifes die Kollektivvertragsfähigkeit erlangen oder einer kollektivvertragsfähigen Körperschaft beitreten, solange für sie kein Kollektivvertrag abgeschlossen wird.Dienstleistungen nach §§ 3 und 4 Abs. 1 Hausbesorgergesetz § 2. (1) Das von der Hauseigentümerin bzw. vom Hauseigentümer an die Hausbesorgerin bzw. den Hausbesorger für die nach den §§ 3 und 4 Abs. 1 des Hausbesorgergesetzes zu erbringenden Dienstleistungen monatlich zu leistende Entgelt beträgt: 1. für Wohnräume je Quadratmeter Nutzfläche 0,2844 €, 2. für andere Räumlichkeiten je Quadratmeter Nutzfläche 0,2844 €, 3. für das Reinigen der Gehsteige und deren Bestreuung bei Glatteis je Quadratmeter Gehsteigfläche 0,5168 €. (2) Der gemäß § 8 des Hausbesorgergesetzes monatlich als Zuschlag zum Entgelt zu leistende Materialkostenersatz wird mit 20% der sich aus Abs. 1 Z 1 und 2 ergebenden Höhe des Entgeltes festgesetzt. (3) Das gemäß § 10 des Hausbesorgergesetzes an die Hausbesorgerin bzw. den Hausbesorger oder ihre bzw. seine bestellte Vertreterin bzw. ihren oder seinen bestellten Vertreter zu entrichtende Sperrgeld wird, wenn die Dienste der Hausbesorgerin bzw. des Hausbesorgers vor 24 Uhr in Anspruch genommen werden, mit 4,70 €, wenn die Dienste der Hausbesorgerin bzw. des Hausbesorgers nach 24 Uhr in Anspruch genommen werden, mit 5,20 € festgesetzt. (4) Die sich aus Abs. 1 und 2 ergebende Summe ist kaufmännisch auf Cent zu runden.Dienstleistungen nach § 4 Abs. 3 Hausbesorgergesetz § 3. (1) Der Hausbesorgerin bzw. dem Hausbesorger gebührt neben dem Entgelt, das ihr bzw. ihm aufgrund der §§ 7 Abs. 1 und 12 des Hausbesorgergesetzes zugesichert ist, bei folgenden an einem Haus durchgeführten Arbeiten nachstehendes Entgelt: 1. Einmal noch je das zweifache Entgelt: a) bei Instandsetzung einer Hoffassade; b) bei Instandsetzung einer Gassenfassade mit Stiegenhausfenstern; c) bei Ausmalen des Stiegenhauses, wobei, wenn mehrere Stiegenhäuser vorhanden sind und nur einzelne davon ausgemalt werden, der auf diese entfallende aliquote Anteil gebührt. 2. Einmal noch je das einfache Entgelt: a) bei Instandsetzung einer Gassenfassade ohne Stiegenhausfenster; b) bei Instandsetzung einer Fassade eines Lichthofes; c) bei Legung einer durchgehenden Steigleitung unter Verputz (je Ritze); wird eine solche Steigleitung nur für einzelne Stockwerke oder Stiegen verlegt, gebührt der auf diese entfallende Anteil. 3. Das Entgelt nach Z 1 und 2 ist, wenn solche Arbeiten innerhalb eines Zeitraumes von zwei Monaten fertig gestellt werden, nach deren Abschluss, im anderen Fall monatlich akontoweise auszuzahlen. 4. Die Auszahlung des Entgeltes nach Z 1 und 2 hat anteilsmäßig sofort zu erfolgen, wenn das Hausbesorgerdienstverhältnis noch vor Abschluss sämtlicher Reparatur- und Reinigungsarbeiten beendet wurde. (2) Für die Reinigung von Müllschachträumen sowie das Auffüllen und Auswechseln der Mülltonnen sowie für die Reinigung von Mülltonnenabstellplätzen gebührt ein monatliches Pauschale, dessen Höhe nach der tatsächlichen Arbeitsleistung und unter Zugrundelegung des unter Abs. 3 festgelegten Stundenlohnes zu errechnen ist. (3) Für außerordentliche andere von der Hausbesorgerin bzw. vom Hausbesorger geleistete und nachgewiesene Arbeiten gebührt ein Stundenlohn von 10,15 €. Dieser Stundenlohn gilt nur insoweit, als nicht im Mindestlohntarif für die Betreuung und Bedienung von Anlagen und Einrichtungen auf Liegenschaften M 11/2020/XXVI/99/11 andere Entgeltsätze festgesetzt sind. Dieses Entgelt ist im Nachhinein so abzurechnen, dass die Bezahlung bis spätestens 10. des Folgemonats erfolgt. (4) Für die Reinigung einer von den Hausparteien benützten Toilette gebühren von jeder dieser Parteien monatlich 26,11 €. Für die Reinigung einer Toilette, die von einer unbestimmten Personenanzahl benützt wird - ausgenommen betriebliche Anlagen - gebühren monatlich 52,22 €. (5) Für eine vereinbarte Reinigung von ekelerregenden Verschmutzungen (insbesondere Blut, Urin, Kot, Erbrochenes) in allgemein zugänglichen Räumen gebührt pro Beseitigung ein Pauschalbetrag von 70,05 €. Für eine vereinbarte Reinigung von ekelerregenden Verschmutzungen in allgemein zugänglichen Außenanlagen (Rasenfläche, Gehsteig, etc.) gebührt pro Reinigung ein Pauschalbetrag in Höhe von 50% des vorstehenden Pauschalbetrages. (6) Dem Entgelt nach Abs. 1 bis 5 wird der Zuschlag gemäß § 2 Abs. 2 dann hinzugerechnet, wenn es sich um Reinigungsarbeiten handelt. (7) Für vereinbarte Anwesenheitspflicht gebührt ein Stundenlohn von 6,91 €. An Sonn- und Feiertagen erhöht sich der Stundenlohn auf 13,82 €. (8) Müssen die außerordentlichen Reinigungsarbeiten nach Abs. 1 bis 3 aus besonderen Gründen an Sonn- und Feiertagen verrichtet werden, gebührt hiefür ein Zuschlag von 100%. (9) Für die Betreuung von maschinellen Waschküchen gebührt pro Waschmaschine ein Entgelt von 20,59 € monatlich. Wird von der Betreuerin bzw. vom Betreuer ein Inkasso für die Benützung der Einrichtungen durchgeführt, so gebührt außerdem ein Entgelt von 5% der einkassierten Summe.Gehsteigbetreuung § 4. Für die Reinigung von Gehsteigen, Gehwegen und sonstigen begehbaren und befahrbaren Flächen und deren Bestreuung bei Glatteis, sofern sie nicht in die Berechnung des Entgeltes nach § 2 Abs. 1 Z 3 einbezogen sind, gebührt die gemäß § 2 Abs. 1 Z 3 festgesetzte Entlohnung.Urlaubszuschuss und Weihnachtsremuneration § 5. (1) Der Hausbesorgerin bzw. dem Hausbesorger gebühren in jedem Jahr ein Urlaubszuschuss in der Höhe der für den Monat Mai gebührenden Entlohnung und eine Weihnachtsremuneration in der Höhe der für den Monat November gebührenden Entlohnung, mindestens jedoch ein Urlaubszuschuss und eine Weihnachtsremuneration in der Höhe von je einem Zwölftel des Jahresbezugs. (2) Der Urlaubszuschuss ist bei Antritt des Urlaubes, spätestens jedoch mit der Auszahlung des für Juni zustehenden Lohnes, die Weihnachtsremuneration ist spätestens bis zum 30. November eines jeden Jahres auszuzahlen. (3) Beginnt oder endet das Arbeitsverhältnis während des Kalenderjahres, so gebühren der Hausbesorgerin bzw. dem Hausbesorger Urlaubszuschuss und Weihnachtsremuneration entsprechend der in diesem Kalenderjahr zurückgelegten Dienstzeit anteilsmäßig.Begünstigungsklausel § 6. Bestehende günstigere Vereinbarungen werden durch diesen Mindestlohntarif nicht berührt.Geltungstermin § 7. Dieser Mindestlohntarif ändert den Mindestlohntarif vom 19. November 2019, M 8/2019/XXVI/99/8, BGBl. II Nr. 341/2019, und tritt mit 1. Jänner 2021 in Kraft.",
+  "parts": [
+    {
+      "@id": "e55ecfc1-ddd2-45b9-8828-1676ac6eafe8#offset_610_1357",
+      "offset_ini": 610,
+      "offset_end": 1357,
+      "title": "Geltungsbereich"
+    },
+    {
+      "@id": "e55ecfc1-ddd2-45b9-8828-1676ac6eafe8#offset_1358_2606",
+      "offset_ini": 1358,
+      "offset_end": 2606,
+      "title": "Dienstleistungen nach §§ 3 und 4 Abs. 1 Hausbesorgergesetz"
+    },
+    {
+      "@id": "e55ecfc1-ddd2-45b9-8828-1676ac6eafe8#offset_2607_6206",
+      "offset_ini": 2607,
+      "offset_end": 6206,
+      "title": "Dienstleistungen nach § 4 Abs. 3 Hausbesorgergesetz"
+    },
+    {
+      "@id": "e55ecfc1-ddd2-45b9-8828-1676ac6eafe8#offset_6207_6499",
+      "offset_ini": 6207,
+      "offset_end": 6499,
+      "title": "Gehsteigbetreuung"
+    },
+    {
+      "@id": "e55ecfc1-ddd2-45b9-8828-1676ac6eafe8#offset_6500_7376",
+      "offset_ini": 6500,
+      "offset_end": 7376,
+      "title": "Urlaubszuschuss und Weihnachtsremuneration"
+    },
+    {
+      "@id": "e55ecfc1-ddd2-45b9-8828-1676ac6eafe8#offset_7377_7490",
+      "offset_ini": 7377,
+      "offset_end": 7490,
+      "title": "Begünstigungsklausel"
+    },
+    {
+      "@id": "e55ecfc1-ddd2-45b9-8828-1676ac6eafe8#offset_7491_7666",
+      "offset_ini": 7491,
+      "offset_end": 7666,
+      "title": "Geltungstermin"
+    },
+    {
+      "@id": "e55ecfc1-ddd2-45b9-8828-1676ac6eafe8#offset_0_609",
+      "offset_ini": 0,
+      "offset_end": 609
+    }
+  ]
+}

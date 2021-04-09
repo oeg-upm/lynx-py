@@ -1,0 +1,52 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/9b1aacab-c3a3-4000-8788-6cb0005a9f87",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Festsetzung von Hundertsätzen für die Bemessung von Kaufkraftausgleichszulagen - April 2012"
+    },
+    "hasAuthority": "BGBl. II Nr. 122/2012",
+    "id_local": "20007784",
+    "first_date_entry_in_force": "2012-04-11",
+    "version_date": "2012-04-11",
+    "url_consolidated": "http://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d20007784\u0026FassungVom\u003d2012-04-12",
+    "classifications": [
+      "60/02 Arbeitnehmerschutz"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/9b1aacab-c3a3-4000-8788-6cb0005a9f87/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/9b1aacab-c3a3-4000-8788-6cb0005a9f87/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 1817,
+  "text": "Präambel/Promulgationsklausel Auf Grund des § 21b Abs. 2 und 3 des Gehaltsgesetzes 1956 (GehG), BGBl. Nr. 54, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 96/2007, wird im Einvernehmen mit der Bundesministerin für Frauen und Öffentlichen Dienst verordnet:Für nachstehend angeführte Dienstorte im Ausland wird der Hundertsatz für die Bemessung von Kaufkraftausgleichszulagen nach § 21b Abs. 1 GehG für den Monat April 2012 wie folgt festgesetzt: Abu Dhabi 1 Chicago - Kuala Lumpur - Padua 5 Abuja 4 Chişinău - Kuwait - Paris 14 Addis Abeba - Dakar 23 Lagos 7 Peking 31 Agram 1 Damaskus - Laibach - Podgorica - Algier - Den Haag 11 Lemberg - Prag 20 Almaty 3 Doha - Lima 3 Pressburg 16 Amman 6 Dublin 13 Lissabon 7 Pretoria - Ankara - Duino 5 London 12 Prishtina - Astana 3 Ferney-Voltaire 6 Los Angeles 1 Querétaro - Athen 12 Frankfurt 8 Luxemburg 8 Rabat - Bagdad 40 Genf 47 Lyon 6 Riga 14 Baku 28 Guangzhou 24 Madrid 9 Rio de Janeiro 28 Bangkok 2 Guatemala - Mailand 18 Riyadh - Barcelona 9 Hamburg 6 Manila - Rom 15 Beirut 3 Hanoi - Maskat - Sankt Petersburg 25 Belgrad - Harare 15 Mediasch - Santiago de Chile 2 Berlin 7 Havanna 2 Mexiko - Santo Domingo - Bern 44 Helsinki 15 Montreal 11 Sao Paulo 30 Bogotá 8 Hongkong 17 Moskau 45 Sarajewo - Bonn 4 Islamabad - Mostar - Seoul 16 Brasilia 20 Istanbul - München 6 Shanghai 29 Brüssel 11 Jakarta 8 Nairobi 11 Shkodra - Budapest - Jeddah - Ndjamena 40 Singapur 36 Buenos Aires - Johannesburg - New Delhi - Skopje - Bukarest - Kairo - New York 8 Sofia - Calgary 8 Kapstadt - Nikosia 3 Stockholm 17 Canberra 31 Kiew - Odessa - Strassburg 3 Caracas - Kopenhagen 37 Oslo 44 Sydney 40 Casablanca - Krakau - Ottawa 4 Taipei 9 Tallinn 2 Tirana - Tunis - Wilna 5 Teheran - Tokio 58 Valletta 7 Zürich 50 Tel Aviv 18 Toronto 12 Warschau - Tiflis - Tripolis - Washington -",
+  "parts": [
+    {
+      "@id": "9b1aacab-c3a3-4000-8788-6cb0005a9f87#offset_262_1817",
+      "offset_ini": 262,
+      "offset_end": 1817,
+      "title": ""
+    },
+    {
+      "@id": "9b1aacab-c3a3-4000-8788-6cb0005a9f87#offset_0_261",
+      "offset_ini": 0,
+      "offset_end": 261
+    }
+  ]
+}

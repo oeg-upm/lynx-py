@@ -1,0 +1,104 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/c6a36439-6662-48e2-8a49-d775a4ad6c98",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Dienstnehmerhaftpflichtgesetz"
+    },
+    "hasAuthority": "BGBl. Nr. 80/1965",
+    "nick": [
+      "DHG"
+    ],
+    "id_local": "10008209",
+    "first_date_entry_in_force": "1965-04-24",
+    "version_date": "1983-03-23",
+    "url_consolidated": "http://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d10008209\u0026FassungVom\u003d1983-03-23",
+    "classifications": [
+      "60/04 Arbeitsrecht allgemein"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/c6a36439-6662-48e2-8a49-d775a4ad6c98/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/c6a36439-6662-48e2-8a49-d775a4ad6c98/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 7235,
+  "text": "Artikel I § 1. (1) Die Vorschriften dieses Bundesgesetzes gelten für Dienstnehmer (Lehrlinge) in einem privatrechtlichen oder in einem öffentlich-rechtlichen Dienst(Lehr)verhältnis (im folgenden als Dienstnehmer bezeichnet). Sie sind auf Heimarbeiter und Personen, die gemäß § 3 des Heimarbeitsgesetzes 1960 den Entgeltschutz für Heimarbeit genießen, ferner auf sonstige Personen, die, ohne in einem Dienstverhältnis zu stehen, im Auftrag und für Rechnung bestimmter anderer Personen Arbeit leisten und wegen wirtschaftlicher Unselbständigkeit als arbeitnehmerähnlich anzusehen sind, im Verhältnis zu ihren Auftraggebern sinngemäß anzuwenden. (2) Ausgenommen vom Geltungsbereich dieses Bundesgesetzes sind Dienstnehmer, soweit sie als Organe der im Artikel 23 Abs. 1 des Bundes-Verfassungsgesetzes in der Fassung von 1929 genannten Rechtsträger in Vollziehung der Gesetze dem Rechtsträger oder einem Dritten einen Schaden zugefügt haben.§ 2. (1) Hat ein Dienstnehmer bei Erbringung seiner Dienstleistungen dem Dienstgeber durch ein Versehen einen Schaden zugefügt, so kann das Gericht aus Gründen der Billigkeit den Ersatz mäßigen oder, sofern der Schaden durch einen minderen Grad des Versehens zugefügt worden ist, auch ganz erlassen. (2) Bei der Entscheidung über die Ersatzpflicht im Sinn des Abs. 1 hat das Gericht vor allem auf das Ausmaß des Verschuldens des Dienstnehmers und außerdem insbesondere auf folgende Umstände Bedacht zu nehmen: 1. auf das Ausmaß der mit der ausgeübten Tätigkeit verbundenen Verantwortung, 2. inwieweit bei der Bemessung des Entgelts ein mit der ausgeübten Tätigkeit verbundenes Wagnis berücksichtigt worden ist, 3. auf den Grad der Ausbildung des Dienstnehmers, 4. auf die Bedingungen, unter denen die Dienstleistung zu erbringen war und 5. ob mit der vom Dienstnehmer erbrachten Dienstleistung erfahrungsgemäß die nur schwer vermeidbare Möglichkeit oder Wahrscheinlichkeit des Eintritts eines Schadens verbunden ist. (3) Für eine entschuldbare Fehlleistung haftet der Dienstnehmer nicht.§ 3. (1) Wird ein Dienstnehmer zum Ersatz des Schadens herangezogen, den er bei Erbringung seiner Dienstleistungen einem Dritten zugefügt hat, so hat er dies dem Dienstgeber unverzüglich mitzuteilen und ihm im Falle der Klage den Streit zu verkündigen. (2) Hat der Dienstnehmer im Einverständnis mit dem Dienstgeber oder auf Grund eines rechtskräftigen Urteils dem Dritten den durch ein Versehen zugefügten Schaden ersetzt, so kann er die Vergütung des solcherart Geleisteten und der ihm erwachsenen notwendigen Prozeß- und Exekutionskosten zum Teil oder, sofern der Schaden durch einen minderen Grad des Versehens zugefügt worden ist, zur Gänze vom Dienstgeber verlangen, wenn der Dienstgeber auf Grund der §§ 1313a bis 1316 des allgemeinen bürgerlichen Gesetzbuches oder auf Grund einer anderen gesetzlichen Verpflichtung vom Dritten zum Ersatz des Schadens in Anspruch hätte genommen werden können und das Verlangen des Dienstnehmers der Billigkeit entspricht. § 2 Abs. 2 ist anzuwenden. (3) Hat der Dienstnehmer im Einverständnis mit dem Dienstgeber oder auf Grund eines rechtskräftigen Urteils dem Dritten den durch eine entschuldbare Fehlleistung zugefügten Schaden ersetzt, so kann er jedoch die Vergütung des solcherart Geleisteten und der ihm erwachsenen notwendigen Prozeß- und Exekutionskosten zur Gänze vom Dienstgeber verlangen, wenn dieser auf Grund der §§ 1313a bis 1316 des allgemeinen bürgerlichen Gesetzbuches oder auf Grund einer anderen gesetzlichen Verpflichtung von Dritten zum Ersatz des Schadens in Anspruch hätte genommen werden können. (4) Unterläßt es der Dienstnehmer, dem Dienstgeber den Streit zu verkündigen, so verliert er zwar nicht das Recht auf Vergütung gegenüber dem Dienstgeber, doch kann ihm dieser alle wider den Dritten unausgeführt gebliebenen Einwendungen entgegensetzen und sich dadurch von der Verfügung in dem Maße befreien, als erkannt wird, daß diese Einwendungen, wenn von ihnen der gehörige Gebrauch gemacht worden wäre, eine andere Entscheidung gegen den Dritten veranlaßt hätten.§ 4. (1) Wird ein Dienstgeber auf Grund der §§ 1313a bis 1316 des allgemeinen bürgerlichen Gesetzbuches oder auf Grund einer anderen gesetzlichen Verpflichtung vom Dritten zum Ersatz des Schadens herangezogen, den sein Dienstnehmer bei Erbringung seiner Dienstleistungen einem Dritten zugefügt hat, so hat er dies dem Dienstnehmer unverzüglich mitzuteilen und ihm im Falle der Klage den Streit zu verkündigen. (2) Hat der Dienstgeber im Einverständnis mit dem Dienstnehmer oder auf Grund eines rechtskräftigen Urteils dem Dritten den Schaden ersetzt, so hat er einen die Vergütung des solcherart Geleisteten und der ihm erwachsenen notwendigen Prozeß- und Exekutionskosten umfassenden Rückgriffsanspruch gegen den Dienstnehmer, es sei denn, daß der Dienstnehmer den Schaden durch ein Versehen zugefügt hat und das Gericht aus Gründen der Billigkeit den Rückersatz mäßigt oder, sofern der Schaden durch einen minderen Grad des Versehens zugefügt worden ist, ganz erläßt. § 2 Abs. 2 ist anzuwenden. (3) Hat der Dienstgeber dem Dritten den Schaden ersetzt, den der Dienstnehmer dem Dritten durch eine entschuldbare Fehlleistung zugefügt hat, so hat der Dienstgeber jedoch gegen den Dienstnehmer keinen Rückgriffsanspruch. (4) Unterläßt es der Dienstgeber, dem Dienstnehmer den Streit zu verkündigen, so verliert er zwar nicht das Recht auf Vergütung gegenüber dem Dienstnehmer, doch kann ihm dieser (alle) wider den Dritten unausgeführt gebliebenen Einwendungen entgegensetzen und sich dadurch von der Vergütung in dem Maße befreien, als erkannt wird, daß diese Einwendungen, wenn von ihnen der gehörige Gebrauch gemacht worden wäre, eine andere Entscheidung gegen den Dritten veranlaßt hätten.§ 5. Die Rechte des Dienstnehmers, die sich aus den §§ 2 bis 4 ergeben, können nur durch Kollektivvertrag aufgehoben oder beschränkt werden.§ 6. Auf einem minderen Grad des Versehens beruhende Schadenersatz- oder Rückgriffsansprüche zwischen Dienstgeber und Dienstnehmer (§ 2 Abs. 1, § 3 Abs. 2 bis 4, § 4 Abs. 2 und 4) erlöschen, wenn sie nicht binnen sechs Monaten nach Ablauf des Tages, an dem sie erhoben werden können, gerichtlich geltend gemacht werden.§ 7. (1) Während des aufrechten Bestandes des Dienstverhältnisses ist eine Aufrechnung von Ansprüchen gegen den Dienstnehmer nach diesem Bundesgesetz nur zulässig, wenn der Dienstnehmer nicht innerhalb von 14 Tagen ab Zugehen der Aufrechnungserklärung dieser widerspricht. (2) Abs. 1 gilt nicht für eine Aufrechnung auf Grund eines rechtskräftigen Urteils.Artikel II (1) Auf Schadensfälle, die vor dem Inkrafttreten dieses Bundesgesetzes eingetreten sind, sind die bisherigen Bestimmungen anzuwenden. (2) Die Rechte des Dienstnehmers, die sich aus den §§ 2 bis 4 ergeben, können nur durch einen Kollektivvertrag aufgehoben oder beschränkt werden, der nach dem Inkrafttreten dieses Bundesgesetzes abgeschlossen worden ist.Artikel III Mit der Vollziehung dieses Bundesgesetzes ist das Bundesministerium für Justiz betraut.Artikel II (Anm.: aus BGBl. Nr. 169/1983, zu den §§ 2, 3 und 4 BGBl. Nr. 80/1965) Auf Schadensfälle, die vor dem Inkrafttreten dieses Bundesgesetzes eingetreten sind, sind die bisherigen Bestimmungen anzuwenden.",
+  "parts": [
+    {
+      "@id": "c6a36439-6662-48e2-8a49-d775a4ad6c98#offset_0_936",
+      "offset_ini": 0,
+      "offset_end": 936,
+      "title": ""
+    },
+    {
+      "@id": "c6a36439-6662-48e2-8a49-d775a4ad6c98#offset_937_2023",
+      "offset_ini": 937,
+      "offset_end": 2023,
+      "title": ""
+    },
+    {
+      "@id": "c6a36439-6662-48e2-8a49-d775a4ad6c98#offset_2024_4054",
+      "offset_ini": 2024,
+      "offset_end": 4054,
+      "title": ""
+    },
+    {
+      "@id": "c6a36439-6662-48e2-8a49-d775a4ad6c98#offset_4055_5745",
+      "offset_ini": 4055,
+      "offset_end": 5745,
+      "title": ""
+    },
+    {
+      "@id": "c6a36439-6662-48e2-8a49-d775a4ad6c98#offset_5746_5885",
+      "offset_ini": 5746,
+      "offset_end": 5885,
+      "title": ""
+    },
+    {
+      "@id": "c6a36439-6662-48e2-8a49-d775a4ad6c98#offset_5886_6204",
+      "offset_ini": 5886,
+      "offset_end": 6204,
+      "title": ""
+    },
+    {
+      "@id": "c6a36439-6662-48e2-8a49-d775a4ad6c98#offset_6205_6560",
+      "offset_ini": 6205,
+      "offset_end": 6560,
+      "title": ""
+    },
+    {
+      "@id": "c6a36439-6662-48e2-8a49-d775a4ad6c98#offset_6561_6925",
+      "offset_ini": 6561,
+      "offset_end": 6925,
+      "title": ""
+    },
+    {
+      "@id": "c6a36439-6662-48e2-8a49-d775a4ad6c98#offset_6926_7024",
+      "offset_ini": 6926,
+      "offset_end": 7024,
+      "title": ""
+    },
+    {
+      "@id": "c6a36439-6662-48e2-8a49-d775a4ad6c98#offset_7025_7235",
+      "offset_ini": 7025,
+      "offset_end": 7235,
+      "title": "(Anm.: aus BGBl. Nr. 169/1983, zu den §§ 2, 3 und 4 BGBl. Nr. 80/1965)"
+    }
+  ]
+}

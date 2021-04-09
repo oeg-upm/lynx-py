@@ -1,0 +1,65 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/2997edae-30fe-4bc0-bf7b-f9dec2c695fd",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Fests. von Ambulatoriumsbeiträgen für die Durchführung der In-vitro-Fertilisation in den Wiener städtischen Krankenanstalten"
+    },
+    "hasAuthority": "LGBl. Nr. 85/2001",
+    "id_local": "20000289",
+    "first_date_entry_in_force": "2001-10-12",
+    "version_date": "2001-10-12",
+    "url_consolidated": "http://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dLrW\u0026Gesetzesnummer\u003d20000289\u0026FassungVom\u003d2001-10-13",
+    "classifications": [
+      "60/40 Krankenbehandlung",
+      "60 Gesundheits- und Sozialrecht (S)"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/2997edae-30fe-4bc0-bf7b-f9dec2c695fd/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/2997edae-30fe-4bc0-bf7b-f9dec2c695fd/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 3371,
+  "text": "Präambel/Promulgationsklausel Die Wiener Landesregierung hat folgenden Beschluss gefasst:Artikel I Gemäß § 46 Abs. 1 des Wiener Krankenanstaltengesetzes 1987, LGBl. für Wien Nr. 23/1987, zuletzt geändert durch das Landesgesetz LGBl. für Wien Nr. 48/2001, werden die Ambulatoriumsbeiträge für die in Durchführung der In-vitro-Fertilisation anfallenden Untersuchungen und Behandlungen in den Wiener städtischen Krankenanstalten wie folgt festgesetzt: A. bei Kostentragung durch den IVF-Fonds: (1) 1. Für jeden Versuch der In-vitro-Fertilisation 19 000 S wobei die Gebühr alle für eine In-vitro-Fertilisation notwendigen Leistungen vom Beginn bis zum Ende eines Versuches, insbesondere sämtliche Beratungsgespräche und Ambulanzbesuche, Ultraschalluntersuchungen, Laboruntersuchungen, psychologische und psychotherapeutische Betreuung, die Eizellgewinnung durch Follikelpunktion, auch ultraschallgesteuert und mit Sedoanalgesie, ausgenommen Vollnarkose, die Spermiengewinnung und Aufbereitung, die Befruchtung (In-vitro-Fertilisation), eine allfällige Blastozystenkultur, den Embryotransfer, Schwangerschaftstests, die Nachbehandlung in der Lutealphase, eine eventuelle Kryokonservierung der Embryonen, Medizinprodukte und Arzneimittel, ausgenommen jene, die für die Vorbereitung und Durchführung der Stimulation, Eisprungauslösung und Lutealphase benötigt werden sowie sämtliche Leistungen Dritter während eines Versuches, ausgenommen Krankenbehandlungsmaßnahmen infolge von Komplikationen, umfasst. 2. Für jeden Versuch der In-vitro-Fertilisation im Sinne der Z 1 mit Befruchtung der Eizelle nach der ICSI-Methode 22 500 S 3. Für jeden weiteren Versuch der In-vitro-Fertilisation unter Verwendung von kryokonservierten Embryonen 7 500 S 4. Für die Samengewinnung unter Verwendung von MESA oder TESA 7 500 S (2) 1. Für jeden vor der Follikelpunktion abgebrochenen Versuch gebührt ein Tarif von 15 vH des Tarifes gemäß Abs. 1 Z 1. 2. Für jeden nach der Follikelpunktion abgebrochenen Versuch gebührt ein Tarif von 70 vH des Tarifes gemäß Abs. 1 Z 1 bzw. Z 2. (3) Die in Abs. 1 Z 1 bis 3 und Abs. 2 Z 2 festgesetzten Ambulatoriumsbeiträge erhöhen sich bei Durchführung einer medizinisch notwendigen Vollnarkose um jeweils 2 000 S. B. ohne Kostentragung durch den IVF-Fonds: Die Ambulatoriumsbeiträge erhöhen sich um 11,1 vH, wenn die In-vitro-Fertilisation ohne Kostentragung durch den IVF-Fonds durchgeführt wird.Artikel II Die jeweils durch Verordnung der Landesregierung festgesetzten Sondertarife für ambulante Untersuchungen und Behandlungen im Zusammenhang mit der In-vitro-Fertilisation entfallen, sofern Gebühren gemäß Artikel I zu entrichten sind.Artikel III (1) Diese Verordnung tritt mit dem der Kundmachung folgenden Tag in Kraft. Mit Ablauf des Tages der Kundmachung verliert die Kundmachung der Wiener Landesregierung betreffend die Festsetzung von Ambulatoriumsbeiträgen für die Durchführung der In-vitro-Fertilisation in den Wiener städtischen Krankenanstalten, LGBl. für Wien Nr. 69/2000, ihre Wirksamkeit. (2) Mit Wirksamkeit vom 1. Jänner 2002 treten in Artikel I dieser Verordnung an die Stelle des Ausdruckes „19 000 S“ der Ausdruck „1 380,78 Euro“, an die Stelle des Ausdruckes „22 500 S“ der Ausdruck „1 635,14 Euro“, an die Stelle des Ausdruckes „7 500 S“ der Ausdruck „545,05 Euro“ und an die Stelle des Ausdruckes „2 000 S“ der Ausdruck „145,35 Euro“.",
+  "parts": [
+    {
+      "@id": "2997edae-30fe-4bc0-bf7b-f9dec2c695fd#offset_89_2408",
+      "offset_ini": 89,
+      "offset_end": 2408,
+      "title": "Artikel I"
+    },
+    {
+      "@id": "2997edae-30fe-4bc0-bf7b-f9dec2c695fd#offset_2409_2650",
+      "offset_ini": 2409,
+      "offset_end": 2650,
+      "title": "Artikel II"
+    },
+    {
+      "@id": "2997edae-30fe-4bc0-bf7b-f9dec2c695fd#offset_2651_3371",
+      "offset_ini": 2651,
+      "offset_end": 3371,
+      "title": "Artikel III"
+    },
+    {
+      "@id": "2997edae-30fe-4bc0-bf7b-f9dec2c695fd#offset_0_88",
+      "offset_ini": 0,
+      "offset_end": 88
+    }
+  ]
+}

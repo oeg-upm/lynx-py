@@ -1,0 +1,82 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/cf2a304e-421a-4792-a060-122d5e203b20",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Nachtschwerarbeitsgesetz - Belastungen"
+    },
+    "hasAuthority": "BGBl. Nr. 53/1993",
+    "id_local": "10008841",
+    "first_date_entry_in_force": "1993-01-23",
+    "version_date": "1993-01-23",
+    "url_consolidated": "http://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d10008841\u0026FassungVom\u003d1993-01-23",
+    "classifications": [
+      "60/04 Arbeitsrecht allgemein"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/cf2a304e-421a-4792-a060-122d5e203b20/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/cf2a304e-421a-4792-a060-122d5e203b20/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 3834,
+  "text": "Präambel/Promulgationsklausel Auf Grund des Art. VII Abs. 3 des Nachtschwerarbeitsgesetzes, BGBl. Nr. 354/1981, zuletzt geändert durch das Bundesgesetz BGBl. Nr. 473/1992, wird für Arbeitnehmer in Betrieben, die nicht der bergbehördlichen Aufsicht unterstehen, verordnet:Belastung durch Hitze § 1. Vergleichbarkeit im Sinne des Art. VII Abs. 2 Z 2 des Nachtschwerarbeitsgesetzes liegt vor, wenn 1. bei Überwiegen von konvektivem Wärmeaustausch das Klimasummenmaß eine Effektivtemperatur von 25,3 Grad Celsius überschreitet und der Zeitanteil dieses Klimazustandes an der Gesamtarbeitszeit mindestens 50% beträgt oder 2. bei konvektivem Wärmeaustausch und gleichzeitiger Wärmestrahlungsbelastung ab einer Strahlungsintensität von mehr als 50 Watt/m2 die korrigierte Effektivtemperatur, bestimmt über die Globetemperatur, einen Wert von 25,3 Grad Celsius überschreitet und der Zeitanteil dieses Klimazustandes an der Gesamtarbeitszeit mindestens 50% beträgt oder 3. bei überwiegender Wärmestrahlungsbelastung ab 348 Watt/m2 Wärmestromdichte der Zeitanteil dieser Belastung an der Gesamtarbeitszeit 30%, ab 580 Watt/m2 20% und ab 870 Watt/m2 10% beträgt.§ 2. (1) Bei der Ermittlung des Klimazustandes sind Zeitpunkt, Anzahl der Messungen und Meßdauer auf die 1. räumlichen Verhältnisse (Meßort, Meßpunkte) und 2. betrieblichen Verhältnisse, insbesondere auf solche, die auf das Klima (die Temperatur) unmittelbaren Einfluß haben, wie zB Anzahl der Personen, Beleuchtung, Lastzustände von Maschinen und Anlagen und anderen Wärmequellen, Luftströmungen von Fenstern, Toren und Hallendachöffnungen und 3. gegebenenfalls auf die Außenklimaverhältnisse (Außentemperaturverhältnisse) so abzustimmen, daß eine meßtechnisch repräsentative und reproduzierbare Erfassung der Klimasituation (Temperatursituation) am Arbeitsplatz gewährleistet ist. (2) Die Ermittlung des Klimazustandes ist unter Berücksichtigung der ÖNORM A 8070 (Vornorm) „Klima am Arbeitsplatz und in der Arbeitsumgebung“ (Anlage zu dieser Verordnung) vorzunehmen.Gesundheitsgefährdende Erschütterungen § 3. Eine gesundheitsgefährdende Erschütterung im Sinne des Art. VII Abs. 2 Z 5 des Nachtschwerarbeitsgesetzes liegt vor, wenn bei Ganzkörperschwingungen eine Beurteilungsschwingstärke Kr \u003d 13,2 überschritten wird bzw. wenn bei Hand-Arm-Schwingungen eine Einwirkungsdauer von einer Stunde täglich überschritten wird und ein bewerteter Beschleunigungseffektivwert ahw \u003d 5m/s2 oder mehr vorliegt.Gesundheitsschädliches Einwirken von inhalativen Schadstoffen § 4. Eine gesundheitsschädliche Einwirkung im Sinne des Art. VII Abs. 2 Z 8 des Nachtschwerarbeitsgesetzes liegt bei als Arbeitsstoff im Betrieb vorhandenen inhalativen Schadstoffen mit krebserregenden Eigenschaften in jeder nachweisbaren Konzentration in der Arbeitsraumluft vor. Als solche Schadstoffe gelten: 1. Arsen und seine Verbindungen, 2. Beryllium und seine Verbindungen, 3. Chrom III-chromate, 4. Benzol, 5. Benzidin und seine Salze, 6. Ethylenoxid, 7. 2-Naphthylamin, 8. Nickel und seine Verbindungen, 9. Vinylchlorid, 10. Zinkchromat sowie 11. Asbest.§ 5. Für Schadstoffe, die zu Erkrankungen im Sinne der Z 1, 2, 3, 5, 6, 9 (hinsichtlich der Homologe), 10, 11, 12, 13, 14, 15, 26, 28, 31, 40, 41, 42 und 44 der Anlage I zum Allgemeinen Sozialversicherungsgesetz führen können, ist eine gesundheitsschädliche Einwirkung im Sinne des Art. VII Abs. 2 Z 8 des Nachtschwerarbeitsgesetzes bei Erreichen oder Überschreiten von 75% des für den in Betracht kommenden Stoff maßgebenden Konzentrationsgrenzwertes am Arbeitsplatz gegeben. Diese Arbeitsplatzkonzentrationswerte für Gase, Dämpfe und Staub in der Raumluft werden jeweils in den Amtlichen Nachrichten – Arbeit – Gesundheit – Soziales verlautbart.Anlage (Anm.: Die ÖNORM A 8070 („Klima am Arbeitsplatz und in der Arbeitsumgebung“) ist als PDF dokumentiert.)",
+  "parts": [
+    {
+      "@id": "cf2a304e-421a-4792-a060-122d5e203b20#offset_271_1150",
+      "offset_ini": 271,
+      "offset_end": 1150,
+      "title": "Belastung durch Hitze"
+    },
+    {
+      "@id": "cf2a304e-421a-4792-a060-122d5e203b20#offset_1151_2018",
+      "offset_ini": 1151,
+      "offset_end": 2018,
+      "title": ""
+    },
+    {
+      "@id": "cf2a304e-421a-4792-a060-122d5e203b20#offset_2019_2451",
+      "offset_ini": 2019,
+      "offset_end": 2451,
+      "title": "Gesundheitsgefährdende Erschütterungen"
+    },
+    {
+      "@id": "cf2a304e-421a-4792-a060-122d5e203b20#offset_2452_3077",
+      "offset_ini": 2452,
+      "offset_end": 3077,
+      "title": "Gesundheitsschädliches Einwirken von inhalativen Schadstoffen"
+    },
+    {
+      "@id": "cf2a304e-421a-4792-a060-122d5e203b20#offset_3078_3724",
+      "offset_ini": 3078,
+      "offset_end": 3724,
+      "title": ""
+    },
+    {
+      "@id": "cf2a304e-421a-4792-a060-122d5e203b20#offset_3725_3834",
+      "offset_ini": 3725,
+      "offset_end": 3834,
+      "title": ""
+    },
+    {
+      "@id": "cf2a304e-421a-4792-a060-122d5e203b20#offset_0_270",
+      "offset_ini": 0,
+      "offset_end": 270
+    }
+  ]
+}

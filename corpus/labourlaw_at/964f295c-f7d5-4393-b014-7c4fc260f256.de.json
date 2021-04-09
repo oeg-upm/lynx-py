@@ -1,0 +1,82 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/964f295c-f7d5-4393-b014-7c4fc260f256",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Festsetzung der Lehrlingsentschädigung für kaufmännische Lehrlinge bei Druckern und Druckformenherstellern"
+    },
+    "hasAuthority": "BKA (Bundeskanzleramt)",
+    "id_local": "20011220",
+    "first_date_entry_in_force": "2020-05-31",
+    "version_date": "2020-05-31",
+    "url_consolidated": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d20011220\u0026FassungVom\u003d2020-06-01",
+    "classifications": [
+      "60/03 Kollektives Arbeitsrecht"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/964f295c-f7d5-4393-b014-7c4fc260f256/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/964f295c-f7d5-4393-b014-7c4fc260f256/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 2496,
+  "text": "Präambel/Promulgationsklausel Das Bundeseinigungsamt beim Bundesministerium für Arbeit, Familie und Jugend ist gemäß § 26 Abs. 1 Arbeitsverfassungsgesetz, BGBl. Nr. 22/1974, in der Fassung des Bundesgesetzes BGBl. I Nr. 23/2020 ermächtigt, auf Antrag einer kollektivvertragsfähigen Körperschaft die Lehrlingsentschädigung festzusetzen, wenn für den betreffenden Wirtschaftszweig kein Kollektivvertrag wirksam ist. Das Bundeseinigungsamt beim Bundesministerium für Arbeit, Familie und Jugend hat mit Beschluss vom 7. Juli 2020 nach Durchführung einer Senatsverhandlung nachstehende Lehrlingsentschädigung festgesetzt:Lehrlingsentschädigung für kaufmännische Lehrlinge bei Druckern und Druckformenherstellern L 3/2020/X/42/2 Geltungsbereich § 1. a) Räumlich: Das Gebiet der Republik Österreich. b) Fachlich: Unternehmen, die das Gewerbe der Drucker und Druckformenherstellung betreiben. c) Persönlich: kaufmännische Lehrlinge im Sinne des Berufsausbildungsgesetzes, die insbesondere in den Lehrberufen Bürokaufmann/Bürokauffrau sowie Technischer Zeichner/Technische Zeichnerin ausgebildet und im Rahmen dieser Ausbildung verwendet werden und die bei Lehrberechtigten gemäß lit. b beschäftigt sind.Höhe der Lehrlingsentschädigung § 2. Die Lehrlingsentschädigung beträgt: a) im 1. Lehrjahr: 536,00 € monatlich; b) im 2. Lehrjahr: 813,00 € monatlich; c) im 3. Lehrjahr: 1 032,00 € monatlich; d) im 4. Lehrjahr: 1 265,00 € monatlich.Urlaubszuschuss § 3. Alle Lehrlinge erhalten einmal im Kalenderjahr einen Urlaubszuschuss in der Höhe einer monatlichen Lehrlingsentschädigung, der spätestens am 30. Juni fällig ist. Während des Kalenderjahres ein- bzw. austretende Lehrlinge erhalten den aliquoten Teil des Urlaubszuschusses.Weihnachtsremuneration § 4. Alle Lehrlinge erhalten einmal im Kalenderjahr eine Weihnachtsremuneration in der Höhe einer monatlichen Lehrlingsentschädigung, die spätestens am 30. November fällig ist. Während des Kalenderjahres ein- bzw. austretende Lehrlinge erhalten den aliquoten Teil der Weihnachtsremuneration.Basis für Überstundenberechnung gemäß § 1 Abs. 1a Z 1 KJBG § 5. Gibt es in einem Betrieb kein einschlägiges Angestelltengehalt iSd § 1 Abs. 1a Z 1 KJBG, so ist für die Überstundenentlohnung für Lehrlinge, die das 18. Lebensjahr vollendet haben, für die Berechnung der Grundstundenvergütung und des Überstundenzuschlages ein Stundenlohn von 9,40 € heranzuziehen.Beginn der Wirksamkeit § 6. Die Festsetzung der Lehrlingsentschädigung tritt mit 1. Juni 2020 in Kraft.",
+  "parts": [
+    {
+      "@id": "964f295c-f7d5-4393-b014-7c4fc260f256#offset_616_1194",
+      "offset_ini": 616,
+      "offset_end": 1194,
+      "title": "Geltungsbereich"
+    },
+    {
+      "@id": "964f295c-f7d5-4393-b014-7c4fc260f256#offset_1195_1426",
+      "offset_ini": 1195,
+      "offset_end": 1426,
+      "title": "Höhe der Lehrlingsentschädigung"
+    },
+    {
+      "@id": "964f295c-f7d5-4393-b014-7c4fc260f256#offset_1427_1718",
+      "offset_ini": 1427,
+      "offset_end": 1718,
+      "title": "Urlaubszuschuss"
+    },
+    {
+      "@id": "964f295c-f7d5-4393-b014-7c4fc260f256#offset_1719_2032",
+      "offset_ini": 1719,
+      "offset_end": 2032,
+      "title": "Weihnachtsremuneration"
+    },
+    {
+      "@id": "964f295c-f7d5-4393-b014-7c4fc260f256#offset_2033_2393",
+      "offset_ini": 2033,
+      "offset_end": 2393,
+      "title": "Basis für Überstundenberechnung gemäß § 1 Abs. 1a Z 1 KJBG"
+    },
+    {
+      "@id": "964f295c-f7d5-4393-b014-7c4fc260f256#offset_2394_2496",
+      "offset_ini": 2394,
+      "offset_end": 2496,
+      "title": "Beginn der Wirksamkeit"
+    },
+    {
+      "@id": "964f295c-f7d5-4393-b014-7c4fc260f256#offset_0_615",
+      "offset_ini": 0,
+      "offset_end": 615
+    }
+  ]
+}

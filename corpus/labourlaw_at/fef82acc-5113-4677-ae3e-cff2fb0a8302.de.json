@@ -1,0 +1,52 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/fef82acc-5113-4677-ae3e-cff2fb0a8302",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Europäische Sozialcharta"
+    },
+    "hasAuthority": "BGBl. Nr. 193/1973",
+    "id_local": "20005024",
+    "first_date_entry_in_force": "1973-04-28",
+    "version_date": "1973-04-28",
+    "url_consolidated": "http://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d20005024\u0026FassungVom\u003d1973-04-28",
+    "classifications": [
+      "69/03 Soziale Sicherheit"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/fef82acc-5113-4677-ae3e-cff2fb0a8302/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/fef82acc-5113-4677-ae3e-cff2fb0a8302/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 1295,
+  "text": "Präambel/Promulgationsklausel Nach Mitteilung des Generalsekretärs des Europarates hat Frankreich am 9. März 1973 seine Genehmigungsurkunde zur Europäischen Sozialcharta, BGBl. Nr. 460/1970 (Anm.: richtig: 460/1969), hinterlegt und dabei nachstehende Erklärungen abgegeben und Vorbehalte erklärt:Gemäß Artikel 20 Absatz 1 literae b und c der Charta betrachtet sich Frankreich durch die in den nachstehenden Artikeln enthaltenen Verpflichtungen gebunden: Artikel 1 Artikel 8 Artikel 15 Artikel 3 Artikel 9 Artikel 16 Artikel 4 Artikel 10 Artikel 17 Artikel 5 Artikel 11 Artikel 18 Artikel 6 Artikel 12 Artikel 19 Artikel 7 Artikel 14 Die Absätze nachstehender Artikel betrachtet Frankreich als verpflichtend: Artikel 2 Absätze 1, 2, 3 und 5 Artikel 13 Absätze 1, 3 und 4 Die Bestimmungen des Artikels 2 Absatz 4 und des Artikels 13 Absatz 2 werden von Frankreich nicht angenommen. Zu Artikel 12 Absatz 4 litera a hat Frankreich eine interpretative Erklärung abgegeben, die dahingehend lautet, daß die gemäß den Bestimmungen des Artikels L 519 des französischen Kodex der Sozialen Sicherheit gewährte Mutterschaftsbeihilfe nicht unter die Leistungsansprüche nach den Bestimmungen des Artikels 12 Absatz 4 litera a der Charta fallen. Die Charta ist für Frankreich am 8. April 1973 in Kraft getreten.",
+  "parts": [
+    {
+      "@id": "fef82acc-5113-4677-ae3e-cff2fb0a8302#offset_296_1295",
+      "offset_ini": 296,
+      "offset_end": 1295,
+      "title": ""
+    },
+    {
+      "@id": "fef82acc-5113-4677-ae3e-cff2fb0a8302#offset_0_295",
+      "offset_ini": 0,
+      "offset_end": 295
+    }
+  ]
+}

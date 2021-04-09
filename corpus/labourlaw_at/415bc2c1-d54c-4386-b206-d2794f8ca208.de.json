@@ -1,0 +1,52 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/415bc2c1-d54c-4386-b206-d2794f8ca208",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Ersatz des einmaligen Aufwandes einschließlich der Implementierungskosten aller Krankenversicherungsträger"
+    },
+    "hasAuthority": "BGBl. II Nr. 416/2015",
+    "id_local": "20009393",
+    "first_date_entry_in_force": "2015-12-16",
+    "version_date": "2015-12-16",
+    "url_consolidated": "http://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d20009393\u0026FassungVom\u003d2015-12-16",
+    "classifications": [
+      "60/02 Arbeitnehmerschutz"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/415bc2c1-d54c-4386-b206-d2794f8ca208/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/415bc2c1-d54c-4386-b206-d2794f8ca208/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 549,
+  "text": "Präambel/Promulgationsklausel Auf Grund des § 38 Abs. 3 und 4 Kinderbetreuungsgeldgesetz (KBGG), BGBl. I Nr. 103/2001, zuletzt geändert durch BGBl. I Nr. 35/2014, wird verordnet:Der Niederösterreichischen Gebietskrankenkasse wird der erforderliche, einmalige und nachgewiesene Aufwand für die nachträglichen Anpassungen auf Grund der mit BGBl. I Nr. 117/2013 durchgeführten Änderungen des Kinderbetreuungsgeldgesetzes, BGBl. I Nr. 103/2001, idF BGBl. I Nr. 35/2014, ersetzt. Dieser Betrag wird mit EUR 14.039,12, fällig im Dezember 2015, festgesetzt.",
+  "parts": [
+    {
+      "@id": "415bc2c1-d54c-4386-b206-d2794f8ca208#offset_178_549",
+      "offset_ini": 178,
+      "offset_end": 549,
+      "title": ""
+    },
+    {
+      "@id": "415bc2c1-d54c-4386-b206-d2794f8ca208#offset_0_177",
+      "offset_ini": 0,
+      "offset_end": 177
+    }
+  ]
+}

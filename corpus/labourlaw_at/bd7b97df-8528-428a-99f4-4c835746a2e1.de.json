@@ -1,0 +1,47 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/bd7b97df-8528-428a-99f4-4c835746a2e1",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Gastarbeitnehmer - Austausch - Erlöschen des Abkommens"
+    },
+    "hasAuthority": "BGBl. III Nr. 200/1997",
+    "id_local": "10009039",
+    "first_date_entry_in_force": "1997-11-21",
+    "version_date": "1997-11-21",
+    "url_consolidated": "http://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d10009039\u0026FassungVom\u003d1997-11-21",
+    "classifications": [
+      "69/04 Ausländerbeschäftigung"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/bd7b97df-8528-428a-99f4-4c835746a2e1/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/bd7b97df-8528-428a-99f4-4c835746a2e1/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 2231,
+  "text": "(Übersetzung) Österreichische Botschaft in Italien Zl. 8.5.5/1/97 Verbalnote Die Österreichische Botschaft entbietet dem Ministerium für Auswärtige Angelegenheiten ihre Empfehlungen und beehrt sich, mit Bezug auf das am 12. Juli 1956 zwischen der Italienischen Republik und der Republik Österreich geschlossene Abkommen über den Austausch von Gastarbeitnehmern *1) einen Notenwechsel vorzuschlagen, mit dem einvernehmlich das Erlöschen dieses Abkommens mit dem Zeitpunkt des Inkrafttretens des Beitritts der Republik Österreich zur Europäischen Union am 1. Jänner 1995 festgestellt wird. Falls sich die Italienische Regierung mit dem Vorschlag der Österreichischen Bundesregierung einverstanden erklärt, werden diese Verbalnote und die das Einverständnis der Italienischen Regierung zum Ausdruck bringende Antwortnote des Italienischen Außenministeriums eine einvernehmliche Feststellung über das Erlöschen des in Rede stehenden Abkommens darstellen. Die Österreichische Botschaft benützt in Erwartung der erbetenen Antwort diese Gelegenheit, dem Ministerium für Auswärtige Angelegenheiten den Ausdruck seiner ausgezeichneten Hochachtung zu erneuern. Rom, 28. Juli 1997 L. S. An das Ministerium für Auswärtige Angelegenheiten Rom (Übersetzung) Ministerium für auswärtige Angelegenheiten Verbalnote Das Ministerium für Auswärtige Angelegenheiten entbietet der Botschaft der Republik Österreich seine Empfehlungen und bestätigt ihre Verbalnote Zl. 8.5.5/1/97 vom 28. Juli 1997, deren Inhalt wie folgt wiedergegeben wird: „Die Österreichische Botschaft ... (es folgt der weitere Text der Übersetzung der Eröffnungsnote ins Deutsche) ... darstellen.\u0027\u0027 Das Ministerium für Auswärtige Angelegenheiten beehrt sich das Einverständnis der Regierung der Italienischen Republik mitzuteilen, daß das Abkommen vom 12. Juli 1956 über den Austausch von Gastarbeitnehmern als erloschen anzusehen ist. Das Ministerium für Auswärtige Angelegenheiten benützt diese Gelegenheit, der Österreichischen Botschaft den Ausdruck seiner ausgezeichneten Hochachtung zu erneuern. Rom, 1. September 1997 L. S. An die Botschaft der Republik Österreich Rom --------------------------------------------------------------------- *1) Kundgemacht in BGBl. Nr. 123/1958",
+  "parts": [
+    {
+      "@id": "bd7b97df-8528-428a-99f4-4c835746a2e1#offset_0_2231",
+      "offset_ini": 0,
+      "offset_end": 2231,
+      "title": ""
+    }
+  ]
+}

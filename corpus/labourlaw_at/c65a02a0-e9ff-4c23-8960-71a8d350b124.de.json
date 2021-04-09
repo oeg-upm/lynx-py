@@ -1,0 +1,42 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/c65a02a0-e9ff-4c23-8960-71a8d350b124",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Wiener Landarbeitsordnung 1990"
+    },
+    "hasAuthority": "BKA (Bundeskanzleramt)",
+    "nick": [
+      "Wr. LAO 1990"
+    ],
+    "id_local": "20010859",
+    "first_date_entry_in_force": "2020-01-01",
+    "version_date": "2020-01-01",
+    "url_consolidated": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d20010859\u0026FassungVom\u003d2020-01-01",
+    "classifications": [
+      "60/01 Arbeitsvertragsrecht"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/c65a02a0-e9ff-4c23-8960-71a8d350b124/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/c65a02a0-e9ff-4c23-8960-71a8d350b124/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 1927,
+  "text": "Beachte Diese Rechtsvorschrift gilt in ihrer Fassung vom 31. Dezember 2019 für das Land Wien als Bundesgesetz, soweit sie „Arbeiterrecht sowie Arbeiter- und Angestelltenschutz, soweit es sich um land- und forstwirtschaftliche Arbeiter und Angestellte handelt“ (Art. 11 Abs. 1 Z 9 B-VG, BGBl. Nr. 1/1930, in der Fassung des Bundesgesetzes BGBl. I Nr. 14/2019) regelt; soweit diese Fassung (allenfalls) den Bestimmungen des Bundes-Verfassungsgesetzes betreffend die Zuständigkeit der Behörden widerspricht, gilt sie als „sinngemäß geändert“ (Art. 151 Abs. 63 Z 4 B-VG). Änderung LGBlW. Nr. 41/1991 LGBlW. Nr. 35/1992 LGBlW. Nr. 18/1994 LGBlW. Nr. 51/1994 LGBlW. Nr. 39/1995, CELEX Nrn.: 391L0533, CELEX Nr. 375L0129, CELEX Nr. 377L0187 LGBlW. Nr. 17/2000, CELEX Nrn.: 378L0610, 380L1107, 388L0642, 391L0322, 396L0094, 382L0605, 383L0477, 391L0382, 386L0188, 388L0364, 389L0391, 389L0654, 389L0655, 395L0063, 389L0656, 390L0269, 390L0270, 390L0394, 397L0042, 390L0679, 393L0088, 395L0030, 397L0059, 397L0065, 392L0058, 392L0085, 391L0383, 393L0104, 394L0033 LGBlW. Nr. 11/2001 LGBlW. Nr. 126/2001, CELEX Nr. 396L0034 LGBlW. Nr. 46/2002 LGBlW. Nr. 06/2004 LGBlW. Nr. 40/2005 LGBlW. Nr. 11/2006, CELEX Nrn.: 380L1107, 389L0391, 389L0654, 389L0655, 389L0656, 390L0269, 390L0270, 390L0394, 391L0322, 391L0383, 392L0058, 392L0085, 393L0104, 394L0033, 395L0063, 396L0034, 396L0094, 397L0042, 398L0024, 399L0038, 399L0070, 399L0092, 32000L0039, 32000L0054, 32001L0023, 32001L0045, 32002L0014, 32002L0044 und 32003L0010 LGBlW. Nr. 26/2007, CELEX-Nrn.: 389L0391 und 32003L0072 LGBlW. Nr. 38/2008, CELEX-Nr.: 32003L0088 LGBlW. Nr. 04/2009 LGBlW. Nr. 24/2009 LGBlW. Nr. 56/2010 LGBlW. Nr. 13/2012 LGBlW. Nr. 34/2013 LGBlW. Nr. 61/2013, CELEX-Nr.: 32009L0148 und 32010L0018 LGBlW. Nr. 13/2016 LGBlW. Nr. 42/2017, CELEX-Nrn.: 32014L0027, 32014L0036 und 32014L0054 BGBl. I Nr. 14/2019 (BG) (NR: GP XXVI RV 301 AB 463 S. 57. BR: AB 10104 S. 888.)"
+}

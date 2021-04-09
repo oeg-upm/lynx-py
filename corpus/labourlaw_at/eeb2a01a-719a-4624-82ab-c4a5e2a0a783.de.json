@@ -1,0 +1,47 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/eeb2a01a-719a-4624-82ab-c4a5e2a0a783",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Gastarbeitnehmer - Austausch - Erlöschen des Notenwechsels"
+    },
+    "hasAuthority": "BGBl. III Nr. 183/1997",
+    "id_local": "10009038",
+    "first_date_entry_in_force": "1997-10-24",
+    "version_date": "1997-10-24",
+    "url_consolidated": "http://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d10009038\u0026FassungVom\u003d1997-10-25",
+    "classifications": [
+      "69/04 Ausländerbeschäftigung"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/eeb2a01a-719a-4624-82ab-c4a5e2a0a783/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/eeb2a01a-719a-4624-82ab-c4a5e2a0a783/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 2295,
+  "text": "ÖSTERREICHISCHE BOTSCHAFT LUXEMBURG Zl. 24.8/1/97 Die Österreichische Botschaft entbietet dem Ministerium für Auswärtige Angelegenheiten ihre besten Empfehlungen und beehrt sich, dem Ministerium den Austausch von Verbalnoten zwischen der Österreichischen Bundesregierung und der Luxemburgischen Regierung über die Feststellung des Erlöschens der im Notenwechsel vom 12. September 1958 enthaltenen Vereinbarung zwischen der Österreichischen Bundesregierung und der Luxemburgischen Regierung über den Austausch von Gastarbeitern *1) vorzuschlagen: Die im Notenwechsel vom 12. September 1958 enthaltene Vereinbarung zwischen der Österreichischen Bundesregierung und der Luxemburgischen Regierung über den Austausch von Gastarbeitern ist mit dem Zeitpunkt des Inkrafttretens des Beitritts der Republik Österreich zur Europäischen Union am 1. Jänner 1995 erloschen. Diese Verbalnote und die das Einverständnis der Luxemburgischen Regierung zum Ausdruck bringende Antwortnote des luxemburgischen Ministeriums für Auswärtige Angelegenheiten werden eine einvernehmliche Feststellung über das Erlöschen der eingangs erwähnten Vereinbarung vom 12. September 1958 darstellen. Die Botschaft benützt diese Gelegenheit, dem Ministerium für Auswärtige Angelegenheiten die Versicherung ihrer ausgezeichneten Hochachtung zu erneuern. Luxemburg, am 30. Juli 1997 L.S. An das Ministerium für Auswärtige Angelegenheiten Luxemburg (Übersetzung) GROSSHERZOGTUM LUXEMBURG MINISTERIUM FÜR AUSWÄRTIGE ANGELEGENHEITEN 30/21-97/465 Das Ministerium für Auswärtige Angelegenheiten entbietet der Österreichischen Botschaft seine Empfehlungen und beehrt sich, den Empfang ihrer Note Zl. 24.8/1/97 vom 30. Juli 1997 zu bestätigen, die wie folgt lautet: „Die Österreichische Botschaft ... (es folgt der weitere Text der Eröffnungsnote in deutscher Sprache) ... erneuern.\u0027\u0027 Das Ministerium beehrt sich der Botschaft mitzuteilen, daß die Luxemburgische Regierung ihr Einverständnis zum Inhalt dieser Note gibt. Das Ministerium für Auswärtige Angelegenheiten benützt diese Gelegenheit, der Österreichischen Botschaft die Versicherung seiner ausgezeichneten Hochachtung zu erneuern. L.S. Österreichische Botschaft in Luxemburg --------------------------------------------------------------------- *1) Kundgemacht in BGBl. Nr. 27/1959",
+  "parts": [
+    {
+      "@id": "eeb2a01a-719a-4624-82ab-c4a5e2a0a783#offset_0_2295",
+      "offset_ini": 0,
+      "offset_end": 2295,
+      "title": ""
+    }
+  ]
+}

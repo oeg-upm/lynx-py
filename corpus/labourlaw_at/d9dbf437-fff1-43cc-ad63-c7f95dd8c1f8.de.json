@@ -1,0 +1,119 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/d9dbf437-fff1-43cc-ad63-c7f95dd8c1f8",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Festsetzung der von fremden Staatsangehörigen zu entrichtenden tatsächlichen Untersuchungs- und Behandlungskosten für kostenintensive Untersuchungs- und Behandlungsfälle im Universitätsklinikum AKH Wien"
+    },
+    "hasAuthority": "Landesregierung Wien",
+    "id_local": "20000620",
+    "first_date_entry_in_force": "2021-01-01",
+    "version_date": "2021-01-01",
+    "url_consolidated": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dLrW\u0026Gesetzesnummer\u003d20000620\u0026FassungVom\u003d2021-01-01",
+    "classifications": [
+      "60/40 Krankenbehandlung",
+      "60 Gesundheits- und Sozialrecht (S)"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/d9dbf437-fff1-43cc-ad63-c7f95dd8c1f8/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/d9dbf437-fff1-43cc-ad63-c7f95dd8c1f8/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 4384,
+  "text": "Bundesland Wien Änderung LGBl. Nr. 2/2021 Präambel/Promulgationsklausel Gemäß § 51 Abs. 2 3. Satz Wiener Krankenanstaltengesetz 1987 – Wr. KAG, LGBl. für Wien Nr. 23, zuletzt geändert durch das Landesgesetz LGBl. für Wien Nr. 19/2020, wird verordnet: Im RIS seit 01.02.2021Radiochirurgische Behandlung mit der Gamma-Unit § 1. Die tatsächlich erwachsenden Untersuchungs- und Behandlungskosten für fremde Staatsangehörige für eine radiochirurgische Behandlung mit der Gamma-Unit im Universitätsklinikum AKH Wien werden für die allgemeine Gebührenklasse mit 9.057,15 Euro pro Behandlungsfall (pro Patientin/pro Patient) festgesetzt.Cochlearimplantat-Behandlung § 2. Die tatsächlich erwachsenden Untersuchungs- und Behandlungskosten für fremde Staatsangehörige für eine Cochlearimplantat-Behandlung im Universitätsklinikum AKH Wien werden für die allgemeine Gebührenklasse mit 57.532,76 Euro pro Behandlungsfall (pro Patientin/pro Patient) festgesetzt.Matrix-assistierte Knorpelzelltransplantation § 3. Die tatsächlich erwachsenden Untersuchungs- und Behandlungskosten für fremde Staatsangehörige für eine Matrix-assistierte Knorpelzelltransplantation im Universitätsklinikum AKH Wien werden für die allgemeine Gebührenklasse mit 16.849,34 Euro pro Behandlungsfall (pro Patientin/pro Patient) festgesetzt.Nervus-Vagus-Stimulation § 4. Die tatsächlich erwachsenden Untersuchungs- und Behandlungskosten für fremde Staatsangehörige für eine Nervus-Vagus-Stimulation im Universitätsklinikum AKH Wien werden für die allgemeine Gebührenklasse mit 27.973,08 Euro pro Behandlungsfall (pro Patientin/pro Patient) festgesetzt.SIRT-Therapie § 5. Die tatsächlich erwachsenden Untersuchungs- und Behandlungskosten für fremde Staatsangehörige für eine SIRT-Therapie im Universitätsklinikum AKH Wien werden für die allgemeine Gebührenklasse mit 24.584,98 Euro pro Behandlungsfall (pro Patientin/pro Patient) festgesetzt.XOFIGO-Therapie § 6. Die tatsächlich erwachsenden Untersuchungs- und Behandlungskosten für fremde Staatsangehörige für eine XOFIGO-Therapie im Universitätsklinikum AKH Wien werden für die allgemeine Gebührenklasse mit 9.877,61 Euro pro Behandlungsfall (pro Patientin/pro Patient) festgesetzt.Univentrikuläres Herzunterstützungssystem § 7. Die tatsächlich erwachsenden Untersuchungs- und Behandlungskosten für fremde Staatsangehörige für eine Behandlung mit dem Univentrikulären Herzunterstützungssystem im Universitätsklinikum AKH Wien werden für die allgemeine Gebührenklasse mit 139.667,05 Euro pro Behandlungsfall (pro Patientin/pro Patient) festgesetzt.Lungentransplantation (Doppellunge) § 8. Die tatsächlich erwachsenden Untersuchungs- und Behandlungskosten für fremde Staatsangehörige für eine Lungentransplantation (Doppellunge) im Universitätsklinikum AKH Wien werden für die allgemeine Gebührenklasse mit 145.009,59 Euro pro Behandlungsfall (pro Patientin/pro Patient) festgesetzt.Implantation einer Aortenklappe (TAVI) § 9. Die tatsächlich erwachsenden Untersuchungs- und Behandlungskosten für fremde Staatsangehörige für eine Implantation einer Aortenklappe (TAVI) im Universitätsklinikum AKH Wien werden für die allgemeine Gebührenklasse mit 33.904,90 Euro pro Behandlungsfall (pro Patientin/pro Patient) festgesetzt.Katheterbasiertes Verfahren zur Behandlung einer Mitralklappeninsuffizienz (Mitraclip) § 10. Die tatsächlich erwachsenden Untersuchungs- und Behandlungskosten für fremde Staatsangehörige für ein katheterbasiertes Verfahren zur Behandlung einer Mitralklappeninsuffizienz (Mitraclip) im Universitätsklinikum AKH Wien werden für die allgemeine Gebührenklasse mit 42.945,40 Euro pro Behandlungsfall (pro Patientin/pro Patient) festgesetzt.§ 11. § 3 Abs. 1 Z 1 der Verordnung der Wiener Landesregierung betreffend die Festsetzung der Pflegegebühren der allgemeinen Gebührenklasse der Wiener öffentlichen Krankenanstalten (Pflegegebührenverordnung), LGBl. für Wien Nr. 3/2021, ist auf Behandlungsfälle gemäß §§ 1 bis 10 nicht anzuwenden.Inkrafttreten § 12. (1) Diese Verordnung tritt mit 1. Jänner 2021 in Kraft. (2) Mit Ablauf des 31. Dezember 2020 tritt die Verordnung der Wiener Landesregierung über die Festsetzung der von fremden Staatsangehörigen zu entrichtenden tatsächlichen Untersuchungs- und Behandlungskosten für kostenintensive Untersuchungs- und Behandlungsfälle im Allgemeinen Krankenhaus der Stadt Wien, LGBl. für Wien Nr. 10/2020, außer Kraft.",
+  "parts": [
+    {
+      "@id": "d9dbf437-fff1-43cc-ad63-c7f95dd8c1f8#offset_273_628",
+      "offset_ini": 273,
+      "offset_end": 628,
+      "title": "Radiochirurgische Behandlung mit der Gamma-Unit"
+    },
+    {
+      "@id": "d9dbf437-fff1-43cc-ad63-c7f95dd8c1f8#offset_629_947",
+      "offset_ini": 629,
+      "offset_end": 947,
+      "title": "Cochlearimplantat-Behandlung"
+    },
+    {
+      "@id": "d9dbf437-fff1-43cc-ad63-c7f95dd8c1f8#offset_948_1300",
+      "offset_ini": 948,
+      "offset_end": 1300,
+      "title": "Matrix-assistierte Knorpelzelltransplantation"
+    },
+    {
+      "@id": "d9dbf437-fff1-43cc-ad63-c7f95dd8c1f8#offset_1301_1611",
+      "offset_ini": 1301,
+      "offset_end": 1611,
+      "title": "Nervus-Vagus-Stimulation"
+    },
+    {
+      "@id": "d9dbf437-fff1-43cc-ad63-c7f95dd8c1f8#offset_1612_1900",
+      "offset_ini": 1612,
+      "offset_end": 1900,
+      "title": "SIRT-Therapie"
+    },
+    {
+      "@id": "d9dbf437-fff1-43cc-ad63-c7f95dd8c1f8#offset_1901_2192",
+      "offset_ini": 1901,
+      "offset_end": 2192,
+      "title": "XOFIGO-Therapie"
+    },
+    {
+      "@id": "d9dbf437-fff1-43cc-ad63-c7f95dd8c1f8#offset_2193_2557",
+      "offset_ini": 2193,
+      "offset_end": 2557,
+      "title": "Univentrikuläres Herzunterstützungssystem"
+    },
+    {
+      "@id": "d9dbf437-fff1-43cc-ad63-c7f95dd8c1f8#offset_2558_2891",
+      "offset_ini": 2558,
+      "offset_end": 2891,
+      "title": "Lungentransplantation (Doppellunge)"
+    },
+    {
+      "@id": "d9dbf437-fff1-43cc-ad63-c7f95dd8c1f8#offset_2892_3230",
+      "offset_ini": 2892,
+      "offset_end": 3230,
+      "title": "Implantation einer Aortenklappe (TAVI)"
+    },
+    {
+      "@id": "d9dbf437-fff1-43cc-ad63-c7f95dd8c1f8#offset_3231_3665",
+      "offset_ini": 3231,
+      "offset_end": 3665,
+      "title": "Katheterbasiertes Verfahren zur Behandlung einer Mitralklappeninsuffizienz (Mitraclip)"
+    },
+    {
+      "@id": "d9dbf437-fff1-43cc-ad63-c7f95dd8c1f8#offset_3666_3961",
+      "offset_ini": 3666,
+      "offset_end": 3961,
+      "title": ""
+    },
+    {
+      "@id": "d9dbf437-fff1-43cc-ad63-c7f95dd8c1f8#offset_3962_4384",
+      "offset_ini": 3962,
+      "offset_end": 4384,
+      "title": "Inkrafttreten"
+    },
+    {
+      "@id": "d9dbf437-fff1-43cc-ad63-c7f95dd8c1f8#offset_0_272",
+      "offset_ini": 0,
+      "offset_end": 272
+    }
+  ]
+}

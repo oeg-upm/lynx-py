@@ -1,0 +1,343 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/d3ea8038-d95e-4991-bdeb-129f5fc6627c",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Freiwilligengesetz"
+    },
+    "hasAuthority": "BKA (Bundeskanzleramt)",
+    "nick": [
+      " FreiwG"
+    ],
+    "id_local": "20007753",
+    "first_date_entry_in_force": "2012-05-31",
+    "version_date": "2021-01-01",
+    "url_consolidated": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d20007753\u0026FassungVom\u003d2018-01-01",
+    "classifications": [
+      "60/04 Arbeitsrecht allgemein"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/d3ea8038-d95e-4991-bdeb-129f5fc6627c/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/d3ea8038-d95e-4991-bdeb-129f5fc6627c/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 50604,
+  "text": "Änderung BGBl. I Nr. 163/2013 (NR: GP XXIV RV 2406 AB 2537 S. 215. BR: AB 9060 S. 823.) BGBl. I Nr. 144/2015 (NR: GP XXV RV 821 AB 882 S. 104. BR: 9486 AB 9487 S. 848.) BGBl. I Nr. 120/2016 (NR: GP XXV RV 1345 AB 1388 S. 157. BR: 9714 S. 863.) BGBl. I Nr. 156/2017 (NR: GP XXV IA 2308/A S. 199. BR: 9900 AB 9908 S. 873.) BGBl. I Nr. 100/2018 (NR: GP XXVI RV 329 AB 413 S. 57. BR: 10079 AB 10082 S. 888.) BGBl. I Nr. 23/2020 (NR: GP XXVII IA 402/A AB 115 S. 22. BR: AB 10291 S. 905.) BGBl. I Nr. 41/2020 (NR: GP XXVII IA 481/A AB 123 S. 27. Einspr. d. BR: 150 BR: AB 10302 S. 906.; NR: AB 176 S. 30.) Präambel/Promulgationsklausel Inhaltsverzeichnis Abschnitt 1 Allgemeine Bestimmungen § 1. Ziele § 2. Förderung von freiwilligem Engagement § 3. Freiwilligenorganisationen § 4. Freiwilligenbericht und Internetportal Abschnitt 2 Freiwilliges Sozialjahr § 5. Regelungsgegenstand § 6. Freiwilliges Sozialjahr § 7. Teilnehmer/innen § 8. Träger § 9. Einsatzstelle § 10. Informationspflichten § 11. Qualitätssicherung § 12. Vereinbarung, Zertifikat § 13. Freistellung § 14. Zeitliche Beschränkungen § 15. Mutterschutz § 16. Haftungsbeschränkung § 17. Überwachung und Strafbestimmungen § 18. Gleichbehandlung § 19. Verwendung personenbezogener Daten § 20. Zuständigkeit der Arbeits- und Sozialgerichte § 21. Förderung Abschnitt 3 Freiwilliges Umweltschutzjahr § 22. Regelungsgegenstand § 23. Freiwilliges Umweltschutzjahr § 24. Anzuwendende Regelungen Abschnitt 4 Gedenkdienst, Friedens- und Sozialdienst im Ausland § 25. Regelungsgegenstand § 26. Gedenkdienst, Friedens- und Sozialdienst im Ausland § 27. Anzuwendende Regelungen § 27a. Förderung Abschnitt 4a Freiwilliges Integrationsjahr § 27b. Regelungsgegenstand § 27c. Freiwilliges Integrationsjahr § 27d. Anzuwendende Regelungen Abschnitt 5 Österreichischer Freiwilligenrat § 28. Einrichtung § 29. Ziel § 30. Aufgaben § 31. Mitglieder § 32. Bestellung § 33. Einberufung der Sitzungen § 34. Beschlussfähigkeit § 35. Geschäftsführung und -ordnung Abschnitt 6 Anerkennungsfonds für Freiwilliges Engagement § 36. Fonds, Begünstigte §§ 37. bis 39. Zuwendungen § 40. Zuständigkeit §§ 41. und 42. Mittel § 43. Verwaltung des Fonds § 44. Kostentragung Abschnitt 7 Schlussbestimmungen §§ 45. bis 47. Anmerkung Das Freiwilligengesetz wurde in Artikel 1 des BGBl. I Nr. 17/2012 kundgemacht.Abschnitt 1 Allgemeine Bestimmungen Ziele § 1. (1) Dieses Bundesgesetz regelt Rahmenbedingungen für formelle freiwillige Tätigkeiten im Interesse der Allgemeinheit mit der Zielsetzung, solche Tätigkeiten zu unterstützen und die Teilnahme zu fördern. Damit sollen der Zusammenhalt zwischen den sozialen Gruppen, den Generationen und Kulturen sowie die gesellschaftliche und soziale Verantwortung gestärkt werden. (2) Zur Erreichung dieser Ziele sieht dieses Bundesgesetz vor: 1. Förderungen von Freiwilligenorganisationen, einen Freiwilligenpass und einen periodischen Freiwilligenbericht (Abschnitt 1), 2. die Einrichtung eines Freiwilligen Sozialjahres, eines Freiwilligen Umweltschutzjahres, eines Gedenkdienstes, eines Friedens- und Sozialdienstes im Ausland und eines Freiwilligen Integrationsjahres sowie die rechtliche Absicherung der Teilnehmenden (Abschnitte 2, 3 und 4), 3. die Einrichtung eines Österreichischen Freiwilligenrates (Abschnitt 5), 4. die Einrichtung eines Anerkennungsfonds für freiwilliges Engagement (Abschnitt 6).Förderung von freiwilligem Engagement § 2. (1) Nach Maßgabe dieses Bundesgesetzes und der im jeweiligen Bundesfinanzgesetz hiefür verfügbaren Mittel kann der/die Bundesminister/in für Arbeit, Soziales und Konsumentenschutz bzw. der/die Bundesminister/in für Wirtschaft, Familie und Jugend, unbeschadet der Zuständigkeit anderer Bundesminister/innen, an Freiwilligenorganisationen im Sinne des § 3 für freiwilliges Engagement, an freiwilligenspezifische Projekte und für bewusstseinsbildende Maßnahmen Mittel gewähren. (2) Freiwilliges Engagement liegt vor, wenn natürliche Personen 1. freiwillig Leistungen für andere, 2. in einem organisatorischen Rahmen, 3. unentgeltlich, 4. mit dem Zweck der Förderung der Allgemeinheit oder aus vorwiegend sozialen Motiven und 5. ohne dass dies in Erwerbsabsicht, aufgrund eines Arbeitsverhältnisses oder im Rahmen einer Berufsausbildung, erfolgt, erbringen. Als freiwilliges Engagement gelten auch Maßnahmen zur persönlichen und fachlichen Aus- und Fortbildung, die für die Freiwilligenorganisation und Umsetzung der freiwilligen Tätigkeit erforderlich sind. Weiters gilt als freiwilliges Engagement auch die Teilnahme am europäischen Freiwilligendienst gemäß der Verordnung (EU) Nr. 1288/2013 zur Einrichtung von „Erasmus+“, ABl. Nr. L 347 vom 20.12.2013 S. 50.. (3) Förderungen können auf Antrag in Form von Zuschüssen gewährt werden. Ein Anspruch auf Förderung besteht nicht.Freiwilligenorganisationen § 3. (1) Freiwilligenorganisationen im Sinne dieses Abschnittes sind gemeinnützige juristische Personen öffentlichen oder privaten Rechts, deren Tätigkeit in hohem Ausmaß von Personen im Rahmen des freiwilligen Engagements gemäß § 2 Abs. 2 erfolgt, die nicht auf Gewinn ausgerichtet sind und deren Sitz sich im Inland befindet. (2) Als Freiwilligenorganisationen im Sinne dieses Abschnittes gelten nicht politische Parteien im Sinne des Parteiengesetzes, BGBl. Nr. 404/1975. (3) Freiwilligenorganisationen können nur dann nach § 2 gefördert werden, wenn sie ihre Freiwilligen nachweislich über die Rahmenbedingungen für freiwillige Tätigkeiten aufklären, und zwar insbesondere über: Aufnahmemodus, Tätigkeitsfelder, Ansprechperson, Aus- und Fortbildung, Mitsprachemöglichkeiten, Tätigkeitsnachweis, Aufwandsentschädigung sowie Versicherung. (4) Freiwilligenorganisationen können nur dann nach § 2 gefördert werden, wenn sie den Freiwilligen zur Nutzbarmachung der durch das freiwillige Engagement erworbenen Kompetenzen und Qualifikationen auf deren Verlangen binnen sechs Monaten nach Beendigung ihrer Tätigkeit einen Tätigkeitsnachweis über Dauer und Art der Tätigkeit sowie die dabei erworbenen Kompetenzen ausstellen (Nachweis über Freiwilligentätigkeiten/Freiwilligenpass).Freiwilligenbericht und Internetportal § 4. (1) Der/die Bundesminister/in für Arbeit, Soziales und Konsumentenschutz erstellt unter Mitwirkung des Österreichischen Freiwilligenrates und im Einvernehmen mit dem/der Bundesminister/in für Wirtschaft, Familie und Jugend in periodischen Abständen einen Bericht über die Lage und Entwicklung des freiwilligen Engagements in Österreich. (2) Als zentrales Informations- und Vernetzungsmedium über und für das freiwillige Engagement in Österreich ist ein Internetportal beim Bundesministerium für Arbeit, Soziales und Konsumentenschutz einzurichten.Abschnitt 2 Freiwilliges Sozialjahr Regelungsgegenstand § 5. Dieser Abschnitt regelt zivilrechtliche Aspekte des Freiwilligen Sozialjahres und dessen sonstige Rahmenbedingungen, soweit dies in die Gesetzgebungs- und Vollziehungskompetenz des Bundes fällt, insbesondere für die Zwecke der Sozialversicherung und der Familienbeihilfe.Freiwilliges Sozialjahr § 6. (1) Das Freiwillige Sozialjahr gehört zu den besonderen Formen des freiwilligen Engagements, ist im Interesse des Gemeinwohls und kann nicht im Rahmen eines Arbeitsverhältnisses absolviert werden. Ziele des Freiwilligen Sozialjahrs sind insbesondere die Vertiefung von schulischer Vorbildung, das Kennenlernen der Arbeit in der Einsatzstelle, die Persönlichkeitsentwicklung, die Erweiterung und Anwendung von Kenntnissen zum Erwerb von Fertigkeiten für soziale Berufsfelder, die Berufsorientierung, die Stärkung sozialer Kompetenzen und die Förderung des freiwilligen sozialen Engagements der Teilnehmer/innen. (Anm.: Abs. 2 mit Ablauf des 31.12.2020 außer Kraft getreten)Teilnehmer/innen § 7. (1) Die Teilnehmer/innen des Freiwilligen Sozialjahres sind Personen ohne einschlägige abgeschlossene Berufsausbildung nach Vollendung des 17. Lebensjahres – bei besonderer Eignung nach Vollendung des 16. Lebensjahres – die einmalig eine freiwillige praktische Hilfstätigkeit in der Dauer von sechs bis zwölf Monaten bei einer von einem anerkannten Träger (§ 8) zugewiesenen Einsatzstelle im Inland gemäß § 9 zur Erreichung der in § 6 genannten Ziele ausüben (Ausbildungsverhältnis). Der Einsatz hat sich an Lernzielen zu orientieren und erfolgt unter pädagogischer Begleitung und fachlicher Anleitung, Beaufsichtigung und Verantwortung der jeweiligen Einsatzstelle. Der/die Teilnehmer/in darf nicht mehr als 34 Wochenstunden tätig sein. (Anm.: Abs. 2 und 3 mit Ablauf des 31.12.2020 außer Kraft getreten)Träger § 8. (1) Gemeinnützige Träger der freien Wohlfahrtspflege oder andere gemeinnützige, nicht auf Gewinn orientierte juristische Personen privaten Rechts mit Sitz im Inland sind auf Antrag mit Bescheid des/der Bundesministers/Bundesministerin für Arbeit, Soziales und Konsumentenschutz als Träger des Freiwilligen Sozialjahres anzuerkennen; die Anerkennung kann befristet oder unbefristet erfolgen. Voraussetzungen für die Anerkennung als Träger sind: 1. die fachlichen und wirtschaftlichen Voraussetzungen zur Organisation des Freiwilligen Sozialjahres, insbesondere a) ausreichende Finanzmittel zur Durchführung des Freiwilligen Sozialjahres, b) das Vorliegen eines Programms zur pädagogischen Betreuung und Begleitung für die Teilnehmer/innen im Ausmaß von mindestens 150 Stunden nach § 8 Abs. 4 Z 2, c) das Vorliegen eines Qualitätssicherungskonzeptes, d) zahlenmäßig ausreichendes, entsprechend qualifiziertes Personal für die Betreuung der Teilnehmer/innen (insbesondere eine konkrete Ansprechperson) sowie für die Information und Auswahl der Interessenten/innen, e) Erfahrungen im Freiwilligenmanagement. 2. das Vorhandensein von mindestens 15 im Hinblick auf die Ziele des Freiwilligen Sozialjahres geeigneten, sowie vom Träger unabhängigen Einsatzstellen mit überregionaler Streuung in zumindest drei verschiedenen Einsatzbereichen nach § 9 Abs. 1, die insbesondere auch die Voraussetzung des § 9 Abs. 2 (Arbeitsmarktneutralität) erfüllen. (2) Dem Antrag nach Abs. 1 sind beizulegen: 1. Entwürfe der Vereinbarung mit den Rechtsträgern der Einsatzstellen, 2. Entwürfe der Vereinbarung mit dem/der Teilnehmer/in am Freiwilligen Sozialjahr, 3. Nachweise der Anerkennungsvoraussetzungen nach Abs. 1, insbesondere auch ein Bildungs-, Finanz- und Qualitätssicherungskonzept und die Nennung von mindestens 15 geplanten Einsatzstellen mit überregionaler Streuung und in zumindest drei verschiedenen Einsatzbereichen nach § 9 Abs. 1, 4. Nachweis der Unabhängigkeit nach § 9 Abs. 1 letzter Satz, insbesondere durch Nachweis der Rechtsform des Trägers bzw. der geplanten Einsatzstellen. (3) Die Träger des Freiwilligen Sozialjahres haben den/die Bundesminister/in für Arbeit, Soziales und Konsumentenschutz von jeder Änderung der Anerkennungsvoraussetzungen gemäß Abs. 1 oder den Änderungen der Nachweise nach Abs. 2 unverzüglich zu informieren. (4) Die Träger des Freiwilligen Sozialjahres treffen folgende Verpflichtungen: 1. die Beratung und Information der Teilnehmer/innen und von Interessentinnen und Interessenten (§ 10), 2. die Sicherstellung von fachlicher Anleitung der Teilnehmer/innen in der Einsatzstelle und von pädagogischer Betreuung und Begleitung durch pädagogisch geschulte Kräfte im Ausmaß von mindestens 150 Stunden in den Bereichen Reflexion, Persönlichkeitsbildung und fachspezifische Seminare, inklusive theoretischer Einschulung, 3. die Sicherstellung der sozialversicherungsrechtlichen Absicherung und der Beitragszahlung, 4. die Achtung der Arbeitsmarktneutralität beim Einsatz der Teilnehmer/innen, insbesondere durch die Auswahl von Einsatzstellen, die die Voraussetzung des § 9 Abs. 2 erfüllen, 5. keine Teilnehmer/innen am Freiwilligen Sozialjahr an eine Einsatzstelle zu vermitteln, die entgegen der Bestimmung des § 6 Teilnehmer/innen am Freiwilligen Sozialjahr im Rahmen eines Arbeitsverhältnisses beschäftigt hat, 6. die Auszahlung eines Taschengeldes in Höhe von mindestens 50 % und maximal 100 % des monatlichen Betrages nach § 5 Abs. 2 Z 2 des Allgemeinen Sozialversicherungsgesetzes, BGBl. Nr. 189/1955, an die Teilnehmer/innen, 7. der Abschluss einer Vereinbarung und die Ausstellung eines Zertifikats nach § 12, 8. die Vertretung der Interessen der Teilnehmerin/des Teilnehmers am Freiwilligen Sozialjahr gegenüber der Einsatzstelle und 9. die Durchführung der Qualitätssicherung (§ 11). (5) Die Anerkennung als geeigneter Träger nach Abs. 1 ist vom/von der Bundesminister/in für Arbeit, Soziales und Konsumentenschutz zu widerrufen, wenn 1. dies der Träger des Freiwilligen Sozialjahres beantragt, 2. der Träger nicht mehr den in Abs. 1 festgelegten Voraussetzungen entspricht, 3. der Träger die ihm nach Abs. 4 obliegenden Pflichten trotz Mahnung nicht mehr erfüllt oder 4. für ein Einsatzjahr bei mindestens zwei verschiedenen Einsatzstellen die Beschäftigung von zumindest drei der durch den jeweiligen Träger vermittelten Teilnehmern/Teilnehmerinnen als Arbeitnehmer/innen durch rechtskräftiges Urteil oder rechtskräftigen Vergleich festgestellt wurde. (6) Bescheide nach Abs. 1 und 5 sind vom/von der Bundesminister/in für Arbeit, Soziales und Konsumentenschutz im Einvernehmen mit dem/der Bundesminister/in für Wirtschaft, Familie und Jugend zu erlassen. (7) Der/die Bundesminister/in für Arbeit, Soziales und Konsumentenschutz hat zur Information für mögliche Interessenten/innen ein Verzeichnis der zur Durchführung des Freiwilligen Sozialjahres anerkannten Träger im Internet zu veröffentlichen.Einsatzstelle § 9. (1) Eine geeignete Einsatzstelle ist eine gemeinwohlorientierte und nicht gewinnorientierte Einrichtung aus einem der folgenden Bereiche: Rettungswesen, Krankenanstalten, Sozial- und Behindertenhilfe, Betreuung alter Menschen, Betreuung von Drogenabhängigen, Betreuung von von Gewalt betroffenen Menschen, Betreuung von Flüchtlingen und Vertriebenen, Betreuung von Obdachlosen, Kinderbetreuung, Arbeit mit Kindern, Jugendlichen und Senioren/innen. Ein Träger darf nicht zugleich Einsatzstelle sein. (2) Der laufende Betrieb in der Einsatzstelle bzw. in zu dieser gehörenden örtlich dislozierten Einrichtungen muss auch ohne Teilnehmende am Freiwilligen Sozialjahr in vollem bisherigen Umfang aufrechterhalten werden können (Arbeitsmarktneutralität). Das heißt insbesondere, dass es durch die Teilnehmer/innen am Freiwilligen Sozialjahr nicht zu einer Verminderung der Zahl der Arbeitnehmer/innen in der Einsatzstelle kommen darf. (3) Zur Durchführung des Freiwilligen Sozialjahres schließen der anerkannte Träger und der Rechtsträger der Einsatzstelle eine schriftliche Vereinbarung. Die Vereinbarung legt fest, in welcher Weise Träger und Einsatzstellen die Ziele des Freiwilligen Sozialjahres (insbesondere soziale Kompetenz und Berufsorientierung der Teilnehmenden am Freiwilligen Sozialjahr) gemeinsam verfolgen.Informationspflichten § 10. Die nach § 8 anerkannten Träger haben die Teilnehmer/innen nachweislich über die Rahmenbedingungen des Freiwilligen Sozialjahres aufzuklären und zwar insbesondere über die für die Teilnehmer/innen geltenden Rechtsvorschriften, sozialrechtliche Absicherung und Familienbeihilfe, Tätigkeitsfelder, Ansprechperson und fachliche Anleitung in der Einsatzstelle, pädagogische Betreuung und Begleitung, wesentliche Inhalte der Vereinbarung nach § 12, Tätigkeitsnachweis/Zertifikat, sowie Taschengeld bzw. allfällige Aufwandsentschädigung.Qualitätssicherung § 11. (1) Die nach § 8 anerkannten Träger sind verpflichtet, eine regelmäßige Evaluierung insbesondere der fachlichen Anleitung und der pädagogischen Betreuung und Begleitung durch pädagogisch geschulte Kräfte in den Bereichen Reflexion, Persönlichkeitsbildung und fachspezifische Seminare und des praktischen Einsatzes durchzuführen. (2) Die nach § 8 anerkannten Träger haben dem/der Bundesminister/in für Arbeit, Soziales und Konsumentenschutz und dem/der Bundesminister/in für Wirtschaft, Familie und Jugend alle drei Jahre – oder gegebenenfalls auch zusätzlich auf ausdrückliche Aufforderung – schriftliche Berichte über die Durchführung und Evaluierung des Freiwilligen Sozialjahres, einschließlich der Anzahl der in den Einsatzstellen insgesamt beschäftigten Arbeitnehmer/innen, vorzulegen. (3) Für die Zwecke der Evaluierung des Freiwilligen Sozialjahres und der Überprüfung der Anerkennungsvoraussetzungen der Träger ist der Dachverband der Sozialversicherungsträger verpflichtet, dem Bundesministerium für Arbeit, Soziales und Konsumentenschutz und dem Bundesministerium für Wirtschaft, Familie und Jugend auf Anfrage, mindestens jedoch einmal jährlich Anzahl, Alter, Geschlecht und Dauer des Einsatzes der Teilnehmer/innen am Freiwilligen Sozialjahr und deren Einsatzstelle im jeweiligen Bundesland, gegliedert nach Trägern, sowie die Gesamtanzahl der in der jeweiligen Einsatzstelle beschäftigten Arbeitnehmer/innen bekannt zu geben.Vereinbarung, Zertifikat § 12. (1) Der nach § 8 anerkannte Träger und der/die Teilnehmer/in am Freiwilligen Sozialjahr schließen vor Beginn des Einsatzes eine schriftliche Vereinbarung ab. Sie muss enthalten: 1. Vor- und Familienname, Geburtsdatum und Anschrift des Teilnehmers/der Teilnehmerin, 2. die Bezeichnung des Trägers des Freiwilligen Sozialjahres und der Einsatzstelle, 3. die Dauer des Freiwilligen Sozialjahres sowie Regelungen für den Fall der vorzeitigen Beendigung des Einsatzes, wobei die Rückerstattung von Ausbildungskosten nicht vereinbart werden darf, 4. die beiderseitige Erklärung, dass die Bestimmungen dieses Gesetzes während der Durchführung des Freiwilligen Sozialjahres einzuhalten sind, 5. die Angabe des Anerkennungsbescheides des Trägers, 6. Angaben zur Art und Höhe von allfälligen Geld- oder Sachleistungen für Unterkunft, Verpflegung, Arbeitskleidung sowie des Taschengeldes, 7. die Angabe des Ausmaßes der Freistellung und 8. die Ziele des Einsatzes und die wesentlichen der Zielerreichung dienenden Maßnahmen, 9. die Zustimmung des/der Teilnehmer/in, dass die Daten der Vereinbarung a) an die Einsatzstellen und deren Träger für die Zwecke der Abwicklung des Freiwilligen Sozialjahres, b) an den Dachverband der Sozialversicherungsträger für die Zwecke der Überprüfung der Anerkennungsvoraussetzungen der Träger und der Evaluierung und c) an die Träger der Sozialversicherung für die Zwecke der Sozialversicherung, sowie d) an Abgabenbehörden für Zwecke der Familienbeihilfe (Anm.: Z 10 mit Ablauf des 31.12.2020 außer Kraft getreten) übermittelt werden. (2) Der anerkannte Träger stellt unter Beteiligung der jeweiligen Einsatzstelle dem/der Teilnehmer/in nach Abschluss des Einsatzes ein Zertifikat aus. Das Zertifikat muss die Angabe des Anerkennungsbescheides des Trägers, den Zeitraum und Angaben zu den im Rahmen des Freiwilligen Sozialjahres erworbenen Fähigkeiten und Kompetenzen enthalten. (Anm.: Abs. 3 und 4 mit Ablauf des 31.12.2020 außer Kraft getreten)Freistellung § 13. (1) Der/die Teilnehmer/in hat für das Freiwillige Sozialjahr einen Anspruch auf Freistellung im Ausmaß von 25 Tagen. Bei einer kürzeren Dauer des Freiwilligen Sozialjahres von weniger als zwölf Monaten gebührt Freistellung in dem Ausmaß, das dem um die Dauer des verkürzten Freiwilligen Sozialjahres entspricht. Ergeben sich bei der Berechnung des Freistellungsausmaßes Teile von Tagen, so sind diese auf ganze Tage aufzurunden. (2) Über den Verbrauch der Freistellung ist rechtzeitig eine Vereinbarung zwischen dem/der Teilnehmer/in und dem Rechtsträger der Einsatzstelle zu treffen, wobei auf die Interessen der Einsatzstelle und die persönlichen Interessen der/des Teilnehmer/in angemessen Rücksicht zu nehmen ist. Kommt ein Einvernehmen nicht zustande, entscheidet über die Freistellung der Träger, mit dem der/die Teilnehmer/in die Vereinbarung gemäß § 12 geschlossen hat. Während der Freistellung behält der/die Teilnehmer/in den Anspruch auf das gemäß § 12 gebührende Taschengeld. (3) Aus wichtigen persönlichen Gründen kann dem/der Teilnehmer/in vom Rechtsträger der Einsatzstelle über das im Abs. 1 angeführte Ausmaß hinaus eine dem jeweiligen Anlass angemessene Freistellung im Freiwilligen Sozialjahr unter Fortzahlung des Taschengeldes gewährt werden.Zeitliche Beschränkungen § 14. Der Rechtsträger der Einsatzstelle hat Teilnehmer/innen, die nicht dem Kinder- und Jugendlichen-Beschäftigungsgesetz 1987, BGBl. Nr. 599/1987, unterliegen, in jeder Kalenderwoche eine ununterbrochene Freizeit von mindestens 36 Stunden zu gewähren.Mutterschutz § 15. Die §§ 3 bis 9 des Mutterschutzgesetzes 1979 (MSchG), BGBl. Nr. 221/1979, gelten für Teilnehmerinnen am Freiwilligen Sozialjahr sinngemäß mit der Maßgabe, dass für die Einhaltung dieser Bestimmung der Rechtsträger der Einsatzstelle verantwortlich ist.Haftungsbeschränkung § 16. Die Bestimmungen des Dienstnehmerhaftpflichtgesetzes, BGBl. Nr. 80/1965, sind sowohl im Verhältnis zwischen dem Träger des Freiwilligen Sozialjahres und dem/der Teilnehmer/in als auch zwischen dem Träger der Einsatzstelle und dem/der in dieser Einsatzstelle tätigen Teilnehmer/in sinngemäß anzuwenden.Überwachung und Strafbestimmungen § 17. (1) Die zur Wahrnehmung des ArbeitnehmerInnenschutzes berufenen Behörden haben festgestellte Verstöße gegen ArbeitnehmerInnenschutzvorschriften unverzüglich dem jeweiligen Träger des Freiwilligen Sozialjahres zu berichten. (2) Die Verletzung der den Rechtsträgern der Einsatzstelle in § 14 und § 15 auferlegten Pflichten bildet eine Verwaltungsübertretung, die von der Bezirksverwaltungsbehörde 1. bei Übertretungen des § 14 mit einer Geldstrafe von bis zu 1 090 €, 2. bei Übertretung des § 15 nach den Strafbestimmungen des MSchG zu bestrafen ist, sofern die Tat nicht nach anderen Vorschriften einer strengeren Strafe unterliegt.Gleichbehandlung § 18. Der I. und II. Teil des Gleichbehandlungsgesetzes, BGBl. I Nr. 66/2004, sowie die Bestimmungen des Behinderteneinstellungsgesetzes, BGBl. Nr. 22/1970, betreffend den Diskriminierungsschutz gelten sinngemäß.Verwendung personenbezogener Daten § 19. (1) Die nach § 8 anerkannten Träger und die Einsatzstellen und deren Träger dürfen personenbezogene Daten gemäß Abs. 2 nur verwenden, wenn die Verwendung der Daten eine wesentliche Voraussetzung für die Wahrnehmung einer ihnen gesetzlich übertragenen Aufgabe ist. (2) Die nach § 8 anerkannten Träger sind ermächtigt, an die in Abs. 3 genannten Empfänger folgende Daten zu übermitteln, soweit dies für die Erfüllung der diesen Empfängern jeweils übertragenen Aufgaben erforderlich ist: Name, Geburtsdatum, Sozialversicherungsnummer und Adresse des/der Teilnehmers/in am Freiwilligen Sozialjahr (Stammdatensatz), Daten des Bescheides gemäß § 8 sowie der Vereinbarung nach § 12, Dauer des Freiwilligen Sozialjahres und Art der vom/von der Teilnehmer/in zu erbringenden Tätigkeiten, Bezeichnung und Adresse von anerkannten Trägern und Einsatzstellen und deren Rechtsträgern. (3) Die Empfänger der Daten sind: 1. die Einsatzstellen nach § 9 und deren Träger für die Vollziehung dieses Abschnittes, 2. der Dachverband der Sozialversicherungsträger für die Zwecke der Überprüfung der Anerkennungsvoraussetzungen der Träger und der Evaluierung nach § 11 Abs. 3 und die Träger der Sozialversicherung für die Zwecke der Sozialversicherung, 3. die Abgabenbehörden für die Vollziehung des Familienlastenausgleichsgesetzes 1967, BGBl. Nr. 376/1967.Zuständigkeit der Arbeits- und Sozialgerichte § 20. Für Streitigkeiten zwischen Teilnehmer/innen am Freiwilligen Sozialjahr und dem anerkannten Träger (§ 8) sowie zwischen dem/der Teilnehmer/in und der Einsatzstelle (§ 9) sind die Landesgerichte als Arbeits- und Sozialgerichte, in Wien das Arbeits- und Sozialgericht Wien zuständig. Die Bestimmungen des Arbeits- und Sozialgerichtsgesetzes für Arbeitsrechtssachen sind sinngemäß anzuwenden, der/die Teilnehmer/in gilt diesbezüglich als Arbeitnehmer/in, der anerkannte Träger und die Einsatzstelle als Arbeitgeber/in.Förderung § 21. Ein Freiwilliges Sozialjahr kann nach Maßgabe der im jeweiligen Bundesfinanzgesetz dafür verfügbaren Mittel vom/von der Bundesminister/in für Arbeit, Soziales und Konsumentenschutz gefördert werden, wenn die Voraussetzungen nach den §§ 8, 10, 11 und 12 erfüllt sind und das Freiwillige Sozialjahr von einem nach § 8 anerkannten Träger durchgeführt wird. Förderungen können auf Antrag des nach § 8 anerkannten Trägers in Form von Zuschüssen gewährt werden, ein Anspruch darauf besteht nicht.Abschnitt 3 Freiwilliges Umweltschutzjahr Regelungsgegenstand § 22. Dieser Abschnitt regelt zivilrechtliche Aspekte des Freiwilligen Umweltschutzjahres und dessen sonstige Rahmenbedingungen, soweit dies in die Gesetzgebungs- und Vollziehungskompetenz des Bundes fällt, insbesondere für die Zwecke der Sozialversicherung und der Familienbeihilfe.Freiwilliges Umweltschutzjahr § 23. Das Freiwillige Umweltschutzjahr gehört zu den besonderen Formen des freiwilligen Engagements, ist im Interesse des Gemeinwohls und kann nicht im Rahmen eines Arbeitsverhältnisses absolviert werden. Ziele des Freiwilligen Umweltschutzjahres sind insbesondere die Vertiefung von schulischer Vorbildung, das Kennenlernen der Arbeit in der Einsatzstelle, die Persönlichkeitsentwicklung, die Erweiterung und Anwendung von Kenntnissen zum Erwerb von Fertigkeiten für Berufsfelder im Umwelt-, Natur- und Klimaschutz, die Berufsorientierung, die Stärkung der Kompetenzen im Umwelt- Natur- und Klimaschutzbereich und die Förderung des Engagements für Umweltschutz der Teilnehmer/innen.Anzuwendende Regelungen § 24. Die Regelungen des Abschnittes 2 gelten für das Freiwillige Umweltschutzjahr sinngemäß mit folgenden Abweichungen: 1. Die Anerkennung als Träger des Freiwilligen Umweltschutzjahres sowie erforderlichenfalls der Widerruf der Anerkennung erfolgt durch Bescheid des/der Bundesministers/Bundesministerin für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft. Dieser/diese hat vor Erlassung von Bescheiden das Einvernehmen mit dem/der Bundesminister/in für Wirtschaft, Familie und Jugend herzustellen. Die Träger des Freiwilligen Umweltschutzjahres haben den/die Bundesminister/Bundesministerin für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft von jeder Änderung der Anerkennungsvoraussetzungen zu informieren. 2. Der/die Bundesminister/Bundesministerin für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft hat zur Information für mögliche Interessenten/innen ein Verzeichnis der zur Durchführung des Freiwilligen Umweltschutzjahres anerkannten Träger im Internet zu veröffentlichen. 3. Geeignete Einsatzstellen sind gemeinwohlorientierte und nicht gewinnorientierte Einrichtungen aus einem der folgenden Bereiche: Allgemeiner Umweltschutz, Umweltbildung, Natur- und Artenschutz, ökologische Landwirtschaft mit Gemeinwohlzielen wie Kultur- und Landschaftsschutz und Erhaltung der Biodiversität, Tierschutz, Nachhaltige Entwicklung und Bewusstseinsbildung in der Entwicklungszusammenarbeit. 4. Die Berichte gemäß § 11 Abs. 2 gehen auch an den/die Bundesminister/Bundesministerin für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft. 5. Für die Zwecke der Evaluierung des Freiwilligen Umweltschutzjahres und der Überprüfung der Anerkennungsvoraussetzungen der Träger ist der Dachverband der Sozialversicherungsträger verpflichtet, die in § 11 Abs. 3 genannten Daten auf Anfrage auch dem/der Bundesminister/Bundesministerin für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft bekanntzugeben. 6. Ein Freiwilliges Umweltschutzjahr kann nach Maßgabe der im jeweiligen Bundesfinanzgesetz dafür verfügbaren Mittel vom/von der Bundesminister/in für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft gefördert werden, wenn die Voraussetzungen nach diesem Abschnitt erfüllt sind und das Freiwillige Umweltschutzjahr von einem anerkannten Träger durchgeführt wird. Förderungen können auf Antrag des nach § 8 iVm § 24 anerkannten Trägers in Form von Zuschüssen gewährt werden, ein Anspruch darauf besteht nicht.Abschnitt 4 Gedenkdienst, Friedens- und Sozialdienst im Ausland Regelungsgegenstand § 25. Dieser Abschnitt regelt zivilrechtliche Aspekte des Gedenkdienstes sowie des Friedens- und Sozialdienstes im Ausland und deren sonstige Rahmenbedingungen, soweit dies in die Gesetzgebungs- und Vollziehungskompetenz des Bundes fällt, insbesondere für die Zwecke der Sozialversicherung und der Familienbeihilfe.Gedenkdienst, Friedens- und Sozialdienst im Ausland § 26. Der Gedenkdienst, sowie der Friedens- und Sozialdienst gehören zu den besonderen Formen des freiwilligen Engagements, sind im Interesse des Gemeinwohls und können nicht im Rahmen eines Arbeitsverhältnisses absolviert werden. Ziele sind die Vertiefung von schulischer Vorbildung, das Kennenlernen der Arbeit in der Einsatzstelle, die Persönlichkeitsentwicklung, die Erweiterung und Anwendung von Kenntnissen zum Erwerb von Fertigkeiten für soziale Berufsfelder, die Berufsorientierung, die Stärkung sozialer und interkultureller Kompetenzen und die Förderung des sozialen Engagements der Teilnehmer/innen. Spezielles Ziel des Gedenkdienstes ist die Förderung des Gedenkens an die Opfer des Nationalsozialismus und die damit zusammenhängende Bewusstseinsbildungs- und Aufklärungsarbeit. Spezielle Ziele des Friedens- und Sozialdienstes im Ausland sind Beiträge zur Sicherung des Friedens im Zusammenhang mit bewaffneten Konflikten oder zur wirtschaftlichen und sozialen Entwicklung eines Landes.Anzuwendende Regelungen § 27. Die Regelungen des Abschnittes 2 gelten sinngemäß mit folgenden Abweichungen: 1. der Gedenk,- Friedens- und Sozialdienst findet an Einsatzstellen im Aus- und Inland statt; (Anm.: Z 2 mit Ablauf des 31.12.2020 außer Kraft getreten) 3. geeignete Einsatzstellen des Gedenkdienstes im Inland sind vom jeweiligen Landeshauptmann/ von der jeweiligen Landeshauptfrau gemäß § 4 des Zivildienstgesetzes 1986, BGBl. Nr. 679/1986, anerkannte inländische Gedenkstätten für Opfer des Nationalsozialismus aus einem der folgenden Bereiche: Bildungs- und Aufklärungsarbeit, wissenschaftliche Aufarbeitung, Arbeit mit überlebenden Opfern, Arbeit mit Opferverbänden und deren Nachfolgeorganisationen, Altenbetreuung und Jugendarbeit; 4. geeignete Einsatzstellen des Gedenkdienstes im Ausland zum Gedenken der Opfer des Nationalsozialismus werden vom/von der Bundesminister/in für Arbeit, Soziales und Konsumentenschutz im Einvernehmen mit dem/der Bundesminister/in für Europa, Integration und Äußeres auf Antrag des jeweiligen Trägers unter Bedachtnahme auf die außenpolitischen Interessen der Republik Österreich aus den Bereichen Bildungs- und Aufklärungsarbeit, wissenschaftliche Aufarbeitung, Arbeit mit überlebenden Opfern, Arbeit mit Opferverbänden und deren Nachfolgeorganisationen, Altenbetreuung und Jugendarbeit anerkannt; 5. geeignete Einsatzstellen des Friedens- und Sozialdienstes im Ausland, und zwar Einrichtungen zur Erreichung oder Sicherung des Friedens im Zusammenhang mit bewaffneten Konflikten (Friedensdienst) oder der wirtschaftlichen und sozialen Entwicklung eines Landes (Sozialdienst) werden vom/von der Bundesminister/in für Arbeit, Soziales und Konsumentenschutz im Einvernehmen mit dem/der Bundesminister/in für Europa, Integration und Äußeres auf Antrag des jeweiligen Trägers unter Bedachtnahme auf die außenpolitischen Interessen der Republik Österreich aus einem der folgenden Bereiche mit ihrer voraussichtlichen Dauer befristet anerkannt: Bildungs- und Aufklärungsarbeit, wissenschaftliche Aufarbeitung und Hintergrundanalysen, Kinder- und Jugendbetreuung, Sozial- und Behindertenhilfe, Betreuung von von Gewalt betroffenen Menschen, Betreuung von Flüchtlingen und Vertriebenen, Betreuung von Obdachlosen, Betreuung von alten Menschen, Krankenanstalten, Mitwirkung bei der Einrichtung bzw. Wiederherstellung von Infrastruktur, Mitwirkung bei der Sozialarbeit mit betroffenen Bevölkerungsschichten, Mitwirkung beim Unterricht in Schulen und Ausbildungswerkstätten und in der Erwachsenenbildung; 6. sofern die Einsatzstelle im Ausland liegt, wird der Träger zusätzlich zu den Verpflichtungen nach § 8 Abs. 4 verpflichtet, a) mit der Einsatzstelle die Einhaltung der §§ 7 letzter Satz, 13, 16 und 18 zu vereinbaren. Der Träger ist verpflichtet, den Dienst unverzüglich zu beenden, wenn er weiß oder wissen muss, dass diese Bestimmungen von der Einsatzstelle trotz Aufforderung nicht eingehalten werden; b) erforderlichenfalls eine Zusatzkrankenversicherung und eine Auslandsreiseversicherung für den/die Teilnehmer/in abzuschließen; c) in Schadensfällen, die im Rahmen eines Auslandseinsatzes an vereinbarungsgemäß dort verwendetem persönlichen Eigentum der Teilnehmer/innen erfolgen, den/die Teilnehmer/in schadlos zu halten; 7. sofern die Einsatzstelle im Ausland liegt, beträgt die Höhe des Taschengeldes an die Teilnehmer/innen gemäß § 8 Abs. 4 Z 6 mindestens 10% und maximal 100% des monatlichen Betrages nach § 5 Abs. 2 Z 2 des Allgemeinen Sozialversicherungsgesetzes, BGBl. Nr. 189/1955; 8. für die Anerkennung als Träger nach diesem Abschnitt ist abweichend von § 8 Abs. 1 Z 2 das Vorhandensein von mindestens acht im Hinblick auf die Ziele des Gedenkdienstes, Friedens- und Sozialdienstes im Ausland geeigneten Einsatzstellen Voraussetzung.Förderung § 27a. (1) Zur Unterstützung der Durchführung eines Gedenk-, Friedens- und Sozialdienstes im Ausland durch die nach diesem Abschnitt zugelassenen Träger stellt der Bund jährliche Zuwendungen in der Höhe von 1.200.000 € zur Verfügung. Diese Zuwendungen sind insbesondere für die Kosten aufgrund des Auslandsaufenthaltes wie Reisekosten oder Versicherungen der Teilnehmer/innen zu verwenden. (2) Der/die Bundesminister/in für Arbeit, Soziales und Konsumentenschutz kann jährlich zusätzlich Mittel in der Höhe von maximal 100.000 € an anerkannte Träger für Aufwendungen für Informationsarbeit und für Bewusstseins- und Aufklärungsarbeit zur Aufarbeitung der Verbrechen des Nationalsozialismus gewähren. Ein Rechtsanspruch auf die Gewährung von Förderungen besteht nicht. (3) Nach diesem Abschnitt zugelassene Träger haben die für Teilnehmer/innen an einem Auslandsfreiwilligendienst vorgesehenen Zuwendungen mit deren Verpflichtung zur schriftlichen Berichterstattung an den/die Bundesminister/in für Europa, Integration und Äußeres zu verbinden. (4) Die österreichischen Vertretungsbehörden im Ausland haben ihre Wahrnehmungen über den Dienst an Einsatzstellen im Ausland dem Bundesministerium für Arbeit, Soziales und Konsumentenschutz mitzuteilen.Abschnitt 4a Freiwilliges Integrationsjahr Regelungsgegenstand § 27b. Dieser Abschnitt regelt zivilrechtliche Aspekte des Freiwilligen Integrationsjahres für Asylberechtigte und subsidiär Schutzberechtigte und dessen sonstige Rahmenbedingungen, soweit dies in die Gesetzgebungs- und Vollziehungskompetenz des Bundes fällt.Freiwilliges Integrationsjahr § 27c. Das Freiwillige Integrationsjahr gehört zu den besonderen Formen des freiwilligen Engagements, ist im Interesse des Gemeinwohls und kann nicht im Rahmen eines Arbeitsverhältnisses absolviert werden. Ziele sind die Integration im Sinn einer Einbeziehung in das österreichische gesellschaftliche Leben und der Vermittlung der österreichischen Werteordnung und der deutschen Sprache, die Verbesserung der Chancengleichheit durch die Berufsorientierung von Asylberechtigten und subsidiär Schutzberechtigten, die Vertiefung von schulischer Vorbildung, das Kennenlernen der Arbeit in der Einsatzstelle, die Persönlichkeitsentwicklung, die Erweiterung und Anwendung von Kenntnissen zum Erwerb von Fertigkeiten für verschiedene Berufsfelder, die Stärkung sozialer und interkultureller Kompetenzen und die Förderung des sozialen Engagements der Teilnehmer/innen.Anzuwendende Regelungen § 27d. (1) Die Regelungen des Abschnittes 2 gelten sinngemäß mit folgenden Abweichungen: 1. Teilnehmer/innen sind Asylberechtigte und subsidiär Schutzberechtigte, die innerhalb von zwei Jahren nach Zuerkennung dieses Status das Integrationsjahr beginnen. 2. Als Träger des Freiwilligen Integrationsjahres im Sinn des § 8 gelten die nach den Abschnitten 2 und 3 sowie die vom jeweiligen Landeshauptmann/von der jeweiligen Landeshauptfrau gemäß § 4 des Zivildienstgesetzes 1986, BGBl. Nr. 679/1986, anerkannten Träger. 3. Die Verpflichtung der Träger zur Auszahlung eines Taschengeldes nach § 8 Abs. 4 Z 6 entfällt. 4. Geeignete Einsatzstellen des Freiwilligen Integrationsjahres sind gemeinwohlorientierte und nicht gewinnorientierte Einrichtungen nach den Abschnitten 2 und 3 dieses Gesetzes sowie die Einsatzstellen des Zivildienstes in den Gebieten des § 3 Abs. 2 des Zivildienstgesetzes 1986, BGBl. Nr. 679/1986. 5. § 11 Abs. 3 ist nicht anzuwenden. 6. Empfänger der Daten ist ergänzend zu § 19 Abs. 3 jene Stelle, mit der das Arbeitsmarktservice (AMS) eine Vereinbarung gemäß Abs. 3 geschlossen hat, sowie das Bundesministerium für Arbeit, Soziales und Konsumentenschutz. 7. Ein Freiwilliges Integrationsjahr kann nach Maßgabe der im jeweiligen Bundesfinanzgesetz dafür verfügbaren Mittel vom/von der Bundesminister/in für Arbeit, Soziales und Konsumentenschutz gefördert werden, wenn die Voraussetzungen nach diesem Abschnitt erfüllt werden. Förderungen können auf Antrag des nach Z 2 anerkannten Trägers in Form von Zuschüssen gewährt werden, ein Anspruch darauf besteht nicht. Nähere Regelungen, insbesondere die Höhe einer Pauschale pro Teilnehmer/in, sind in den vom/von der Bundesminister/in für Arbeit, Soziales und Konsumentenschutz zu erlassenden Richtlinien festzulegen, wobei hinsichtlich der Festlegung einer Höchstgrenze der Förderung pro gemäß Zivildienstgesetz 1986 anerkanntem Träger das Einvernehmen mit dem/der Bundesminister/in für Inneres herzustellen ist. (2) Das Freiwillige Integrationsjahr wird vom AMS Personen, die der Zielgruppe der Asylberechtigten und subsidiär Schutzberechtigten angehören (§ 27c) und die bedarfsorientierte Mindestsicherung beziehen, angeboten. Es ist vom AMS wie ein Arbeitstraining abzuwickeln. Das Vorliegen der Voraussetzungen der möglichen Teilnehmer/innen ist vom AMS zu bestätigen; Vorrang hat die Vermittlung auf den ersten Arbeitsmarkt. Beihilfen nach dem Arbeitsmarktservicegesetz, BGBl. Nr. 313/1994, sind dafür nicht zu gewähren. Allfällige unmittelbar vor Beginn des Freiwilligen Integrationsjahres bestehende Ansprüche auf Bezug der Familienbeihilfe bleiben während dessen Dauer weiterhin gewahrt, sofern die erforderlichen Anspruchsvoraussetzungen vorliegen. (3) Zur Abwicklung des Freiwilligen Integrationsjahres hat das AMS mit einer geeigneten Stelle eine Vereinbarung zu schließen, wodurch diese diesbezüglich Dienstleister des Arbeitsmarktservice wird. (4) Das Bundesministerium für Arbeit, Soziales und Konsumentenschutz hat einmal jährlich eine Statistik zum Freiwilligen Integrationsjahr zu erstellen. Diese hat – gegliedert nach Bundesländern – Anzahl, Alter, Geschlecht und Herkunftsland der Teilnehmer/innen zu enthalten.Abschnitt 5 Österreichischer Freiwilligenrat Einrichtung § 28. (1) Beim Bundesministerium für Arbeit, Soziales und Konsumentenschutz ist ein Österreichischer Freiwilligenrat einzurichten. (2) Die Funktionsperiode beträgt jeweils fünf Jahre.Ziele § 29. Der Österreichische Freiwilligenrat hat das Ziel, Freiwilligentätigkeiten der Zivilgesellschaft in ihrer Vielfalt als tragende Säule des Gemeinwesens anzuerkennen und aufzuwerten. Weiters dient er in Erfüllung seiner Aufgaben nach § 30 dazu, die Rahmenbedingungen für Freiwilligentätigkeiten zu verbessern.Aufgaben § 30. Als institutionalisiertes Dialogforum zwischen Zivilgesellschaft und Staat hat der Österreichische Freiwilligenrat folgende Aufgaben: 1. Beratung des/der Bundesministers/in für Arbeit, Soziales und Konsumentenschutz in Fragen der Freiwilligenpolitik, 2. Förderung der Vernetzung, der Zusammenarbeit und der Nutzung von Synergien innerhalb der Zivilgesellschaft/Freiwilligenorganisationen, 3. Erstattung von Vorschlägen und Empfehlungen zur Umsetzung und Weiterentwicklung der Freiwilligenpolitik, 4. Mitwirkung an der Konzeption und Schwerpunktsetzung des periodisch zu erstellenden Freiwilligenberichts.Mitglieder § 31. Dem Österreichischen Freiwilligenrat gehören an: 1. der/die Bundesminister/in für Arbeit, Soziales und Konsumentenschutz als Vorsitzende/r und je ein/eine Vertreter/in aller Bundesministerien; 2. drei Vertretungen der Bundesländer, je eine Vertretung des Städte- und Gemeindebundes, der Interessenvertretungen der Arbeitgeber/innen, der Arbeitnehmer/innen, der Landwirt/innen, der Gemeinwirtschaft, der Senioren/Seniorinnen, der Jugend und die Freiwilligensprecher/innen der im Nationalrat vertretenen politischen Parteien; 3. Vertreter/innen aus allen wesentlichen Bereichen der Freiwilligentätigkeiten, die aus folgenden Bereichen zu nominieren sind: Freie Wohlfahrt; gemeinnützige und soziale Dienste; Familien; Frauen; Bildung; Arbeit mit Kindern und Jugendlichen; Kultur; Umwelt-, Natur- und Tierschutz; Sport; Rettungs- und Katastrophendienste; Selbsthilfe; Behindertenarbeit; Migration, Freiwilligenzentren. Die Vorschläge für diese Nominierungen sind von jenen Organisationen einzubringen, die nach Zusammensetzung und Mitgliederzahl für den jeweiligen Bereich repräsentativ sind. Repräsentativ sind Organisationen, die entweder als Dachverbände eingerichtet sind oder – ohne solche zu sein – österreichweite Bedeutung haben. 4. je ein/eine Vertreter/in der gemäß dieses Bundesgesetzes anerkannten Träger der Inlandsfreiwilligendienste (FSJ und FUJ) und der Auslandsfreiwilligendienste (Gedenk-, Friedens- und Sozialdienst im Ausland). Für jedes Mitglied ist ein Ersatzmitglied zu bestellen. Die Tätigkeit im Freiwilligenrat ist unentgeltlich.Bestellung § 32. (1) Die Mitglieder und Ersatzmitglieder sind für eine Funktionsdauer von fünf Jahren durch den/die Bundesminister/in für Arbeit, Soziales und Konsumentenschutz zu bestellen. (2) Spätestens vier Monate vor Ende der laufenden Funktionsperiode sind vom/von der Bundesminister/in für Arbeit, Soziales und Konsumentenschutz 1. alle Bundesministerien, 2. die Länder über die Verbindungsstelle der Bundesländer, 3. der Städte- und Gemeindebund, die Interessenvertretungen, sowie die im Nationalrat vertretenen politischen Parteien und 4. die im § 31 Z 3 angeführten vorschlagsberechtigten Organisationen auf ihr jeweiliges Vorschlagsrecht aufmerksam zu machen. (3) Werden innerhalb von zwei Monaten nach Information gemäß Abs. 2 nicht ausreichend Bestellungsvorschläge erstattet, so verringert sich auf die Dauer der Nichtausübung des Vorschlagsrechtes die Mitgliederzahl des Österreichischen Freiwilligenrates um die Anzahl der nicht zur Besetzung vorgeschlagenen Mitglieder. (4) Scheidet ein Mitglied (Ersatzmitglied) des Österreichischen Freiwilligenrates vor Ablauf der Funktionsperiode aus dem Österreichischen Freiwilligenrat aus, so ist die Geschäftsstelle beim Bundesministerium für Arbeit, Soziales und Konsumentenschutz innerhalb von zwei Monaten nach dem Ausscheiden vom betreffenden Vorschlagsberechtigten/der vorschlagsberechtigten Stelle hievon zu informieren und gleichzeitig ein neues Mitglied (Ersatzmitglied) für die verbleibende Funktionsperiode vorzuschlagen. (5) Der/die Bundesminister/in für Arbeit, Soziales und Konsumentenschutz hat ein Mitglied (Ersatzmitglied) von seiner Funktion zu entheben, wenn 1. es dies beantragt, 2. jene Stelle, auf deren Vorschlag das Mitglied (Ersatzmitglied) bestellt wurde, die Enthebung beantragt, 3. das Mitglied (Ersatzmitglied) sich der Vernachlässigung seiner Aufgaben schuldig macht.Einberufung der Sitzungen § 33. (1) Die Sitzungen des Österreichischen Freiwilligenrates werden vom Vorsitz nach Bedarf einberufen, mindestens aber einmal im Jahr. Der Österreichische Freiwilligenrat ist auch dann einzuberufen, wenn mindestens ein Drittel der Mitglieder dies unter schriftlicher Bekanntgabe des Verhandlungsgegenstandes beantragt. (2) Die Sitzungen sind nicht öffentlich. (3) Der Vorsitz ist berechtigt, Fachleute mit beratender Stimme beizuziehen.Beschlussfähigkeit § 34. (1) Der Österreichische Freiwilligenrat ist beschlussfähig, wenn nach ordnungsgemäß erfolgter Einladung aller Mitglieder mindestens die Hälfte der Mitglieder (Ersatzmitglieder) anwesend ist. Die Beschlussfähigkeit ist zu Beginn der Sitzung vom Vorsitz festzustellen. (2) Der Österreichische Freiwilligenrat fasst seine Beschlüsse mit der Mehrheit der anwesenden Mitglieder.Geschäftsführung und -ordnung § 35. (1) Bei der Führung der Geschäfte wird der Österreichische Freiwilligenrat vom Bundesministerium für Arbeit, Soziales und Konsumentenschutz unterstützt. (2) Nähere Regelungen betreffend die Aufgaben des Vorsitzes, die Führung der Geschäfte, die Vorbereitung und Einberufung der Sitzungen, die Vorgangsweise bei den Beratungen und die Einsetzung von Arbeitsgruppen trifft der Österreichische Freiwilligenrat in einer Geschäftsordnung, die durch den/die Bundesminister/in für Arbeit, Soziales und Konsumentenschutz zu genehmigen ist.Zuwendungen § 37. (1) Die Zuwendungen erfolgen nach Maßgabe der Fondsmittel in Form von Geldleistungen entsprechend den von der/von dem Bundesminister/in für Arbeit, Soziales und Konsumentenschutz nach Anhörung des Freiwilligenrates erlassenen Richtlinien. Diese Richtlinien sind im Internet zu veröffentlichen. (2) Diese Richtlinien haben insbesondere nähere Bestimmungen über die Voraussetzungen, unter denen Zuwendungen gewährt werden können, sowie über deren Art und Höhe zu enthalten.§ 38. (1) Auf die Gewährung von Zuwendungen besteht kein Rechtsanspruch. (2) Zuwendungen dürfen nur auf Grund eines Antrages, eines Vorschlags des/der Bundesminister/in für Arbeit, Soziales und Konsumentenschutzes oder des Österreichischen Freiwilligenrats gewährt werden und sind stets an den Nachweis der widmungsgemäßen Verwendung zu binden. Die Verwendung ist vom Fonds zu überprüfen. Hiebei hat sich der Fonds auszubedingen, dass die erforderlichen Auskünfte erteilt und die notwendigen Unterlagen vorgelegt werden.§ 39. Der Fonds hat sich vor Gewährung von Zuwendungen auszubedingen, dass die Leistung zurückzuzahlen ist oder deren Auszahlung zu unterbleiben hat, wenn 1. er vom Empfänger/von der Empfängerin der Zuwendung über wesentliche Umstände unvollständig oder falsch unterrichtet wird; 2. das geförderte Vorhaben nicht oder durch Verschulden des Empfängers/der Empfängerin nicht rechtzeitig durchgeführt wird; 3. die Zuwendung widmungswidrig verwendet oder Bedingungen aus Verschulden des Empfängers/der Empfängerin nicht eingehalten werden; 4. vom Empfänger/von der Empfängerin der Zuwendung die Überprüfung der widmungsgemäßen Verwendung vereitelt wird.Zuständigkeit § 40. Ansuchen um Gewährung von Zuwendungen sind unter Anschluss der Nachweise für das Vorliegen der Voraussetzungen beim Bundesministerium für Arbeit, Soziales und Konsumentenschutz einzubringen.§ 42. Der Fonds gilt abgabenrechtlich als Körperschaft öffentlichen Rechts.Verwaltung des Fonds § 43. Die Verwaltung und Vertretung des Fonds obliegt dem/der Bundesminister/in für Arbeit, Soziales und Konsumentenschutz.Kostentragung § 44. Der aus der Vollziehung der Bestimmungen über den Fonds erwachsende Verwaltungsaufwand ist vom Bundesministerium für Arbeit, Soziales und Konsumentenschutz zu tragen.Abschnitt 7 Schlussbestimmungen § 45. Soweit in diesem Bundesgesetz auf andere Bundesgesetze verwiesen wird, sind diese in der jeweils geltenden Fassung anzuwenden.§ 46. (1) Dieses Bundesgesetz tritt mit 1. Juni 2012 in Kraft. (2) § 9 Abs. 1 in der Fassung des Bundesgesetzes BGBl. I Nr. 163/2013 tritt mit 1. Oktober 2013 in Kraft; der Ausdruck „Rettungswesen,“ in § 9 Abs. 1 tritt mit Ablauf des 31. Dezember 2017 außer Kraft. (3) Das Inhaltsverzeichnis, § 1 Abs. 2 Z 2, § 2 Abs. 2 letzter Satz, § 25, § 26, § 27 Z 3 bis 8, § 27a samt Überschrift und Abschnitt 4a in der Fassung des Budgetbegleitgesetzes 2016,BGBl. I Nr. 144/2015, treten mit 1. Jänner 2016 in Kraft. (4) Die am 31. Dezember 2015 gemäß § 12b Abs. 4 und 5 ZDG 1986 in der Fassung des Bundesgesetzes BGBl. I Nr. 163/2013 anerkannten Träger gelten bis zum 31. Dezember 2018 als Träger nach Abschnitt 4. (5) Das Inhaltsverzeichnis, § 9 Abs. 1, § 27a, § 31 Z 3 und 4 und § 46 in der Fassung des Bundesgesetzblattes BGBl. I Nr. 156/2017 treten mit 1. Jänner 2018 in Kraft. (6) § 5 in der Fassung des Bundesgesetzes BGBl. I Nr. 23/2020 tritt mit dem der Kundmachung folgenden Tag in Kraft. Der Passus „ordentlichen und des außerordentlichen“ in § 5 tritt mit Ablauf des 31. Dezember 2020 außer Kraft. (7) § 6 in der Fassung des Bundesgesetzes BGBl. I Nr. 23/2020 tritt mit dem der Kundmachung folgenden Tag in Kraft. § 6 Abs. 2 sowie das Wort „ordentlichen“ in § 6 Abs. 1 treten mit Ablauf des 31. Dezember 2020 außer Kraft. (8) § 7 in der Fassung des Bundesgesetzes BGBl. I Nr. 23/2020 tritt mit dem der Kundmachung folgenden Tag in Kraft. § 7 Abs. 2 und Abs. 3 sowie das Wort „ordentlichen“ in § 7 Abs. 1 treten mit Ablauf des 31. Dezember 2020 außer Kraft. (9) § 12 Abs. 1, Abs. 3 und Abs. 4 in der Fassung des Bundesgesetzes BGBl. I Nr. 23/2020 treten mit dem der Kundmachung folgenden Tag in Kraft. § 12 Abs. 3 und Abs. 4, das Wort „ordentlichen“ in Abs. 1 sowie Z 10 treten mit Ablauf des 31. Dezember 2020 außer Kraft. (10) § 27 Z 1 und 2 in der Fassung des Bundesgesetzes BGBl. I Nr. 23/2020 treten mit dem der Kundmachung folgenden Tag in Kraft; § 27 Z 2 tritt mit Ablauf des 31. Dezember 2020 außer Kraft. (11) § 27a Abs. 1 letzter Satz in der Fassung des Bundesgesetzes BGBl. I Nr. 23/2020 tritt mit dem der Kundmachung folgenden Tag in Kraft; § 27a Abs. 1 letzter Satz tritt mit Ablauf des 31. Dezember 2020 außer Kraft.§ 47. Mit der Vollziehung dieses Bundesgesetzes sind betraut: 1. hinsichtlich des § 2 der/die Bundesminister/in für Arbeit, Soziales und Konsumentenschutz und der/die Bundesminister/in für Wirtschaft, Familie und Jugend; 2. hinsichtlich der §§ 4 Abs. 1, 8 Abs. 1, 5 und 7 und § 27 der/die Bundesminister/in für Arbeit, Soziales und Konsumentenschutz im Einvernehmen mit dem/der Bundesminister/in für Wirtschaft, Familie und Jugend; 3. hinsichtlich des § 20 der/die Bundesminister/in für Justiz; 4. hinsichtlich des § 24 der/die Bundesminister/in für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft im Einvernehmen mit dem/der Bundesminister/in für Wirtschaft, Familie und Jugend; 5. hinsichtlich der übrigen Bestimmungen des Abschnittes 3 (Freiwilliges Umweltschutzjahr) der/die Bundesminister/in für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft im Einvernehmen mit dem/der Bundesminister/in für Arbeit, Soziales und Konsumentenschutz und der/die Bundesminister/in für Wirtschaft, Familie und Jugend; 6. im Übrigen der/die Bundesminister/in für Arbeit, Soziales und Konsumentenschutz.",
+  "parts": [
+    {
+      "@id": "d3ea8038-d95e-4991-bdeb-129f5fc6627c#offset_2327_3366",
+      "offset_ini": 2327,
+      "offset_end": 3366,
+      "title": "Ziele"
+    },
+    {
+      "@id": "d3ea8038-d95e-4991-bdeb-129f5fc6627c#offset_3367_4783",
+      "offset_ini": 3367,
+      "offset_end": 4783,
+      "title": "Förderung von freiwilligem Engagement"
+    },
+    {
+      "@id": "d3ea8038-d95e-4991-bdeb-129f5fc6627c#offset_4784_6088",
+      "offset_ini": 4784,
+      "offset_end": 6088,
+      "title": "Freiwilligenorganisationen"
+    },
+    {
+      "@id": "d3ea8038-d95e-4991-bdeb-129f5fc6627c#offset_6089_6679",
+      "offset_ini": 6089,
+      "offset_end": 6679,
+      "title": "Freiwilligenbericht und Internetportal"
+    },
+    {
+      "@id": "d3ea8038-d95e-4991-bdeb-129f5fc6627c#offset_6680_7011",
+      "offset_ini": 6680,
+      "offset_end": 7011,
+      "title": "Regelungsgegenstand"
+    },
+    {
+      "@id": "d3ea8038-d95e-4991-bdeb-129f5fc6627c#offset_7012_7712",
+      "offset_ini": 7012,
+      "offset_end": 7712,
+      "title": "Freiwilliges Sozialjahr"
+    },
+    {
+      "@id": "d3ea8038-d95e-4991-bdeb-129f5fc6627c#offset_7713_8539",
+      "offset_ini": 7713,
+      "offset_end": 8539,
+      "title": "Teilnehmer/innen"
+    },
+    {
+      "@id": "d3ea8038-d95e-4991-bdeb-129f5fc6627c#offset_8540_13487",
+      "offset_ini": 8540,
+      "offset_end": 13487,
+      "title": "Träger"
+    },
+    {
+      "@id": "d3ea8038-d95e-4991-bdeb-129f5fc6627c#offset_13488_14822",
+      "offset_ini": 13488,
+      "offset_end": 14822,
+      "title": "Einsatzstelle"
+    },
+    {
+      "@id": "d3ea8038-d95e-4991-bdeb-129f5fc6627c#offset_14823_15381",
+      "offset_ini": 14823,
+      "offset_end": 15381,
+      "title": "Informationspflichten"
+    },
+    {
+      "@id": "d3ea8038-d95e-4991-bdeb-129f5fc6627c#offset_15382_16844",
+      "offset_ini": 15382,
+      "offset_end": 16844,
+      "title": "Qualitätssicherung"
+    },
+    {
+      "@id": "d3ea8038-d95e-4991-bdeb-129f5fc6627c#offset_16845_18845",
+      "offset_ini": 16845,
+      "offset_end": 18845,
+      "title": "Vereinbarung, Zertifikat"
+    },
+    {
+      "@id": "d3ea8038-d95e-4991-bdeb-129f5fc6627c#offset_18846_20127",
+      "offset_ini": 18846,
+      "offset_end": 20127,
+      "title": "Freistellung"
+    },
+    {
+      "@id": "d3ea8038-d95e-4991-bdeb-129f5fc6627c#offset_20128_20405",
+      "offset_ini": 20128,
+      "offset_end": 20405,
+      "title": "Zeitliche Beschränkungen"
+    },
+    {
+      "@id": "d3ea8038-d95e-4991-bdeb-129f5fc6627c#offset_20406_20675",
+      "offset_ini": 20406,
+      "offset_end": 20675,
+      "title": "Mutterschutz"
+    },
+    {
+      "@id": "d3ea8038-d95e-4991-bdeb-129f5fc6627c#offset_20676_21003",
+      "offset_ini": 20676,
+      "offset_end": 21003,
+      "title": "Haftungsbeschränkung"
+    },
+    {
+      "@id": "d3ea8038-d95e-4991-bdeb-129f5fc6627c#offset_21004_21674",
+      "offset_ini": 21004,
+      "offset_end": 21674,
+      "title": "Überwachung und Strafbestimmungen"
+    },
+    {
+      "@id": "d3ea8038-d95e-4991-bdeb-129f5fc6627c#offset_21675_21903",
+      "offset_ini": 21675,
+      "offset_end": 21903,
+      "title": "Gleichbehandlung"
+    },
+    {
+      "@id": "d3ea8038-d95e-4991-bdeb-129f5fc6627c#offset_21904_23279",
+      "offset_ini": 21904,
+      "offset_end": 23279,
+      "title": "Verwendung personenbezogener Daten"
+    },
+    {
+      "@id": "d3ea8038-d95e-4991-bdeb-129f5fc6627c#offset_23280_23846",
+      "offset_ini": 23280,
+      "offset_end": 23846,
+      "title": "Zuständigkeit der Arbeits- und Sozialgerichte"
+    },
+    {
+      "@id": "d3ea8038-d95e-4991-bdeb-129f5fc6627c#offset_23847_24352",
+      "offset_ini": 23847,
+      "offset_end": 24352,
+      "title": "Förderung"
+    },
+    {
+      "@id": "d3ea8038-d95e-4991-bdeb-129f5fc6627c#offset_24353_24697",
+      "offset_ini": 24353,
+      "offset_end": 24697,
+      "title": "Regelungsgegenstand"
+    },
+    {
+      "@id": "d3ea8038-d95e-4991-bdeb-129f5fc6627c#offset_24698_25410",
+      "offset_ini": 24698,
+      "offset_end": 25410,
+      "title": "Freiwilliges Umweltschutzjahr"
+    },
+    {
+      "@id": "d3ea8038-d95e-4991-bdeb-129f5fc6627c#offset_25411_27872",
+      "offset_ini": 25411,
+      "offset_end": 27872,
+      "title": "Anzuwendende Regelungen"
+    },
+    {
+      "@id": "d3ea8038-d95e-4991-bdeb-129f5fc6627c#offset_27873_28271",
+      "offset_ini": 27873,
+      "offset_end": 28271,
+      "title": "Regelungsgegenstand"
+    },
+    {
+      "@id": "d3ea8038-d95e-4991-bdeb-129f5fc6627c#offset_28272_29322",
+      "offset_ini": 28272,
+      "offset_end": 29322,
+      "title": "Gedenkdienst, Friedens- und Sozialdienst im Ausland"
+    },
+    {
+      "@id": "d3ea8038-d95e-4991-bdeb-129f5fc6627c#offset_29323_33115",
+      "offset_ini": 29323,
+      "offset_end": 33115,
+      "title": "Anzuwendende Regelungen"
+    },
+    {
+      "@id": "d3ea8038-d95e-4991-bdeb-129f5fc6627c#offset_33116_34372",
+      "offset_ini": 33116,
+      "offset_end": 34372,
+      "title": "Förderung"
+    },
+    {
+      "@id": "d3ea8038-d95e-4991-bdeb-129f5fc6627c#offset_34373_34694",
+      "offset_ini": 34373,
+      "offset_end": 34694,
+      "title": "Regelungsgegenstand"
+    },
+    {
+      "@id": "d3ea8038-d95e-4991-bdeb-129f5fc6627c#offset_34695_35584",
+      "offset_ini": 34695,
+      "offset_end": 35584,
+      "title": "Freiwilliges Integrationsjahr"
+    },
+    {
+      "@id": "d3ea8038-d95e-4991-bdeb-129f5fc6627c#offset_35585_38807",
+      "offset_ini": 35585,
+      "offset_end": 38807,
+      "title": "Anzuwendende Regelungen"
+    },
+    {
+      "@id": "d3ea8038-d95e-4991-bdeb-129f5fc6627c#offset_38808_39047",
+      "offset_ini": 38808,
+      "offset_end": 39047,
+      "title": "Einrichtung"
+    },
+    {
+      "@id": "d3ea8038-d95e-4991-bdeb-129f5fc6627c#offset_39048_39365",
+      "offset_ini": 39048,
+      "offset_end": 39365,
+      "title": "Ziele"
+    },
+    {
+      "@id": "d3ea8038-d95e-4991-bdeb-129f5fc6627c#offset_39366_39984",
+      "offset_ini": 39366,
+      "offset_end": 39984,
+      "title": "Aufgaben"
+    },
+    {
+      "@id": "d3ea8038-d95e-4991-bdeb-129f5fc6627c#offset_39985_41552",
+      "offset_ini": 39985,
+      "offset_end": 41552,
+      "title": "Mitglieder"
+    },
+    {
+      "@id": "d3ea8038-d95e-4991-bdeb-129f5fc6627c#offset_41553_43406",
+      "offset_ini": 41553,
+      "offset_end": 43406,
+      "title": "Bestellung"
+    },
+    {
+      "@id": "d3ea8038-d95e-4991-bdeb-129f5fc6627c#offset_43407_43871",
+      "offset_ini": 43407,
+      "offset_end": 43871,
+      "title": "Einberufung der Sitzungen"
+    },
+    {
+      "@id": "d3ea8038-d95e-4991-bdeb-129f5fc6627c#offset_43872_44269",
+      "offset_ini": 43872,
+      "offset_end": 44269,
+      "title": "Beschlussfähigkeit"
+    },
+    {
+      "@id": "d3ea8038-d95e-4991-bdeb-129f5fc6627c#offset_44270_44836",
+      "offset_ini": 44270,
+      "offset_end": 44836,
+      "title": "Geschäftsführung und -ordnung"
+    },
+    {
+      "@id": "d3ea8038-d95e-4991-bdeb-129f5fc6627c#offset_44837_45325",
+      "offset_ini": 44837,
+      "offset_end": 45325,
+      "title": "Zuwendungen"
+    },
+    {
+      "@id": "d3ea8038-d95e-4991-bdeb-129f5fc6627c#offset_45326_45845",
+      "offset_ini": 45326,
+      "offset_end": 45845,
+      "title": ""
+    },
+    {
+      "@id": "d3ea8038-d95e-4991-bdeb-129f5fc6627c#offset_45846_46494",
+      "offset_ini": 45846,
+      "offset_end": 46494,
+      "title": ""
+    },
+    {
+      "@id": "d3ea8038-d95e-4991-bdeb-129f5fc6627c#offset_46495_46704",
+      "offset_ini": 46495,
+      "offset_end": 46704,
+      "title": "Zuständigkeit"
+    },
+    {
+      "@id": "d3ea8038-d95e-4991-bdeb-129f5fc6627c#offset_46705_46779",
+      "offset_ini": 46705,
+      "offset_end": 46779,
+      "title": ""
+    },
+    {
+      "@id": "d3ea8038-d95e-4991-bdeb-129f5fc6627c#offset_46780_46923",
+      "offset_ini": 46780,
+      "offset_end": 46923,
+      "title": "Verwaltung des Fonds"
+    },
+    {
+      "@id": "d3ea8038-d95e-4991-bdeb-129f5fc6627c#offset_46924_47109",
+      "offset_ini": 46924,
+      "offset_end": 47109,
+      "title": "Kostentragung"
+    },
+    {
+      "@id": "d3ea8038-d95e-4991-bdeb-129f5fc6627c#offset_47110_47273",
+      "offset_ini": 47110,
+      "offset_end": 47273,
+      "title": ""
+    },
+    {
+      "@id": "d3ea8038-d95e-4991-bdeb-129f5fc6627c#offset_47274_49503",
+      "offset_ini": 47274,
+      "offset_end": 49503,
+      "title": ""
+    },
+    {
+      "@id": "d3ea8038-d95e-4991-bdeb-129f5fc6627c#offset_49504_50604",
+      "offset_ini": 49504,
+      "offset_end": 50604,
+      "title": ""
+    },
+    {
+      "@id": "d3ea8038-d95e-4991-bdeb-129f5fc6627c#offset_0_2326",
+      "offset_ini": 0,
+      "offset_end": 2326
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/dc411e0a-bb4e-40aa-ba03-320afa8bbe01",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Feiertagsruhegesetz 1957"
+    },
+    "hasAuthority": "BKA (Bundeskanzleramt)",
+    "id_local": "10008168",
+    "first_date_entry_in_force": "1957-07-12",
+    "version_date": "2019-03-22",
+    "url_consolidated": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d10008168\u0026FassungVom\u003d1957-07-12",
+    "classifications": [
+      "60/04 Arbeitsrecht allgemein"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/dc411e0a-bb4e-40aa-ba03-320afa8bbe01/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/dc411e0a-bb4e-40aa-ba03-320afa8bbe01/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 5293,
+  "text": "Änderung BGBl. Nr. 264/1967 (NR: GP XI RV 546 AB 598 S. 62. BR: S. 257.) BGBl. Nr. 144/1983 (NR: GP XV RV 1289 AB 1444 und Zu 1444 S. 145. BR: AB 2672 S. 432.) BGBl. I Nr. 191/1999 idF BGBl. I Nr. 113/2006 (BG) (NR: GP XXII RV 1410 AB 1549 S. 150. BR: AB 7584 S. 736.) BGBl. I Nr. 22/2019 (NR: GP XXVI IA 606/A AB 500 S. 63. BR: 10125 AB 10128 S. 890.) Anmerkung Erfassungsstichtag: 1.1.1995Artikel I. § 1. (1) Als Feiertage im Sinne dieses Bundesgesetzes gelten folgende Tage: 1. Jänner (Neujahr), 6. Jänner (Heilige Drei Könige), Ostermontag, 1. Mai (Staatsfeiertag), Christi Himmelfahrt, Pfingstmontag, Fronleichnam, 15. August (Mariä Himmelfahrt), 26. Oktober (Nationalfeiertag), 1. November (Allerheiligen), 8. Dezember (Mariä Empfängnis), 25. Dezember (Weihnachten) und 26. Dezember (Stephanstag). (2) Für öffentlich Bedienstete, deren Dienstverhältnis bundesgesetzlich geregelt ist, sind § 7a und § 33a Abs. 29 Arbeitsruhegesetz – ARG, BGBl. Nr. 144/1983 idF BGBl. I Nr. 22/2019, sinngemäß anzuwenden. (3) Auf Ausbildungsverhältnisse im Bundesdienst ist Abs. 2 sinngemäß anzuwenden.§ 2. (1) Die Vorschriften der nachstehend bezeichneten Gesetze erlassenen Verordnungen gelten, soweit in diesem Bundesgesetz nichts anderes bestimmt wird, sinngemäß auch für die im § 1 bezeichneten Feiertage: 1. Gesetz vom 16. Jänner 1895, RGBl. Nr. 21, betreffend die Regelung der Sonn- und Feiertagsruhe im Gewerbebetriebe, in der Fassung der Gesetze vom 18. Juli 1905, RGBl. Nr. 125, vom 15. Mai 1919, StGBl. Nr. 282, vom 21. Dezember 1934, BGBl. II Nr. 421, und der Gewerbeordnungsnovelle 1935, BGBl. Nr. 548; (Anm.: Z 2 aufgehoben durch § 31 Z 9, BGBl. Nr. 144/1983.) 3. Bergarbeitergesetz vom 28. Juli 1919, StGBl. Nr. 406, in der Fassung des Gesetzes vom 10. Juli 1928, BGBl. Nr. 190, und der Verordnung der Bundesregierung vom 31. Mai 1933, BGBl. Nr. 209; (Anm.: Z 4 aufgehoben durch § 31 Z 9, BGBl. Nr. 144/1983.) 5. Gesetz vom 18. September 1906, RGBl. Nr. 5/1907, betreffend die Regelung des Apothekerwesens, in der Fassung des Verwaltungsentlastungsgesetzes, BGBl. Nr. 277/1925, der Apothekengesetznovelle 1955, BGBl. Nr. 68, und der Apothekengesetznovelle 1956, BGBl. Nr. 2/1957; (Anm.: Z 6 und 7 Aufgehoben durch § 31 Z 9, BGBl. Nr. 144/1983.) (2) Die Feiertagsruhe hat frühestens um 0 Uhr und spätestens um 6 Uhr des betreffenden Feiertages, und zwar gleichzeitig für alle Arbeiter und Angestellten des Betriebes, zu beginnen und mindestens 24 Stunden zu dauern. Für die Unternehmungen täglich erscheinender Zeitungen sowie für die Druckereien, soweit sie täglich erscheinende Zeitungen herstellen, hat die Feiertagsruhe 18 Stunden zu dauern. (3) Die gesetzlichen Vorschriften über die Gewährung einer Ersatzruhe für Sonntagsarbeit gelten nicht für die Feiertagsarbeit. (4) Die Vorschriften der Abs. 2 und 3 gelten nicht, wenn ein Feiertag auf einen Sonntag fällt.§ 3. (1) Soweit in den im § 2 Abs. 1 bezeichneten Gesetzen und Verordnungen Vorschriften über die Entlohnung der Sonntagsarbeit enthalten sind, gelten sie nicht für die Feiertagsarbeit. (2) Für Feiertage ist das regelmäßige Entgelt zu leisten; außerdem ist für Arbeiten, die auf Grund geltender Ausnahmebestimmungen an Feiertagen geleistet werden, das auf die geleistete Arbeit entfallende Entgelt zu zahlen. Diese Bestimmungen gelten nicht, wenn ein Feiertag auf einen Sonntag fällt. (3) Soweit Tarif- oder Betriebsordnungen günstigere Bestimmungen über die Feiertage oder über die Entlohnung der Feiertagsarbeit enthalten, bleiben diese Bestimmungen unberührt. (4) Die näheren Bestimmungen über die Lohnzahlung an Feiertagen erläßt das Bundesministerium für soziale Verwaltung durch Verordnung.§ 4. Das Bundesministerium für Handel und Wiederaufbau kann für den Bergbau Ausnahmen von der Feiertagsruhe bewilligen.Artikel II. § 5. (Anm.: aufgehoben durch § 31 Z 9, BGBl. Nr. 144/1983.)Artikel III. § 6. (1) Mit dem Wirksamkeitsbeginn dieses Gesetzes treten das Bundesgesetz vom 27. Jänner 1933, BGBl. Nr. 31, über die Regelung der Feiertagsruhe und das Gesetz über die Bewilligung von Ausnahmen von der Sonn- und Feiertagsruhe für regelmäßig erscheinende Druckschriften, GBl. f. d. L. Ö. Nr. 630/1938, außer Kraft. (2) Im übrigen werden alle Gesetze, Verordnungen und sonstigen Vorschriften des Deutschen Reiches über die Feiertagsruhe und die Lohnzahlung an Feiertagen, soweit in diesem Gesetz nichts anderes bestimmt ist, für den Bereich der Republik mit Wirksamkeitsbeginn dieses Gesetzes außer Kraft gesetzt. Insbesondere sind daher aufgehoben: der Artikel III (Lohnzahlung an Feiertagen) der Kundmachung des Reichsstatthalters in Österreich, GBl. f. d. L. Ö. Nr. 58/1938; die Bestimmungen für die Heimarbeit über die Lohnzahlung an Feiertagen vom 15. Dezember 1937 (Deutscher Reichsanzeiger Nr. 291), in der Fassung der Bestimmungen vom 28. Oktober 1942 (Deutscher Reichsanzeiger Nr. 261), und die Anordnung des Reichsarbeitsministers vom 25. Mai 1939 (Deutscher Reichsanzeiger Nr. 118); die Verordnung über die Regelung der Arbeitsruhe an Feiertagen in den Reichsgauen der Ostmark vom 16. Dezember 1941, Deutsches RGBl. I S. 790.Artikel IV. § 7. Mit der Vollziehung dieses Bundesgesetzes sind die Bundesministerien betraut, denen die Vollziehung der im § 2 Abs. 1 angeführten Vorschriften über die Sonntagsruhe obliegt.",
+  "parts": [
+    {
+      "@id": "dc411e0a-bb4e-40aa-ba03-320afa8bbe01#offset_391_1088",
+      "offset_ini": 391,
+      "offset_end": 1088,
+      "title": "Artikel I."
+    },
+    {
+      "@id": "dc411e0a-bb4e-40aa-ba03-320afa8bbe01#offset_1089_2867",
+      "offset_ini": 1089,
+      "offset_end": 2867,
+      "title": ""
+    },
+    {
+      "@id": "dc411e0a-bb4e-40aa-ba03-320afa8bbe01#offset_2868_3663",
+      "offset_ini": 2868,
+      "offset_end": 3663,
+      "title": ""
+    },
+    {
+      "@id": "dc411e0a-bb4e-40aa-ba03-320afa8bbe01#offset_3664_3782",
+      "offset_ini": 3664,
+      "offset_end": 3782,
+      "title": ""
+    },
+    {
+      "@id": "dc411e0a-bb4e-40aa-ba03-320afa8bbe01#offset_3783_3853",
+      "offset_ini": 3783,
+      "offset_end": 3853,
+      "title": ""
+    },
+    {
+      "@id": "dc411e0a-bb4e-40aa-ba03-320afa8bbe01#offset_3854_5103",
+      "offset_ini": 3854,
+      "offset_end": 5103,
+      "title": ""
+    },
+    {
+      "@id": "dc411e0a-bb4e-40aa-ba03-320afa8bbe01#offset_5104_5293",
+      "offset_ini": 5104,
+      "offset_end": 5293,
+      "title": ""
+    },
+    {
+      "@id": "dc411e0a-bb4e-40aa-ba03-320afa8bbe01#offset_0_390",
+      "offset_ini": 0,
+      "offset_end": 390
+    }
+  ]
+}

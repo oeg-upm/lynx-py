@@ -1,0 +1,39 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/8f88e893-b220-4d42-8784-bb3c39c2a88a",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Wiener land- und forstwirtschaftliche Berufsausbildungsordnung 1992"
+    },
+    "hasAuthority": "BKA (Bundeskanzleramt)",
+    "id_local": "20010908",
+    "first_date_entry_in_force": "2020-01-01",
+    "version_date": "2020-01-01",
+    "url_consolidated": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d20010908\u0026FassungVom\u003d2020-01-01",
+    "classifications": [
+      "60/01 Arbeitsvertragsrecht"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/8f88e893-b220-4d42-8784-bb3c39c2a88a/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/8f88e893-b220-4d42-8784-bb3c39c2a88a/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 1045,
+  "text": "Beachte Diese Rechtsvorschrift gilt in ihrer Fassung vom 31. Dezember 2019 für das Land Wien als Bundesgesetz, soweit sie „Arbeiterrecht sowie Arbeiter- und Angestelltenschutz, soweit es sich um land- und forstwirtschaftliche Arbeiter und Angestellte handelt“ (Art. 11 Abs. 1 Z 9 B-VG, BGBl. Nr. 1/1930, in der Fassung des Bundesgesetzes BGBl. I Nr. 14/2019) regelt; soweit diese Fassung (allenfalls) den Bestimmungen des Bundes-Verfassungsgesetzes betreffend die Zuständigkeit der Behörden widerspricht, gilt sie als „sinngemäß geändert“ (Art. 151 Abs. 63 Z 4 B-VG). Änderung LGBlW. Nr. 18/1994 LGBlW. Nr. 21/1997 [CELEX Nrn. 389L0048, 392L0051, 394L0038 und 395L0043] LGBlW. Nr. 48/1999 LGBlW. Nr. 11/2001 LGBlW. Nr. 24/2007 [CELEX Nrn.32003L0109 und 32005L036] LGBlW. Nr. 07/2010 LGBlW. Nr. 79/2012 CELEX Nrn.32003L0086, 32003L0109, 32005L036 und 32009L0050] LGBlW. Nr. 34/2013 LGBlW. Nr. 22/2014 BGBl. I Nr. 14/2019 (BG) (NR: GP XXVI RV 301 AB 463 S. 57. BR: AB 10104 S. 888.) Präambel/Promulgationsklausel Der Wiener Landtag hat beschlossen:"
+}

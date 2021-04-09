@@ -1,0 +1,39 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/2a709005-0c16-4a7a-826e-b379f779eb21",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Wr. Land- und forstwirtschaftliche Dienstnehmerschutzverordnung"
+    },
+    "hasAuthority": "BKA (Bundeskanzleramt)",
+    "id_local": "20011005",
+    "first_date_entry_in_force": "2020-01-01",
+    "version_date": "2020-01-01",
+    "url_consolidated": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d20011005\u0026FassungVom\u003d2020-01-01",
+    "classifications": [
+      "60/01 Arbeitsvertragsrecht"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/2a709005-0c16-4a7a-826e-b379f779eb21/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/2a709005-0c16-4a7a-826e-b379f779eb21/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 1181,
+  "text": "Beachte Diese Rechtsvorschrift gilt in ihrer Fassung vom 31. Dezember 2019 für das Land Wien als Verordnung des Bundes, soweit sie „Arbeiterrecht sowie Arbeiter- und Angestelltenschutz, soweit es sich um land- und forstwirtschaftliche Arbeiter und Angestellte handelt“ (Art. 11 Abs. 1 Z 9 B-VG, BGBl. Nr. 1/1930, in der Fassung des Bundesgesetzes BGBl. I Nr. 14/2019) regelt; soweit diese Fassung (allenfalls) den Bestimmungen des Bundes-Verfassungsgesetzes betreffend die Zuständigkeit der Behörden widerspricht, gilt sie als „sinngemäß geändert“ (Art. 151 Abs. 63 Z 4 B-VG). Änderung LGBlW. Nr. 24/1982 LGBlW. Nr. 17/2000 LGBlW. Nr. 27/2003 LGBlW. Nr. 16/2005 LGBlW. Nr. 39/2006 LGBlW. Nr. 51/2006 LGBlW. Nr. 35/2014 BGBl. I Nr. 14/2019 (NR: GP XXVI RV 301 AB 463 S. 57. BR: AB 10104 S. 888.) Präambel/Promulgationsklausel Auf Grund des § 74 Abs. 3 der Wiener Landarbeitsordnung, LGBl. für Wien Nr. 22/1949, in der Fassung der Landesgesetze, LGBl. für Wien Nr. 9/1958, LGBl. für Wien Nr. 4/1961, LGBl. für Wien Nr. 10/1962, LGBl. für Wien Nr. 15/1964, LGBl. für Wien Nr. 4/1965, LGBl. für Wien Nr. 26/1967, LGBl. für Wien Nr. 2/1968 und LGBl. für Wien Nr. 13/1969, wird verordnet:"
+}

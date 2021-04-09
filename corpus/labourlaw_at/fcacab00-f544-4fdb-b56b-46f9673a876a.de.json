@@ -1,0 +1,76 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/fcacab00-f544-4fdb-b56b-46f9673a876a",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Wochenberichtsblatt-Verordnung"
+    },
+    "hasAuthority": "BGBl. Nr. 420/1987",
+    "id_local": "10008633",
+    "first_date_entry_in_force": "1987-08-31",
+    "version_date": "1987-08-31",
+    "url_consolidated": "http://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d10008633\u0026FassungVom\u003d1987-09-01",
+    "classifications": [
+      "60/02 Arbeitnehmerschutz"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/fcacab00-f544-4fdb-b56b-46f9673a876a/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/fcacab00-f544-4fdb-b56b-46f9673a876a/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 2527,
+  "text": "Präambel/Promulgationsklausel Auf Grund des § 26a des Bundesgesetzes über die Beschäftigung von Kindern und Jugendlichen, BGBl. Nr. 146/1948, zuletzt geändert durch das Bundesgesetz BGBl. Nr. 338/1987, wird verordnet:Geltungsbereich § 1. Diese Verordnung gilt für Jugendliche, auf die das Bundesgesetz über die Beschäftigung von Kindern und Jugendlichen Anwendung findet und die auf Grund des Berufsausbildungsgesetzes, BGBl. Nr. 142/1969, zu Berufskraftfahrern ausgebildet werden.Führung des Wochenberichtsblattes § 2. Für jeden Jugendlichen ist vom Dienstgeber oder dessen Bevollmächtigten ein Wochenberichtsblatt über die Lenkzeiten nach dem Muster der Anlage in zweifacher Ausführung zu führen.Form und Inhalt des Wochenberichtsblattes § 3. (1) Das Wochenberichtsblatt muß mindestens das Format A 5 (210 x 148 mm) haben und inhaltlich dem Muster der Anlage entsprechen. Eine aus drucktechnischen Gründen erforderliche andere Anordnung der Spalten und Felder ist zulässig. (2) Die Wochenberichtsblätter sind für jeden Jugendlichen fortlaufend durchzunumerieren. (3) Das Wochenberichtsblatt hat Spalten (Felder) zur Eintragung des Beginns und des Endes der täglichen Lenkzeit, der Summe der täglichen Lenkzeit, des Beginns und des Endes der Lenkpause, der Wochensumme der Lenkzeit sowie der Art des Übungsfahrzeuges zu enthalten.Pflichten des Dienstgebers oder dessen Bevollmächtigten § 4. (1) Der Dienstgeber oder dessen Bevollmächtigter hat dafür zu sorgen, daß die erforderlichen Angaben laufend eingetragen werden, das Wochenberichtsblatt bei Fahrten ständig mitgeführt und den Kontrollorganen auf Verlangen vorgewiesen wird. (2) Der Dienstgeber oder dessen Bevollmächtigter hat weiters dafür zu sorgen, daß auch bei Fahrten, die im Rahmen der Berufsausbildung in einer Fahrschule absolviert werden, die erforderlichen Angaben im Wochenberichtsblatt eingetragen werden. (3) Am Ende jeder Woche, in der Fahrten durchgeführt wurden, hat der Dienstgeber oder dessen Bevollmächtigter die Wochenberichtsblätter auf ihre ordnungsgemäße Führung zu überprüfen und durch seine Unterschrift mit Datumsangabe zu bestätigen. Die Zweitschrift des Wochenberichtsblattes ist dem Jugendlichen zu übergeben. (4) Der Dienstgeber oder dessen Bevollmächtigter hat die von ihm unterschriebenen Wochenberichtsblätter bis zum Ablauf eines Jahres nach Beendigung des Lehrverhältnisses aufzubewahren. Er hat sie den Kontrollorganen auf Verlangen zur Einsichtnahme vorzulegen.Inkrafttreten § 5. Diese Verordnung tritt am 1. September 1987 in Kraft.",
+  "parts": [
+    {
+      "@id": "fcacab00-f544-4fdb-b56b-46f9673a876a#offset_217_480",
+      "offset_ini": 217,
+      "offset_end": 480,
+      "title": "Geltungsbereich"
+    },
+    {
+      "@id": "fcacab00-f544-4fdb-b56b-46f9673a876a#offset_481_697",
+      "offset_ini": 481,
+      "offset_end": 697,
+      "title": "Führung des Wochenberichtsblattes"
+    },
+    {
+      "@id": "fcacab00-f544-4fdb-b56b-46f9673a876a#offset_698_1330",
+      "offset_ini": 698,
+      "offset_end": 1330,
+      "title": "Form und Inhalt des Wochenberichtsblattes"
+    },
+    {
+      "@id": "fcacab00-f544-4fdb-b56b-46f9673a876a#offset_1331_2455",
+      "offset_ini": 1331,
+      "offset_end": 2455,
+      "title": "Pflichten des Dienstgebers oder dessen Bevollmächtigten"
+    },
+    {
+      "@id": "fcacab00-f544-4fdb-b56b-46f9673a876a#offset_2456_2527",
+      "offset_ini": 2456,
+      "offset_end": 2527,
+      "title": "Inkrafttreten"
+    },
+    {
+      "@id": "fcacab00-f544-4fdb-b56b-46f9673a876a#offset_0_216",
+      "offset_ini": 0,
+      "offset_end": 216
+    }
+  ]
+}

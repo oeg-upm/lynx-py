@@ -1,0 +1,47 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/495bbe31-aca4-46d3-aaad-eae0aae01291",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Austausch von Kriegsbeschädigten für ärztliche Behandlung"
+    },
+    "hasAuthority": "BGBl. Nr. 366/1967",
+    "id_local": "10008223",
+    "first_date_entry_in_force": "1967-12-02",
+    "version_date": "1967-12-02",
+    "url_consolidated": "http://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d10008223\u0026FassungVom\u003d1967-12-02",
+    "classifications": [
+      "69/06 Kriegsopfer"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/495bbe31-aca4-46d3-aaad-eae0aae01291/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/495bbe31-aca4-46d3-aaad-eae0aae01291/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 428,
+  "text": "Nach Mitteilung des Generalsekretariates des Europarates hat Malta seine Ratifikationsurkunde zum Abkommen über den Austausch von Kriegsbeschädigten zwischen den Mitgliedsländern des Europarates zum Zwecke der ärtzlichen Behandlung (BGBl. Nr. 62/1958, letzte Kundmachung betreffend den Geltungsbereich BGBl. Nr. 14/1960) hinterlegt. Das Abkommen ist gemäß seinem Artikel 8 Absatz 2 für Malta am 1. Oktober 1967 in Kraft getreten.",
+  "parts": [
+    {
+      "@id": "495bbe31-aca4-46d3-aaad-eae0aae01291#offset_0_428",
+      "offset_ini": 0,
+      "offset_end": 428,
+      "title": ""
+    }
+  ]
+}

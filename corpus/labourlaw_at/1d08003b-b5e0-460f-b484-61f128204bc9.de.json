@@ -1,0 +1,65 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/1d08003b-b5e0-460f-b484-61f128204bc9",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Kostenbeitragsverordnung"
+    },
+    "hasAuthority": "Landesregierung Wien",
+    "id_local": "20000624",
+    "first_date_entry_in_force": "2021-01-01",
+    "version_date": "2021-01-01",
+    "url_consolidated": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dLrW\u0026Gesetzesnummer\u003d20000624\u0026FassungVom\u003d2021-01-01",
+    "classifications": [
+      "60/40 Krankenbehandlung",
+      "60 Gesundheits- und Sozialrecht (S)"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/1d08003b-b5e0-460f-b484-61f128204bc9/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/1d08003b-b5e0-460f-b484-61f128204bc9/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 827,
+  "text": "Bundesland Wien Änderung LGBl. Nr. 6/2021 Präambel/Promulgationsklausel Gemäß § 46a Abs. 1, 1a, 2a und 4 Wiener Krankenanstaltengesetz 1987 – Wr. KAG, LGBl. für Wien Nr. 23, zuletzt geändert durch das Landesgesetz LGBl. für Wien Nr. 19/2020, wird verordnet: Im RIS seit 02.02.2021§ 1. Der Kostenbeitrag gemäß § 46a Abs. 1 Wr. KAG in Verbindung mit § 46a Abs. 1a Wr. KAG wird mit 10,44 Euro pro Pflegetag festgesetzt.§ 2. Der ermäßigte Kostenbeitrag gemäß § 46a Abs. 2a Wr. KAG wird mit 7,71 Euro pro Pflegetag festgesetzt.§ 3. (1) Diese Verordnung tritt mit 1. Jänner 2021 in Kraft. (2) Mit Ablauf des 31. Dezember 2020 tritt die Verordnung der Wiener Landesregierung über die Valorisierung und die Festsetzung des Kostenbeitrages gemäß § 46a Wiener Krankenanstaltengesetz 1987 – Wr. KAG, LGBl. für Wien Nr. 7/2020, außer Kraft.",
+  "parts": [
+    {
+      "@id": "1d08003b-b5e0-460f-b484-61f128204bc9#offset_280_415",
+      "offset_ini": 280,
+      "offset_end": 415,
+      "title": ""
+    },
+    {
+      "@id": "1d08003b-b5e0-460f-b484-61f128204bc9#offset_416_521",
+      "offset_ini": 416,
+      "offset_end": 521,
+      "title": ""
+    },
+    {
+      "@id": "1d08003b-b5e0-460f-b484-61f128204bc9#offset_522_827",
+      "offset_ini": 522,
+      "offset_end": 827,
+      "title": ""
+    },
+    {
+      "@id": "1d08003b-b5e0-460f-b484-61f128204bc9#offset_0_279",
+      "offset_ini": 0,
+      "offset_end": 279
+    }
+  ]
+}

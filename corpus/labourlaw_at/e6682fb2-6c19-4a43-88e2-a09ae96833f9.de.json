@@ -1,0 +1,112 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/e6682fb2-6c19-4a43-88e2-a09ae96833f9",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Soziale Sicherheit (BRD, Liechtenstein, Schweiz) – Durchführung"
+    },
+    "hasAuthority": "BGBl. Nr. 465/1980",
+    "id_local": "10008478",
+    "first_date_entry_in_force": "1980-11-01",
+    "version_date": "1980-11-01",
+    "url_consolidated": "http://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d10008478\u0026FassungVom\u003d1980-11-01",
+    "classifications": [
+      "69/03 Soziale Sicherheit"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/e6682fb2-6c19-4a43-88e2-a09ae96833f9/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/e6682fb2-6c19-4a43-88e2-a09ae96833f9/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 4770,
+  "text": "Ratifikationstext Die Vereinbarung tritt gemäß ihrem Artikel 11 am 1. November 1980 in Kraft. Präambel/Promulgationsklausel Auf Grund des Artikels 11 des Übereinkommens zwischen der Bundesrepublik Deutschland, dem Fürstentum Liechtenstein, der Republik Österreich und der Schweizerischen Eidgenossenschaft im Bereich der Sozialen Sicherheit vom 9. Dezember 1977 – im folgenden als Übereinkommen bezeichnet – haben für die Bundesrepublik Deutschland die Regierung der Bundesrepublik Deutschland, für das Fürstentum Liechtenstein die Regierung des Fürstentums Liechtenstein, für die Republik Österreich der Bundesminister für soziale Verwaltung, für die Schweizerische Eidgenossenschaft das Bundesamt für Sozialversicherung zur Durchführung des Übereinkommens folgendes vereinbart: _______________ *) Kundgemacht in BGBl. Nr. 464/1980ABSCHNITT I ALLGEMEINE BESTIMMUNGEN Artikel 1 In dieser Vereinbarung werden die im Übereinkommen angeführten Ausdrücke in der dort festgelegten Bedeutung verwendet.Artikel 2 Verbindungsstellen nach Artikel 11 Absatz 2 des Übereinkommens sind in der Bundesrepublik Deutschland für die Rentenversicherung der Arbeiter im Verhältnis zu Liechtenstein und der Schweiz die Landesversicherungsanstalt Baden, Karlsruhe, im Verhältnis zu Österreich die Landesversicherungsanstalt Oberbayern, München, für die Rentenversicherung der Angestellten die Bundesversicherungsanstalt für Angestellte, Berlin für die knappschaftliche Rentenversicherung die Bundesknappschaft, Bochum; in Liechtenstein für die Alters- und Hinterlassenenversicherung die Anstalt „Liechtensteinische Alters- und Hinterlassenenversicherung“, Vaduz, für die Invalidenversicherung die Anstalt „Liechtensteinische Invalidenversicherung“, Vaduz; in Österreich der Hauptverband der österreichischen Sozialversicherungsträger, Wien; in der Schweiz die Schweizerische Ausgleichskasse, Genf.Artikel 3 Den in Artikel 2 bezeichneten Verbindungsstellen und den deutschen Trägern, deren Zuständigkeit nach den zweiseitigen Abkommen unberührt bleibt, obliegen zur Erleichterung der Durchführung des Übereinkommens außer den in dieser Vereinbarung festgelegten Aufgaben alle sonstigen Verwaltungsmaßnahmen, insbesondere die Leistung und Vermittlung von Amtshilfe und Rechtshilfe sowie die Festlegung von Formblättern.Artikel 4 Die in Betracht kommenden Träger sollen im Rahmen ihrer Zuständigkeit die vom Übereinkommen erfaßten Personen über ihre Rechte nach dem Übereinkommen allgemein aufklären; innerstaatliche Rechtsvorschriften über die Pflicht zur Aufklärung bleiben unberührt.ABSCHNITT II BESONDERE BESTIMMUNGEN Artikel 5 (1) Die in Betracht kommenden Träger unterrichten einander unverzüglich, gegebenenfalls über die Verbindungsstellen, über Leistungsanträge, auf die Abschnitt II des Übereinkommens anzuwenden ist. (2) Die Träger teilen in der Folge einander auch die sonstigen für eine Leistungsfeststellung erheblichen Tatsachen, gegebenenfalls unter Beifügung ärztlicher Gutachten, mit.Artikel 6 Die zuständigen Träger unterrichten einander über das Ergebnis des Feststellungsverfahrens und in der Folge über jede Änderung der Leistungshöhe, soweit die Änderung nicht Folge einer allgemeinen Anpassung ist.Artikel 7 Leistungen der Renten- oder Pensionsversicherung werden an die Anspruchsberechtigten direkt gezahlt. Nachzahlungen an Renten oder Pensionen können entweder direkt, über die Verbindungsstelle oder den zuständigen Träger des Wohnortstaates des Anspruchsberechtigten gezahlt werden.Artikel 8 Bescheide eines deutschen Trägers können einer Person, die sich im Gebiet eines anderen Vertragsstaates aufhält, unmittelbar durch Einschreibebrief zugestellt werden, soweit das anzuwendende zweiseitige Abkommen nichts anderes bestimmt. Dies gilt auch in Fällen des Artikels 5 Absatz 2 des Übereinkommens.ABSCHNITT III SONSTIGE BESTIMMUNGEN Artikel 9 Zur Beschleunigung der Leistungsfeststellung stellen die Träger auf Antrag einer nach Artikel 4 des Übereinkommens in Betracht kommenden Person ein Jahr vor Erreichen eines für eine Leistung bei Alter maßgebenden Lebensalters, soweit möglich, die Versicherungslaufbahn zusammen.ABSCHNITT IV SCHLUSSBESTIMMUNGEN Artikel 10 Diese Vereinbarung gilt auch für das Land Berlin, sofern nicht die Regierung der Bundesrepublik Deutschland gegenüber den zuständigen Behörden der anderen Vertragsstaaten innerhalb von drei Monaten nach Inkrafttreten dieser Vereinbarung eine gegenteilige Erklärung abgibt.Artikel 11 Diese Vereinbarung tritt gleichzeitig mit dem Übereinkommen in Kraft, sobald die Regierung der Bundesrepublik Deutschland den zuständigen Behörden der anderen Vertragsstaaten mitgeteilt hat, daß die nach deutschem Recht erforderlichen Voraussetzungen vorliegen. Geschehen zu Bern, am 28. März 1979 in vier Urschriften.",
+  "parts": [
+    {
+      "@id": "e6682fb2-6c19-4a43-88e2-a09ae96833f9#offset_832_995",
+      "offset_ini": 832,
+      "offset_end": 995,
+      "title": "Artikel 1"
+    },
+    {
+      "@id": "e6682fb2-6c19-4a43-88e2-a09ae96833f9#offset_996_1875",
+      "offset_ini": 996,
+      "offset_end": 1875,
+      "title": "Artikel 2"
+    },
+    {
+      "@id": "e6682fb2-6c19-4a43-88e2-a09ae96833f9#offset_1876_2295",
+      "offset_ini": 1876,
+      "offset_end": 2295,
+      "title": "Artikel 3"
+    },
+    {
+      "@id": "e6682fb2-6c19-4a43-88e2-a09ae96833f9#offset_2296_2561",
+      "offset_ini": 2296,
+      "offset_end": 2561,
+      "title": "Artikel 4"
+    },
+    {
+      "@id": "e6682fb2-6c19-4a43-88e2-a09ae96833f9#offset_2562_2977",
+      "offset_ini": 2562,
+      "offset_end": 2977,
+      "title": "Artikel 5"
+    },
+    {
+      "@id": "e6682fb2-6c19-4a43-88e2-a09ae96833f9#offset_2978_3197",
+      "offset_ini": 2978,
+      "offset_end": 3197,
+      "title": "Artikel 6"
+    },
+    {
+      "@id": "e6682fb2-6c19-4a43-88e2-a09ae96833f9#offset_3198_3486",
+      "offset_ini": 3198,
+      "offset_end": 3486,
+      "title": "Artikel 7"
+    },
+    {
+      "@id": "e6682fb2-6c19-4a43-88e2-a09ae96833f9#offset_3487_3801",
+      "offset_ini": 3487,
+      "offset_end": 3801,
+      "title": "Artikel 8"
+    },
+    {
+      "@id": "e6682fb2-6c19-4a43-88e2-a09ae96833f9#offset_3802_4125",
+      "offset_ini": 3802,
+      "offset_end": 4125,
+      "title": "Artikel 9"
+    },
+    {
+      "@id": "e6682fb2-6c19-4a43-88e2-a09ae96833f9#offset_4126_4441",
+      "offset_ini": 4126,
+      "offset_end": 4441,
+      "title": "Artikel 10"
+    },
+    {
+      "@id": "e6682fb2-6c19-4a43-88e2-a09ae96833f9#offset_4442_4770",
+      "offset_ini": 4442,
+      "offset_end": 4770,
+      "title": "Artikel 11"
+    },
+    {
+      "@id": "e6682fb2-6c19-4a43-88e2-a09ae96833f9#offset_0_831",
+      "offset_ini": 0,
+      "offset_end": 831
+    }
+  ]
+}

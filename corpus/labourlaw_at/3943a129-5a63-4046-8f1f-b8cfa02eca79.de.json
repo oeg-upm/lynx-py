@@ -1,0 +1,142 @@
+{
+  "@context": "http://lynx-project.eu/doc/jsonld/lynxdocument.json",
+  "@id": "lis/collections/lawthek/documents/3943a129-5a63-4046-8f1f-b8cfa02eca79",
+  "@type": [
+    "lkg:LynxDocument",
+    "nif:Context",
+    "lkg:Legislation"
+  ],
+  "metadata": {
+    "type_document": "Law",
+    "version": "Consolidated",
+    "language": "de",
+    "jurisdiction": "AT",
+    "title": {
+      "de": "Festsetzung des Mindestlohntarifs für Hausbetreuerinnen und Hausbetreuer für Österreich"
+    },
+    "hasAuthority": "BKA (Bundeskanzleramt)",
+    "id_local": "20011367",
+    "first_date_entry_in_force": "2021-01-01",
+    "version_date": "2021-01-01",
+    "url_consolidated": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage\u003dBundesnormen\u0026Gesetzesnummer\u003d20011367\u0026FassungVom\u003d2021-01-01",
+    "classifications": [
+      "60/03 Kollektives Arbeitsrecht"
+    ],
+    "seeAlso": [
+      {
+        "@id": "https://lawthek.eu/detail/3943a129-5a63-4046-8f1f-b8cfa02eca79/de/MULTI",
+        "format": "text/html"
+      },
+      {
+        "@id": "https://api.lawthek.eu/api/v2/legalObjects/3943a129-5a63-4046-8f1f-b8cfa02eca79/de",
+        "format": "application/json"
+      }
+    ]
+  },
+  "offset_ini": 0,
+  "offset_end": 13233,
+  "text": "Präambel/Promulgationsklausel Das Bundeseinigungsamt beim Bundesministerium für Arbeit, Familie und Jugend ist gemäß § 22 Abs. 1 Arbeitsverfassungsgesetz, BGBl. Nr. 22/1974, in der Fassung des Bundesgesetzes BGBl. I Nr. 23/2020 ermächtigt, auf Antrag einer kollektivvertragsfähigen Körperschaft den Mindestlohntarif festzusetzen, wenn für den betreffenden Wirtschaftszweig kein Kollektivvertrag wirksam ist. Das Bundeseinigungsamt beim Bundesministerium für Arbeit, Familie und Jugend hat mit Beschluss vom 19. November 2020 nach Durchführung einer Senatsverhandlung nachstehenden Mindestlohntarif festgesetzt:Mindestlohntarif für Hausbetreuerinnen und Hausbetreuer für Österreich M 3/2020/XXVI/99/3 Allgemeine Bestimmungen Geltungsbereich § 1. a) Räumlich: Dieser Mindestlohntarif gilt für das Bundesgebiet der Republik Österreich. b) Persönlich: Dieser Mindestlohntarif gilt für Arbeitnehmerinnen und Arbeitnehmer, die mit einer oder mehreren der folgenden Aufgaben betraut sind: 1. Reinhaltung 2. Wartung 3. Beaufsichtigung 4. Betreuung und Bedienung von Anlagen und Einrichtungen auf Liegenschaften und für deren Arbeitgeberinnen und Arbeitgeber, die in ihrer Eigenschaft als Arbeitgeberin bzw. Arbeitgeber der Hausbetreuerin bzw. des Hausbetreuers weder Mitglieder einer gesetzlichen Interessenvertretung noch einer freiwilligen kollektivvertragsfähigen Berufsvereinigung sind. c) Fachlich: Für die unter lit. b Z 1 bis 4 genannten Tätigkeiten, unabhängig davon, ob diese von einer Arbeitnehmerin oder einem Arbeitnehmer auf einer Liegenschaft oder mehreren Liegenschaften verrichtet werden.Entlohnungssysteme § 2. Die diesem Mindestlohntarif unterliegenden Arbeitnehmerinnen und Arbeitnehmer sind gemäß Abschnitt II (Entlohnungsschema A) bzw. Abschnitt III (Entlohnungsschema B) zu entlohnen. Die Entlohnung jeder vereinbarten Tätigkeit entweder nach Abschnitt II (Entlohnungsschema A) oder nach Abschnitt III (Entlohnungsschema B) ist schriftlich zu vereinbaren.Einstufungsgruppen § 3. Für die Durchführung der in Abschnitt II und III genannten Arbeiten werden folgende Einstufungsgruppen festgesetzt : – Einstufungsgruppe 1: 10,74 € – Einstufungsgruppe 2: 11,94 € – Einstufungsgruppe 3: 15,66 €.Lohnzahlungszeitraum § 4. Der der Arbeitnehmerin bzw. dem Arbeitnehmer gebührende Lohn ist monatlich im Nachhinein bis zum Dritten des Folgemonates zu bezahlen.Sonderzahlungen § 5. Der Arbeitnehmerin bzw. dem Arbeitnehmer gebühren in jedem Jahr außerdem ein Urlaubszuschuss in der Höhe der für den Monat Mai gebührenden Entlohnung und eine Weihnachtsremuneration in der Höhe der für den Monat November gebührenden Entlohnung; mindestens jedoch ein Urlaubszuschuss und eine Weihnachtsremuneration in der Höhe von je einem Zwölftel des Jahresbezuges. Der Urlaubszuschuss ist bei Antritt des Urlaubes, spätestens jedoch mit der Auszahlung des für den Juni zustehenden Lohnes auszuzahlen. Die Weihnachtsremuneration ist spätestens bis zum 30. November eines jeden Jahres auszuzahlen. Beginnt oder endet das Dienstverhältnis während des Kalenderjahres, so gebühren der Arbeitnehmerin bzw. dem Arbeitnehmer Urlaubszuschuss und Weihnachtsremuneration entsprechend der in diesem Kalenderjahr zurückgelegten Dienstzeit anteilsmäßig.Rufbereitschaft § 6. Für jede Stunde einer vereinbarten Rufbereitschaft gebühren 25 % des Betrages nach § 11 Abs. 2.Arbeitsmaterial § 7. Das zur Erfüllung der Tätigkeiten erforderliche Material (z. B. Putzmittel, Streumittel) und notwendige Sacherfordernisse (z. B. Arbeitsgeräte, Werkzeug) sowie Schutzkleidung sind von der Arbeitgeberin bzw. vom Arbeitgeber zur Verfügung zu stellen.Fahrtkosten und andere Aufwendungen § 8. (1) Sämtliche Wegzeiten, die im Zusammenhang mit der Erbringung der Dienstleistung notwendig sind, sind mit Ausnahme der täglichen Wegstrecke vom Wohnort zum Dienstort und zurück, als Arbeitszeiten zu bezahlen und die tarifgünstigsten Fahrtkosten zu vergüten. (2) Wird die Erreichbarkeit der Arbeitnehmerin bzw. des Arbeitnehmers durch ein Mobiltelefon vereinbart, so ist der Arbeitnehmerin bzw. dem Arbeitnehmer entweder ein Mobiltelefon zur Verfügung zu stellen oder sind ihr bzw. ihm die Aufwendungen zu ersetzen.Inkrafttreten § 9. (1) Dieser Mindestlohntarif gilt für Dienstverhältnisse, die nach dem 30. September 2005 abgeschlossen werden. Bestehende günstigere Vereinbarungen bleiben von diesem Mindestlohntarif unberührt. (2) Dieser Mindestlohntarif ändert den Mindestlohntarif vom 15. November 2019, M 1/2019/XXVI/99/1, BGBl. II Nr 329/2019, und tritt mit 1. Jänner 2021 in Kraft.Abschnitt II Entlohnungsschema A Voraussetzung § 10. Voraussetzung für die Anwendung dieses Abschnittes ist die Vereinbarung des Beginns und des Endes der täglichen und wöchentlichen Normalarbeitszeit zwischen Arbeitnehmerin bzw. Arbeitnehmer und Arbeitgeberin bzw. Arbeitgeber nach Maßgabe der vereinbarten Arbeitszeitverteilung (wie z. B. Gleitzeit, Durchrechnung).Lohn § 11. (1) Arbeitnehmerinnen und Arbeitnehmer, welche ausschließlich mit Reinigungstätigkeiten betraut sind, werden in Einstufungsgruppe 1 (§ 3) eingestuft. (2) Alle anderen Arbeitnehmerinnen und Arbeitnehmer werden, sofern für ihre Tätigkeit keine besondere Ausbildung bzw. Qualifikation notwendig ist, in Einstufungsgruppe 2 (§ 3) eingestuft. (3) Arbeitnehmerinnen und Arbeitnehmer mit besonderer Ausbildung bzw. Qualifikation werden in Einstufungsgruppe 3 (§ 3) eingestuft. (4) Für die Durchführung der in Abs. 1 bis 3 genannten Arbeiten gilt der in § 3 für die jeweilige Einstufungsgruppe festgelegte Betrag zuzüglich eines Zuschlags von 7% als Stundenlohn.Zuschläge § 12. (1) Für Tätigkeiten in der Nachtzeit (22.00 bis 5.00 Uhr) gebührt ein Zuschlag von 100% des Stundenlohnes nach § 11. (2) Für Tätigkeiten an Sonn- und Feiertagen gebührt ein Zuschlag von 100% des Stundenlohnes nach § 11. (3) Arbeitnehmerinnen und Arbeitnehmer mit einem Arbeitszeitausmaß unter der gesetzlichen Normalarbeitszeit gebührt für Tätigkeiten außerhalb der Arbeitszeitvereinbarung ein Mehrarbeitszuschlag von 25% des Stundenlohnes nach § 11. (4) Für Überstunden gebührt ein Überstundenzuschlag von 50% des Stundenlohnes nach § 11. (5) Für eine vereinbarte Reinigung von ekelerregenden Verschmutzungen (insbesondere Blut, Urin, Kot, Erbrochenes) in allgemein zugänglichen Räumen gebührt pro Reinigung ein Zuschlag in der Höhe von 63,49 €. (6) Für eine vereinbarte Reinigung von ekelerregenden Verschmutzungen in allgemein zugänglichen Außenanlagen (Rasenfläche, Gehsteig, etc.) gebührt pro Reinigung ein Zuschlag in Höhe von 50% des Zuschlags nach Abs. 5. (7) Für Arbeiten, die im Vergleich zu den allgemein üblichen Arbeitsbedingungen eine außerordentliche Verschmutzung von Körper und Bekleidung der Arbeitnehmerinnen und. Arbeitnehmer zwangsläufig bewirken, gebührt eine Schmutzzulage von 15% des Stundenlohnes nach § 11. (8) Für Arbeiten, die im Vergleich zu den allgemein üblichen Arbeitsbedingungen infolge der schädlichen Einwirkungen von gesundheitsgefährdenden Stoffen oder Strahlen, von Hitze, von Gasen, Dämpfen, Säuren, Laugen, Staub oder Erschütterungen oder infolge einer Sturz- oder anderen Gefahr zwangsläufig eine höhere Gefährdung von Leben, Gesundheit oder körperlicher Sicherheit der Arbeitnehmerinnen und Arbeitnehmer mit sich bringen (z. B. Arbeiten auf Leitern und Gerüsten, Dächern, Zierlichten und Fassaden), gebührt eine Gefahrenzulage in der Höhe von 15% des Stundenlohnes nach § 11. (9) Für Arbeiten, die im Vergleich zu den allgemein üblichen Arbeitsbedingungen eine außerordentliche Erschwernis mit sich bringen (z. B. Arbeiten in exponierter Haltung), gebührt eine Erschwerniszulage in der Höhe von 15% des Stundenlohnes nach § 11. (10) Für jede Arbeitszeit außerhalb der vereinbarten Normalarbeitszeit und jeden Zuschlag gilt, dass pro angefangener halber Stunde eine halbe Stunde berechnet wird. Zuschläge stehen nebeneinander zu.Abschnitt III Entlohnungsschema B Voraussetzung § 13. Voraussetzung für die Anwendung dieses Abschnittes ist, dass die Arbeitnehmerin bzw. der Arbeitnehmer den Beginn und das Ende der Normalarbeitszeit innerhalb des Zeitraumes von Montag 6.00 bis Samstag 13.00 Uhr selbstverantwortlich einseitig festlegen kann.Zuschläge § 14. (1) Für eine vereinbarte Reinigung von ekelerregenden Verschmutzungen (insbesondere Blut, Urin, Kot, Erbrochenes) in allgemein zugänglichen Räumen gebührt pro Reinigung ein Zuschlag in der Höhe von 63,49 €. (2) Für eine vereinbarte Reinigung von ekelerregenden Verschmutzungen in allgemein zugänglichen Außenanlagen (Rasenfläche, Gehsteig, etc.) gebührt pro Reinigung ein Zuschlag in Höhe von 50% des Zuschlags nach Abs. 1. (3) Für Arbeiten, die im Vergleich zu den allgemein üblichen Arbeitsbedingungen eine außerordentliche Verschmutzung von Körper und Bekleidung der Arbeitnehmerinnen und Arbeitnehmer zwangsläufig bewirken, gebührt eine Schmutzzulage von 15% des des Betrages nach § 11 Abs. 1 bis 3. (4) Für Arbeiten, die im Vergleich zu den allgemein üblichen Arbeitsbedingungen eine außerordentliche Erschwernis mit sich bringen (z. B. Arbeiten in exponierter Haltung), gebührt eine Erschwerniszulage in der Höhe von 15% des des Betrages nach § 11 Abs. 1 bis 3. (5) Für Arbeiten, die im Vergleich zu den allgemein üblichen Arbeitsbedingungen infolge der schädlichen Einwirkungen von gesundheitsgefährdenden Stoffen oder Strahlen, von Hitze, von Gasen, Dämpfen, Säuren, Laugen, Staub oder Erschütterungen oder infolge einer Sturz- oder anderen Gefahr zwangsläufig eine höhere Gefährdung von Leben, Gesundheit oder körperlicher Sicherheit der Arbeitnehmerinnen und Arbeitnehmer mit sich bringen (z. B. Arbeiten auf Leitern und Gerüsten, Dächern, Zierlichten und Fassaden), gebührt eine Gefahrenzulage in der Höhe von 15% des des Betrages nach § 11 Abs. 1 bis 3. (6) Für außerordentliche notwendige Arbeiten an Sonn- und Feiertagen oder während der Nachtstunden zwischen 22.00 und 5.00 Uhr gebührt ein Zuschlag von 100% des Stundenlohnes nach § 11 Abs. 4.Entlohnung § 15. (1) Zur Berechnung der Entlohnung für die nachstehenden Tätigkeiten in Abs. 3 wird jeweils der Multiplikator mal Rechenfaktor mal Einstufungsgruppe herangezogen. Das Ergebnis dient zur Lohnfindung, nicht aber der Ermittlung der Arbeitszeit. (2) Das jährliche Entgelt für vereinbarte Gehsteig- bzw. Grünflächenbetreuung ist auf 12 Monatsbeträge aufzuteilen und monatlich auszuzahlen. (3) Tätigkeiten mit Berechnungswerten: Multiplikator Rechenfaktor pro Monat Einstufungsgruppe 1x wöchentlich Kehren \u0026 Waschen des Stiegenhauses und der Gänge pro Bestandseinheit 0,38 1 1x wöchentlich Kehren des Stiegenhauses und der Gänge pro Bestandseinheit 0,15 1 Staubfreihalten des Stiegenhauses und der Gänge nach Bedarf pro Bestandseinheit 0,13 1 Staubfreihalten von Türen nach Bedarf pro Bestandseinheit 0,13 1 monatliches Kehren der Kellergänge pro Bestandseinheit 0,08 1 monatl. Reinhalten diverser Abstellräume pro Bestandseinheit 0,03 1 monatliches Kehren des Dachbodens pro Bestandseinheit 0,03 1 wöchentlich Aufzugskabine reinigen pro Bestandseinheit 0,20 1 monatliche Waschküchenreinigung pro Bestandseinheit 0,08 1 Stiegenhauszuschlag ab dem zweiten Stiegenhaus pro Stiegenhaus 0,33 1 Zuschlag bei Räumlichkeiten mit Kundenverkehr, die durch das Stiegenhaus betreten werden müssen pro Stiegenhaus 2,5 1 Betreuung und monatliche Reinigung (händisch) von Tief- und Palettengaragen pro Stellplatz 0,5 2 Betreuung und monatliche Reinigung (maschinell) von Tief- und Palettengaragen pro Stellplatz 0,25 2 Kontrolle und/oder Beaufsichtigungstätigkeiten pro Bestandseinheit 0,4 2 Kleinreparaturen nach Bedarf pro Bestandseinheit 0,03 3 wöchentliche Aufzugsbetreuung pro Bestandseinheit 0,15 3 monatliche Aufzugsbetreuung pro Bestandseinheit 0,10 3 Waschküchenbetreuung inklusive Waschmaschinen und Trockner pro Bestandseinheit 0,03 2 Gehsteigbetreuung nach Bedarf von 16.10. bis 15.4. für die ersten 300 m2 pro m2 0,10 2 Gehsteigbetreuung nach Bedarf von 16.10. bis 15.4. für die weiteren 301 m2 bis 1 100 m2 pro m2 0,07 2 Gehsteigbetreuung nach Bedarf von 16.10. bis 15.4. für die darüber hinaus gehenden m2 pro m2 0,03 2 Gehsteigbetreuung nach Bedarf von 16.4. bis 15.10. pro m2 0,02 2 Multiplikator Rechenfaktor pro Jahr Einstufungsgruppe Fenster reinigen 2x jährlich inkl. Fensterstock pro m2 zu reinigender Fensterflügelfläche 0,16 1 für jede weitere Fensterreinigung inkl. Fensterstock pro m2 zu reinigender Fensterflügelfläche 0,05 1 Grünflächenbetreuung nach Bedarf (Reinigung und Bewässerung) für die ersten 500 m2 pro m2 0,05 2 Grünflächenbetreuung nach Bedarf (Reinigung und Bewässerung) für die weiteren 501 m2 bis 4 000 m2 pro m2 0,03 2 Grünflächenbetreuung nach Bedarf (Reinigung und Bewässerung) für die darüber hinaus gehenden m2 pro m2 0,02 2 Grünflächenbetreuung nach Bedarf (Mähen und Schnittgutentfernen) für die ersten 500 m2 pro m2 0,10 2 Grünflächenbetreuung nach Bedarf (Mähen und Schnittgutentfernen) für die weiteren 501 m2 bis 4 000 m2 pro m2 0,05 2 Grünflächenbetreuung nach Bedarf (Mähen und Schnittgutentfernen) für die darüber hinaus gehenden m2 pro m2 0,03 2Andere Tätigkeiten § 16. Alle zusätzlichen Tätigkeiten, die in § 15 keine Berücksichtigung gefunden haben, sind unter sinngemäßer Anwendung von § 11 Abs. 1 bis 3 einzustufen und zu entlohnen.",
+  "parts": [
+    {
+      "@id": "3943a129-5a63-4046-8f1f-b8cfa02eca79#offset_610_1595",
+      "offset_ini": 610,
+      "offset_end": 1595,
+      "title": "Geltungsbereich"
+    },
+    {
+      "@id": "3943a129-5a63-4046-8f1f-b8cfa02eca79#offset_1596_1968",
+      "offset_ini": 1596,
+      "offset_end": 1968,
+      "title": "Entlohnungssysteme"
+    },
+    {
+      "@id": "3943a129-5a63-4046-8f1f-b8cfa02eca79#offset_1969_2202",
+      "offset_ini": 1969,
+      "offset_end": 2202,
+      "title": "Einstufungsgruppen"
+    },
+    {
+      "@id": "3943a129-5a63-4046-8f1f-b8cfa02eca79#offset_2203_2362",
+      "offset_ini": 2203,
+      "offset_end": 2362,
+      "title": "Lohnzahlungszeitraum"
+    },
+    {
+      "@id": "3943a129-5a63-4046-8f1f-b8cfa02eca79#offset_2363_3225",
+      "offset_ini": 2363,
+      "offset_end": 3225,
+      "title": "Sonderzahlungen"
+    },
+    {
+      "@id": "3943a129-5a63-4046-8f1f-b8cfa02eca79#offset_3226_3341",
+      "offset_ini": 3226,
+      "offset_end": 3341,
+      "title": "Rufbereitschaft"
+    },
+    {
+      "@id": "3943a129-5a63-4046-8f1f-b8cfa02eca79#offset_3342_3610",
+      "offset_ini": 3342,
+      "offset_end": 3610,
+      "title": "Arbeitsmaterial"
+    },
+    {
+      "@id": "3943a129-5a63-4046-8f1f-b8cfa02eca79#offset_3611_4167",
+      "offset_ini": 3611,
+      "offset_end": 4167,
+      "title": "Fahrtkosten und andere Aufwendungen"
+    },
+    {
+      "@id": "3943a129-5a63-4046-8f1f-b8cfa02eca79#offset_4168_4540",
+      "offset_ini": 4168,
+      "offset_end": 4540,
+      "title": "Inkrafttreten"
+    },
+    {
+      "@id": "3943a129-5a63-4046-8f1f-b8cfa02eca79#offset_4541_4907",
+      "offset_ini": 4541,
+      "offset_end": 4907,
+      "title": "Voraussetzung"
+    },
+    {
+      "@id": "3943a129-5a63-4046-8f1f-b8cfa02eca79#offset_4908_5572",
+      "offset_ini": 4908,
+      "offset_end": 5572,
+      "title": "Lohn"
+    },
+    {
+      "@id": "3943a129-5a63-4046-8f1f-b8cfa02eca79#offset_5573_7859",
+      "offset_ini": 5573,
+      "offset_end": 7859,
+      "title": "Zuschläge"
+    },
+    {
+      "@id": "3943a129-5a63-4046-8f1f-b8cfa02eca79#offset_7860_8170",
+      "offset_ini": 7860,
+      "offset_end": 8170,
+      "title": "Voraussetzung"
+    },
+    {
+      "@id": "3943a129-5a63-4046-8f1f-b8cfa02eca79#offset_8171_9944",
+      "offset_ini": 8171,
+      "offset_end": 9944,
+      "title": "Zuschläge"
+    },
+    {
+      "@id": "3943a129-5a63-4046-8f1f-b8cfa02eca79#offset_9945_13042",
+      "offset_ini": 9945,
+      "offset_end": 13042,
+      "title": "Entlohnung"
+    },
+    {
+      "@id": "3943a129-5a63-4046-8f1f-b8cfa02eca79#offset_13043_13233",
+      "offset_ini": 13043,
+      "offset_end": 13233,
+      "title": "Andere Tätigkeiten"
+    },
+    {
+      "@id": "3943a129-5a63-4046-8f1f-b8cfa02eca79#offset_0_609",
+      "offset_ini": 0,
+      "offset_end": 609
+    }
+  ]
+}
