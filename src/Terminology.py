@@ -10,7 +10,7 @@ import requests
 import json
 import os
 import sys
-
+import re
 
 class Terminology():
 
