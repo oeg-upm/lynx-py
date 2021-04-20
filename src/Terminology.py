@@ -36,7 +36,7 @@ class Terminology():
               except:
                 continue
       
-    def annotateDocument(self,document, lang):
+    def annotateText(self,text, lang):
 
       annotations=[]
       for term in self.Terms:
