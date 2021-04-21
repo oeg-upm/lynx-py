@@ -51,10 +51,7 @@ def searchDocuments ( query, collection_id, jurisdiction=None, language=None):
     for match in jsonResponse['rows']:
         
         docs.append(match)
-        
-       
     
-    print('found '+str(len(docs)))
     return docs
 
 
