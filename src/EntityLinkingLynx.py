@@ -16,13 +16,17 @@ import requests.exceptions
 import sys
 
 
+def setAuth(ClientID, ClientSecret):
+    client_id= ClientID
+    client_secret = ClientSecret
+
 
 def getToken():
     f = open("../lkg_populator/credentials/client_id.txt",encoding="utf8")
     client_id=f.read().strip()    
     f = open("../lkg_populator/credentials/client_secret.txt",encoding="utf8")
     client_secret=f.read().strip()
-    url_authen='https://keycloak-secure-88-staging.cloud.itandtel.at/auth/realms/Lynx/protocol/openid-connect/token'
+    url_authen='https://auth.lynx-project.eu/auth/realms/Lynx/protocol/openid-connect/token'
 
     grant_type = "client_credentials"
     data = {

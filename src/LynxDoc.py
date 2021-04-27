@@ -8,11 +8,7 @@ Created on Mon May  4 16:12:28 2020
 
 import requests
 import json
-import os
-import sys
-from elasticsearch import Elasticsearch
-import requests
-from elasticsearch.client import IndicesClient
+
 
 
 
