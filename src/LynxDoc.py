@@ -43,4 +43,26 @@ def generate_lynxAnnotations(document, annotations ):
   return document      
     
    
+
+
+
+def create_Lynx_doc(Id, Title, Text, Lang, Jurisdict = 'En', PartOf= None):
+    data = {}
+    data["@context"]= "http://lynx-project.eu/doc/jsonld/lynxdocument.json"
+    data["id"]= Id
+    data["type"]= []
+    data["type"].append("lkg:Legislation")
+    data["type"].append("nif:Context")
+    data["type"].append("lkg:LynxDocument")
+    data["metadata"]={}
+    data["metadata"]["title"]={}
+    data["metadata"]["title"][Lang]= Title
+    data["metadata"]["language"]=Lang
     
+    data["metadata"]["jurisdiction"]=Jurisdict
+    if PartOf != None:
+        data["metadata"]["lkg:partOf"]=PartOf
+    data["text"]= Text
+    data["offset_ini"]= 0
+    data["offset_end"]= len(Text)
+    return data

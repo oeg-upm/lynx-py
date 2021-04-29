@@ -22,6 +22,48 @@ client_secret=''
 
 
 
+'''
+
+
+enTranslationModelId=smt-4eafabb9-7cd6-4ae6-9dd6-6b7cc68925bb
+NERModelId=BERTNER_ES
+
+enTranslationModelId=smt-4eafabb9-7cd6-4ae6-9dd6-6b7cc68925bb
+
+
+
+collectionId=cctest1
+indexDocument=true
+documentPlatform=upm-elastic
+priority=2056
+tag=cctest1
+logAnnotationRequests=true
+
+
+
+collectionId=wftesten
+indexDocument=true
+documentPlatform=upm-elastic
+entityLinkingProjectId=1E14BF84-57A4-0001-1FAB-1AADDED47C00
+deTranslationModelId=smt-99b2f71a-1b3b-418e-bd6b-125f61a53feb
+NERModelId=ner-wikinerEn_PER;ner-wikinerEn_LOC;ner-wikinerEn_ORG
+GEOModelId=ner-wikinerEn_LOC
+prioritize=true
+
+
+
+
+
+
+
+
+
+
+
+'''
+
+
+
 def setAuth(ClientID, ClientSecret):
     client_id= ClientID
     client_secret = ClientSecret
