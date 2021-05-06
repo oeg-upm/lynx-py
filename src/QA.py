@@ -44,7 +44,7 @@ example_data= {
 
 
 
-def questionAnsweringWithDCM(collection,question,ids,tokgen):
+def questionAnsweringWithDCM(collection,question,ids):
     '''
     curl -X GET "https://qadocenwebapp-lynx.apps.cybly.cloud/
     
@@ -166,15 +166,17 @@ def questionAnsweringWithTextSegments(data):
     "{\"question\":\"How long can maternity leave last?\",\"segments\":[{\"paragraph\":\"As a mother, you are entitled to take 26 weeks maternity leave from work while you are having a baby. Your contract of employment will state if your employer will pay you when you are on maternity leave (this is not a requirement). \",\"title\":\"Protective leave\",\"language\":\"es\"},{\"paragraph\":\"An adopting mother or sole male adopter is entitled to 24 weeks’ adoptive leave, beginning on the day the child is placed with them. Employers have no obligation to pay an employee for adoptive leave. You may be entitled to Adoptive Benefit.\",\"title\":\"Adoptive leave\"},{\"paragraph\":\"Parental leave: Each parent is entitled to 2 weeks’ leave during the first year of a child’s life, or in the case of adoption, within one year of the placement of the child with the family. \",\"title\":\"Paternal leave\",\"language\":\"es\"},{\"paragraph\":\"Carer’s leave: You are allowed to take unpaid leave to provide full-time care and attention for a person in need of care. The minimum statutory entitlement is 13 weeks and the maximum is 104 weeks. Generally, you need 12 months’ continuous service with your employer to get carer’s leave. You may be eligible for social welfare payment Paternity Benefit.\",\"title\":\"Carers leave\"}]}"
 
 
-'''
-
-
 aaa='ass'
 
 li= ['testie20','testie30']
 col='laborlaw'
 question='how long maternity leave is?'
 questionAnsweringWithDCM(col,question,li,None)
+
+'''
+
+
+
 
 
 

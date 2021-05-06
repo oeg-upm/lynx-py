@@ -14,41 +14,19 @@ import json
 import os
 import requests.exceptions
 import sys
+from Authorizer import TokenGenarator
 
 
-def setAuth(ClientID, ClientSecret):
-    client_id= ClientID
-    client_secret = ClientSecret
 
+TokenGen = TokenGenarator('identifier','password')
 
-def getToken():
-    f = open("../lkg_populator/credentials/client_id.txt",encoding="utf8")
-    client_id=f.read().strip()    
-    f = open("../lkg_populator/credentials/client_secret.txt",encoding="utf8")
-    client_secret=f.read().strip()
-    url_authen='https://auth.lynx-project.eu/auth/realms/Lynx/protocol/openid-connect/token'
-
-    grant_type = "client_credentials"
-    data = {
-        "grant_type": grant_type,
-        "client_id": client_id,
-        "client_secret": client_secret
-        #"scope": scope
-    }
-    
-    auth_response = requests.post(url_authen, data=data)
-    
-    # Read token from auth response
-    auth_response_json = auth_response.json()
-    auth_token = auth_response_json["access_token"]    
-    return auth_token
 
 
 
 
 
 def createHeader():
-    auth_token = getToken()
+    auth_token = TokenGen.getToken()
     hed = {
            'Authorization': 'Bearer ' + auth_token, 
            'accept': 'text/turtle'
