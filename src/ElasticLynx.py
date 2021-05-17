@@ -305,9 +305,27 @@ def annotateDocumentsDict(es,docs,dictionary):
     return listDocs            
         
         
+'''
 
-       
+es = getLocalConnection()
+lista= getAllDocumentsFromIndex(es, 'laborlaw2')
 
+
+len(lista)
+
+
+
+
+for doc in lista:
+    print('a')
+    var = doc['_source']
+    try:
+        del var['annotations']
+    except:
+        continue
+    postDocument( var,es,'laborlaw2')
+     
+'''
 
 
 

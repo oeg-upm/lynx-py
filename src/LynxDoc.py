@@ -20,8 +20,8 @@ def generate_lynxAnnotation(id, word, idTerminology, start, end ):
   annot= {
   'anchorOf': word,
   'annotationUnit': [{'@type': 'nif:AnnotationUnit',
-    'nif:confidence': {'@type': 'xsd:double', '@value': str(idTerminology)}}],
-  'id': str(id)+'#offset_'+str(start)+'_'+str(end),
+    'nif:confidence': {'@type': 'xsd:double', '@value': '10.0'}}],
+  'id': str(idTerminology),#str(id)+'#offset_'+str(start)+'_'+str(end),
   'offset_end': start,
   'offset_ini': end,
   'referenceContext': str(id) ,
