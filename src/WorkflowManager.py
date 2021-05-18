@@ -93,21 +93,44 @@ def createHeader():
 
 
 
+def readListFiles(ListFiles):
+    
+    counter_processed=0
+    lynxdocs=[]
+    
+    for f in ListFiles:
+        print('Processing  '+str(counter_processed))
+        counter_processed=counter_processed +1
+        
+       
+        
+        try:
+            # Read the json file
+            with open(f,encoding="utf8") as json_file:
+                    data = json.load(json_file)
+                    lynxdocs.append(data)
+            
+       
+           
+        except Exception as e:
+            print("error in:"+f)
+            print(e.args)
+            continue
+
+    return lynxdocs
 
 
-
-
-def populateFiles(ListFiles,parameters):
+def populateFiles(lynxdocuments,parameters):
     
     hed= createHeader()
-    url_lkgp_default='https://apim-88-staging.cloud.itandtel.at/api/workflows/population/instances?'+ parameters 
+    url_lkgp_default='https://apis.lynx-project.eu/api/workflows/population/instances?'+ parameters 
     
     print('URL:')
     print(url_lkgp_default)
     counter_processed=0
     
-    for f in ListFiles:
-        print('Processing  '+f)
+    for lynxdoc in lynxdocuments:
+        print('Processing  '+str(counter_processed))
         counter_processed=counter_processed +1
         
         # Renew the header 
@@ -117,20 +140,15 @@ def populateFiles(ListFiles,parameters):
             
         
         try:
-            # Read the json file
-            with open(f,encoding="utf8") as json_file:
-                    data = json.load(json_file)
-            
-            
            
-            
             # Post         
-            response = requests.post(url_lkgp_default, json=data, headers=hed)
+            response = requests.post(url_lkgp_default, json=lynxdoc, headers=hed)
 
-            print(response.content)
+            print(response)
+            print(response.json())
            
         except Exception as e:
-            print("error in:"+f)
+            print("error in:"+lynxdoc)
             print(e.args)
             continue
 
@@ -174,7 +192,7 @@ def getStatusByWfId(wf_id):
            'Content-Type': 'application/json'
           }
         
-    url_lkgp_status='https://apim-88-staging.cloud.itandtel.at/api/workflows/population/instances/'+ wf_id
+    url_lkgp_status='https://apis.lynx-project.eu/api/workflows/population/instances/'+ wf_id
     
     
     response = requests.get(url_lkgp_status, headers=hed)
@@ -203,7 +221,7 @@ def getStatusByTAG(tagID):
            'Content-Type': 'application/json'
           }
         
-    url_lkgp_status='https://apim-88-staging.cloud.itandtel.at/api/workflows/population/tags/'+ tagID+'/instances-status'
+    url_lkgp_status='https://apis.lynx-project.eu/api/workflows/population/tags/'+ tagID+'/instances-status'
     
     
     
@@ -257,5 +275,23 @@ def deleteByTag(tagID):
 
 
 
+
+import LynxDoc as lkg
+doc = lkg.create_Lynx_doc('1', 'prueba', 'prueba', 'en', Jurisdict = 'ES')
+
+doc
+
+client = 'UPM'
+password= '61cd67b4-99c1-4219-8b07-ba03024a044e'
+TokenGen= TokenGenarator(client, password)
+
+lynxdocuments=[doc]
+parameters2='''collectionId=collection_review
+indexDocument=collection_review
+indexId=collection_review
+documentPlatform=upm-elastic
+priority=2056
+tag=collection_review'''
+populateFiles(lynxdocuments,parseWFParamaters(parameters2))
 
 
