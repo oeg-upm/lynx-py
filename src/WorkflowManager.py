@@ -93,7 +93,7 @@ def createHeader():
 
 
 
-def readListFiles(ListFiles):
+def readLynxDocuments(ListFiles):
     
     counter_processed=0
     lynxdocs=[]
@@ -120,7 +120,7 @@ def readListFiles(ListFiles):
     return lynxdocs
 
 
-def populateFiles(lynxdocuments,parameters):
+def postInstances(lynxdocuments,parameters):
     
     hed= createHeader()
     url_lkgp_default='https://apis.lynx-project.eu/api/workflows/population/instances?'+ parameters 
@@ -152,6 +152,21 @@ def populateFiles(lynxdocuments,parameters):
             print(e.args)
             continue
 
+def postInstance(lynxdocument,parameters):
+    
+    hed= createHeader()
+    url_lkgp_default='https://apis.lynx-project.eu/api/workflows/population/instances?'+ parameters 
+    
+    print('URL:')
+    print(url_lkgp_default)
+    
+    
+    response = requests.post(url_lkgp_default, json=lynxdocument, headers=hed)
+
+    print(response)
+    print(response.json())
+           
+   
 
 
 def getFiles(path, init,limit):
@@ -265,8 +280,7 @@ def deleteByTag(tagID):
     print(url)
     response = requests.delete(url, headers=hed)
     print(response)
-    print(response.content)
-    print(response.text)
+    
     
    
 
@@ -275,6 +289,7 @@ def deleteByTag(tagID):
 
 
 
+'''
 
 import LynxDoc as lkg
 doc = lkg.create_Lynx_doc('1', 'prueba', 'prueba', 'en', Jurisdict = 'ES')
@@ -286,12 +301,12 @@ password= '61cd67b4-99c1-4219-8b07-ba03024a044e'
 TokenGen= TokenGenarator(client, password)
 
 lynxdocuments=[doc]
-parameters2='''collectionId=collection_review
+parameters2  ---  collectionId=collection_review
 indexDocument=collection_review
 indexId=collection_review
 documentPlatform=upm-elastic
 priority=2056
-tag=collection_review'''
+tag=collection_review--
 populateFiles(lynxdocuments,parseWFParamaters(parameters2))
-
+'''
 
